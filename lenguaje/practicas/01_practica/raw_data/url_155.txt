@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>10.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/10-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=164503' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F10-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F10-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2ss3a-f-99edbd550-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":32,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c07db2","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":20621,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726582","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==wGNJlw/McUUv73AuN1J56BqSS0rBzjGxriDBLW+rVuD7qDM4O4w3qZx83AKs3DxbxO7QA+e2F/DurKfOYTd8VcLD7oT7FfX5aPWQWNxAIHorU3QK1z++drwItvGP7rKn1Pq42aBX517LKhtVaQ/8Z2Ri+WXKIuUDHnUA+ccL0xqCZl2uEsowCAFInpNlxSZebKegwz4LXIyAQjN0PUNqJ0pFD7r2Ej8k6GpIuXxev4xkjMCyFqn+FfT3Cw/0IJ1CY8q5I/HlAQzf/wggdTRiZGlRXBr8TijaNfoVJ3Tur2By5Z8vsL1QP0t3XwMC7IjcH7GhvtrRvSkafdI2iMeJAKfO0pWHSERxuW26L4qiwVy6hrQa3k+/QTUaEOlvznP9YFbPLTANhmZyOLNy7W2Wzg55HIYpRyPNT5ZFknrrqbY=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-164503 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba933275c68" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>10.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 10.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-164503" class="post-164503 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/08/2023-08-10-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-12.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/08/2023-08-10-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-12-745x450.jpg" alt="10.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">10.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/1HdWGXdWkkW6riLIKxak5p?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Buenos días. Ánimo, ánimo.</p>
+<p>Bueno, vamos a informar. Este día, jueves, hay una buena noticia que tiene que ver con Mexicana de Aviación. Le vamos a dar la palabra a la secretaria de Gobernación, Luisa María Alcalde Luján. Y también nos acompañan los representantes de los trabajadores de Mexicana, son bienvenidos, dirigentes sindicales que están con nosotros. Vamos a escuchar a Luisa María.</p>
+<p><strong>LUISA MARÍA ALCALDE LUJÁN, SECRETARIA DE GOBERNACIÓN:</strong> Muchísimas gracias, presidente.</p>
+<p>Pues informar que estamos muy contentos, porque gracias al esfuerzo de los trabajadores, de las organizaciones sindicales, de las dependencias aquí presentes, se ha logrado la solución a un viejo problema que parecía imposible.</p>
+<p>El día de hoy nos acompaña el secretario del Trabajo, Marath Bolaños; está también Jorge Nuño, secretario de Infraestructura, Comunicaciones y Transportes; dos dependencias que han sido clave en este proceso de acuerdo.</p>
+<p>También, está el capitán José Humberto Gual, él es secretario general de la Asociación de Pilotos Aviadores de México, ASPA; está Miguel Ángel Yúdico, secretario general del Sindicato Nacional de Trabajadores de Transporte, Transformación, Aviación, Servicios y Similares, que representa a los trabajadores de tierra; está Fausto Guerrero, presidente de la Asociación de Jubilados, Trabajadores y Extrabajadores de la Aviación Mexicana; está Sinhué Viveros, representante de la Asociación Sindical de Sobrecargos de Aviación de México, y Francisco Noriega, representante de la Coalición de Empleados de Confianza. Les damos la bienvenida a este espacio.</p>
+<p>Informar que hoy se alcanza un acuerdo histórico para lograr justicia a siete mil 407 trabajadores y trabajadoras de Mexicana de Aviación, pilotos, sobrecargos, personal de tierra, trabajadores de confianza y jubilados, lograron un consenso para vender las marcas de Mexicana de Aviación al Gobierno de México, permitiendo con ello que retome el vuelo la línea aérea que será de todas y todos los mexicanos.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/08/Conferencia-matutina_2023-08-10.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/hewk8l2Gc_M?t=1307" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Como antecedentes, sabemos que Mexicana de Aviación era una compañía del Estado mexicano, la cual operaba con una de las flotas más modernas del mundo y con personal altamente calificado y comprometido.</p>
+<p>En 2005, después de una fuerte inversión pública para reforzar la compañía, es privatizada por el gobierno de Vicente Fox para pasar a manos de Grupo Posadas. En un corto periodo de cinco años lograron desmantelar y llevar a la quiebra a la que fuera la aerolínea más importante de México.</p>
+<p>En agosto de 2010 se anunció la suspensión indefinida de la venta de boletos. Y el 28 de agosto suspendieron sus operaciones aéreas debido a las diferentes deudas para después proceder al concurso mercantil, dejando en el desamparo a ocho mil 500 trabajadores y sus familias.</p>
+<p>Durante 13 años la lucha de las y los trabajadores se ha sostenido para lograr recuperar al menos una parte de las indemnizaciones a las que se tiene derecho.</p>
+<p>Desde el inicio de esta administración, atendiendo las demandas de los trabajadores, el Gobierno de México los escuchó para encontrar en conjunto alternativas. El presidente Andrés Manuel López Obrador propuso que, de llegar a un acuerdo entre los diferentes trabajadores, el Gobierno de México se comprometería a hacer una oferta para la compra de las marcas de Mexicana de Aviación y los bienes embargados.</p>
+<p>En la búsqueda de dicho consenso, la Secretaría del Trabajo y Previsión Social medió con las distintas organizaciones, quienes realizaron asambleas, consultas entre la gente, entre los trabajadores, logrando un acuerdo.</p>
+<p>El Indaabin realizó un avalúo de los bienes, estimando un monto de 815 millones de pesos, cantidad que será repartida entre las y los trabajadores.</p>
+<p>Informarles que el día de ayer, 9 de agosto, se formalizó la compraventa de las marcas de Mexicana de Aviación, está por concluir también la compraventa de tres inmuebles y un simulador de vuelo. A partir del próximo martes 15 de agosto se iniciará el pago a los siete mil 407 trabajadores.</p>
+<p>A pesar de las injusticias del pasado, ocasionado por la irresponsabilidad de la empresa y la complicidad de gobiernos anteriores, hoy podemos celebrar que gracias a las y los trabajadores y de sus organizaciones sindicales se logra avanzar en el reconocimiento de sus derechos.</p>
+<p>Enhorabuena. Hoy es un día histórico, un día que valdrá la pena recordar, sobre todo por lo que ha significado la lucha que han mantenido esos miles de mujeres y hombres que quedaron desamparados y que hoy ven una luz en el camino. Muchísimas felicidades.</p>
+<p><strong>JOSÉ HUMBERTO GUAL ÁNGELES, SECRETARIO GENERAL DE LA ASOCIACIÓN SINDICAL DE PILOTOS AVIADORES DE MÉXICO (ASPA)</strong><strong>:</strong> Con su permiso, señor presidente. Muy buenos días.</p>
+<p>Antes que nada, agradezco de todo corazón al señor presidente ese compromiso que hizo con los trabajadores a inicio, todavía en épocas de su campaña. Recordaba, me tocó platicar en una ocasión con el señor presidente; hoy les puedo decir que las palabras fueron convertidas en un hecho.</p>
+<p>Este acto de justicia social para los trabajadores de Mexicana de Aviación demuestra una sola cosa: que cuando el gobierno, a través de las políticas que ha implementado la actual administración y a través de un sindicato auténtico, libre, democrático, que tenga una verdadera libertad sindical y una representación democrática, lo único que trae como consecuencia es beneficio para todos los trabajadores.</p>
+<p>Hoy se cumplen casi 13 años, estamos a unos días de que se cumplan 13 años del cierre de operaciones de nuestra Mexicana de Aviación, en la cual se quedaron muchas familias, pilotos ―y a los cuales les mando un fuerte abrazo con mucho cariño― sin trabajo y sin sustento. Hoy lo que se demuestra es un acto de justicia social.</p>
+<p>Después, ASPA de México no puede dejar de agradecer y tiene el compromiso, señor presidente, mi general secretario, capitán general Montaño, compañera Luisa María Alcalde, compañera de lucha, tiene el compromiso de seguir abonando para ver de nuevo a Mexicana de Aviación surcando los cielos.</p>
+<p>Sin embargo, tenemos que mencionar que también estamos de la mano y estamos muy interesados, maestro Marath, en la verdadera representación de estos nuevos trabajadores, también queden a través de una libertad sindical auténtica y democrática que represente en verdad los intereses de los trabajadores.</p>
+<p>El señor presidente nos ha demostrado que la lucha por las causas justas es el camino correcto. Le hemos aprendido y lo seguiremos haciendo desde ASPA de México. Muchas gracias. Y no sin antes, señor presidente, el día de ayer se comunicó conmigo uno de los pilotos o de los familiares de los pilotos más antiguos de Mexicana de Aviación y estas fueron las primeras alas que se hicieron de Mexicana de Aviación, y en un acto simbólico, me gustaría que usted fuera el primer piloto nuevo de Mexicana de Aviación, si me lo permite. Muchas gracias, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Gracias. Saludos a todos.</p>
+<p><strong>JOSÉ HUMBERTO GUAL ÁNGELES:</strong> Claro que sí, señor presidente.</p>
+<p><strong>MIGUEL ÁNGEL YÚDICO COLÍN, SECRETARIO GENERAL DEL SINDICATO NACIONAL DE TRABAJADORES DE TRANSPORTE, TRANSFORMACIÓN, AVIACIÓN, SERVICIOS Y SIMILARES (SNTTTASS)</strong><strong>:</strong> En primer lugar, quiero darles las gracias al señor y al gobierno federal por todo el apoyo que le están dando a todos nuestros compañeros.</p>
+<p>Ustedes recordarán que hace 13 años nuestros compañeros de la noche, de un día para otro, se quedaron sin trabajo. ¿Qué significa eso? Se quedaron sin dinero.</p>
+<p>Al otro día de que un empresario corrupto deja a Mexicana sin volar, nuestros hijos y nuestros familiares se quedaron sin comer, esa es la palabra, se quedaron sin escuela, se quedaron sin transportación, se quedaron en la calle.</p>
+<p>Pero han pasado ya 13 años y esos 13 años no han sido tampoco de la noche a la mañana, cada una de estas familias ha sufrido realmente muchísimo, muchos compañeros se fueron a otros países, compañeros pilotos, sobrecargos, se fueron a otras naciones a buscar trabajo porque aquí en México no les dieron cabida.</p>
+<p>Donde teníamos la experiencia de componer aviones, de componer motores, de arreglar toda esa situación nos quedamos también sin trabajo, 13 años han pasado y hasta este día estamos recibiendo justicia.</p>
+<p>Lo que quiero decir es que también nuestros compañeros el día de hoy siguen sufriendo, después de la pandemia tampoco han logrado trabajo y siguen sufriendo. Si podemos hacer un análisis, si alguien escribe un libro, realmente los trabajadores de Mexicana de Aviación son el grupo de trabajadores que más ha sufrido en México en los últimos años.</p>
+<p>¿Pero qué es lo que esperamos en el futuro?</p>
+<p>Que realmente nuestros compañeros tengan trabajo. Pido de parte del SNTTTASS, del sindicato de tierra, ciudadano presidente, que ojalá les puedan dar trabajo a nuestros compañeros en toda la República, desde Tijuana hasta Chiapas, desde Mérida hasta Mexicali, en toda la República, que vuelvan a trabajar nuestros compañeros. Son compañeros especializados, tienen muchísima experiencia, desde tráfico, reservaciones, mecánicos, tienen experiencia y la nueva línea aérea, Mexicana de Aviación, los necesita.</p>
+<p>Nos da muchísimo gusto que ahora, después de muchos años, cuando ustedes vuelvan y levanten la cara, y vean un avión y sepan que ese avión es de Mexicana de Aviación. Y solamente se fue a la historia, no se fue al basurero de la historia, sino que otra vez está retomando el vuelo no solamente en México, no solamente en Guadalajara y en Veracruz, sino en otras partes del mundo; volábamos a Estados Unidos, San Francisco, Miami, Chicago, Nueva York, volábamos a Canadá, volábamos a Cuba, a Venezuela, a Argentina, y era una gran empresa que desgraciadamente un mal empresario y un mal gobierno la destruyeron. Queremos cooperar con nuestra nueva línea aérea y queremos que sea lo mejor para México esta nueva línea aérea.</p>
+<p>Quiero darle las gracias al señor presidente, al gobierno federal, a los secretarios que realmente nos han apoyado y nos han ayudado y que el día de mañana otra vez ustedes puedan surgir en los aires a Mexicana de Aviación. Gracias.</p>
+<p><strong>FAUSTO GUERRERO DÍAZ, PRESIDENTE DE LA ASOCIACIÓN DE JUBILADOS, TRABAJADORES Y EXTRABAJADORES DE LA AVIACIÓN MEXICANA (AJTEAM):</strong> Muy buenos días. Buenos días, señor presidente.</p>
+<p>Fausto Guerrero Díaz, sobrecargo jubilado de Mexicana de Aviación y presidente de la Asociación de Jubilados. Jubilados, ese grupo que estuvimos en el aeropuerto trabajando. Ese grupo que apoyados por nuestro amigo Cresencio Morales, líder del Barzón Popular, en varias ocasiones estuvimos aquí afuera, tratando de llamar la atención del señor presidente, buscando el apoyo. Apoyo que, hay que decirlo fuerte y claro, los gobiernos de Calderón y Peña Nieto en todo momento sistemáticamente nos negaron, nos dieron la espalda. Hoy, señor presidente, este apoyo se cristaliza en la compraventa de los bienes.</p>
+<p>Esta compraventa de estos bienes va a traer como consecuencia:</p>
+<p>Primero, el nombre de Mexicana de Aviación volverá a surcar los aires, los aires de México y esperemos que del mundo, señor presidente.</p>
+<p>Y segundo, un beneficio para las más de siete mil familias que después de casi 13 años de lucha recibirán un poco de este beneficio.</p>
+<p>Señor presidente, muchas gracias.</p>
+<p>Y no omito la ocasión para seguirle solicitando el apoyo. Los verdaderos responsables de este quebranto, Grupo Posadas y Gastón Azcárraga, siguen impunes. Traemos un expediente en donde llevamos a cabo una denuncia. Lamentablemente, después de tres años, este expediente no ha sido judicializado. Le pedimos el apoyo para que se le dé continuidad y que los verdaderos responsables le devuelvan al pueblo lo robado.</p>
+<p>Señor presidente, gracias. Dios lo bendiga y Viva México. Muchas gracias.</p>
+<p><strong>SINUHÉ VIVEROS GUTIÉRREZ, VOCAL DE LA COMISIÓN DE HACIENDA DE LA ASOCIACIÓN SINDICAL DE SOBRECARGOS DE AVIACIÓN DE MÉXICO (ASSA):</strong> Respetable licenciado Andrés Manuel López Obrador, presidente de la República; distinguida concurrencia, sindicatos hermanos, amigos todos.</p>
+<p>Para la Asociación Sindical de Sobrecargos de Aviación de México hoy es un día de júbilo, pues tras 13 años de larga espera y falsas promesas, no sólo los sobrecargos, sino un gran número de colaboradores que servimos con gran ahínco y pasión a la aerolínea, nos veremos favorecidos con el recurso, producto de la compraventa de nuestra valiosa Mexicana de Aviación.</p>
+<p>A nombre de la secretaria general de la ASSA de México, Ada Hermelinda Salazar Loza, y de todo nuestro gremio, queremos expresarle nuestra gratitud a su gobierno por el interés y la disposición para que el proceso avanzara.</p>
+<p>Un sincero reconocimiento a los compañeros jubilados y sobrecargos en activo, quienes en conjunto nos mantuvimos con la firme ilusión de que este momento llegaría.</p>
+<p>Claro, el camino no ha sido fácil. Hoy hablamos de la realización de un sueño cumplido, pues al pueblo de México, de igual forma, le hace feliz, ya que como mexicanos renace en nosotros la esperanza de ver a Mexicana surcando nuevamente los cielos, la aerolínea que, sí, cumplió 100 años y que hoy germina con este, su gobierno.</p>
+<p>Le pedimos, señor presidente, que ponga el nombre de Mexicana muy en alto, no sólo en nuestra bella nación, sino en el mundo entero, porque recordemos que la primera siempre será la primera.</p>
+<p>Gracias.</p>
+<p><strong>FRANCISCO NORIEGA CANO, REPRESENTANTE DE LA COALICIÓN DE EMPLEADOS DE CONFIANZA:</strong> Muy buenos días. Francisco Noriega, soy de los empleados de confianza.</p>
+<p>Primero, señor presidente, muchas gracias; muchas gracias a las autoridades y a las instituciones que nos ayudaron.</p>
+<p>Yo no soy muy de hablar, pero sí de emociones y, la verdad, yo he visto a los compañeros fallecer en este proceso. Y las familias ahí están y han estado esperando, esperando, esperando y nunca llegaba.</p>
+<p>Y hay dos palabras que yo las tengo muy aquí en mi corazón, que es la esperanza y la justicia. Y hoy tenemos justicia, señor presidente, y le agradecemos mucho. Esto parecía que no iba a llegar y, la verdad, no sé, yo creo que el gusto por todas estas familias y que se haya logrado esta situación. Híjole, de verdad, es un sueño que se cumplió.</p>
+<p>Para los compañeros de nuestra querida Mexicana, pues sí ha sido una espera y al final se ha hecho justicia y, de verdad, en serio, se lo agradecemos mucho.</p>
+<p>Lo único que quiero decir es: Mexicana, cuídenla mucho, cuídenla mucho, de verdad. Es una marca que es un símbolo para México. Y yo sé que va a estar en buenas manos. Esto todo lo que puedo decirles.</p>
+<p>Y muchas gracias, señor presidente.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ, SECRETARIO DE LA DEFENSA NACIONAL:</strong> Con su permiso, señor presidente. Vamos a informar sobre la aerolínea del Estado mexicano. Muy buenos días.</p>
+<p>Con base en la cuarta misión general del Ejército y Fuerza Aérea, que establece realizar acciones cívicas y obras sociales que tiendan al progreso del país, el 29 de julio del 2022, el señor presidente instruyó a la Secretaría de la Defensa Nacional de crear una aerolínea, una aerolínea para el Estado mexicano.</p>
+<p>El propósito que se estableció fue brindar servicios de transporte aéreo al alcance de todos con altos estándares de seguridad, de confianza y calidad, estableciendo como prioridad impulsar el acceso de la población a diversos recursos sociales y riquezas culturales de México, al ser una empresa del Estado mexicano. De esta manera, la empresa se constituyó formalmente el 16 de junio de 2023 con la razón social de Aerolínea del Estado Mexicano Sociedad Anónima de Capital Variable.</p>
+<p>Desde el inicio de sus operaciones, esta aerolínea contribuirá a incrementar la conectividad y la cobertura de los servicios aéreos entre las diferentes aéreas geográficas del país a través de la prestación del servicio público de transporte de pasajeros, de carga y correo, lo que representará un motor de crecimiento y desarrollo.</p>
+<p>Como toda aerolínea de primer nivel, ésta está organizada con una dirección general, dos coordinaciones, que será la técnica operativa, y la otra la logística administrativa, habiéndose designado el 1º de mayo de 2023 como su director a un general de la Fuerza Aérea Mexicana con amplia experiencia en el manejo y administración de operaciones aéreas, estableciendo sus oficinas centrales en la Ex Hacienda de Santa Lucía, Estado de México, que está dentro de lo que son los límites del Aeropuerto Internacional ‘Felipe Ángeles’ y sus bases principales serán, precisamente, el Aeropuerto Internacional ‘Felipe Ángeles’ y el aeropuerto que está en proceso de construcción, el Aeropuerto Internacional ‘Felipe Carrillo Puerto’, en Tulum, Quintana Roo.</p>
+<p>Esta empresa está contribuyendo a la generación de fuentes de trabajo en nuestro país, al haber creado ya 209 empleos directos para su operación en esta primera etapa y llegar hasta un total de 745 personas al momento que esté iniciando operaciones.</p>
+<p>Para su materialización se buscó el acompañamiento de una empresa de reconocida trayectoria, de prestigio, de amplia experiencia a nivel mundial. Por ello, la compañía Boeing proporcionó este asesoramiento para elaborar el plan de negocios y continúa aun apoyando en la obtención de lo que es el certificado del operador aéreo y a la implementación de los elementos necesarios para el inicio de operaciones.</p>
+<p>En relación con la flota aérea, inicialmente se arrendarán 10 aviones Boeing 737-800 de nueva generación, con sus respectivas tripulaciones, los cuales serán entregados, tres durante septiembre, el 30 de septiembre será la entrega, y los otros siete restantes el 30 de octubre del presente año.</p>
+<p>Estas aeronaves tendrán como rasgos distintivos, como aquí lo pueden observar en el modelo a escala que aquí tenemos al frente, tendrán estos rasgos distintivos que nos caracterizan, los colores verde, blanco y rojo, símbolos de nuestra identidad nacional. Además, se identificarán con el logotipo de la marca comercial de Mexicana de Aviación, tendrán ahí la representación de nuestra bandera nacional también, seguida de la marca y al frente del avión.</p>
+<p>Cada aeronave arrendada incluirá tres tripulaciones debidamente capacitadas y certificadas, todos de nacionalidad mexicana, de acuerdo con la normatividad vigente en materia aeronáutica, integradas con piloto, copiloto y sobrecargos.</p>
+<p>Los aviones tienen una capacidad de transportar 180 pasajeros y, como particularidad, los asientos serán de una sola clase, lo que permitirá brindar un servicio de calidad con un costo accesible. En promedio, de conformidad a lo que está en el mercado, estaremos o estamos calculando de 18 a 20 por ciento menos el costo de los vuelos. Será, como ya mencioné, un servicio de calidad a un costo accesible.</p>
+<p>Su base principal, como ya lo cité, se ubicará en el Aeropuerto Internacional ‘Felipe Ángeles’ y su base secundaria en el Aeropuerto Internacional ‘Felipe Carrillo Puerto’ en Tulum, con lo que se garantiza la puntualidad y servicios de calidad, permitiendo con ello desarrollar la movilidad entre las diversas entidades federativas, así como la activación económica del país.</p>
+<p>Aquí tenemos en la lámina, ustedes pueden observar, las rutas, que saliendo del AIFA. Estamos considerando… O los lugares, los aeropuertos de llegada que estamos considerando sería: Cancún, Monterrey, Guadalajara, Tijuana, Campeche, Chetumal, Mérida, Puerto Vallarta, Ixtapa Zihuatanejo, Cozumel, Los Cabos, Hermosillo, Ciudad Juárez, Villahermosa, Huatulco, Oaxaca, Acapulco, Mazatlán, La Paz y León, 20 destinos iniciales, y que estos se irán incrementando.</p>
+<p>Aquí tenemos también en la lámina destinos que, de conformidad a los trabajos que se van a realizar de fortalecimiento de la infraestructura aeroportuaria, también van a ser incorporados en los destinos. Aquí tenemos a Apodaca, Tulum, Ciudad Ixtepec, Ciudad Victoria, Nuevo Laredo, Ciudad del Carmen, Ciudad Obregón, Loreto, Palenque, Nogales, Puebla, Tamuín, Uruapan, Matamoros, Colima y Guaymas. Estos aeropuertos necesitan tener las condiciones necesarias para poder recibir este tipo de aviones con el que iniciará las operaciones esta aerolínea del Estado mexicano.</p>
+<p>La venta de boletos, estamos considerando que a partir del mes que entra, en septiembre, podrán estar ya disponibles. Se está creando también toda la infraestructura tecnológica para poder accesar a esos boletos.</p>
+<p>Finalmente, como conclusión de todo este trabajo que se ha desarrollado para la creación de la línea del Estado mexicano, la línea aérea que llevará el nombre de Mexicana de Aviación, pues esta empresa es viable, ya que la infraestructura aeroportuaria nacional garantiza su entrada en operación.</p>
+<p>Su funcionamiento incrementará la competitividad en el sector de la aviación, al contribuir en el crecimiento y desarrollo económico de México. También constituye una fuente para nuevas oportunidades laborales, además de ampliar las opciones de conectividad para el turismo nacional e internacional, sus servicios serán de bajo costo, al alcance de todos, con altos estándares de calidad y de seguridad.</p>
+<p>Es todo, señor presidente. Muchas gracias.</p>
+<p><strong>DIEGO PRIETO HERNÁDEZ, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA (INAH):</strong> Muy buenos días tengan todos ustedes, señor presidente, secretaria, secretarios, compañeras y compañeros del sindicalismo aéreo, compañeras y compañeros de los medios de comunicación y quienes nos siguen por las redes.</p>
+<p>Las transformaciones que necesita México se llevan a cabo, como pueden observar, en el aire, en los mares, en la tierra y en el subsuelo mexicano, por eso además de estas buenas noticias quiero participar con ustedes los avances de esta que, sin duda alguna, es la mayor investigación arqueológica que se haya llevado a cabo en el área maya de México, el área maya mesoamericana. Investigación que tiene dos componentes:</p>
+<p>Por un lado, los trabajos de salvamento arqueológico para poder registrar y preservar la información, los objetos, los vestigios arqueológicos que han ido surgiendo en los más de mil 500 kilómetros de recorrido del Tren Maya, además de todas las obras adicionales, estaciones, paraderos, cocheras, talleres, depósitos de combustible y todas las demás que se siguen haciendo.</p>
+<p>Y, por otro lado, las tareas de investigación sistemática, investigación planificada en las 27 zonas arqueológicas que han sido beneficiadas, que han sido apoyadas con el Programa de Mejoramiento de Zonas Arqueológicas.</p>
+<p>Por lo que hace al salvamento arqueológico, decirles que a la fecha hemos podido recuperar información y materiales muy valiosos que corresponden a 53 mil 649 estructuras arqueológicas y muebles. Me refiero a cimientos, unidades habitacionales, pero también plataformas, caminos antiguos o sacbé, albarradas, pero también edificios, templos y palacios, algunos de los cuales han planteado la necesidad de hacer ajustes en los trazos de la ruta Tren Maya; de hecho, ya en todos los tramos, del 1 al 7, la obra cuenta con visto bueno para que puedan avanzar las tareas que, por cierto, ya están sumamente avanzadas.</p>
+<p>Un millón 219 mil 464 fragmentos de cerámica que han sido recuperados y que se siguen recuperando aún más, y que nos dan valiosa información sobre las características, la distribución, los intercambios, las corrientes migratorias que se desarrollaron en el territorio, fundamentalmente a partir del desenvolvimiento de la civilización maya.</p>
+<p>Mil novecientos veinticinco bienes muebles. Me refiero a metates, figurillas, objetos de piedra y distintos elementos que forman parte tanto de la vida cotidiana como de la vida ritual de los grupos que se asentaron en el territorio.</p>
+<p>Además, de 853 vajillas que están en proceso de restauración, muchas de las cuales tienen elementos pictográficos y tienen también glifos que nos hablan del destino que tenían estos elementos de cerámica.</p>
+<p>Seiscientos cuarenta y seis enterramientos humanos que hemos podido recuperar, fundamentalmente con ofrendas asociadas a ellos.</p>
+<p>Y dos mil 252 rasgos naturales asociados a la presencia de grupos humanos, esto en gran medida constituidos por grutas, cenotes, cuevas inundadas o semiundadas y otros elementos del paisaje que denotan la intervención y la articulación de los grupos humanos con el entorno en toda esta gran área maya de México.</p>
+<p>Por otra parte, quisiera también saludar que la oficina de esta nueva empresa, aerolínea del Estado mexicana, Mexicana de Aviación, va a tener su sede en la Exhacienda de Santa Lucía, que también con el apoyo del Instituto Nacional de Antropología e Historia se protegió, se resguardo y se restauró. Es un monumento histórico de gran valía que habla del desarrollo de esta parte del Valle de México.</p>
+<p>Finalmente, quisiera presentarles otra más de las zonas arqueológicas que están interviniéndose gracias al Programa de Mejoramiento de Zonas Arqueológicas, me refiero a Oxkintok en el estado de Yucatán. Adelante.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>VOZ MUJER:</em></strong><em> Entre los centenares de centros urbanos que se desarrollaron en la península de Yucatán, en los más de dos milenios que median entre la formación de los primeros asentamientos y la llegada de los europeos al continente, Oxkintok, que significa ‘tres días pedernal’ o ‘tres soles afilados’ es una de las ciudades poco conocidas que forman parte del área maya Puuc, ubicada al norte de Campeche y en la porción suroeste de Yucatán. Sin embargo, las investigaciones arqueológicas y epigráficas han ido develando sus misterios y su singularidad, por la abundancia de inscripciones calendáricas, estelas y la presencia de un elemento constructivo que representa una puerta al inframundo, lo cual es muestra excepcional del simbolismo y la cosmovisión maya.</em></p>
+<p><em>Hacia el siglo III, antes de nuestra era, encontramos un primero emplazamiento en las estribaciones del extremo norte de la pequeña cordillera, conocida como Puuc, que quiere decir en lengua maya ‘lomerío y serranía’, originalmente llamada maxacan o tzan’tun tzat.</em></p>
+<p><em>Seiscientos años más tarde, en el periodo clásico, Oxkintok inició su apogeo al convertirse en un destacado centro de rutas comerciales entre la península de Yucatán, la selva maya, el golfo de México y el altiplano </em><em>central</em>. <em>Muestra de ello fue el hallazgo de una representación de ave realizada con mosaico de conchas spondylus, provenientes del mar Caribe y del nada cercano océano Pacífico.</em></p>
+<p><em>La actividad comercial la llegó a convertirse en un sitio próspero, con arquitectura monumental que refleja avanzados saberes. Entre los 39 grupos de estructuras descubiertos hasta ahora se pueden observar edificios que dan cuenta de la transformación de su estilo arquitectónico al llamado proto-puuc, en que las bóvedas dejan de ser escalonadas para, en su lugar, estar rematadas por lajas en saledizos.</em></p>
+<p><em>Entre sus plazas es de particular originalidad la estructura conocida como el satunsat o ‘laberinto’, que nos invita a explorarla. Cuenta también con uno de los juegos de pelota más antiguos registrados hasta ahora en la región maya. Por su parte, las piedras labradas que aún se mantienen en pie son de particular belleza y nos permiten imaginar cómo los mayas conjugaron funcionalidad y belleza en el diseño de sus espacios.</em></p>
+<p><em>Como rasgo común con otros pueblos mesoamericanos, los mayas de Oxkintok desarrollaron la observación celeste y erigieron edificios en relación con la trayectoria de los astros, como el ubicado en la Plaza del Arco del grupo Ah’Canul, desde donde se registra un punto de observación del equinoccio o cuarto de año, similar al de Dzibilchaltún.</em></p>
+<p><em>Por el estudio de su escritura, hoy sabemos que uno de sus gobernantes principales fue Walas, quien gobernó la ciudad hacia la primera mitad del siglo VIII a finales del periodo clásico, y mantuvo una fuerte centralización del poder.</em></p>
+<p><em>Entre los años 850 y 1000, la ciudad fue perdiendo importancia, mientras que la cercana Uxmal emergió como nuevo centro de poder. Tras su larga trayectoria, Oxkintok llegó a su fin hacia el año 1450. En la actualidad, uno de los propósitos del Programa de Mejoramiento de Zonas Arqueológicas Tren Maya, Promeza, es darle visibilidad y proyección a esta ciudad de la civilización maya. Con este fin se ha fortalecido la investigación de sus principales grupos arquitectónicos: el canul, el may, el dzib.</em></p>
+<p><em>Se trabaja también en la realización de 124 cédulas explicativas en español, maya e inglés, para ofrecer un recorrido con mayor riqueza de contenidos, las cuales se desplegarán a lo largo de más de mil 94 metros lineales de senderos interpretativos, ampliando el circuito de visita actual. Además, se trabaja en la nueva unidad de servicios que ya va en el 25 por ciento de su construcción.</em></p>
+<p><em>Así se prepara a Oxkintok para que, junto con las demás zonas arqueológicas que forman parte de la ruta Puuc, pueda constituir una ventana para el reconocimiento de la profundidad histórica y la fortaleza cultural del pueblo maya de ayer y de hoy.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>DIEGO PRIETO HERNÁDEZ:</strong> Muchas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues adelante, vamos a contestar preguntas.</p>
+<p><strong>PREGUNTA:</strong> Gracias, buenos días, señor presidente.</p>
+<p>Alberto Marroquín Espinoza, <em>de JF Informa,</em> desde Cancún<em>; FrecuenciaCAD.com;</em> y desde Querétaro, <em>Es AhoraAm.com.</em></p>
+<p>Señor presidente, continúan los señalamientos en contra de la alcaldesa de Puerto Morelos, Blanca Merari,  que siguen creciendo las inconformidades de la gente de ese lugar, porque ahora la están denunciando por enriquecimiento inexplicable, ya que sólo en dos años como presidenta municipal pasó de vivir en una modesta y austera vivienda en el poblado de Leona Vicario a una casa de los fraccionamientos más exclusivos de Cancún, y también ser propietaria de una camioneta blindada de más de tres millones de pesos.</p>
+<p>Hay mucho malestar, sigue el malestar allá en esa zona y piden si habla usted con la gobernadora de Quintana Roo. ¿Qué se puede hacer al respecto? Ya le denuncié esto a usted ya varias veces.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues ella ya tiene conocimiento, la gobernadora Mara Lezama, y hay que hacer las investigaciones y actuar con objetividad, con profesionalismo, no culpar por culpar, sino tener pruebas; no hacer juicios sumarios, rápidos, acusaciones sin fundamentos. Y sí, no permitir ni la corrupción ni la impunidad. Entonces, vamos a seguir insistiendo con la gobernadora.</p>
+<p><strong>INTERLOCUTOR:</strong> <em>Okey</em>, gracias.</p>
+<p>Pobladores de Escolásticas, en el municipio de Pedro Escobedo, en Querétaro, piden su apoyo contra la privatización de Los Sabinos, donde convergen aguas de manantial y árboles milenarios. Se pide que la Conagua y la Profepa, sobre todo ya han hecho inspecciones, pero han omitido cierta información, incluso imágenes de lo que realmente está ocurriendo en esa zona.</p>
+<p>Es un área muy bonita que merece ser protegida y solamente le piden ese apoyo para que vayan autoridades desde México porque allá en Querétaro realmente las delegaciones no han hecho realmente su trabajo como debe ser, hay evidencias de eso, hay denuncia. Aquí ya se presentaron también incluso en Atención Ciudadana, están presentándolas también ante el Órgano Interno de Control, porque sí es muy evidente que no están dando ese fallo.</p>
+<p>Y piden también su apoyo para que haya la liberación de dos personas que se manifestaron y los encarcelaron hace más de dos meses, y ojalá también se pueda atender esa parte.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Le vamos a pedir a María Luisa Albores que atienda esta petición.</p>
+<p><strong>INTERLOCUTOR:</strong> Y aprovechando que está aquí el secretario de la SCT, ¿cuándo se inaugura la caseta del macrolibramiento a Querétaro por Coroneo? Es una carretera que viene por el municipio de Corregidora. Ya está construida, pero ya falta poco para que la inauguren. Ojalá y nos pudiera dar la primicia de cuándo se va a inaugurar esa caseta, que le van a dar mucho respiro a Querétaro para evitar todo ese gran tráfico desde la caseta de Palmillas a Querétaro, cruzando por San Juan del Río.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Adelante.</p>
+<p><strong>JORGE NUÑO LARA, SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES:</strong> Gracias, presidente.</p>
+<p>La caseta fue construida por el concesionario, bueno el entronque fue construido por EXI Quantum, que es concesionario de la autopista Apaseo-Palmillas. Nos presentó ya la documentación del inicio, está presentando su documentación del inicio de construcción, así como el proyecto ejecutivo para saber si está completo y cumple con las normas de seguridad y podemos reconocerlo dentro de la inversión. Será en cosa de más o menos unas tres o cuatro semanas en las que estaríamos haciendo ese proceso.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente, funcionarios, invitados.</p>
+<p>Sobre el tema, preguntarle: ¿de cuánto es la inversión para el arredramiento de estas primeras aeronaves?</p>
+<p>Dijo el secretario que la venta de boletos comienza en septiembre, pero, entiendo, las operaciones son en diciembre. Si ya tendrían las fechas de los primeros vuelos. ¿Y a partir de cuándo estaría siendo rentable la empresa?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> Dentro de las asesorías que nos está dando la empresa Boeing, además de asesorías en el ámbito turístico que implica la venta de boletos de la unión de un pasaje con algunas otras situaciones, es que, en base a esas recomendaciones, a ese acompañamiento, estamos viendo que sea en septiembre ya la venta de boletos, unido a estas condiciones turísticas.</p>
+<p>Todavía estamos trabajando para que, si recibimos los aviones el 30 de septiembre, los primeros tres, cuáles serían las rutas que van a cubrir en base a los destinos, a estos 20 destinos que tenemos ya para iniciar las operaciones.</p>
+<p>Todavía estamos trabajando en ello, pero sí fundamentados, como menciono, en todo se apoyo que nos ha dado la empresa y que nos han dado empresas que se dedican al ámbito turístico, inclusive algunas empresas que actualmente trabajan en el ámbito aeronáutico y la aviación, pues con ellos hemos desarrollado o hemos estado desarrollando esta situación.</p>
+<p>Pero ya tendremos todo este mes y quizá a principios de septiembre, mediados de septiembre, ya podamos establecer la fecha de inicio de los boletos y las rutas que estarán ya disponibles para la venta.</p>
+<p><strong>INTERLOCUTORA:</strong> Y la proyección de rentabilidad, ¿a partir de cuándo empezarían a generar ganancias?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> Bueno, en la rentabilidad va a depender de la actividad que realicemos en cuanto a los vuelos. Si podemos nosotros estar haciendo vuelos más consecutivos, más interrelacionados que los aviones como es en las empresas que estén volando una buena cantidad de horas para que podamos estar dando el servicio y obtener los recursos, pues será la manera en que tengamos que ir acercándonos al punto de equilibrio.</p>
+<p>También mencionaré que esta es parte de todas las demás áreas que estamos con esa responsabilidad de hacer operar o de contribuir al desarrollo nacional, que es el AIFA y las demás empresas que tenemos, bueno, todo será parte del Gafsacomm, que es el Grupo Aeroportuario Ferroviario Olmeca-Maya-Mexica. Entonces, todo ese grupo controlará esas empresas y podrá ir utilizando los recursos para que las empresas puedan desarrollarse de mejor manera y ese punto de equilibrio se alcance entre todas, pues quizá en años, no sé, después del 25, empecemos ya a tener en algunas de ellas una rentabilidad, y quizá al 30 sean las últimas empresas que puedan lograr esta situación de esta rentabilidad que se busca en este tipo de actividad, pero todas coordinadas, repito, por el grupo aeroportuario que tenemos integrado.</p>
+<p><strong>INTERLOCUTORA:</strong> La inversión, secretario, nada más, del arrendamiento de los primeros aviones.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> La inversión inicial son cuatro mil millones de dólares, es con lo que se está iniciando esta empresa.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias.</p>
+<p>Presidente, y en una segunda pregunta, si podría emitir algún comentario sobre lo que pasó ayer en Ecuador, el asesinato de este candidato presidencial, y que presuntamente fue por el cártel de Sinaloa o un capo del cártel de Sinaloa. ¿Esto no es una mala señal?</p>
+<p>Y hacia los comicios 2024, si el crimen organizado mexicano está actuando así en otros países, ¿qué podemos esperar hacia 2024 en México?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, primero, lamentar mucho este hecho, enviar nuestro pésame a los familiares del candidato Villavicencio, también al pueblo de este hermano país de Ecuador.</p>
+<p>Son momentos muy difíciles, lamentables y también hechos reprobables, muy dolorosos. Nosotros los padecimos, los sufrimos cuando el asesinato de Luis Donaldo Colosio, muchos deben de recordar esos momentos tristes y de angustia, de miedo, de temor, por eso lamentamos mucho que esto haya pasado en Ecuador y, repito, enviamos un saludo afectuoso.</p>
+<p>Acerca de las causas, pues no me atrevería a adelantar nada sobre los motivos porque no hay elementos. Son, si acaso, hipótesis, y pueden ser hasta conjeturas. No hay que olvidar que siempre, y más en tiempos electorales, se inventan cosas, entonces hay que actuar con mucha responsabilidad, con mucha seriedad, no culpar a la ligera a nadie, esperar las investigaciones y esperar que se dé a conocer el resultado de la investigación y que se castigue a los responsables.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿El Gobierno de México no tiene alguna información de que haya sido así de intervención?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no tenemos esa información.</p>
+<p>Y sí me llama la atención de que de inmediato empiezan a repartir culpas de manera muy sensacionalista y poco seria, poco responsable, en autoridades y medios de información, que en la mayoría de los casos son de manipulación, no medios de información.</p>
+<p>Entonces, hay que esperar y actuar con prudencia y con responsabilidad.</p>
+<p><strong>INTERLOCUTORA:</strong> Bien, presidente.</p>
+<p>En una tercera pregunta, el martes publicamos en <em>El Financiero</em> una encuesta en la que se presenta un avance de la senadora Gálvez: si las elecciones fueran el día en que se presentó, ella tendría un 34 por ciento de aprobación, la que pondría sólo a ocho puntos de Claudia Sheinbaum.</p>
+<p>Ella afirmó que esta encuesta seguramente lo sacaría de quicio. ¿Es así? ¿Le preocupa el avance de la señora?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no puedo hablar de eso, nada le puedo decir.</p>
+<p><strong>INTERLOCUTORA:</strong> Sin mencionarla.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sin mencionar, voy a hablar de otro asunto, nada más para que nos podamos entender, sin que yo me saque de juicio: el periódico de <em>El Financiero</em> está muy vinculado a la mafia del poder económico y político en el país, hacen negocios los dueños al amparo del poder público.</p>
+<p>Aquí me llevaría mucho tiempo informando de las relaciones de los dueños de <em>El Financiero</em> con el antiguo régimen, cómo sacaban provecho, obtenían créditos de la banca de desarrollo; bueno, construían hasta reclusorios para rentarlos al gobierno.</p>
+<p>Y estaban muy vinculados, antes, con la Secretaría de Gobernación. Y recuerdo —y es cosa de que se haga la investigación, ustedes que son mirones profesionales— recuerdo que hacían encuestas, a lo mejor los mismos que hacen las encuestas ahora, cuando estaban en vísperas las elecciones del 2018, como en estos tiempos, y estaban definiendo quiénes podían ser candidatos del PRI y resulta que de una semana a otra el secretario de Gobernación de entonces, Chong, subió en una de esas encuestas de <em>El Financiero</em>, creo que 10 puntos en una semana. O sea, que saben ‘cucharear’ bien y hacer encuestas, por eso pues sencillamente no les creo, porque están en contra de nosotros y forman parte del bloque conservador corrupto que añoran, desean, regresar por sus fueros para seguir robando. Y ya ni les hablo de otras encuestadoras.</p>
+<p>Ahora que estoy escribiendo mi libro, el último que voy a dejar antes de retirarme, de jubilarme, porque ya no voy a volver a hablar de política, ni voy a volver a participar en nada para satisfacción de mis adversarios, ya nada más me falta un año y un mes, entonces no voy a participar en política, ya termino mi ciclo, por eso estoy escribiendo el último libro sobre asuntos políticos y estaba yo revisando, porque es un recuento de todo el proceso en el que hemos participado millones de mexicanos para lograr la transformación de México, y me encontré que Ciro Gómez Leyva desde la campaña del 2006 tenía una encuestadora, que era la misma que usó después, cuando la elección de Peña Nieto.</p>
+<p>Pero yo me acordaba —y por eso es bueno el análisis, la investigación— me acordaba, que cuando la campaña del 2012, en el <em>Milenio</em> Ciro sacaba una encuesta diaria, creo que por 100 días, en donde ponía al licenciado Peña Nieto por las nubes.</p>
+<p>¿Tienes algo ahí? Bueno, miren esto. Y luego dijo…</p>
+<p>¿Para qué hacen esto?</p>
+<p>Para que la gente diga: ‘Ya para qué voy a votar, ya está decidido’. Esto es propaganda, desde luego sucia, siempre, siempre, siempre.</p>
+<p>Bueno. Resulta que, con la compra del voto, porque no les alcanzó la propaganda, la guerra sucia, utilizaron muchísimo dinero para imponer al licenciado Peña Nieto, como lo ha declarado el que era director de Pemex, que usaban muchísimo dinero de Pemex para la campaña, desde luego que rebasaron los topes de campaña, pero entonces como ahora, las autoridades electorales estaban vendidas o alquiladas o dormidas.</p>
+<p>¿Qué pasó con esto?</p>
+<p>Pues que así, muy propio el señor Ciro, después de la elección… Porque creo que fueron, la diferencia fue oficial de seis por ciento o siete por ciento.</p>
+<p><strong>INTERVENCIÓN:</strong> Seis puntos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Seis puntos.</p>
+<p><strong>INTERVENCIÓN:</strong> Y el traía 18 el último día.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Y el traía 18 el último día.</p>
+<p>Pero este es el último día. Miren cómo estaba 100 días antes.</p>
+<p>Bueno, y así ofrece disculpas y dice: ‘Ya no vuelvo a hacerlo’.</p>
+<p>¿De quién era la empresa? Que yo pensaba que era la de Liébano Sáenz. No, era GEA-ISA, que su dueño o uno de sus dueños había estado de director del Cisen con Calderón, Guillermo Valdés.</p>
+<p>Pero ¡oh, sorpresa!, ahora que estoy investigando resulta que antes ya Ciro había hecho lo mismo con la misma empresa de Valdés, en favor de Calderón, en la elección del 2006. Lo acabó de descubrir en mis papeles. Hizo lo mismo, o sea, infló a Calderón.</p>
+<p>Entonces, pues no es una coincidencia, casualidad, un error, una equivocación, no, es un acto deliberado de corrupción, Ciro actúa de manera corrupta; lo mismo el caso de <em>El Financiero</em>, con todo respeto.</p>
+<p>¿Por qué tengo que decirlo así con claridad?</p>
+<p>Porque ya basta de estar engañando, estamos hablando de muchísimos años de estar mintiendo, pero de mala fe, y causando daño, porque esto es antidemocrático completamente y esto afecta a la gente.</p>
+<p>Imagínense, inflar en aquél entonces a Calderón, que después con el fraude lo imponen y una de sus primeras acciones es declarar la guerra al narcotráfico, y por esa decisión pierden la vida miles de mexicanos. Y llega Calderón impuesto con el apoyo de la oligarquía y de estos voceros, y pone de secretario de Seguridad Pública a García Luna y se establece en los hechos un narco-Estado y desgracian al país.</p>
+<p>Entonces, ofrezco disculpas por hablar con claridad y llamar a las cosas por su nombre. Ya basta de simular. Porque no es un asunto personal, no es el daño que me puedan hacer a mí, es el daño que le causan al pueblo de México.</p>
+<p>Y esto en todo, ¿eh? Esto que estamos viendo ahora —por cierto, estamos muy contentos con lo de Mexicana— pues producto de lo mismo, de cómo en un proceso electoral este señor Gascón Azcárraga era dueño de hoteles, ahí vivía el candidato del PAN en uno de esos hoteles, en ese entonces Vicente Fox, en el hotel que está donde antes era la Glorieta de Colón, Fiesta Americana, y le ayuda.</p>
+<p>¿Cuánto tiempo vivió ahí?</p>
+<p>Como tres meses.</p>
+<p>Le ayuda este Gascón. ¿Gascón o Gastón?</p>
+<p><strong>INTERVENCIÓN:</strong> Gastón.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Gastón. Bueno, Gastón, Gascón, Azcárraga, le ayuda; llega Fox y en pago le entrega Mexicana. Eso con Mexicana.</p>
+<p>Quedaba otra línea del Estado, del pueblo, Aeroméxico. Hacen el fraude del 2006 y a quienes ayudan a Calderón en el fraude del 2006, los del Consejo Coordinador Empresarial de entonces, les da, Calderón, Aeroméxico y nos quedamos sin ninguna línea aérea nacional, pública. Por eso es un hecho histórico el de hoy.</p>
+<p>Pero mira lo que provocas con tu pregunta, cuántas cosas, ¿no?</p>
+<p>Entonces, eso es lo que puedo comentar sobre las encuestas.</p>
+<p><strong>INTERLOCUTORA:</strong> Sobre los finalistas del frente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no me meto en eso, no, no, no.  No, no, no; si no, me sancionan.</p>
+<p>Y, además, son tan rectos y honestos los del Tribunal Electoral y los del consejo del INE que hasta tergiversan lo que aquí expreso, como lo hicieron ahora, que ya me impiden mencionar a una persona.</p>
+<p>Lo pones, porque es interesante. Vamos a volverlo a poner, para que vean en dónde está la mala fe, la mentira, cómo son de falsarios, además de hipócritas los conservadores, y muy corruptos, muy corruptos; no todos, la mayoría.</p>
+<p>Esto es lo que puso una consejera vinculada al PAN para que me acusaran, escribió en su denuncia que yo había dicho que esa persona fue elegida por un grupo de hombres que la han impuesto, porque me acusan, ¿cómo se llama?, de violencia política de género; entonces, para cuadrarme el delito o la falta le puso esto para que se me acusara de violencia política de género: ‘Fue elegida por un grupo de hombres que la han impuesto’.</p>
+<p>Y yo dije esto:</p>
+<p>‘No es como el flanco derecho, que ahí ya eligieron los de arriba, Diego, Fox, Salinas, etcétera, etcétera, etcétera, y los medios ya eligieron, eso ya está resuelto, es una consulta que hicieron en lo oscurito a los de arriba, el gerente del bloque conservador Claudio X. González, y ya impusieron’. ¿Dónde digo qué fue elegida por un grupo de hombres que la han impuesto? Nada, lo interpretaron.</p>
+<p>Pon el siguiente texto. Supuestamente dije: ‘La van a utilizar para engañar al pueblo’.</p>
+<p>Y esto fue lo que dije: ‘Entonces, escogieron porque piensan que van a engañar con una mujer que nace en un pueblo de Hidalgo y que habla de manera coloquial, directa, dice groserías, pero pues la gente ya no se va a dejar engañar’.</p>
+<p>Ya hubo uno que hablaba de tepocatas y otro que era muy guapo, hicieron hasta una telenovela en la televisión, pero ya eso ya no, ya la gente está muy consciente.</p>
+<p>Y, a ver, lo otro. Fíjense esto, esto no lo dije: ‘Es un pelele, un títere —hubiese yo dicho, ¿no?: ‘Es una pelele—, una empleada de la oligarquía, —empleada de la oligarquía, empleada— a la que únicamente van a utilizar para seguir saqueando y robando.</p>
+<p>‘Es que la señora es Fox —y cierto— es Salinas, es Claudio, es Roberto Hernández, entonces entran así, los imponen —y estoy hablando, incluso, de los anteriores presidentes— y entran atados de pies y manos, son peleles, son títeres, empleados de la oligarquía.’</p>
+<p>Y hablaba yo de los que habían impuesto, porque ahora ya no va a haber imposición, eso sí lo puedo decir, lo adelanto, porque el pueblo manda, porque ya hay una auténtica democracia y no domina una oligarquía en México, ya no están los que se sentían dueños de México.</p>
+<p>Y voy a aprovechar, ya que estamos en esto, ya le contesté al juez porque, además de esta sanción del Tribunal Electoral, tan objetiva, tan profesional, tan apegada a la verdad, al derecho, a la justicia, además de esto un grupo de abogados del mismo bloque conservador, que están al servicio de Claudio X. González, donde está Gómez Mont, que fue secretario de Gobernación de Felipe Calderón, y también abogado de las grandes empresas como Grupo México, todos los que se beneficiaron con las privatizaciones cuando rompieron la piñata, desde Salinas hasta hace poco, entonces estos abogados presentaron también, asesorando a la señora, presentaron una queja, y el juez la amparó y no quiere que yo mencione nada, cuando lo que hice fue a dar a conocer unos papeles donde presuntamente hay actos de corrupción.</p>
+<p>Entonces, le contesto al juez, porque me pide 48 horas para dar una respuesta, entonces ya le envié una carta. Se las voy a leer. A ver si la pones.</p>
+<p>Se llama Martín Adolfo Santos Pérez, juez octavo de Distrito en Materia Administrativa en la Ciudad de México.</p>
+<p>‘Presente.</p>
+<p>‘No tengo duda que usted actúa como juez de consigna, me refiero a su resolución promovida por los abogados de Claudio X. González y su pandilla a favor de la señora.</p>
+<p>‘Usted, señor juez, me ordena, así como a la Secretaría de Hacienda, al SAT, a la Unidad de Inteligencia Financiera y a la Comisión Nacional Bancaria y de Valores, a callar, a censurar información que debe ser pública y que obtuve como parte del enorme acervo de mensajes y documentos que recibo diariamente de la ciudadanía.</p>
+<p>‘Me acusa ―entre comillas― de propiciar un discurso de odio; todo, por dar a conocer la existencia de contratos firmados en los últimos nueve años por la empresa de la señora y su familia por más de mil 400 millones de pesos, de los cuales el 70 por ciento se celebraron en la alcaldía Miguel Hidalgo, demarcación donde, casualmente, ella fungió como jefa delegacional entre 2015 y 2018.</p>
+<p>‘Advierte —entre comillas— malicia efectiva de mi parte, pero el de la malicia efectiva es usted —es usted— que se ha dedicado a proteger delincuentes y promover decisiones de grupos de intereses creados que afectan el interés público y dañan al pueblo. Fue usted quien concedió una suspensión a Joaquín Guzmán Loera para evitar su extradición a Estados Unidos.’</p>
+<p>Es que todo esto es muy importante porque no se sabe. Antes la actuación de los jueces, de los ministros, eran asuntos del mundo de lo anónimo, nadie se enteraba. Se podía saber algo sobre la actuación del Poder Legislativo, del Poder Ejecutivo, pero del Poder Judicial, nada, no se sabía ni siquiera… Creo que todavía no se conocen los nombres de quiénes son los 11 ministros de la corte, porque era como <em>El castillo de la pureza</em> el Poder Judicial, y muy echado a perder, muy corrompido.</p>
+<p>Esto, ¿quién iba a saber que ese mismo juez que ahora me está silenciando o queriéndome callar, silenciar, censurar, le concedió una suspensión, un amparo a Joaquín Guzmán Loera para evitar su extradición a Estados Unidos?</p>
+<p>‘Fue usted también quien ordenó el desbloqueo de las cuentas bancarias del exalcalde de Benito Juárez por el caso del cártel inmobiliario’. Estaban congeladas las cuentas el exalcalde y él ordenó que se desbloquearan.</p>
+<p>‘Fue usted quien ordenó modificar el Plan Nacional de Vacunación contra COVID-19 en la etapa más crítica de la pandemia, calificándolo de simplista’, entre comillas.</p>
+<p>‘Fue usted quien permitió que las tabacaleras —las grandes empresas tabacaleras que hacen lobby, coyotaje, que manejan muy bien las relaciones para persuadir, para convencer, autoridades—, fue usted quien permitió que las tabacaleras se impusieran a la salud pública autorizando la comercialización de cigarrillos electrónicos, los vapeadores, y el consumo de tabaco en restaurantes.</p>
+<p>‘Fue usted quien pretendió suspender el programa piloto para aplicar el plan de estudios para preescolar, primaria y secundaria del ciclo 2022-2023.</p>
+<p>‘Fue usted quien me echó abajo la prohibición de incluir personajes infantiles en los empaques de los productos chatarra’, que tanto daño causan a la salud por los excesos de grasas, de sales.</p>
+<p>‘Fue usted quien quiso impedir que las Fuerzas Armadas participaran en labores de seguridad pública hasta 2024 durante el proceso de conformación de la Guardia Nacional.</p>
+<p>‘Ya sé que ustedes, los supuestos defensores de la ley, se escudan en el llamado Estado de derecho ―entre comillas― que no es más que un Estado de chueco, y que la justicia no les importa’. Se escudan en que la ley, y desde luego que ni les importa el derecho, ni les importa, mucho menos, la justicia.</p>
+<p>‘Sin embargo, para nosotros el fin principal es desterrar la corrupción y conseguir la justicia, la felicidad del pueblo.</p>
+<p>‘Le informo que enviaré este escrito al Consejo de la Judicatura Federal para que pueda investigar su actuación, que evidencia su deshonestidad, propia de conservadores, y su claro interés político de afectar el proyecto que represento y que millones de mexicanas y mexicanos apoyaron con su voto en 2018 y que siguen respaldando.’</p>
+<p>Ya está la respuesta. Entonces, no es ningún pleito, es un buen debate, hacer la vida pública cada vez más pública, todo esto ayuda mucho a purificar la vida pública.</p>
+<p>Adelante.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ: </strong>Señor presidente, si me permite aclarar. Dije cuatro mil millones de dólares y son de pesos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, bueno. Sí, a mí me también me pareció así.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ: </strong>Nada más aclarar en la respuesta que le di sobre los costos de operación. Mencioné cuatro mil millones de dólares; son pesos, cuatro mil millones de pesos, y esto incluye la renta de los aviones, el mantenimiento de estas aeronaves, el combustible, la renta de inmuebles de destino, el equipo de apoyo en tierra y el equipamiento de la empresa. Son cuatro mil millones de pesos. Perdón, por el error.</p>
+<p><strong>PREGUNTA:</strong> ¿Cómo se puede lograr que los boletos puedan costar entre 18 y 20 por ciento menos? ¿Se va a subsidiar el costo de los boletos? (Inaudible) precios más bajos a los usuarios.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ: </strong>Mira, hay una ventaja, es una empresa del Estado mexicano, lo que es la infraestructura del AIFA es del Estado mexicano, la infraestructura del Aeropuerto de Tulum será del Estado mexicano; asimismo, la Secretaría de Marina y la Secretaría de la Defensa tendrán bajo su responsabilidad la administración de diferentes aeropuertos, que muchos son los destinos que ya cité. Entonces, aprovechando esta situación, que prácticamente la aerolínea estará operando en esos puntos, logramos poder reducir los costos de los boletos. Ese es el motivo por el cual establecemos que entre el 18 o el 20 por ciento menos, gracias a toda esa estructura en la cual operará la aerolínea.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿No son precios subsidiados?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> No, no, no, va a ser un precio subsidiado, sino va a ser un precio que se sacó en base al emplear la estructura del Estado mexicano en beneficio de los ciudadanos, los turistas nacionales o internacionales que viajan en estas aeronaves.</p>
+<p><strong>PREGUNTA:</strong> ¿No hay un afán de lucro?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, no hay un afán de lucro. Y hay algo muy importante, que es oportuno subrayar: todas las obras que hemos hecho en este gobierno se han hecho con presupuesto público y son de la nación, son obras públicas.</p>
+<p>Entonces, antes los gobiernos neoliberales, que estaban al servicio de una minoría rapaz se dedicaban a vender bienes públicos, bienes de todos los mexicanos. Los gobiernos en esencia tenían como función el administrar el traslado de bienes nacionales a particulares, esa era la función principal de los gobiernos; trasladar bienes públicos, bienes de la nación a particulares.</p>
+<p>Salinas, pues ya sabemos, ¿no?, entregó todos los bancos a particulares, entregó las minas a particulares, entregó empresas públicas a particulares, aeropuertos, puertos. Zedillo, bueno, los Ferrocarriles Nacionales, acabó con todos los trenes de pasajeros y entregó los ferrocarriles a dos empresas extranjeras, y todavía tuvo el cinismo de irse a trabajar de asesor a una de esas empresas;</p>
+<p>Fox, lo mismo: traslado de bienes de la nación. Todos, todos.  Hablábamos de Mexicana. Calderón, lo mismo, Aeroméxico, porque estamos tratando sobre este caso, pero eran autopistas, tierras ejidales, las playas, todo.</p>
+<p>Bueno, últimamente las llamadas reformas estructurales, el petróleo, la industria eléctrica nacional, a eso se dedicaban. Ahora cambió, fíjense que estaba yo haciendo cuentas y ya tenemos como un billón 500 mil millones en empresas públicas nuevas que no se tenían.</p>
+<p>Nosotros no hemos vendido; al contrario, hemos adquirido empresas públicas. Tenemos, por ejemplo, la refinería de Dos Bocas, que se adquiere; compramos la refinería de Deer Park; tenemos el nuevo aeropuerto ‘Felipe Ángeles’; vamos a tener el aeropuerto ‘Felipe Carrillo Puerto’ de Tulum, que, dicho sea de paso, es un aeropuerto extraordinario, de lo mejor, que tiene garantizada su afluencia turística, su llegada de turistas.</p>
+<p>Vamos a dejar el Tren Maya, imagínense, mil 550 kilómetros de vías modernas, férreas, 800 kilómetros de vías electrificadas, 30 estaciones, paraderos. Estamos hablando de una inversión de alrededor de 500 mil millones de pesos. Todo eso es público.</p>
+<p>Entonces, cuando preguntas: ‘¿Por qué se puede vender el boleto de avión más barato? Bueno, porque se tiene ya esa infraestructura, se tienen los aeropuertos.</p>
+<p>No hemos entregado ni una sola concesión nueva para privatizar aeropuertos. Sólo en el impuesto a aeropuertos, por la deuda que se contrajo, cuando estaban encaprichados en hacer la transa de construir el aeropuerto de Texcoco, se tuvo que entregar de garantía el TUA, el impuesto de aeropuerto del aeropuerto de la Ciudad de México, pero en el aeropuerto ‘Felipe Ángeles’ se cobra la mitad del TUA; entonces todo eso es lo que permite que se pueda bajar el precio del boleto.</p>
+<p>Pero es muy buena la pregunta, porque sí va a llegar la línea aérea a un punto de equilibrio. Vamos a tener que invertir, como lo estamos haciendo, que no es gasto, es inversión, y va a llegar el momento que van a ser autosuficientes todas estas empresas.</p>
+<p>Aquí aprovecho para decir que el Tren Maya es una empresa que se va a manejar también por la Secretaría de la Defensa, el aeropuerto ‘Felipe Ángeles’ es una empresa también manejada. Ya van avanzando en obtención de ingresos.</p>
+<p>¿Cuándo piensan ser autosuficientes?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ: </strong>El año próximo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> El año próximo.</p>
+<p>Y la línea aérea también es otra empresa.</p>
+<p>¿Por qué decidimos hacer estas tres empresas públicas?</p>
+<p>Bueno, primero, porque en las misiones del Ejército, que son cinco, en la misión cuarta del Ejército está el contribuir al progreso de México, tienen ellos esa misión; o sea, no es algo que no les corresponda, son cinco misiones que tienen y una de ellas es la contribución al desarrollo del país. Por eso, nos están ayudando mucho en la construcción de los aeropuertos, en la construcción del Tren Maya y, van a manejar estas empresas. Pero esa es una razón.</p>
+<p>Otra es porque ellos están construyendo las obras.</p>
+<p>Otra razón es porque están manejando presupuesto público que es dinero del pueblo con honestidad. O sea, el aeropuerto ´Felipe Ángeles' significó un ahorro, aun pagando lo que ya habían comprometido, como esto del TUA, ese fideicomiso, pagando cerca de 100 mil millones. El aeropuerto costó alrededor de 70 mil millones, pero el aeropuerto de Texcoco estaba estimado en 300 mil millones, y además de eso iban a cerrar el actual aeropuerto, iban a cerrar también la base aérea de Santa Lucía.</p>
+<p>Bueno, ¿cuánto nos ahorramos?, como 125 mil millones de pesos.</p>
+<p>En todas las obras que se hacen con los ingenieros militares tenemos un ahorro mínimo del 50 por ciento, mínimo.</p>
+<p><strong>INTERVENCIÓN: </strong>Y la inversión se recupera.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Y la inversión se recupera, pero no sólo son empresas rentables, no solo son empresas rentables y necesarias, piensen cuánta mano de obra, cuántos empleos, lo que ayudan al crecimiento económico del país.</p>
+<p>Pero piensen también en algo que es muy importante: la seguridad. Porque en toda la ruta del Tren Maya va a haber una seguridad especial.</p>
+<p>Los que tienen más edad, seguramente se acuerdan que cuando uno viajaba en los trenes de pasajeros ahí venía elementos del Ejército cuidando. Va a haber algo parecido ahora; desde luego, ya moderno porque van a cuidar toda la ruta con bases en tierra, con elementos de la Guardia Nacional, y con helicópteros. ¿Cuántos helicópteros?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> Son cinco helicópteros.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Cinco helicópteros en toda la ruta del tren para garantizar la seguridad.</p>
+<p>Pero hay algo más todavía, que es lo que más debe de importarnos: el que estas obras, que son del pueblo, no pasen a manos de particulares, que no se privaticen, que no vuelva a suceder lo mismo.</p>
+<p>Imagínense cuánto —hablando de aeropuertos— le costó al pueblo de México hacer aeropuertos, para que lleguen gobiernos irresponsables y entreguen todas esas instalaciones, que se hicieron con dinero del pueblo, a particulares.</p>
+<p>¿Saben cómo están las utilidades de los que administran los aeropuertos concesionados? ¿Saben cuánto ganan en promedio cada año? ¿Cuáles son sus utilidades?</p>
+<p>Cincuenta por ciento por año. Somos respetuosos de los acuerdos, y por eso no estamos modificando esas concesiones, pero ya no podemos seguir con esa política.</p>
+<p>El gobierno tiene que ser para servir al pueblo, no para ser un comité al servicio de una minoría. Lo que decía un migrante allá en Baja California, en San Quintín, que me dijo en la campaña: ‘Licenciado, así como el presidente Juárez separó a la Iglesia del Estado, mejor dicho, al clero del Estado, porque, de acuerdo a la frase bíblica, a Dios lo que es de Dios y al César lo que es del César, así ahora —me dijo, me propuso, me recomendó— hay que separar el poder económico del poder político y que el gobierno represente a todos, a ricos y a pobres, y que busque la felicidad del pueblo’. Eso es lo que estamos haciendo. Es que antes el pueblo no era tomado en cuenta y los que mandaban eran los de mero arriba.</p>
+<p>Eso es lo que ahora se está haciendo, entonces por eso… No sólo en esto, ¿eh? Estamos construyendo carreteras, puentes. El puente de Cancún para cruzar la laguna de Cancún, porque hay un problema vial de congestionamiento serio en la franja hotelera, son como 10 kilómetros del puente sobre la laguna, sin pago, sin peaje, si ya la gente pagó sus impuestos, cómo va a volver a pagar cuando necesita un servicio. Y así las carreteras que estamos haciendo, la mayoría, sin peaje.</p>
+<p>Es muy importante decir: ‘Ya tenemos tantas’. Ahora que nos tocó terminar algunas carreteras o las concesionarias terminaron algunas carreteras de estas de peaje, me decían: ‘¿No la va a inaugurar?’ No, no voy. ¿Qué caso tiene ir a inaugurar una obra si van a estarle cobrando a la gente?</p>
+<p>Estamos procurando no cobrar las carreteras que estamos haciendo. Es muy fácil decir: ‘A ver, entregamos concesiones’, y así estaba el gobierno, convertido en una oficina para entregar contratos y concesiones a particulares.</p>
+<p>Está el caso, con todo respeto, del Estado de México. Muchísimas autopistas, pero transitar en el Estado de México es transitar con los costos más elevados, hay que pagar peaje por todo, es donde se paga más por trasladarse y a lo mejor es donde se paga más por el traslado en el mundo, en el Estado de México, por esa política. Entonces, ya no es así, ha habido ahora estos cambios.</p>
+<p><strong>PREGUNTA: </strong>Presidente, buenos días.</p>
+<p>Luis Valdés, del diario <em>24 Horas</em>.</p>
+<p>Una precisión sobre Mexicana: el general secretario mencionó que las operaciones arrancarán con 20 vuelos directos al interior del país y una de las ciudades que mencionó fue Palenque, Chiapas. Preguntarle: ¿en dónde van a aterrizar los aviones?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Es que hay un aeropuerto.</p>
+<p><strong>INTERLOCUTOR:</strong> Ah, bueno.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, que se acaba de hacer hace poco, muy bueno, y se volaba ya.</p>
+<p><strong>INTERLOCUTOR:</strong> O sea, ¿ya es el vuelo directo?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, se dejó de volar, iba… ¿Cómo se llama la empresa?</p>
+<p><strong>INTERVENCIÓN:</strong> Aeromar.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No.</p>
+<p><strong>INTERVENCIÓN:</strong> Interjet.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Interjet.</p>
+<p>Se hizo hace como 10 años un aeropuerto, un buen aeropuerto, pero no se vuela. Se volaba antes, se iba allá, ahora se va a usar el aeropuerto, porque ahí está la infraestructura, pero además es un aeropuerto que está enfrente de la estación del Tren Maya, y ahí inicia el Tren Maya.</p>
+<p>¿No tendremos por ahí alguna foto de la construcción del Tren y el aeropuerto? Se está arreglando, se va a empezar, pues, a arreglar como otros aeropuertos que mencionó el general.</p>
+<p>Por ejemplo, el aeropuerto de Tulum nosotros pensamos que ya en diciembre va a estar terminado y ya se va a usar; rehabilitamos el aeropuerto de Chetumal, por eso ya está incluido, ya va a manejar la Secretaría de la Defensa el aeropuerto de Campeche, y por eso está incluido, porque también muy cerca del aeropuerto está la terminal del Tren Maya, en el caso de Campeche.</p>
+<p>En Chetumal, en la misma estación del tren o, mejor dicho, en el aeropuerto está la estación del Tren Maya, junto, ahí llega el tren hasta el aeropuerto.</p>
+<p>Mira, este es el aeropuerto, es internacional, ya existía. No es porque voy a vivir yo allá que vamos a hacer un aeropuerto. ¿Quién fue el que hizo una carretera para un rancho?</p>
+<p><strong>INTERVENCIÓN:</strong> Diego Fernández.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Diego, sí. No, no, no me refería yo a eso. O sea, ya existe.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Se está rehabilitando?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, es que existe, está muy bien. No sé. ¿En qué año lo hicieron, lo inauguraron? Hace como 10 años, 10, 12 años.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> Está operando, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, está operando, o sea, está operando para viajes privados, pero no llegan líneas comerciales.</p>
+<p><strong>INTERVENCIÓN:</strong> En febrero del 2014.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Se inauguró en febrero del 2014.</p>
+<p>Ah, bueno, muy cerca de aquí está la estación del tren que se está construyendo, la estación del Tren Maya, por eso.</p>
+<p><strong>INTERLOCUTOR:</strong> Por otro lado, preguntarle, presidente, ¿qué reporte tiene sobre el tema de seguridad de Tlaxcala? Comentaba que iba a checar lo del encargado de despacho Ángel Gilberto Zamora Ibarra, que tuvo vínculos con Genaro García Luna. Preguntarle, porque en estos días ya la gobernadora Lorena Cuéllar nombró a un nuevo titular de Seguridad, Alberto Martín Perea.</p>
+<p>¿Este funcionario Ángel Gilberto Zamora sigue en la estructura? ¿O qué le reportó?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No tengo información. Yo lo que sé es de que nos informó la gobernadora, después que tú hiciste el planteamiento ella nos informó. Y la que tiene todos los elementos es Rosa Icela Rodríguez, le voy a pedir que hoy mismo se ponga de acuerdo contigo y te dé la información.</p>
+<p><strong>INTERLOCUTOR:</strong> Y, por último, y aprovechando que está la secretaria de Gobernación, preguntarle si ya revisaron lo que le cuestionaba hace unas semanas, sobre este reporte de las víctimas de la guerra contra el narco de Calderón, que fue reservado hasta finales de 2014. Me comentó que lo iba a checar para ver si se desclasificaba. Se lo pregunto porque la información que hay es que el documento está en la Segob. No sé si sepa algo de eso.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Tienes información?</p>
+<p><strong>LUISA MARÍA ALCALDE LUJÁN:</strong> No, estamos revisándolo nada más.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> A ver.</p>
+<p><strong>LUISA MARÍA ALCALDE LUJÁN:</strong> Se está revisando. Si te parece bien, te informamos el día de hoy.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, ya nos vamos a desayunar. Te vamos a <em>cepillar</em>, pero ya es la hora del desayuno, no hay que malpasarse. Nos vemos mañana.</p>
+<p>Y es un buen día hoy, ¿eh? Y muchas gracias. Un aplauso aquí. Muchas gracias.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

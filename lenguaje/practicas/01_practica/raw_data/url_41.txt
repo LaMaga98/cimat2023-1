@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>19.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/19-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=168635' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F19-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F19-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sqnq-f-b24215b31-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":26,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1b9a3dd","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":2213,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726427","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==sr9w7sOO/2Sd/yJS35syESwhHg3l15MWsX5NlAKN56Yau8bF7Fg0u5K91/5VEENPnBb1q4Ny3p2GZnADDwQ/LuTIbRmju/T00RY5UX0xPv1LYua/AjlNen1DfMvIEpTxOqsUO/Js4QsvNtN1PsaX1Aq0Sdd+/L4PybrjrF4Y4/29RzNXHsNQbo3xlSTqjkJcjIK1BCU19ijw8W0QkJRFp9/+xU64BHnFzzooeQGxO/0ZOlM0zjPKDMgB5QXE2DH0rIvPQKjYQULzEccMjTjmO4OAYK5nZE3HKQBoRX2HZDG2TthDmvev31KzByQJFK+4oC2jG6RTA2c8wPUfpA8GcmwGI8Jcpnr9Gb5y2AB38z/2VznZt/wCPYfBSXHsFjIKXERCifcOIlWV8dVr+7cKE8A34F7n3iyweNO6Qrq1Gbo=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-168635 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba929740ccd" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>19.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 19.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-168635" class="post-168635 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-19-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-03-1-e1703012511139.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-19-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-03-1-e1703012511139-745x450.jpg" alt="19.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">19.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ánimo, es el día más frío. ¿No coinciden?</p>
+<p>Muy bien. Vamos a informar, como lo hacemos los martes, sobre la situación de salud y vamos el día de hoy a tener la reunión de los premios al deporte, el Premio Nacional de Deportes 2023, y también los reconocimientos a quienes participaron en los Juegos Panamericanos de Santiago de Chile a las 10:00 de la mañana en el patio. O sea que aquí estamos calientitos, pero al rato vamos a estar allá, en el patio, para sentir más el frío, pero como somos deportistas todos no hay problema. Vamos a empezar con el doctor Alcocer.</p>
+<p><strong>JORGE ALCOCER VARELA, SECRETARIO DE SALUD:</strong> Con su permiso, señor presidente.</p>
+<p>Hoy, en el ‘Pulso de la salud’, el maestro Zoé Robledo nos informará de los avances del IMSS-Bienestar en 23 estados, en una forma breve, pero con datos muy interesantes. Consisten en señalar el aumento del personal médico del sector que se ha desarrollado en estos 23 estados; en especial, hay muchos, pero en especial los indicadores de abasto, las camas censables con los que se cuenta ahora y el equipamiento que se ha desarrollado a través de estos más de dos años.</p>
+<p>Eso es cuanto.</p>
+<p><strong>ZOÉ ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS): </strong>Muchas gracias. Con su permiso, señor presidente, doctores. Muy buenos días a todas y a todos.</p>
+<p>Sobre este avance del IMSS-Bienestar, la institución de atención médica del Gobierno de México para la atención a población sin seguridad social, hoy queremos informar, como lo comentaba el doctor Alcocer, lo que hemos hecho en cuanto a contratación de médicos generales, médicos especialistas y personal de enfermería, además del incremento que ha habido en varios estados del número de camas censables, este es un indicador que establece cuántas camas hay en un hospital para cuando se necesita justo eso, una hospitalización; además de los montos de equipamiento en los tres estados en donde estamos implementando IMSS-Bienestar.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/12/Conferencia-matutina_2023-12-19.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/o5T8OsT2NO8?t=562" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Desde enero del 2019, el presidente López Obrador anunciaba ya este gran desafío: saldar la deuda heredara de falta de médicos y medicas especialistas y también de la contratación de personal de enfermería. De nada sirve tener un hospital, incluso tenerlo equipado, si no hay personal de salud que pueda atender.</p>
+<p>Si vemos los 23 estados en donde está ocurriendo la federalización, ahí viven 91.5 millones de personas con y sin seguridad social, es el 70 por ciento de la población de todo el país. En esos 23 estados, en 2018 se tenían 178 mil enfermeras, 70 mil médicos especialistas y 34 mil médicos generales. En lo que va de esta administración, si consideramos las contrataciones que han hecho las tres instituciones más grandes que tiene el gobierno federal, el IMSS en su régimen ordinario, el Issste y ahora IMSS-Bienestar vemos estos incrementos.</p>
+<p>Hoy, en esos 23 estados se cuenta con 212 mil enfermeras y enfermeros, es decir, se ha incrementado en un 19 por ciento la contratación de personal de esta categoría tan importante que es el personal de enfermería; 83 mil 525 médicos especialistas, este es el incremento más grande que se tiene para cualquier periodo de la historia de México, es un incremento del 18 por ciento en contratación de médicos especialistas; y 44 mil 365 médicos generales, es un incremento también del 30 por ciento.</p>
+<p>A esto, hay que decirlo, no está contando las contrataciones que hubo para la atención de COVID, esto es específicamente la consulta en el primer nivel de atención, la consulta externa en los hospitales y desde luego todo lo que ocurre en quirófanos, diagnóstico y demás.</p>
+<p>Además, se han invertido un total de 14 mil 342 millones de pesos de equipo, esto sólo en IMSS-Bienestar, es decir, estos 14 se refieren sólo a las inversiones en equipamiento en los 23 estados por parte de IMSS-Bienestar y se han incrementado en promedio en estos estados 15 por ciento el número de camas censables para la hospitalización; además, el registro que tenemos del abasto de los 23 estados está en 97 por ciento.</p>
+<p>Si lo vemos estado por estado, cómo se han comportado estos incrementos, de 2018 a la fecha en el estado de Nayarit el incremento de personal de enfermería es de 40 por ciento; en el caso de médicos, se han contratado mil seis médicas y médicos, un incremento del 84 por ciento de especialistas y del 10 por ciento en médicos generales; y en lo que va de la administración se han invertido un total de 514 millones de pesos en equipo en Nayarit; además, se ha incrementado en un uno por ciento el número de camas y el abasto se está reportando 99 por ciento. En Nayarit el próximo año el número de camas va a incrementarse con la apertura del Hospital de la Mujer de Tepic y el hospital de Tuxpán.</p>
+<p>En Tlaxcala de 2018 a la fecha el incremento de personal de enfermería es del nueve por ciento; en el caso de médicos, se han contratado 442, que representan un incremento de 32 por ciento en médicos especialistas y 10 por ciento en médicos generales; también, ha habido una inversión en Tlaxcala de 199 millones de pesos en equipamiento, en hospitales IMSS-Bienestar y hay un incremento del dos por ciento también de las camas censables.</p>
+<p>En el caso de Colima, de 2018 a la fecha el incremento de personal de enfermería es del 19 por ciento; en el caso de médicas y médicos especialistas, se han contratado 312 personas, un incremento del 23 por ciento respecto a lo que tenía antes el mismo estado de Colima; en médicos generales el incremento es del 33 por ciento, ahí en Colima se han invertido 202 millones de pesos en equipo para hospitales IMSS-Bienestar; además, hay un incremento del uno por ciento en las camas censables y un abasto reportado del 99 por ciento.</p>
+<p>En el caso de Baja California Sur, de 2018 a la fecha el incremento de personal de enfermería es del 20 por ciento; en el caso de médicos, se han contratado 290, esto impacta en un incremento de 19 por ciento más médicos especialistas contratados en Baja Sur y 23 por ciento más médicos generales; también, en este ejercicio se han invertido 155 millones de pesos en equipo en hospitales IMSS-Bienestar de Baja California Sur y se han incrementado un 32 por ciento el número de las camas censables, a esto habrá que sumar con la apertura del hospital de Santa Rosalía en Mulegé otro tanto el número de camas censables el próximo año.</p>
+<p>En el caso de Sinaloa, de 2018 a la fecha el incremento de personal de enfermería es del 19 por ciento; en el caso de médicas y médicos, de la rama médica, se han contratado a mil 111 personas, esto es un incremento del 25 por ciento en médicos especialistas y 36 por ciento de médicos generales; también, se han invertido mil 338 millones de pesos en hospitales, particularmente el hospital de Culiacán, que está por entrar en operaciones, y se ha incrementado un 13 por ciento el número de las camas censables; ahí el abasto se está reportando en 97 por ciento de recetas surtidas.</p>
+<p>En Sonora, que es uno de los estados que tenía el déficit quizá más grande o uno de los más grandes sobre todo en médicos especialistas, de 2018 a la fecha se ha incrementado en personal de enfermería 22 por ciento; en el caso de la rama médica, se han contratado a mil 218 médicas y médicos, un incremento de 29 por ciento en especialistas y 47 por ciento el incremento de médicos generales en Sonora; también, en lo que llevamos de este ejercicio se han invertido un total de 974 millones de pesos en equipos para hospitales de IMSS-Bienestar; se ha incrementado también en un uno por ciento el número de las camas censables y el abasto se está reportando en 99 por ciento.</p>
+<p>En el estado de Campeche, también, se ha incrementado el personal de enfermería en 24 por ciento; en el caso de la rama médica, se han contratado a 424 personas, esto es un incremento de 37 por ciento más médicos especialistas en Campeche y 27 por ciento más médicos y médicas generales en ese estado; también, se ha hecho una inversión de 220 millones de pesos sólo en equipo en los hospitales transferidos al IMSS-Bienestar en Campeche; además, se ha incrementado un 40 por ciento el número de las camas censables y se está reportando un abasto del 97 por ciento.</p>
+<p>En el estado de Guerrero, el incremento del personal de enfermería es del 31 por ciento; también, en el caso de médicos se han contratado a mil 474 médicos, un incremento del 30 por ciento sobre médicos especialistas y 42 por ciento en médicos generales; en lo que llevamos de la implementación de IMSS-Bienestar en Guerrero, ha habido una inversión de 969 millones de pesos en equipamiento; también, se ha incrementado en cuatro por ciento las camas censables y se está reportando un abasto del 96 por ciento.</p>
+<p>En el estado de Veracruz, el incremento del personal de enfermería es del 23 por ciento, 23 por ciento más personal de enfermería; en el caso de la rama médica se han contratado a mil 671 médicos adicionales, esto es un incremento del 17 por ciento en especialistas y 21 por ciento de médicos generales; también, se han invertido mil 86 millones en equipamiento de hospitales que atienden a población sin seguridad social; además, se ha incrementado en 15 por ciento el número de camas censables en Veracruz y se está reportando un abasto del 98 por ciento en ese estado.</p>
+<p>En Michoacán, de 2018 a la fecha el incremento de personal de enfermería es de 16 por ciento; en el caso de la rama médica, se han contratado a mil 315 nuevos médicas y médicos en Michoacán, un incremento de 31 por ciento en el caso de especialistas y 13 por ciento en el caso de médicos generales; también, en el ejercicio de implementación de IMSS-Bienestar, se han invertido 872 millones de pesos en equipamiento en hospitales IMSS-Bienestar de Michoacán y se ha incrementado un 12 por ciento las camas censables; se está reportando un abasto del 95 por ciento.</p>
+<p>En el caso de Morelos, el incremento del personal de enfermería es de 13 por ciento; en el caso de la rama médica, se han contratado a 465 médicas y médicos, esto es un incremento de siete por ciento en el caso de especialistas y 60 por ciento en el caso de médicos generales; también, se han invertido 466 millones de pesos en equipo para hospitales IMSS-Bienestar de Morelos; el número de camas censables se ha mantenido estable, un pequeño incremento del uno por ciento, y el abasto está reportándose en 98 por ciento.</p>
+<p>En la siguiente podemos ver a Zacatecas, que ha incrementado su personal de enfermería en 24 por ciento más; se han contratado, también, a 665 médicas y médicos, esto es un incremento de 22 por ciento en el caso de especialistas y 35 por ciento en el caso de médicos generales; en lo que va de esta administración ha habido una inversión de 231 millones de pesos en equipamiento para hospitales de IMSS-Bienestar de Zacatecas y un incremento del 20 por ciento de las camas censables, sobre todo por la puesta en marcha del hospital de Fresnillo, que había llevado ya cerca de cinco años abandonado sin operación y que desde hace año y medio está en funciones; se está reportando desde Zacatecas un 98 por ciento de recetas surtidas.</p>
+<p>En el caso de San Luis Potosí, se ha incrementado el personal de enfermería en 13 por ciento; de la rama médica se han contratado a 596 médicas y médicos, esto es un incremento de 18 por ciento en el caso de especialistas y 31 por ciento en el caso de médicos generales; también, se han invertido un total de mil 576 millones de pesos en equipo en hospitales que están en la transferencia IMSS-Bienestar, aquí hay hospitales sobre todo de tercer nivel, el de Soledad Graciano y demás, que tuvieron una inversión importante por parte del gobierno federal; también, se ha incrementado un 12 por ciento el número de camas censables y se está reportando un abasto del 95 por ciento.</p>
+<p>En el caso de Oaxaca, el incremento de personal de enfermería es de ocho por ciento; se han contratado, además, a 815 médicas y médicos, que representan un incremento de 20 por ciento más médicos especialistas en Oaxaca y 13 por ciento más médicas y médicos generales en ese estado; se ha invertido 71 millones de pesos en el equipamiento y ha habido un incremento de 22 por ciento en el número de camas censables; además de un abasto reportado desde Oaxaca de 99 por ciento.</p>
+<p>En el caso de Tamaulipas, de 2018 a la fecha el incremento de personal de enfermería es de 16 por ciento; en el caso de médicos, se han contratado 857 médicas y médicos, un incremento del nueve por ciento en el caso de especialistas y 56 por ciento en el caso de médicos generales; también, en lo que va de la administración se ha invertido un total de 487 millones de pesos en equipamiento y un incremento de 14 por ciento en camas censables.</p>
+<p>En Quintana Roo, de 2018 a la fecha el incremento del personal de enfermería es de 19 por ciento; en el caso de médicos se han contratado 259 que incrementaron en nueve por ciento en el caso de médicos especialistas, 17 por ciento en médicos generales; también, se han invertido 162 millones de pesos en equipo y un incremento de 12 por ciento el número de camas censables; aquí se echaron a andar dos hospitales, sobre todo el de Tulum, este es de los estados de más reciente incorporación.</p>
+<p>Lo mismo en Hidalgo, que tuvo un incremento de personal de enfermería de 28 por ciento más; también, se han contratado a 799 médicas y médicos, un incremento de 28 por ciento, en el caso de especialistas 17 por ciento de médicos generales; también, se han invertido ahí 477 millones de pesos en equipamiento, y el incremento de camas censables es apenas de dos por ciento con el hospital nuevo de Metztitlán.</p>
+<p>En la Ciudad de México ha habido un incremento de personal de enfermería de 13 por ciento; también, en el caso médicos se han contratado a tres mil 534 médicos y médicas adicionales, este es un incremento de 17 por ciento en el caso de médicos especialistas, 54 por ciento de médicas y médicos generales; también, ha habido una inversión de mil 553 millones de pesos en equipo de hospitales de la transferencia de la Ciudad de México a IMSS-Bienestar y un incremento del seis por ciento en el número de camas censables, este incremento también tuvo que ver con la apertura del hospital de Cuajimalpa.</p>
+<p>En el estado de Chiapas, de 2018 a la fecha hay un incremento de personal de enfermería de 51 por ciento; además, en el caso de médicos, se han contratado a dos mil 656, es decir, se ha incrementado en 35 por ciento en especialistas, 62 por ciento en médicos generales; también, se ha hecho una inversión de 153 millones de pesos en equipamiento por parte de la federación en hospitales que están en la transferencia y un incremento de cinco por ciento de las camas censables.</p>
+<p>En el caso de Tabasco, también, se ha incrementado el personal de enfermería, es el estado con el incremento más grande en 138 por ciento de incremento de personal de enfermería; también, se ha contratado a mil 791 médicas y médicos, esto es un incremento del 73 por ciento de médicas y médicos especialistas, y 234 por ciento en el caso de médicas y médicos generales; en lo que llevamos de este ejercicio se han invertido mil 300 millones de pesos en equipo, un incremento del 26 por ciento en las camas censables que se reportan en Tabasco.</p>
+<p>En Puebla, a la fecha se ha incrementado el personal de enfermería en seis por ciento; se han contratado a 564 médicas y médicos, tanto generales, como especialistas, esto es 10 por ciento de incremento en médicos especialistas, siete por ciento de médicos generales en Puebla; también, una inversión de 106 millones de pesos por parte del gobierno federal a los hospitales que están en la transferencia a IMSS-Bienestar; también, hay un incremento de 33 por ciento en el número de camas censables.</p>
+<p>Y los últimos dos estados, los más recientes, Baja California, que ha tenido un incremento en personal de enfermería del 13 por ciento; en el caso de la rama médica, se han contratado a 517 médicas y médicos, que representan un incremento de 11 por ciento más médicos especialistas en Baja California, 32 por ciento más médicas y médicos generales en Baja California; también, ha habido una inversión de 363 millones de pesos en hospitales que van a pasar o que están pasando a IMSS-Bienestar ya en Baja California, lo que ha implicado también un incremento del uno por ciento de las camas censables; también, hay dos grandes hospitales que están echándose a andar en ese estado, en Tijuana.</p>
+<p>Y, finalmente, el Estado de México. que ha incrementado su personal de enfermería en 10 por ciento: en el caso de médicos, se han contratado a 703, un incremento de cuatro por ciento en el caso de especialistas, siete por ciento en el caso de médicos generales; también, ha habido una inversión de 177 millones de pesos por parte de la federación en hospitales que van a ser parte del IMSS-Bienestar, aquí tenemos un reto enorme de echar andar varios hospitales que habían estado abandonados; hay un incremento ya del 29 por ciento de las camas censables.</p>
+<p>Finalmente, señor presidente, comentar en marzo se gradúan, quizá, la generación más grande de médicas y médicos especialistas que forma el sector público en nuestro país, cerca de 14 mil médicas y médicos especialistas que terminan su formación en marzo y se espera contratarlos, recontratarlos, para todas las instituciones, fundamentalmente para el IMSS-Bienestar, que es la que tiene mayor necesidad de crecimiento aun de médicas y médicos especialistas.</p>
+<p>Es cuanto. Muchas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien, este es el informe. Vamos, adelante.</p>
+<p><strong>PREGUNTA:</strong> Gracias. Muy buenos días a todas y a todos. Liliana Noble, de <em>Pulso Saludable</em>.</p>
+<p>Señor presidente, la revista <em>Time Out</em>, publicó el <em>ranking</em> de las 10 ciudades más asequibles, con mayor diversidad cultural y por supuesto la mejor oferta. Participaron en esta encuesta ciudades de todo el mundo, se entrevistó a cerca de 21 mil residentes de todas las ciudades de todo el mundo. El segundo lugar lo obtuvo Praga, en República Checa; el tercer lugar, Ciudad del Cabo, en Sudáfrica; también participaron de la región en Buenos Aires, en Argentina; Florencia, en Italia; Melbourne, en Australia; Edimburgo, en Escocia; Atenas, en Grecia; y, por supuesto, Florencia, en Italia, y el primer lugar lo tiene la Ciudad de México.</p>
+<p>Yo quisiera preguntarle, señor presidente, si conocía de esta encuesta, entiendo que sí. ¿Y cuál es la opinión del gobierno federal? Y también conocer qué es lo que ha dicho al respecto la secretaria de Cultura, Alejandra Frausto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, la Ciudad de México tiene mucha fama desde los memoriales de Culhuacán, que decían: ‘Mientras el mundo exista no dejará de reconocerse la gloria y la fama de México Tenochtitlán’, palabras más, palabras menos. A ver, ¿por qué no lo pones? Está en los memoriales. Y a través de toda su historia la Ciudad de México ha sido muy importante. A algunos les molesta, pero Pepe Iturriaga, un gran historiador, decía que todavía pastaban los búfalos en lo que hoy es Nueva York y ya en la Ciudad de México había universidades.</p>
+<p>Y últimamente se ha distinguido como una de las ciudades más bellas, con más cultura. Y también, algo que no les va a gustar a nuestros adversarios, pero que lo voy a decir, ya ven que siempre digo lo que pienso: de las más seguras del mundo. Ya va a tener nota Zamarripa y <em>El Universal</em>.</p>
+<p>‘En tanto que permanezca el mundo no acabará la fama y la gloria de México Tenochtitlán.’</p>
+<p>Y, bueno, lo decíamos hace unos días, más en esta temporada, está lleno el Zócalo, el centro, todo el centro, familias completas, y la gente alegre.</p>
+<p>Y en las colonias como la Roma, la Condesa, los restaurantes llenos, hay filas. Y la mitad, y si no es que más, extranjeros. Ahí nada más es hacerles una recomendación respetuosa, cariñosa, fraterna, a los restauranteros: que mantengan buenos precios, porque la comida es suculenta, de lo mejor. Es que, también, ¿en qué ciudades del mundo hay tanta variedad culinaria? Es una gran ciudad. Entonces, yo celebro que esto esté sucediendo en la Ciudad de México.</p>
+<p>Acerca de la violencia, pues una ciudad de ocho, 10 millones de habitantes, por la población que viene a trabajar; un promedio de dos homicidios diarios, dos. A ver si tienes ese dato. Ha crecido muchísimo el número de estadounidenses que han decidido venirse a vivir a la Ciudad de México, y al país en general, pero muchos a la ciudad, canadienses, europeos.</p>
+<p>Este es el último dato: dos, tres, promedio, es el comportamiento de homicidios.</p>
+<p>Y sí está considerada como de las ciudades más bellas y con más oferta cultural, artística, la Ciudad de México. Y, vuelvo a repetir, hasta que se internalice, porque nos estuvieron manipulando por siglos: México, es la primera potencia cultural del mundo, México, nuestro país, primera potencia cultural del mundo. No hay otro país, con todo respeto. Puede ser China, puede ser la India, algunos otros, pero la diversidad cultural de México, el que haya 60 culturas, etnias en el país, es un mosaico cultural y que se hayan heredado tradiciones, costumbres, de grandes civilizaciones, civilizaciones milenarias, de gran desarrollo científico, astronómico, matemático, en todos los órdenes, eso no se tiene en otras partes.</p>
+<p>¿Dónde hay la variedad de alimentos, de comidas, de guisos, que hay en el país? De un municipio a otro ya hay comidas distintas. En el norte que se hablaba de que la harina y la carne; no es cierto. Sí la carne, la harina, pero muchísimas otras comidas en el norte del país.</p>
+<p>Porque en todos lados hubo florecimiento cultural. Hay uno allá en Chihuahua, ahí está Paquimé.</p>
+<p>Y va uno a Zacatecas, ¿y qué se conoce de Zacatecas? Pues el centro histórico, que es bellísimo, colonial, sí, pero no se conoce La Quemada, en Villanueva, que es una de las zonas arqueológicas más imponentes del país. Estamos hablando del norte.</p>
+<p>Y ahora quiero ir, porque me están invitando, a ver las pinturas de Baja California Sur. ¿No tendremos pinturas las rupestres de Baja California Sur? Nada más que son dos días en mula o en burro. Eso sí, es mejor la mula para la sierra que el caballo, porque no se desbarranca, pero vale la pena. A lo mejor las encontramos.</p>
+<p>Se habla de 10 mil años. Y hay que estarlo diciendo porque, si no, vamos a seguir creyendo que nos trajeron la civilización hace 500 años los europeos. Una de las cosas que hay que lograr es el exaltar más nuestros valores culturales, la gran reserva de valores que tiene México. Por eso, no es extraño lo de la ciudad y sí es para disfrute, hay guías de cómo pasear, divertirse, en la Ciudad de México y en todo el país.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, señor presidente.</p>
+<p>En una segunda pregunta, tuve la oportunidad de entrevistar a la doctora Álvarez-Buylla acerca de los estents mexicanos. Ella me decía que este desarrollo va a ayudar a contribuir al país a evitar un gasto de aproximadamente cinco millones mensuales, que es lo que en la actualidad se utiliza para salvar la vida de quienes están en necesidades de tratamiento para evitar un infarto y que mueran.</p>
+<p>También me comentó acerca de los avances de la vacuna Patria y por supuesto de los ventiladores. Yo quisiera preguntarle, señor presidente, si están considerando que todos estos dispositivos y por supuesto la vacuna Patria, cuando ya esté a disposición, en un segundo momento adicional a que se utilicen en la población mexicana, también se utilizarán como para exportación, y si estos elementos también formarán parte de esta megafarmacia.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, lo primero es que sí se ha avanzado en el nuevo Conahcyt porque se ha hecho investigación para beneficio de México. Antes el presupuesto de Conahcyt se repartía, aunque parezca increíble, se entregaba a empresas, y en algunos casos a empresas trasnacionales, eran subsidios del presupuesto público para empresas que no aportaban nada en beneficio de la gente, no hacían investigación aplicada para beneficio del pueblo de México.</p>
+<p>Con el nuevo Conahcyt, lo de los ventiladores fue algo importante, sobre todo porque se logró crear estos dos nuevos ventiladores para salvar vidas, atender a enfermos de COVID cuando se necesitaba. Ya se tiene estos ventiladores. Somos, vamos a decir, autosuficientes. No estamos explorando o invocando que vengan esas pandemias, ¿no?, pero ya tenemos equipo. Porque sí padecimos mucho por falta de este equipo; entonces, ya se tienen estos equipos mexicanos y eso es un trabajo coordinado por Conahcyt.</p>
+<p>Ya se tiene lo de la vacuna Patria que también nos da independencia.</p>
+<p>Esto que hablas de los estents, que se está trabajando, eso va a ayudar mucho.</p>
+<p>No conozco cómo va el avance, sé que están haciendo la investigación, pero son los infartos la primera causa de muerte en el país y estamos llevando a cabo un plan para prevenir infartos y para que se hagan las intervenciones necesarias para colocar estents y que las personas puedan vivir. Yo acabo de cumplir 10 años a partir de que me dio el infarto, en diciembre del 13, y ya llevo 10 años con estents.</p>
+<p>Entonces, eso lo tenemos que seguir impulsando. Me gustaría que el doctor Alcocer nos explicara de lo que estamos haciendo para enfrentar y salvar vidas de infartados, qué se está haciendo.</p>
+<p>Y lo otro que es muy importante es que están desarrollando también lo del glifosato, o sea, la alternativa al glifosato, a este agroquímico que daña, que se utiliza para la agricultura, se está investigando sobre eso.</p>
+<p>Y se está investigando también sobre el maíz transgénico y se está haciendo una investigación para la separación de arcillas en el litio. Todo esto es Conahcyt, algo muy importante, todo el trabajo que se está llevando a cabo.</p>
+<p>Y se han incrementado las becas a investigadores del Conahcyt, muy contrario de lo que se da a conocer en medios de manipulación, muy contrario. Realmente, María Elena ha hecho un buen trabajo en el Conahcyt, y ha tenido todo el apoyo, todo el respaldo. Y son investigaciones en beneficio del pueblo de México.</p>
+<p>No sé si podrías hablar sobre lo de los infartos.</p>
+<p><strong>JORGE ALCOCER VARELA:</strong> Sí, efectivamente es un tema muy importante, desde luego, porque el contar con una llegada fina, definitiva, clara hacia las arterias del corazón, que no sólo son las grandes, sino también unas pequeñas que irrigan prácticamente no sólo el corazón, sino varios órganos, era necesario tener, contar con estas unidades.</p>
+<p>En un primer diagnóstico, había una deficiencia que no cubría el 50 por ciento de los estados donde había el sistema de hemodinamia; pero el presidente, el señor presidente, hizo un encargo: que quería, que deseaba, porque lo justificaba la casuística, que es la principal causa de muerte, y no de 60 años hacia arriba, porque ahora esto está por diferentes razones sucediendo en mujeres, en mayor frecuencia, y superiores en su edad a 40 o 50 años. O sea, que hay un recorrido también biológico que nos señala que esto va a cambiar y tenemos que estar preparados.</p>
+<p>Ya estamos entregando el encargo. De hecho, ayer lo platicaba con el maestro Zoé, la posibilidad de hacerlo para hoy, pero quedamos que en 15 días, es un compromiso, de indicarles qué es lo que hemos avanzado, un avance que nos lleva, en resumen, a que en este mes de diciembre se complete el número de unidades de hemodinamia en todo el país a través de un indicador que es: al menos, una en cada estado. Hay estados que tienen dos, tres, dependiendo de diferentes razones, pero esto lo estamos logrando.</p>
+<p>Y en diciembre —yo pensé que en diciembre no se trabajaba— tenemos ya la inauguración de dos que ya se hicieron, está el de Colima; está uno de los que estaba pendiente y que ya llegó el equipo, que es el de Puebla, y tenemos también alguno otro pendiente porque el equipo se rezagó en su llegada, pero fue una cosa fortuita, lo teníamos para este mes.</p>
+<p>Quiero señalarles, y mejor la sorpresa de darles en 15 días la información si se logra el 100 por ciento de los estados.</p>
+<p>Pero, además, no sólo es para el manejo de las arterías, sino es un equipo de primer nivel desde luego. Que se piensa que con un aditamento o un extra del equipo se puede hacer cirugía cardiaca, y la cirugía cardiaca —y esto va enfocado a niños— se tienen muchas posibilidades de desde pequeña edad hacer cirugías. De hecho, hasta fetalmente se pueden hacer algunas, pero esto es nada más una fase de experimentación, pero en niños que tienen una malformación congénita del corazón se resuelve, y ni siquiera sabe el niño que así se desarrolló.</p>
+<p>Y hay historias, inclusive, de excelentes deportistas y otras gentes de que a través de ese tipo de cirugía su vida es normal y en este caso estos equipos de hemodinamia tienen esa perspectiva. En algunos lugares ya se logra, en hospitales infantiles. Pero el futuro de esto va a ser que en un par de años se prevé que las cardiopatías en México o las enfermedades derivadas de problemas, no sólo vasculares, sino también de músculo y de los otros tejidos que forman el corazón, pues pase a ser a un segundo o tercer lugar, esperemos que así sea.</p>
+<p>Muchas gracias.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, doctor.</p>
+<p>Y, finalmente, señor presidente, la compañía Asofarma, que es la autorizada para proveer y vender en México la vacuna Moderna, avisó que en los próximos días ya estará el primer lote de esta vacuna, la forma privada; también, ya arribaron al país el primer lote de vacunas Pfizer.</p>
+<p>Yo quisiera preguntarle, señor presidente, si va a haber una especie de contención o control del precio, porque, por ejemplo, en Estados Unidos la compras, no te la dan. Tú llegas a una farmacia, por ejemplo, y te la aplican, pero allá hay gente especializada que lo hace; aquí en los consultorios adyacentes a las farmacias solamente está el expendedor de estos productos.</p>
+<p>Yo quisiera saber si va a haber algún tipo de entrenamiento para que, en caso de que así sea, la aplicación pudiera ser una forma más transparente y beneficiosa para las y los usuarios.</p>
+<p>Y también saber si hay una forma o han llegado a algún acuerdo para controlar el costo de estos biológicos, porque además se entendería que van a ir las personas a los consultorios, pero además de esto se va a incrementar el costo porque es el biológico, más la aplicación, más la consulta.</p>
+<p>Y nos decía el doctor López Ridaura, que pudiera llegar a costar la aplicación de la vacuna entre cinco mil pesos y de ahí hacia arriba, no es asequible para las familias mexicanas que también quisieran vacunarse contra el virus del SARS-CoV-2.</p>
+<p>Y preguntarle también tanto al doctor López Ridaura, si lo me permite, y al doctor Pedro Zenteno, y por supuesto al maestro Zoé, cómo va el tema de la vacunación contra la influenza y COVID-19.</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues ustedes. Yo nada más decirles que nosotros somos partidarios de que medicamentos para atender a pacientes para salvar vidas no deben de ser limitados, controlados, pues son como los alimentos, son productos estratégicos. No podemos impedir que se introduzcan vacunas para el COVID o para la influenza o para cualquier otra enfermedad; el que quiera comprar estos medicamentos en las farmacias, que lo pueda hacer, sólo que ahora el Estado garantiza estas vacunas. Y el que quiera comprarlas, pues las puede comprar, está en libertad, porque no quiera depender del Estado, porque le caiga mal el presidente, o porque tenga dinero, o piense que son de más calidad.</p>
+<p>Yo me acuerdo que, cuando pusieron las primeras gasolineras o gasolinerías, las empresas petroleras extranjeras, había colas, y resulta que esa gasolina la compraban en Pemex, porque hay esa mentalidad.</p>
+<p>Bueno, pero somos libres, lo importante es que hay vacuna para el pueblo, para todos, para ricos y para pobres, y no les cuesta nada porque, de conformidad con el artículo 4º de la Constitución, se debe de garantizar el derecho a la salud, porque la salud no es un privilegio, es un derecho del pueblo.</p>
+<p>Por eso cuando plantearon que si íbamos a permitir que entraran, claro que sí. ¿Se quieren ir a vacunar a otro país? También, o sea, somos libres, vivimos en un país libre; la única diferencia es que el Estado protege a todos, no incumple con su responsabilidad social. Y es libertad garantizando atención a todos, no es como quieren algunos: la libertad del zorro en el gallinero.</p>
+<p>Pero sí, el que quiera va a poder comprar la vacuna.</p>
+<p>Y no estoy muy de acuerdo en regular precios, porque hay vacunas. Yo me vacuné hace como un mes, me puse las dos vacunas, la de COVID y la de influenza, y muy bien, ni siquiera tuve reacción.</p>
+<p>Pero, a ver, el doctor, el especialista, experto.</p>
+<p><strong>RUY LÓPEZ RIDAURA, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD:</strong> Gracias, con su permiso, presidente. Buenos días a todas y todos.</p>
+<p>A ver. Sí, muchas gracias por la pregunta. En cuanto a… Primero, me gustaría, uno, el contexto de la epidemia de la curva epidémica de COVID: desde la semana 40 hasta ahora, que estamos en la semana 50, ha habido un descenso continuo, y ahora más o menos la positividad está entre tres por ciento y cinco por ciento, pero realmente la positividad para COVID ha ido disminuyendo de manera continua.</p>
+<p>Para influenza sí tuvimos un ascenso, más o menos también desde la semana 45, es donde se ha presentado más el ascenso, y ahorita la positividad para influenza es cerca del 20 por ciento.</p>
+<p>En cuanto a la vacunación, desde octubre, que se inició la vacunación de influenza, tenemos un total de 19 millones aplicadas de los 35 millones que tenemos como meta, se han aplicado 19 millones, esto es 53 por ciento de la meta. Y en todas las instituciones se ha avanzado de manera similar: se han aplicado nueve millones por la Secretaría de Salud, 7.3 millones por el IMSS ordinario, 1.2 millones por el IMSS-Bienestar y uno 1.2 millones por el Issste; también Sedena, Semar y otras instituciones, Pemex también han aplicado.</p>
+<p>En cuanto a COVID, tenemos: la aplicación ha llegado hasta 3.8 millones de dosis aplicadas, también el avance ha sido similar en cada una de las instituciones. Esto sí es una cobertura menor, tenemos cerca de 18 por ciento de la meta contemplada, y por eso es importante hacer el llamado a las personas, que tenemos vacuna disponible prácticamente en todos los centros de salud. Se ha logrado una distribución extensa de vacuna tanto para COVID como para influenza en todas las entidades federativas, en todas las instituciones.</p>
+<p>Invitarlos, que aún estamos a tiempo. Es muy importante vacunarse en la época invernal lo antes posible, todavía estamos esperando al menos un par meses con temperaturas frías y con riesgo alto de tener infecciones respiratorias altas y por eso invitar a la población, que están las vacunas disponibles, son gratuitas, están en todas las instituciones y listas para ser aplicadas.</p>
+<p>Muchas gracias.</p>
+<p><strong>PREGUNTA:</strong> Y en cuanto al caso de (inaudible) de forma del COVID-19, ¿qué hay en ese sentido?</p>
+<p><strong>RUY LÓPEZ RIDAURA:</strong> Muchas gracias.</p>
+<p>Como saben, y también lo publicamos en el plan de gestión a largo plazo, tenemos un sistema de vigilancia que tiene múltiples fuentes de información, una de ellas es el sistema de vigilancia epidemiológica Centinela, que lo reforzamos posterior a dar por terminadas las medidas extraordinarias, y es el sistema que tenemos utilizando para ver los casos y es un poco lo que les comenté previamente.</p>
+<p>Pero también tenemos un sistema coordinado desde el Instituto de Referencia Epidemiológica, del Indre, como parte de la subsecretaría, coordinado también con el Instituto de Medicina Genómica, otros institutos nacionales de salud, también otras instituciones, el IMSS, que participamos en un consorcio de vigilancia genómica, que es: algunas de las variantes que salen positivas a COVID, se envían a estos laboratorios de secuenciación y se participa dentro de este gran consorcio global, que también mandamos muestras para vigilar las variantes, las variantes genéticas que tiene el virus.</p>
+<p>Ya se venía reportando por parte de la OMS un incremento en esta variante, la variante pirola, pero es la JN1, que es una subvariante de ómicron y ha tenido un incremento en la relevancia o en la proporción, se estima que ya en Europa y en algunas regiones puede estar llegando hasta 15, 17 por ciento de todas las variantes, está predominando la JN1.</p>
+<p>Y aquí en México, de las muestras que hemos tomado de agosto a la fecha, hemos encontrado un caso de esta variante JN1 aquí en la Ciudad de México. Pero realmente, digo, sí esperamos, porque lo que se ha visto en el mundo es que haya un incremento de esto, lo que nos habla que seguramente tiene mayor capacidad de transmisión.</p>
+<p>Pero, por lo que se sabe de los casos que hemos tenido en Europa y que se ha tenido a nivel global, es una enfermedad que no tiene un cuadro ni clínico más grave ni tiene complicaciones identificadas, tampoco se ha identificado que escape totalmente a la inmunidad, tanto a la inmunidad natural como a la inmunidad de vacunas. Entonces, consideramos que sí la vamos a estar vigilando, pero para nada representa una alerta importante, un incremento de casos, pero estaremos vigilando.</p>
+<p><strong>INTERLOCUTOR:</strong> (inaudible) comenzar a aplicar. ¿Cómo viene la vacuna Patria? Es importante que…</p>
+<p><strong>RUY LÓPEZ RIDAURA:</strong> Sí. La vacuna Patria. Hemos estado cercanamente trabajando con Conahcyt y también con Cofepris.</p>
+<p>Recordar que para poder liberar una vacuna y poder dar el permiso es importante tanto todo el componente de acreditación de la planta, y se ha trabajado mucho con Conahcyt y con Avimex, que es la asociación que se conformó para producir la vacuna Patria.</p>
+<p>Tengo entendido, y por las pláticas que he tenido con el comisionado y en las reuniones a las que hemos asistido, la planta está muy cerca ya de completar todo el <em>dossier</em> para tener la acreditación de buenas prácticas de manufactura y poder producir ya a gran escala. Y también Conahcyt y Avimex han completado ya el expediente para también ser sometido pronto al Comité de Moléculas Nuevas. Entonces, estamos ya en los últimos pasos ya para una autorización definitiva por parte de Cofepris.</p>
+<p>Recordar que también ahora tenemos ya… Ya no tenemos esta figura de autorización de uso de emergencia y, al igual que otras empresas y marcas de vacunas, Conahcyt-Avimex tiene que completar un expediente, un <em>dossier</em> entero tanto para la autorización de la planta como para la autorización de la vacuna misma. Y estamos esperando que se programe tal vez en estos días o en los primeros días de enero para ya poder tener también dentro de esta misma temporada. Pero también tomar en cuenta que es una parte muy importante para la producción a largo plazo y mantener la autosuficiencia y la soberanía en vacunación para las siguientes temporadas.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿La autorización se buscaría a principios de año?</p>
+<p><strong>RUY LÓPEZ RIDAURA:</strong> Estamos en espera. Si podemos completarlo en estos días, también, se completará; pero seguramente, si es en enero, será en los primeros días de enero.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Y cuántas dosis se podrán inicialmente, doctor?</p>
+<p><strong>RUY LÓPEZ RIDAURA:</strong> Estamos viendo. Digo, lo que ellos han calculado es la capacidad de producir tal vez en el primer trimestre hasta cuatro millones de dosis. Veremos qué tan necesaria son para el Estado, pero también estamos, más bien, enfocándonos también para el compromiso de la próxima temporada invernal.</p>
+<p>Gracias.</p>
+<p><strong>PREGUNTA:</strong> Buenos días.</p>
+<p>Liliana Piña, de <em>ATiempo.com</em>.<em>mx</em> y <em>PuenteLibre.mx</em>, en Ciudad Juárez.</p>
+<p>La primera pregunta es en relación con los trenes, presidente, preguntarle cómo va el tema de los trenes de pasajeros para el resto del país, luego del decreto del 20 de noviembre. ¿Ha sabido algo de los concesionarios?</p>
+<p>Y en dado caso que los concesionarios no presenten propuestas viables en inversión, tiempo de construcción y en modernización en plazos establecidos, el gobierno federal dijo que otorgará títulos asignados a la Secretaría de Defensa o a la Secretaría de Marina, por lo cual pasaría 100 por ciento a manos del gobierno federal. ¿Se tiene estimado un costo que tendrá dicha construcción? ¿Se tienen planeadas las medidas de seguridad que se implementarán? ¿Y cómo acoplarán los horarios de los trenes de pasajeros y de carga?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues se está avanzando, estamos esperando que se concluya el plazo para enero, que se les ofreció, se estableció con las empresas para que ellos nos presenten una propuesta.</p>
+<p>Si recordamos, ya hay un decreto que se publicó con el propósito de utilizar en el corto, en el mediano, en el largo plazo, 18 mil kilómetros de vías de ferrocarril de carga o de los ferrocarriles de carga que fueron concesionados en la época del presidente Zedillo. Se concesionaron estos 18 mil kilómetros a dos grandes empresas y se suspendió en ese entonces el servicio de trenes de pasajeros y nada más quedó la carga.</p>
+<p>Nosotros encontramos, descubrimos, que en la concesión quedó escrito que, si el Estado, es decir, el gobierno de la República consideraba necesario utilizar las vías de carga —que antes eran de carga y de pasajeros— utilizarlas para trenes de pasajeros, podía hacerlo.</p>
+<p>Se respeta la concesión para trenes de carga, eso no está en cuestión, los concesionarios van a seguir utilizando las vías para los trenes de carga y nosotros respetamos eso y todo el convenio, toda la concesión; pero en la misma concesión hay una cláusula que es la que establece que esas vías pueden también utilizarse, concesionarse, puede ser a los mismos que tiene la concesión de los trenes de carga o a otros empresarios de la industria ferroviaria para trenes de pasajeros utilizando las mismas vías. Y se habla incluso que en el tránsito de trenes de pasajeros y de carga tendrán prioridad los trenes de pasajeros.</p>
+<p>En ese marco es que nosotros emitimos un decreto para, primero, pedirles a las empresas que tienen la concesión que expresen su interés en hacerse cargo también del transporte de pasajeros por las vías que se tienen en todo el país. En caso de que ellos no estén de acuerdo, el Estado puede concesionar a otras empresas o puede el Estado de manera directa operar los trenes de pasajeros, como se están operando ya los trenes en el sureste, el Tren Maya ya es una operación del Estado a través de la Secretaría de la Defensa.</p>
+<p>Y el viernes iniciamos ya la operación de trenes de pasajeros en el istmo, ya inauguramos de Salina Cruz a Coatzacoalcos el viernes.</p>
+<p>Y el Tren Maya son mil 554 kilómetros y el tren del istmo y del sureste, porque es de Ciudad Hidalgo, en los límites con Guatemala, hasta Ixtepec, en el istmo, de Salina Cruz a Coatzacoalcos y de Coatzacoalcos a Veracruz son más de mil kilómetros, O sea, que ya Marina, que es la encargada del tren del istmo y del sureste, y la Defensa van a estar administrando cerca de tres mil kilómetros.</p>
+<p>Entonces, esas mismas empresas podrían hacerse cargo. El caso de Marina, podría pues no sólo hacer el servicio de Salina Cruz a Coatzacoalcos, sino de Medias Aguas, que es el cruce, el entronque con esa vía hacia Veracruz y de Veracruz a México, a la ciudad, con tren de pasajeros. Y se podía llegar en tren desde Cancún hasta la Ciudad de México, no sólo eso de la Ciudad de México a Nogales, o a Ciudad Juárez, a la frontera, porque están todas las líneas.</p>
+<p>¿No tienes el plano de las líneas? Eso es lo que vamos a decidir a principio de año.</p>
+<p>Si una de las empresas de las que tienen las concesiones dice: ‘Nosotros participamos’, muy bien; o ‘participamos, pero vamos a ir poco a poco’, adelante. Si no, se queda, ya sea en el Estado, en espera de que se den los cambios también porque tiene que ver con un plan nacional.</p>
+<p>Pero sería todo esto. Es que así estaba antes, los tecnócratas en un abrir y cerrar de ojos acabaron con todos los trenes de pasajeros. Entonces, todo esto es lo que ya se está recuperando, todo esto.</p>
+<p>Y esta, que no estaba, pero aquí está, donde decía, mira, Medias Aguas, y de aquí hasta la Ciudad de México, y de la Ciudad de México a Querétaro, y, bueno, Guadalajara hasta Nogales, hasta Mexicali, y a Ciudad Juárez, y Monterrey a Laredo, Piedras Negras, es…</p>
+<p>¿Cuáles son las ventajas?</p>
+<p>Primero, que ya se tienen las líneas, tienen derecho de vía. Imagínense lo que es construir líneas nuevas; no se puede, llueven los amparos, con razón. Además, cuánto tiempo para conseguir los derechos, enfrentar a Claudio X. González. ¿Cómo se llama el abogado este? Cossío. A todos estos.</p>
+<p>Pero, ya como está el derecho de vía, es una ventaja. No se afecta a nadie. Ya está, ya pasa por ahí el tren. Esa es una ventaja.</p>
+<p>Otra ventaja es que sería un medio de transporte menos contaminante, porque hasta se pueden electrificar las líneas, puede ser eléctrico.</p>
+<p>Otra ventaja es que es un medio de transporte cómodo. ¿No vieron lo que publicó el <em>Reforma</em>, que hasta se duerme la gente ahí? Relajados, relajados, relajados.</p>
+<p>Barato, o sea, el pasaje.</p>
+<p>Tiene muchas ventajas, es un gran proyecto. Bueno, y también es crear empleos, es inversión, es crear empleos. No en todos los países hay fábricas de trenes; nosotros tenemos una planta para producir trenes en Ciudad Sahagún, está Alstom, que, claro, construyen trenes y vagones para México y para el extranjero, pero tengo entendido que se va a poner otra planta también de construcción de trenes en el país. Son empleos. Es un plan hacia adelante. Claro que requiere todo un sexenio, nosotros vamos a dejar desbrozado el camino, vamos a limpiar el camino para que ya el que llegue pueda tener esta opción.</p>
+<p>Entonces, estamos en eso, para contestar tu pregunta, y yo creo que para finales de enero ya les decimos cómo vamos.</p>
+<p><strong>INTERLOCUTORA:</strong> En mi segunda pregunta, presidente: Pemex se recibió totalmente quebrado, en muy malas condiciones, con tomas clandestinas, accidentes y derrame de crudo, y hasta en vías de desaparecer por las famosas reformas estructurales.</p>
+<p>Al concluir su sexenio, ¿cómo va a entregar Pemex? Y en su opinión, ¿qué debe hacer el próximo gobierno para impulsar la paraestatal?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Lo importante es que se invirtió para explorar nuevos campos petroleros y tuvimos la suerte de que se encontró petróleo, hay una reserva de petróleo que nos permite contar con este hidrocarburo hasta por 25, 30 años de reservas probadas, es decir, no tenemos problema de que no se cuenta con el petróleo.</p>
+<p>Hay quienes sostienen, y a mí me gustaría mucho, que ya no se usara el petróleo, que no se usaran estos recursos fósiles, recursos no renovables, y que se usaran más energías limpias. Y se está en ese proceso, pero va a llevar tiempo, no va a ser así como se piensa, de la noche a la mañana.</p>
+<p>Entonces, cuando menos nosotros tenemos garantizado petróleo hasta el momento de la transición energética, y eso es un aporte de nuestro gobierno porque no se invertía en exploración, tan es así que todo lo que hemos extraído de petróleo ha sido compensado, es decir, con las nuevas exploraciones mantenemos las mismas reservas que cuando llegamos y hasta más.</p>
+<p>Y hemos actuado con prudencia para no extraer más petróleo del que se necesita para cuidar el petróleo, y es una herencia para las nuevas generaciones que se debe de cuidar. Eso yo creo que fue un avance.</p>
+<p>Otro avance es la eficiencia en el manejo de Pemex, porque antes, no sólo por la eficiencia o por la falta de eficiencia, sino por la corrupción, se invertía mucho en donde no hay petróleo o donde cuesta mucho extraer el petróleo, porque no les importaba extraer el petróleo, sino les importaba entregar los contratos a empresas particulares, sobre todo extranjeras. Y eran buenos negocios para las compañías petroleras y malos negocios para la hacienda pública.</p>
+<p>Cuando llegamos nos encontramos que casi la mitad del presupuesto de Pemex, en los últimos 20 años, se dedicaba al norte y a las aguas profundas, donde no hay petróleo o cuesta más sacar el petróleo, mientras el petróleo, como todos sabemos, está en el sur sureste, en tierra y en aguas someras, no profundas, y ahí no se invertía. Entonces, cambiamos eso por completo.</p>
+<p>¿Y cuál es el resultado?</p>
+<p>Que ahora nos cuesta menos extraer el petróleo que lo que costaba antes. Si antes costaba extraer el petróleo 15 dólares por barril, ahora nos está costando ocho dólares extraer un barril de petróleo, que se vende en 60 dólares. Entonces, hay más eficiencia porque no hay corrupción y porque se fortalece a Pemex.</p>
+<p>También ayudó mucho acabar con la corrupción, todo eso ha ayudado. Y el resultado pues es que paramos la crisis en la producción petrolera, en la extracción de petróleo. ¿Por qué no pones la gráfica sobre extracción de petróleo, para que vean cómo iba?</p>
+<p>Ya estábamos comprando petróleo crudo para las refinerías, ya se había llegado a ese extremo. A estas alturas, si hubiesen mantenido la misma política, estaríamos comprando petróleo crudo, porque van a ver la tendencia.</p>
+<p>Miren cómo iba: esto es 2004, tres millones 343. Esto se debe porque aquí, unos años antes, empezaron a intervenir pozos en Cantarell para extraerles todo, inyectar nitrógeno para darle presión a los pozos y sacar todo el petróleo. Entonces, se llegó a esta cantidad, que es récord, tres millones 383 mil, nada más que con lo que hicieron con esa intervención le quitaron toda la presión natural a los pozos.</p>
+<p>Hubo una explotación irracional y el Cantarell, que nos pudo haber durado más tiempo, lo agotaron. Cuando estamos hablando de tres millones 383, nada más del campo Cantarell eran como dos millones 500 mil, y ahora Cantarell lo que produce son 150 mil barriles diarios.</p>
+<p>Pero miren, esto es Fox, ya al final empieza a caer; ya esto es Calderón, hasta acá, y aquí empieza Peña, y aquí nos dejaron a nosotros, y lo tenemos. Pero esta era la tendencia, estos son 15 años consecutivos de caída, y nos costó levantar.</p>
+<p>Entonces, también le voy a pedir al director de Pemex que venga a exponerles porque Pemex tiene menos deuda de cuando llegamos al gobierno.</p>
+<p>Y sí, le hemos ayudado, porque pagaban de derecho a Hacienda 65 por ciento y este año del 24 van a pagar 30, porque es una empresa estratégica, es una empresa que tenemos que cuidar los mexicanos. Y lo que querían era destruirla, igual que la Comisión Federal de Electricidad, destruirlas.</p>
+<p>Tenemos garantizado petróleo. Precisamente ayer se llevó a cabo una operación que es muy importante para México: cuando se licitaron los bloques con la reforma energética para la explotación del petróleo se entregaron 110 contratos y se habló de que con esa reforma energética iba a llegar mucha inversión extranjera, íbamos a tener producciones equivalentes a los tres millones de barriles diarios. Si ustedes revisan los considerandos de las leyes que se aprobaron cuando la reforma energética, ahí se establece. Todo eso fue un fracaso rotundo, se dieron los 110 contratos y solo tres empresas invirtieron.</p>
+<p>Esto es Pemex solo y de las empresas particulares deben de estar produciendo como 40 mil barriles diarios, o sea, todo el escándalo de la reforma energética se reduce a eso, a 40 ml barriles adicionales, nada.</p>
+<p>Nosotros hicimos el compromiso de que no íbamos a modificar los convenios, que los íbamos a respetar. Porque afortunadamente el pueblo de México tomó la decisión de que se llevara a cabo un cambio y no les dio tiempo de seguir destruyendo a Pemex y a la Comisión Federal de Electricidad. Porque sí se esmeraron, en el caso de Pemex acabaron con la industria petroquímica, la dejaron convertida en chatarra y en una industria que era de las mejores del mundo.</p>
+<p>Y en el caso de la refinería, imagínense, en 40 años no hicieron una nueva refinería. Y las seis que dejaron, también, convertidas en chatarra, ya estaban vendiendo partes de las refinerías; pero ahí sí llegamos y ya se levantó la refinación, porque hicimos una nueva refinería.</p>
+<p>La verdad, estamos haciendo tres, porque estamos haciendo una adicional, una planta coquizadora en Tula con una inversión de alrededor de tres mil millones de dólares; y estamos haciendo otra planta adicional coquizadora también, en Salina Cruz, con una inversión de tres mil millones de dólares, más la refinería de Dos Bocas; además, compramos la refinería de Deer Park, en Texas. Y llevamos invertidos como 80 mil millones de pesos en las seis refinerías, que tenían capacidad de producción cuando llegamos de 35 mil, perdón, 35 por ciento de su capacidad y las tenemos ya en 70 por ciento de su capacidad, y las vamos a subir más. Porque no se les invertía nada, porque el propósito era venderlas, privatizar todo el sector, si acaso quedarnos nada más asociados con empresas particulares en la extracción de crudo, no darle valor agregado a la materia prima y comprar toda la gasolina en el extranjero.</p>
+<p>Todo eso es lo que estamos cambiando, ya no compramos tanta gasolina en el extranjero y yo espero que para el año próximo prácticamente dejemos de comprar la gasolina, ya se produzca en México toda la gasolina que consumimos.</p>
+<p><strong>PREGUNTA:</strong> ¿Y qué recomienda para el próximo gobierno?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Y qué cosa recomiendo? Bueno, primero, que se continúe apoyando a Pemex y a la Comisión Federal de Electricidad.</p>
+<p>Les decía yo que hay hoy una buena noticia porque, de estos bloques que se entregaron, se entregó a una empresa mexicana un bloque para la explotación de petróleo en el mar de Campeche, una empresa que se llama PetroBal, que era del finado Alberto Baillères, y se asociaron con otras empresas, pero no lograron el desarrollo deseado ni se invirtió lo suficiente.</p>
+<p>Ayer me informaron tanto el nuevo presidente del Grupo Bal, Alejandro Baillères, como Carlos Slim, de Grupo Carso, que llegaron a un acuerdo y ya adquiere por 530 millones de dólares Carso las acciones de PetroBal, que es el 50 por ciento.</p>
+<p>¿Por qué lo celebro, aun cuando se trata de un contrato de los que se dieron cuando la reforma energética?</p>
+<p>Porque queda en manos de mexicanos y estoy seguro que se va a invertir para extraer crudo. Esa es, considero, una buena noticia, de que van a invertir en este bloque para extraer petróleo. Y es una sociedad, un acuerdo entre el Grupo Carso con PetroBal, de Alejandro Baillères, que es el actual administrador y presidente de los consejos de administración de todo lo que manejaba y era propiedad del finado Alberto Baillères</p>
+<p>Entonces, me hablaron ayer para informarme y aprovecho para darlo a conocer. Y creo que esto va a ayudar porque nosotros tenemos resuelto el problema para —si pones otra vez la lámina— para lo consumimos de petróleo. Pero hacia el futuro, si se añaden 40 mil barriles que ya están produciendo los particulares y que puedan producir 40, 50, 100 mil barriles 200 mil barriles más, y si son mexicanos, mejor, para no depender de la compra de petróleo a extranjeros. Llevamos muy buena relación con el gobierno de Estados Unidos, pero no sabemos qué pueda deparar el destino y es mejor tener nuestro petróleo, no depender.</p>
+<p>Miren lo que está sufriendo Europa por la dependencia del gas al originarse el conflicto, la guerra, entre Rusia y Ucrania. Entonces es mejor la autosuficiencia energética y lo mismo la autosuficiencia alimentaria.</p>
+<p>Cuando me dicen ‘¿qué recomendaría?’, eso, autosuficiencia alimentaria, autosuficiencia energética. Y en el caso particular de los energéticos, producir toda la gasolina y el diésel en nuestro país, y fortalecer a Pemex; y restablecer o volver a levantar, aunque lleve tiempo, la industria petroquímica.</p>
+<p>Y tener en cuenta, porque hay mucha especulación, de que todavía —ese es mi punto de vista— se va a necesitar el petróleo, mínimo va a ser indispensable 25 años hacia adelante. Ya no vamos a estar nosotros, pero nuestros hijos, nuestros nietos, para que se dé la transición.</p>
+<p>Todos quisiéramos que ya no se use el petróleo, pero va a llevar tiempo la llegada de las nuevas tecnologías. Por eso, qué bueno que vamos a tener o que vamos hacia la autosuficiencia energética.</p>
+<p>Yo no creo que tengamos problema hacia futuro, porque quien llegue… Ya no puedo decir nada, pero es como dos y dos son cuatro, o dos y dos son 22. Está muy claro todo, o sea, no va a haber problema.</p>
+<p><strong>PREGUNTA: </strong>Soy del medio de comunicación, <em>La Verdad Noticias</em>. Mi nombre es Fanny Martínez.</p>
+<p>Señor presidente en <em>La Verdad Noticias</em> recibimos y hemos dado seguimiento a una denuncia ciudadana, que realmente nos llamó la atención porque involucra a políticos profesionales que en esta coyuntura electoral buscan un cargo de elección popular en Tabasco, su tierra, y para ello buscan recursos de todas las formas posibles, incluso de manera ilícita.</p>
+<p>La denuncia que aquí traigo y que me gustaría entregarle a usted a través de Jesús Ramírez se resume en que Jesús Alí de la Torre, quien fue candidato al PRI al gobierno de Tabasco y que hoy busca gobernar Villahermosa, ordenó detener y secuestrar a través de policías judiciales del Estado de México a Abelardo de la Torre Suire y llevarlo a Tamaulipas, cuando Abelardo recién había sido diagnosticado con cáncer.</p>
+<p>La detención realizada por el delito de homicidio calificado que Abelardo no cometió, y así lo confirmó el Poder Judicial de Tamaulipas, tenía como objetivo extorsionarlo para que entregara a Jesús Alí un bien inmueble para que este pudiera financiar su precampaña al gobierno de Villahermosa.</p>
+<p>El señor Abelardo nos ha dicho que confía en usted, así como también en la gobernadora del Estado de México y el gobernador de Tamaulipas, así como en ambos fiscales, pero hoy teme por su vida.</p>
+<p>Señor presidente, su gobierno ha emprendido un duro trabajo en el combate a la corrupción. ¿Qué opina que un personaje como Jesús Alí de la Torre haya emprendido esas acciones para financiar su precampaña electoral?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues no tengo, la verdad, información. No estoy evadiendo tu pregunta, sencillamente no tengo información. Pero ya presentaste tu denuncia y nosotros vamos a indagar de qué se trata y te vamos a dar una respuesta, si te parece.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Considera que las fiscalías del Estado de México y de Tamaulipas deberían revisar el desempeño de su personal que intervino en este caso?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> En todos los casos hay que revisar asuntos que no estén claros. Deben de ser la mayoría de los casos expedientes abiertos, no cerrar nada si existen dudas. Y todos tenemos derecho a que revisen nuestros procesos, que se indague, que se investigue, que se puedan reunir pruebas. Así sucede en muchos casos que se cometen injusticias: pasa el tiempo, se aclara y pues se libera a los que están detenidos, a los que están presos, incluso hay hasta reparación de daños, todo eso se puede hacer. Y el que es inocente tiene que pelear donde esté, aun en la cárcel, y no rendirse.</p>
+<p>La cárcel pesa mucho, afecta mucho cuando se comete un delito, pero cuando alguien va a la cárcel y es inocente, la cárcel no debe de aplastar a nadie. Es el caso de los luchadores sociales cuando les fabrican delitos, van a la cárcel y siguen luchando; y es muy injusto, mucho, mucho muy injusto, pero ellos se mantienen con fortaleza moral.</p>
+<p>Recuerdo casos como lo del profesor de la Sección 22, Rubén Núñez, era dirigente de la Sección 22. Esto no les va a gustar a los fachos, pero son cosas que no se deben de olvidar: había una campaña en contra del magisterio con la llamada reforma educativa y, entonces, como había resistencia de los maestros, se desató por todos los medios de comunicación, todos, una campaña hablando de que los maestros eran flojos, que no daban clases, que eran alborotadores, agitadores, todo, todo eso.</p>
+<p>Entonces, como seguían firmes, se atrevieron estos conservadores, Claudio X. González, este que es el jefe ahora de la oposición, del bloque conservador, con el <em>Reforma</em> —no estoy inventando nada, nada más refrescando la memoria— acusaron al maestro Rubén Núñez de lavado de dinero y lo llevaron a una cárcel de alta seguridad en Nayarit, enfermo el maestro. Antes ya en el <em>Reforma</em> lo habían calumniado, lo habían tratado de alcohólico, el <em>Reforma</em>. Así eran, bueno, siguen siendo, pues.</p>
+<p>Y salió libre y, desde luego, ¿cuál lavado de dinero? Un maestro que vivía con su sueldo, un maestro honesto. ¿Y ustedes creen que Claudio X González o el <em>Reforma</em> ofrecieron disculpas?</p>
+<p>¿Qué es lo que decía Claudio X González de los maestros? ¿No tienes ahí el video? Nada más para que vean quiénes son estas personas, porque pues esto no lo van a ver en <em>Televisa</em>, ni en <em>Azteca</em>, ni en <em>Imagen</em>, menos en el <em>Reforma, ni en Fórmula</em>, ni en nada, solamente aquí en la mañanera, me refiero a la gente, a la mayoría de la gente.</p>
+<p>A ver, de lo que dicen los maestros.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>CLAUDIO X. GONZÁLEZ</em></strong><em>: No más fintas, Aurelio; goles. No más fintas; goles. No es de gambeteros, es de goleadores. Con gambetas no se ganan los partidos, se ganan con goles. Entonces, hay que intervenir Michoacán y Chiapas, no veo otra salida.</em></p>
+<p><em>Demasiados poderosos los grupos sindicales, hay demasiados radicales, demasiados, contaminados con otros fenómenos delincuenciales. Yo he hablado abiertamente de la Sección 22, de la sección de Chiapas, de la 18, como delincuencia organizada. No de los maestros de Michoacán, de Oaxaca y de Chiapas; de las secciones sindicales. Eso es delincuencia organizada, queridos amigos. Están organizados para delinquir. No trafican, quizá, droga, trafican con el dinero nuestro y con el futuro de los niños. Y eso, en mi opinión, es tan grave como traficar drogas. Son unos pinches delincuentes y hay que intervenir.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya, déjalo ahí.</p>
+<p>¿Ya vieron? ¿Lo habían visto esto? A ver, a ver, a ver, aquí, aquí, aquí, porque aquí están los más informados y también los más honestos. Y la mentira es reaccionaria, la verdad es revolucionaria; la mentira es el Diablo, la verdad es del Creador.</p>
+<p>Que levanten la mano los que habían visto esto. Estamos hablando de los mejores, los más informados.</p>
+<p>No, déjenla arriba un ratito nada más para contar, déjenla arriba. Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, 10. Bájenla.</p>
+<p>Que levanten la mano los que no lo habían visto. Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, 10.</p>
+<p>Empate aquí. Pero si se le pregunta a la gente, es nueve a uno, nueve a uno, para que vean el nivel de manipulación, el grado de manipulación de los medios y cómo estos se convierten en los paladines de la democracia, de la libertad.</p>
+<p>Adelante.</p>
+<p><strong>INTERLOCUTORA: </strong>Gracias, señor presidente.</p>
+<p>Y, por último, preguntarle sobre esta ley que promulgó el gobernador de Texas, que permite a los policías detener a los inmigrantes al cruzar la frontera a los Estados Unidos y que otorga a los jueces locales autoridad para ordenarles que abandonen el país.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Se está haciendo ya un trámite en Relaciones Exteriores para impugnar esta ley. Y, además, nosotros vamos a estar siempre en contra de estas medidas.</p>
+<p>Decirles a nuestros paisanos y a los migrantes que vamos a estarlos defendiendo, que el gobernador de Texas actúa de esa forma porque quiere ser candidato a vicepresidente del Partido Republicano en Estados Unidos y quiere, con esas medidas, ganar popularidad. No va a ganar nada; al contrario, va a perder simpatías, porque en Texas hay muchos mexicanos, muchos migrantes.</p>
+<p>A él se le olvida que Texas era de México, como 10 estados de la Unión Americana, y se le olvida que hay 40 millones de mexicanos en Estados Unidos, y se le olvida que esa gran nación se consolidó, se fortaleció gracias a los migrantes del mundo.</p>
+<p>Y se le olvida que en la <em>Biblia</em> se dice que no hay que tratar mal a los forasteros. Esto lo digo, porque está en el <em>Antiguo Testamento</em> y muchos son religiosos, de estos gobernantes, y seguramente van a los templos. Y es algo inhumano, politiquero.</p>
+<p>Este señor, ¿saben lo que ha hecho? Manda a detener a migrantes en esta temporada de frío, ya cuando empieza el invierno, y los lleva a Nueva York, los lleva y los tiran enfrente de las casas donde viven los dirigentes demócratas, sí, enfrente de la casa de la vicepresidenta de Estados Unidos, Kamala Harris.</p>
+<p>Es un señor de malas entrañas, malo de Malolandia, pero no le va a funcionar. Porque algo parecido hizo el gobernador de Florida, DeSantis, y estaba en las encuestas arriba, no estaba arriba del expresidente Trump, pero sí estaba en segundo lugar, y empezó con esas medidas y se cayó, creo que tiene como uno por ciento de aceptación ahora. Así le va a pasar a este gobernador de Texas con esas decisiones.</p>
+<p>Pero, de todas maneras, vamos nosotros a intervenir, porque además esas son facultades que tienen que ver con el gobierno federal de Estados Unidos, esas no son atribuciones de los estados, él está usurpando funciones y tiene que ver con política exterior, y eso corresponde al Congreso y al presidente de Estados Unidos.</p>
+<p>Vámonos ya. Es que tenemos que prepararnos para el acto. Si nos vamos a estar viendo ahora.</p>
+<p><strong>PREGUNTA:</strong> (Inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ándale, pues, vamos contigo.</p>
+<p><strong>INTERLOCUTOR:</strong> Muchas gracias, presidente.</p>
+<p>Ramón Flores, de <em>El Centinela Informa y The Human Hoy.</em></p>
+<p>Señor presidente, la semana pasada durante su gira por el estado de Campeche usted comentó la importancia que tiene el arroz en el país y los esfuerzos de su gobierno por incrementar la producción de este cereal en el sureste y en el país en general. Usted conoce muy bien el cultivo del arroz, pues se cultiva en su estado natal, Tabasco, en donde se siembra.</p>
+<p>Ante su declaración, productores de arroz se acercaron a nosotros para comentar el temor que tienen de que sus ingresos y el de sus familias se afecten por las importaciones de arroz pulido, que es el producto terminado, si se elimina el arancel el próximo año, que dejaría al productor tabasqueño y a todos los productores de este cereal del país en competencia desleal.</p>
+<p>La eliminación de este arancel al arroz pulido afectará a los 120 mil empleos directos y cerca de un millón de empleos indirectos que genera este cereal en el país, además de las familias de los productores que verán sus ingresos en riesgo.</p>
+<p>Ante este temor que nos comentaron los productores, la pregunta es, presidente: ¿considera usted factible que su gobierno excluya al arroz pulido que llega directamente al mercado del acuerdo de la eliminación de aranceles ante una eventual publicación de ampliación del Pacic el próximo año?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues lo vamos a analizar.</p>
+<p>El caso del arroz es especial. Éramos en un tiempo autosuficientes en producción de arroz; luego, empezamos a importar y ahora debemos estar comprando cerca del 80 por ciento del arroz que consumimos, somos deficitarios.</p>
+<p>Y se abandonó toda la zona arrocera. A pesar de eso, hay todavía siembra de arroz en Morelos, más que en Tabasco, en Campeche, y también en Tabasco, y en otros estados.</p>
+<p>Vamos a ver cómo hacemos, cómo le hacemos porque son de esas decisiones que hay tomar, por la inflación. Siempre la política es optar entre inconvenientes. Si se afecta mucho a los productores mexicanos, no; si podemos compensarlos de otra manera, lo hacemos. Y sí se importa porque necesitamos mantener precios bajos en los alimentos básicos.</p>
+<p>Vamos a revisarlo, eso sí, lo que me estás planteando, con Raquel Buenrostro, la secretaria de Economía, lo vamos a analizar.</p>
+<p>Hemos protegido mucho a los productores. Por ejemplo, se protegió a los productores de plátano de Chiapas, de Tabasco, porque no se suscribió el acuerdo comercial con Ecuador precisamente para proteger la producción de plátano de Chiapas, de Tabasco, de Veracruz, también de Colima.</p>
+<p>Se protegió también la captura de camarón, también, al no suscribir este acuerdo.</p>
+<p>Estamos defendiendo lo del atún, porque no se puede comercializar atún mexicano en Europa o hay muchas dificultades.</p>
+<p>Entonces, sí estamos apoyando a los productores a quienes se dedican a la actividad pesquera. Y lo hacemos con el maíz, lo hacemos con el frijol; pero en el caso del arroz es bastante, es mucho lo que necesitamos; de todas maneras, lo vamos a revisar.</p>
+<p><strong>INTERLOCUTOR:</strong> <em>Okey</em>, presidente.</p>
+<p>Presidente, mi segunda pregunta. Hace un año le planteamos el tema aquí sobre los ahorradores de Ficrea, donde usted pidió que fueran atendidos los ahorradores por la Consejería Jurídica.</p>
+<p>La comisión de ahorradores entregó la información solicitada a la consejería, respondiendo la Consejería por escrito que no cuentan con recursos para resarcir el daño que sufrieron los ahorradores de Ficrea.</p>
+<p>Pero aquí hay una mala información, se creó como el famoso ‘teléfono descompuesto’, porque piensan que los ahorradores les están pidiendo dinero del erario para que les paguen a ellos. Y le voy a explicar rápidamente, presidente: ellos están solicitando que se les devuelvan sus ahorros con las instalaciones que ha incautado la Fiscalía General de la República; incluso ellos están dispuestos a que, si sobra dinero, se les reintegre a las arcas públicas para apoyar los programas sociales que usted, bueno, que el gobierno está manejando.</p>
+<p>Y, pero ellos piden que haya una mesa entre el Indep, la Fiscalía General de la República, su Consejería Jurídica y los ahorradores para que ya se pueda llegar a que les entreguen la subrogación, pues. O sea, porque con todos los bienes inmuebles que le han incautado al dueño de Ficrea, con eso les da para que les paguen a los ahorradores y, si sobra dinero, estarían dispuestos a entregárselo a las arcas públicas para que puedan ellos precisamente ser resarcidos de su daño.</p>
+<p>¿Qué opinión tiene, presidente? O si nos puede usted decir si se podría hacer la mesa entre el Indep, la Fiscalía General de la República, la consejería y los ahorradores para que ya lleguen a un buen término.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, primero con el Indep, sí, que los atiendan, ahora lo vemos con Jesús, si te parece; les dices, Alberto Becerra que los atienda.</p>
+<p><strong>INTERLOCUTOR:</strong> Y, por último, ¿nos confirmaría su visita el domingo 7 de enero a Río Blanco, Veracruz, para conmemorar los mártires de…?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí voy a ir, voy a ir a Río Blanco el día 7, que es un aniversario más de la represión a los obreros de Río Blanco, sí voy a estar.</p>
+<p><strong>INTERLOCUTOR:</strong> Allá lo esperamos. Muchas gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien.</p>
+<p>Hoy hay sorteo especial de la Lotería. ¿No tienes ahí los billetes? Un palco en el Estadio Azteca; tiene un valor estimado de 25 millones de pesos el palco. No, pues se van a <em>rayar</em>, 25 millones.</p>
+<p><strong>PREGUNTA:</strong> ¿No va a recibir al América?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Felicidades al América por su triunfo, jugaron muy bien. Independientemente de la polémica sobre el tiempo extra, es un hecho que jugaron bien toda la temporada, quedaron en primer lugar. También, mi reconocimiento al equipo de Nuevo León, a los Tigres, jugaron muy bien, muy bien los Tigres. Y estuvo la gente muy contenta, mucho muy contenta, no me dejaban ni dormir, pero sí mucha emoción.</p>
+<p>Ahora vienen los deportistas, en un momento ya están aquí, que hicieron una labor de primera en los Panamericanos, y también se va a reconocer a los buenos deportistas.</p>
+<p>Les adelanto que, precisamente por las rifas, por todo lo que se decomisa a delincuentes de cuello blanco y de la delincuencia organizada, se tienen fondos y año con año se les apoya a los deportistas. Ahora vamos a entregarles, pues no sé, pero deben de ser más de 500 millones a los deportistas, el día de hoy, por todo el esfuerzo que hacen, la disciplina, el ejemplo, muy merecido, que representan a nuestro país.</p>
+<p>Ya van dos años en los Panamericanos, México tercer lugar. Y esta vez fue récord en medallas en todos los Panamericanos.</p>
+<p>Y también se va a hacer un reconocimiento por el tercer lugar, tercer lugar en béisbol mundial. Le ganamos a Estados Unidos; sin embargo, nos ganó Japón con uno que es un caballo, como se dice en el béisbol. ¿Saben ustedes? Se llama Othani, el Othani. Pon a Othani. Acaba de firmar un contrato con los Dodgers, lo van a ir a ver allá muchos paisanos a Othani.</p>
+<p>Me mandó una playera firmada con Benjamín Gil, que va a estar hoy precisamente, que era el manager del equipo nuestro, que hizo muy buen trabajo, Benjamín Gil. Me mandó el Othani una playera. Firmó un contrato por 10 años, japonés, el contrato lo firmó con Dodgers, 700 millones de dólares por 10 años. Ahí les dejo de tarea de cuánto es eso. Porque son 70 millones por año, y es una temporada porque no juegan todo el año, son seis meses, 70 millones de dólares por temporada.</p>
+<p>Pero sí es algo excepcional, porque fildea, batea y se sube a pichar; y es muy difícil sacarle el bate. Es un fenómeno del béisbol y del deporte, y este fue el que nos <em>arregló</em> en la final, creo que fue el que bateó un doble, sí, este fue el que nos <em>cepilló</em>.</p>
+<p>Pero hoy vienen los directivos del béisbol y vienen deportistas a las 10:00. Les invitamos, porque va a estar muy bien la ceremonia.</p>
+<p>Nos vemos mañana. Mañana no, mañana es Acapulco; pasado mañana.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

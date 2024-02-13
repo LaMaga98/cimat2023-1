@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>08.03.20 Versión estenográfica. Día Internacional de las Mujeres &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/08-03-20-version-estenografica-dia-internacional-de-las-mujeres/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=129975' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F08-03-20-version-estenografica-dia-internacional-de-las-mujeres%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F08-03-20-version-estenografica-dia-internacional-de-las-mujeres%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2ttyq-f-2ee6b941f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":44,"ak.ipv":4,"ak.proto":"h2","ak.rid":"2332e98","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":15553,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706728689","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==7gZgxDe1SBEkgFmeib4f6LnMHkwtwbYwxX6Wd+0l2fNzxnMWHE7CH1sagn90CaSdswsBpLC3hMkdoPbrCF3PwHQbjIpp1gViY8LrnsZdTDdpbaL0WDpxEwHfg/csGszc3l53mgBLNH3ze69X6aaRfuHKtHNpW7EwwVsKkrWfLNezOMaI3IIWklVVEGUVT46Dvuao3cQtpZBXS1twFzgu30CZPKv6EsnsOlsCBzBj8QSnzBeJPs/xCUEaXt+0UBoEMyz2jLt1o+/g+lBhKneINuHFWC4E2Z+NN7VJ8oB2hVtxQeV1rdVE/Xu1+pheG/X0Ei213nEZ1DNuM+E8mSb0vJmr03WdTGnRhRRQPBnD3d2nyG+BjhxOJbiD4kdxxbVX63K3ZVYFgzCOQRC2+hxXJRNY1u/hD1uPZqX/sSktlE0=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-129975 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9b6d9fe04" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>08.03.20 Versión estenográfica. Día Internacional de las Mujeres</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 08.03.20 Versión estenográfica. Día Internacional de las Mujeres 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-129975" class="post-129975 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2020/03/8-03-2020-DIA-INTERNACIONAL-DE-LAS-MUJERES-FRESNILLO-ZACATECAS-FOTO-012.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2020/03/8-03-2020-DIA-INTERNACIONAL-DE-LAS-MUJERES-FRESNILLO-ZACATECAS-FOTO-012-745x450.jpg" alt="08.03.20 Versión estenográfica. Día Internacional de las Mujeres" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">08.03.20 Versión estenográfica. Día Internacional de las Mujeres</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2020, Año de Leona Vicario, Benemérita Madre de la Patria</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Amigas, amigos de Fresnillo, de pueblos, ejidos, de municipios de este estado de Zacatecas.</p>
+<p>Me da mucho gusto estar de nuevo en Frenillo este domingo, que se ha dedicado a recordar a las mujeres que han luchado durante siglos, durante décadas por la igualdad. Hoy, 8 de marzo, es el Día Internacional de las Mujeres y por eso estamos aquí con ustedes en Fresnillo.</p>
+<p>¡Qué vivan las mujeres!</p>
+<p><audio src="https://lopezobrador.org.mx/wp-content/uploads/2020/03/2020-03-08-Día-Internacional-de-las-Mujeres.mp3" controls="controls"></audio></p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&amp;version=v6.0"></script></p>
+<div class="fb-video" data-href="https://www.facebook.com/lopezobrador.org.mx/videos/136723587713172" data-width="500">
+<blockquote cite="https://www.facebook.com/lopezobrador.org.mx/videos/136723587713172/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/lopezobrador.org.mx/videos/136723587713172/">Día Internacional de las Mujeres</a></p>
+<p>Conmemoramos el Día Internacional de las Mujeres en Fresnillo, Zacatecas, recordando a las numerosas heroínas anónimas, maestras, obreras, campesinas, empresarias, comerciantes, artesanas, jefas de familia, trabajadoras domésticas y dirigentes sociales a quienes refrendamos nuestra solidaridad; reconocemos su trascendencia en la vida pública. La violencia en contra de las niñas y mujeres es incompatible con nuestros ideales; no la permitiremos. Todos los días nos ocupamos en combatir las agresiones de género. Estamos seguros que reduciremos los índices delictivos y, sobre todo, acabaremos con los feminicidios. Trabajaremos firmemente con este propósito. Somos simpatizantes de las causas de las mujeres. En la Cuarta Transformación estamos en contra del machismo.</p>
+<p>Publicado por <a href="https://www.facebook.com/lopezobrador.org.mx/">Andrés Manuel López Obrador</a> en Domingo, 8 de marzo de 2020</p></blockquote>
+</div>
+<p>Escribí un texto para esta ocasión, pero quiero ir también tratando otros temas, porque la lucha por los derechos de las mujeres en México y en el mundo tiene como eje principal la lucha por la igualdad social, la lucha en favor de los humildes, de los pobres, la lucha en contra de la explotación de hombres y mujeres, la lucha en contra de la opresión. Por eso, tenemos que ver el movimiento de las mujeres en el marco de la lucha por la igualdad social en favor de hombres y de mujeres.</p>
+<p>Empiezo recordando que las mujeres siempre han participado con convicción y valor para lograr las transformaciones de México.</p>
+<p>En el movimiento de Independencia nacional, que fue la primera transformación que se llevó a cabo desde que obtuvimos nuestra libertad como país, independiente y soberano, en ese movimiento de Independencia nacional -como todas y todos lo sabemos porque lo aprendimos en la escuela- destacaron mujeres como Josefa Ortiz de Domínguez, como Gertrudis Bocanegra, como Leona Vicario y muchas mujeres más que contribuyeron, ayudaron, en tareas de comunicación o eran correos que llevaban información, trabajaban las mujeres también en la inteligencia, en el espionaje, daban asesoría a los hombres.</p>
+<p>Nada más imaginen. Si había un dirigente independentista, pues tenía a su compañera y ¿qué?, ¿no platicaban?, ¿qué?, ¿no le decía él a su compañera cómo estaba la lucha?, ¿y qué? ¿no opinaba la compañera de ese independentista?</p>
+<p>Pues claro que sí, le daba su punto de vista, lo aconsejaba, lo asesoraba, ni modo que no participaran las mujeres.</p>
+<p>Y también participaron las mujeres en la Independencia en importantes actividades para la construcción de una patria libre.</p>
+<p>Luego, en la segunda transformación, en el movimiento de Reforma, no se puede omitir -y a lo mejor no les va a gustar a algunos, algunas que yo haya escrito- no se puede omitir la aportación abnegada, así, lo repito, la contribución abnegada de Margarita Maza de Juárez.</p>
+<p>Imagínense lo que hizo esa mujer, que se llevó a sus hijos al extranjero para salvar, porque el presidente Juárez corría muchos riesgos y ella se hizo cargo de sus hijos, y en el extranjero se les murieron dos de sus hijos y ella tuvo que sacarlos adelante a los hijos que les quedaron.</p>
+<p>Por eso hablo de Margarita Maza de Juárez y de las mujeres leales al liberalismo, como la señora Agustina de Jesús Ramírez Heredia, era de Mocorito, Sinaloa.</p>
+<p>¿Saben qué hizo?</p>
+<p>Le entregó a Benito Juárez durante la lucha 12 de sus 13 hijos, 12, nada más se quedó con uno para que fueran a defender la República.</p>
+<p>En la Revolución, que fue la tercera transformación, fueron ejemplares mujeres como Carmen Serdán, Amelia Robles, María Arias Bernal, Mercedes Madero, hermana del Apóstol de la Democracia, Francisco I. Madero, Juana Belém Gutiérrez de Mendoza, Dolores Jiménez y Muro, así como las mujeres magonistas.</p>
+<p>Es importante que se sepa que los magonistas que enfrentaban a la dictadura de Porfirio Díaz decidieron irse a luchar en Estados Unidos y desde allá empezaron a hacer el periódico <em>Regeneración</em> para despertar la conciencia de los obreros, de los campesinos y para que se iniciara el movimiento revolucionario. Los magonistas fueron precursores de la Revolución, pero se dedicaban a organizar al pueblo y a despertar la conciencia con ese periódico <em>Regeneración</em>.</p>
+<p>En ese movimiento de Estados Unidos, de los magonistas, participaron mujeres, pero no sólo mujeres mexicanas, también mujeres estadounidenses, algunas hasta de familias acomodadas. Hubo una de esas mujeres que recibió una herencia de su familia y aportó toda su herencia a la lucha por la libertad y era de Estados Unidos y ayudó en la lucha revolucionaria de México.</p>
+<p>También cuántas mujeres periodistas ayudaron, contribuyeron para hacer posible la Revolución. Y quién no recuerda a las célebres soldaderas o adelitas, tenemos claro eso ¿verdad? lo que hicieron las mujeres revolucionarias.</p>
+<p>Por cierto, el Día Internacional de la Mujer tiene como antecedente haber surgido a principios del siglo pasado, 1908, 1909, 1910, 1911, hubo movimientos en Nueva York, hubo movimientos en otros países, en Dinamarca, en Austria, en Alemania, en Suecia, en Rusia, movimientos de mujeres con demandas laborales fundamentalmente, mejores salarios para las mujeres, porque si no eran buenos los salarios para los hombres, menos eran buenos los salarios para las mujeres; y también esos movimientos surgieron para demandar que se redujera la jornada laboral, que era en esos países de 12 horas, aquí en nuestro país desgraciadamente era de 16 horas la jornada laboral.</p>
+<p>Con la Revolución en nuestro país se logró que se estableciera el salario mínimo y una jornada laboral de ocho horas para hombres y para mujeres.</p>
+<p>Yo quiero también aquí informales que me siento orgulloso, porque con el apoyo de empresarios y de trabajadores llevamos 15 meses en el gobierno y ha aumentado el salario mínimo, primero 20 por ciento en el 2019 y para este año, 20 por ciento, repito, 16 por ciento el año pasado y 20 por ciento este año.</p>
+<p>¿Saben desde cuándo no aumentaba así el salario mínimo en México?</p>
+<p>Desde hace 40 años y eso es bueno para hombres y para mujeres trabajadoras.</p>
+<p>Y también entonces además de las demandas laborales se luchaba por los derechos políticos de la mujer, sobre todo el derecho al voto. Imagínense, no podían votar las mujeres, pasaba lo mismo que con los peones de las haciendas, los peones no podían votar, no eran considerados ciudadanos en los tres siglos de dominación colonial, cuando dominaba España a México los peones eran esclavos; pero después vino la Independencia y, a pesar de eso en todo el siglo pasado no podían votar los peones, fue hasta 1914, 1914, hace como 100 años, un poco más que se abolió la esclavitud en México, hace muy poco.</p>
+<p>Bueno, y en el caso de las mujeres también se estableció el derecho al voto de la mujer hasta 1953, pero pasaron todavía dos años, fue hasta 1955 que ya fue efectivo el voto de la mujer.</p>
+<p>¿Hace cuánto?</p>
+<p>Hace 65, 70 años, con el presidente Ruiz Cortines, o sea, con el presidente anterior, Miguel Alemán, no podían votar las mujeres; el presidente anterior, Ávila Camacho, tampoco; el anterior, el general Cárdenas, un gran presidente, tampoco; anterior, los tres que hubo después del general Calles, tampoco, es a partir del presidente Ruiz Cortines y luego viene el presidente López Mateos y ya se empieza a permitir la participación de las mujeres en lo político.</p>
+<p>En el periodo posrevolucionario, ya después de la Revolución y hasta nuestros días hubo mujeres que participaron mucho y que debemos recordar siempre con respeto.</p>
+<p>Voy a mencionar a algunas: Matilde Montoya, que fue la primera médico de México, la primera mujer, se tenía que disfrazar de hombre para que la aceptaran en la Escuela de Medicina, la primera mujer, Matilde Montoya; también recordar a Josefina Vicencio, una escritora; desde luego a Frida Kahlo, a María Izquierdo, a Remedios Varo, a una extraordinaria escultora, Leonora Carrington.</p>
+<p>A una crítica de arte también fallecida, Raquel Tibol; a Virginia Fábregas del teatro, de la cultura; Elvia Carrillo Puerto, hija de Felipe Carrillo Puerto, que luchó por la igualdad de las mujeres; Hermila Galindo, que también luchó para que se le permitiera el voto a las mujeres; Amalia Caballero de Castillo Ledón, que fue embajadora, la primera; Rosario Castellanos, extraordinaria poeta chiapaneca; Nelly Campobello, de Durango, también gran escritora; Elena Garro, una de las mejores escritoras de México.</p>
+<p>Griselda Álvarez Ponce de León, la primera gobernadora que hubo en nuestro país, de Colima; Julieta Campos, una escritora y también servidora pública, fue secretaria de Turismo cuando fui jefe de gobierno en la Ciudad de México: Ida Rodríguez Prampolini, también una mujer destacadísima, investigadora de arte, de cultura; Esperanza Iris, dedicada al teatro; Andrea Cruz, fue la primera mujer en portar el escudo, la bandera de México, nuestro símbolo principal cuando se inauguraron los Juegos Olímpicos de 1968. Todavía vive, una mujer extraordinaria.</p>
+<p>De las primeras que empezó a luchar por los derechos humanos, a buscar a sus hijos desaparecidos, Rosario Ibarra; y también otra mujer que siempre ha dedicado su vida a defender causas justas y que también, afortunadamente vive y está activa, Elena Poniatowska.</p>
+<p>Y también aquí podría hablar de más mujeres, infinidad de heroínas anónimas, maestras, obreras y compañeras, esposas de dirigentes sociales, porque ¿qué hace un dirigente social sin su compañera?  Nada.</p>
+<p>Dirigentes sociales, compañeras de guerrilleros, compañeras de políticos opositores, destaco el gran apoyo que significó, lo tengo muy presente, la participación de las nuevas ‘Adelitas’ que defendieron recientemente el petróleo y otros bienes nacionales ambicionados por políticos corruptos y traficantes de influencia durante el periodo neoliberal o de pillaje, este que terminó ya afortunadamente el 30 de noviembre del 2018, que ya se acabó esa pesadilla.</p>
+<p>A lo largo de mi vida como dirigente he luchado codo a codo con mujeres inteligentes y con arrojo para hacer valer la igualdad social y la democracia. Cuando fui jefe de gobierno en la Ciudad de México la mayoría de los integrantes del gabinete eran mujeres, como dirigente partidista de oposición siempre impulsé la igualdad de género, le llaman ahora paridad de género.</p>
+<p>Sin oportunismo, puedo expresar que formé parte del movimiento por el cual, en nuestros días, en la actualidad casi la mitad del total de legisladores, tanto en la Cámara de Diputados como en la Senadores, la mitad son mujeres, situación que nos coloca en el quinto lugar mundial en este aspecto. Es un logro muy importante.</p>
+<p>También en el gobierno que represento como nunca hay mujeres en el gabinete y en puestos de dirección, aquí ya las presentaron a las secretarias; estábamos ocho a ocho, pero hubo un cambio y se quedaron siete, nueve hombres, siete mujeres más el secretario de la Defensa y el de Marina, pero ya se va a equilibrar, hago el compromiso de que van a entrar más mujeres próximamente al gabinete.</p>
+<p>Pero no sólo es el gabinete. Aquí está, por ejemplo, Raquel Buenrostro Sánchez, ella es la jefa del SAT, la que cobra, no digo los impuestos, las contribuciones, ella es a nivel federal; aquí está Rocío Mejía Flores, que es la encargada de programa de Tandas para el Bienestar, los créditos; aquí está Leticia Ánimas Vargas, que es la coordinadora nacional del programa Becas para el Bienestar Benito Juárez; y aquí está una compañera que desde hace más de 20 años me ayuda, Leticia Ramírez Anaya, es directora general de Atención Ciudadana, esta compañera está todos los días desde antes de las 6:00 de la mañana en Palacio, ahí recibiendo a la gente y atendiendo al pueblo, ese es su trabajo.</p>
+<p>Por eso puedo comentarles que ocupamos el lugar 16 en el mundo en porcentaje de mujeres con cargo ministerial. Baste decir, ya lo comentó ella misma, que por primera vez en la historia de México la Secretaría de Gobernación está encabezada por una mujer, la ministra Olga Sánchez Cordero.</p>
+<p>Los jóvenes a lo mejor ya no se acuerdan, no vivieron ese tiempo, por eso lo menciono. Los mayores, no los viejos, los maduros, saben lo que era la Secretaría de Gobernación antes, era la del puño duro, la mano dura, era la secretaría de la represión, el mismo Fidel Velázquez, el finado Fidel Velázquez decía: ‘No voy a Gobernación porque ahí nada más regañan’; bueno, no sólo regañaban, había hasta sótanos en donde encerraban a los opositores.</p>
+<p>Ahora es distinto, por eso, entre otras cosas, se decidió que la doctora en derecho Olga Sánchez Cordero se encargara de Gobernación, porque ya no es para reprimir al pueblo esa secretaría, sino para defender los derechos humanos y los derechos de las mujeres.</p>
+<p>Pero quizá lo más importante que podamos decir el día de hoy es que los programas del gobierno federal, los programas de bienestar del gobierno federal benefician a 21 millones de personas hasta ahora, que estamos avanzando, pero hay 21 millones de personas que reciben un apoyo directo, 21 millones de las cuales, de esos 21 millones, 12 millones 600 son mujeres, es decir, el 60 por ciento de los beneficiarios de los programas sociales.</p>
+<p>Otro dato, estamos distribuyendo 310 mil millones de pesos a programas de bienestar, 310 mil millones de pesos a programas de bienestar, adultos mayores, pensión para niñas, niños con discapacidad, becas para preescolar, primaria, secundaria, preparatoria, universidad, Jóvenes Construyendo el Futuro, apoyo para campesinos, Precios de Garantía, todo eso.</p>
+<p>Bueno, de esa inversión de 310 mil millones de pesos, 185 mil millones llegan de manera directa a manos de niñas, de mujeres que están estudiando, adolescentes, madres de familia, de mujeres mayores de edad, más de la mitad de lo que estamos destinando del presupuesto a programas de bienestar está llegando a las mujeres. De modo que con hechos hemos demostrado, y lo seguiremos haciendo, que somos simpatizantes de las causas de las mujeres y en general también de la justicia para todos los seres humanos.</p>
+<p>Yo estoy a favor de las causas de las mujeres, pero no quiero la separación de mujeres y de hombres, es la lucha de las mujeres y de los hombres. Siempre hemos estado en contra del clasismo, vamos a apoyar también en el campo de Zacatecas, siempre hemos estado en contra del racismo.</p>
+<p>En el caso de los trabajadores de salud, aquí aprovecho para decirles que van a tener garantizadas sus bases; y, como me invitó el gobernador Alejandro Tello, voy a regresar a Fresnillo a la inauguración del Hospital de la Mujer.</p>
+<p>Estamos en contra del machismo y todos tenemos que ayudar. El que no brinque, a ver, el que no se pare es machista. Ah, ¿se van a quedar sentados?</p>
+<p>Todos en contra de la discriminación, en contra del racismo, del clasismo y del machismo. Que nadie se confunda o quiera manipular, la violencia en contra de las niñas y de las mujeres es incompatible, no es compatible con nuestros ideales, no lo queremos ni lo vamos a permitir.</p>
+<p>En el gobierno de la Cuarta Transformación estamos ocupados todos los días en combatir la violencia, combatir la violencia atacando sus causas y sus efectos. Por nuestra convicción somos partidarios de la democracia, de las libertades, de la no violencia y creemos firmemente que la paz y la tranquilidad son frutos de la justicia.</p>
+<p>Por eso, la estrategia del gobierno para enfrentar los problemas de inseguridad y de violencia no tienen como fundamento, como era antes, el uso de la fuerza, sino la atención a los graves problemas de desigualdad, de pobreza, al grave problema de la desintegración familiar y lo que ha venido sucediendo, la pérdida de valores, culturales, morales, espirituales.</p>
+<p>A pesar de toda la herencia que recibimos de corrupción y de la red de complicidades que imperó durante los gobiernos neoliberales, estamos dedicados de tiempo completo a garantizar la paz y la tranquilidad en el país.</p>
+<p>Y estoy seguro que, si seguimos trabajando todos los días con perseverancia… Así lo dije ayer en Jerez, yo he demostrado ser perseverante, terco, pues así como fui terco para llegar a la Presidencia y llevar a cabo la transformación de México, así soy terco y vamos a serenar a Zacatecas y a serenar al país, vamos a acabar con la violencia.</p>
+<p>Estoy seguro también, y esa es una ventaja que tenemos, no llegué a la Presidencia por el apoyo de las mafias del poder o de los grupos económicos o de grupos de intereses creados, llegué por la voluntad del pueblo, mi único amo es el pueblo de México.</p>
+<p>Por eso es una ventaja, no tengo que estar protegiendo a nadie, no tengo por qué mantener privilegios de nadie, no va a haber nunca impunidad, se va a acabar la corrupción, se va a acabar la impunidad. Me canso ganso.</p>
+<p>Tengo confianza que, si no hay impunidad porque, imagínense, si no hay una línea divisoria, si no hay una frontera entre autoridad y delincuencia estamos perdidos, no se logra nada.</p>
+<p>¿Qué pasaba anteriormente?</p>
+<p>Que los encargados de la seguridad estaban al servicio de la delincuencia. Eso nunca más va a suceder, se acaba la impunidad. Una cosa es la delincuencia y otra cosa muy distinta la autoridad y el que la hace la paga. Así es de claro.</p>
+<p>Por eso estoy optimista y sé que vamos a reducir el índice delictivo y se van a terminar los crímenes de odio y los feminicidios, porque vamos a estar como siempre trabajando con este propósito.</p>
+<p>Creo firmemente que la estrategia de atender a las familias, la familia es la institución de seguridad social más importante en el país, nuestras familias. No es el Seguro Social, no es el Issste, no es el gobierno, la institución más importante de seguridad social es la familia, sobre todo la familia mexicana.</p>
+<p>Por eso tenemos que fortalecer los lazos familiares, mantener integrada a las familias, fortalecer los valores, morales, espirituales, hablar mucho que la felicidad no es tener bienes materiales, dinero, alhajas, títulos, no, la verdadera felicidad es estar bien con uno mismo, estar bien con nuestra conciencia y estar bien con el prójimo, esa es la verdadera felicidad.</p>
+<p>Y decir una y mil veces que sólo siendo buenos podemos ser felices, sólo así, siendo bondadosos, vamos a ser felices. Nada de que: ‘Me voy a meter a una banda de delincuentes y así voy a traer ropa de marca, y la troca y alhajas, muchachas guapas’. Eso es pasajero, es efímero, eso no es felicidad, la verdadera felicidad, repito, es actuar con amor al prójimo y actuar con rectitud.</p>
+<p>Miren, estamos ya llevando a cabo una campaña de orientación a todos los jóvenes, primero a los jóvenes se les están dando oportunidades de estudio y de trabajo, nunca más le vamos a dar la espalda a los jóvenes, nunca más se va a discriminar a los jóvenes.</p>
+<p>Y también orientarlos muchos para que no tomen ese camino de las conductas antisociales, porque en vez de felicidad, es sufrimiento para ellos, para sus familias, para sus madres que padecen mucho porque tienen hijos desaparecidos, porque tienen hijos en las cárceles o porque sus hijos perdieron la vida, da mucha tristeza todo eso. Tenemos que estar informando a los jóvenes que se puede ser feliz si se estudia, si se tiene un trabajo, si nos mantenemos juntos en las familias, que haya mucho amor en las familias.</p>
+<p>Si hay un hijo, una hija que tiene una conducta de rebeldía, ¿qué es lo que hay que hacer?</p>
+<p>Abrazarlo, darle mucho amor, quererlo mucho, no rechazarlo, no marginarlo, no insultarlo. Tenemos que tener una actitud amorosa, una república, una cosa pública amorosa. Y también en lo familiar promover mucho el amor al prójimo, no dejarle el asunto de la familia a los conservadores, el asunto de la familia tiene que ver con los humanistas y eso es nuestro movimiento, un movimiento humanista.</p>
+<p>Invito a que sigamos luchando por los derechos y la justicia a favor de todas las mujeres, de las mujeres indígenas, de las mujeres campesinas, de las mujeres obreras, de las mujeres que trabajan mucho en el hogar, las maestras, las estudiantes, las enfermeras, las doctoras, las servidoras públicas, oficinistas, las mujeres soldados o soldadas, las marinas, las policías, las profesionales, las mujeres comerciantes, las mujeres artesanas, las mujeres empresarias, las mujeres escritoras, intelectuales, las mujeres periodistas, comunicólogas, las trabajadoras domésticas; y de manera así, muy cariñosa, las mujeres con hijos o familiares desaparecidos, todo nuestro cariño, todo nuestro amor, toda nuestra solidaridad. En fin, que luchemos siempre en pos de todas las mujeres de México.</p>
+<p>Amigas y amigos de Fresnillo:</p>
+<p>Yo reitero el compromiso de no fallarles y de continuar actuando con apego a los principios de no mentir, no robar y no traicionar al pueblo.</p>
+<p>¡Que vivan las mujeres de México!</p>
+<p>¡Viva México!</p>
+<p>¡Viva México!</p>
+<p>¡Viva México!</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

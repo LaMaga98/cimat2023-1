@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>21.04.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador, desde Veracruz &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/21-04-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-veracruz/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=161398' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F21-04-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-veracruz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F21-04-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-veracruz%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sunq-f-adc5ba3e1-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":45,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c6c2a9","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":31486,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726683","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==8UosdEpgxLIVc+hcN/uYFflcSLxdcEaDNyKvGPyRTP4SnPp+JPy9sVtPDcgCXisvM/jy9l0d/RZu16FVD/Yiew60QwHT5JTDPc7t4EJFqqTO281Ipfjxuzd4VU9WFu4NC7MVIh8SIybhyujcRWa8hOJAFUBVpue5jGWoNp0OUQgCls9xtuFF0hviQKxHugMUVC5KX00ZvHI/CeCDPt99BlnzfuCIZESXHQLIkPZYWjLjEu43BzW4UAI8ZeDHBOjgxeNx2X2QzcqmFkw88g0Gqr0iS6H0TbSWym8wNB4OyhSBD3eIo/myB/UIMgIOx5VQ6ZbuR/346lqDNl0KNNdVaiaOcYTub8oX31KtLURz+R+1gjVypPYgq4p74dB+8P3g7qkKd+avtZtrBWArqE+a+s4aR45Lm2yUWuIDeBcWfHw=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-161398 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9396d5b37" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>21.04.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador, desde Veracruz</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 21.04.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador, desde Veracruz 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-161398" class="post-161398 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/04/2023-04-21-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/04/2023-04-21-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01-745x450.jpg" alt="21.04.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador, desde Veracruz" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">21.04.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador, desde Veracruz</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Buenos días.</p>
+<p>Bueno, nos da muchísimo gusto estar aquí, en el puerto de Veracruz, que es parte fundamental de la historia de México. Ya terminamos la reunión de seguridad que celebramos todos los días de 6:00 a 7:.00 de la mañana de lunes a viernes y vamos a informar sobre cómo está la situación de seguridad, la incidencia delictiva en Veracruz.</p>
+<p>Estamos satisfechos, aun cuando tenemos que seguir trabajando para concluir la obra de transformación emprendida en Veracruz y en el país. Se ha avanzado mucho en el estado de Veracruz, tanto en programas para el bienestar de la gente como en obras públicas, inversiones, y todo esto se refleja en que hay crecimiento económico, hay empleos, hay bienestar en el estado de Veracruz.</p>
+<p>También, vamos a participar más tarde en la ceremonia para recordar un hecho lamentable, lo que significó la invasión estadounidense de 1914, una invasión muy lamentable, decía, que se lleva a cabo después del gran zarpazo de 1847, cuando por esa invasión nos arrebataron más de la mitad de nuestro territorio, y esta fue la segunda. Y hubo otras que no son tan conocidas, pero es uno de los motivos por lo que se considera varias veces heroico a este puerto de Veracruz, cuatro veces heroico puerto de Veracruz.</p>
+<p>Entonces, vamos a darle la palabra al gobernador Cuitláhuac García.</p>
+<p>Estamos también muy contentos de estar aquí acompañado del gobernador y sobre todo muy satisfechos por el trabajo que está haciendo el gobernador en Veracruz. Desde luego, hay cuestionamientos, hay críticas, eso es parte consustancial de la democracia, pero es como de la tierra al cielo la diferencia de lo que eran los gobernadores de antes aquí en Veracruz, y lo que padecían mis paisanos, y lo que representa el gobierno de Cuitláhuac García; hay, pero muchísima diferencia.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/04/Conferencia-matutina_2023-04-21.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/2C_BxPQnNRw?t=277" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>No voy a hacer aquí el relato, que ya ustedes conocen muy bien, de cómo se padeció de gobernadores mediocres y ladrones, y ahora no es el caso afortunadamente. Para hablar con claridad, ¿no?, como nos gusta a los veracruzanos, a los de la cuenca del Papaloapan, a los jarochos.</p>
+<p>Entonces, vamos a darle la palabra al gobernador Cuitláhuac, luego el almirante Ojeda va a informar sobre la situación de seguridad en el estado y posteriormente ya abrimos para preguntas y respuestas.</p>
+<p><strong>CUITLÁHUAC GARCÍA JIMÉNEZ, GOBERNADOR DE VERACRUZ: </strong>Buenos días, presidente. Bienvenido nuevamente a Veracruz, a esta tierra heroica, como usted lo ha relatado.</p>
+<p>Informarle, presidente, que vamos bastante bien. Ha crecido la inversión extranjera en Veracruz, como usted debe de tener conocimiento. Las obras de inversión extranjera que se están realizando gracias a esta promoción que desde el Istmo de Tehuantepec hasta acá, hasta el puerto, y en el norte de Veracruz se ha hecho, pues han llegado al menos tres inversiones ancla acá: la de Constellation Brands, que está ya en marcha en el sur de Veracruz, en la zona del Istmo de Tehuantepec, dos inversiones grandes de empresas extranjeras también que ya estaban asentadas, pero a partir del impulso que se la ha dado a través del Istmo de Tehuantepec deciden ampliar sus capacidades.</p>
+<p>También esto ha permitido, presidente, que vayamos mejorando en temas de seguridad; es decir, no es solamente la acción policial, sino también el hecho de que vamos mejorando económicamente en Veracruz, las personas van teniendo mayor bienestar. Comentarle que ya aquí en Veracruz se superaron desde el año pasado los más de dos millones de beneficiarios de algún programa federal.</p>
+<p>Decirle también, presidente, como ha sido de su interés, informarle a la opinión pública la situación que guarda la Torre Centro de Veracruz. Esta obra, que sin los permisos correspondientes de cualquier tipo de obra requiere, han librado, por decirlo de alguna manera, algunas acciones que hemos interpuesto contra esa construcción. Hemos promovido siete juicios en contra de esta construcción, pero lamentablemente dos jueces federales en su actuación, pensamos, han encubierto un hecho ilegal a todas luces a través de conceder el amparo a los dueños de la torre.</p>
+<p>El primero es el juez Mario de la Medina Soto, quien otorgó la suspensión definitiva por orden del Tribunal Colegiado. Este juez, aunque posteriormente se excusó por ser familiar directo de uno de los dueños de esta Torre Centro, aun así, tuvo actuación, por lo cual también nosotros solicitamos al Consejo de la Judicatura revisara el caso; no procedió a mayores lamentablemente.</p>
+<p>También, una vez excusado, el caso pasó al juez Arquímedes Gregorio Loranca Luna, quien, al darle sólo continuidad a este juicio, ha amparado en varias acciones de las que hemos promovido a los dueños. Otorgó la suspensión provisional y definitiva en el juicio de amparo indirecto 1277/2021, 1278/2021, 1280/2021, 114/2022, 313/2022, 350/2022 y 391/2022. Estos tres últimos fueron concluidos por desistimiento del promovente, o sea, de los dueños; sin embargo, al quedar activos los primeros cuatro con sentencia de suspensión provisional y definitiva, se queda sin efecto todas las acciones que se han realizado, principalmente porque esta obra no tiene o ha incumplido los dictámenes de protección civil y de cambio de uso de suelo.</p>
+<p>Ninguna obra en ningún lado de este país puede realizarse si no se tienen estos dos dictámenes. Sin embargo, en este hecho, como podemos ver en las gráficas, la obra se encuentra prácticamente concluida y los jueces, en lugar de observar que se han construido de manera totalmente ilegal, han otorgado los amparos.</p>
+<p>Por lo cual, presidente, quiero aquí delante de la opinión pública, de la prensa, de la gente que nos está viendo, decirle que vamos a proceder con la denuncia contra el José Arquímedes Gregorio Loranca Luna en virtud de que, consideramos, ha actuado de manera indebida.</p>
+<p>Cabe señalar que este juez que ha otorgado la suspensión provisional y definitiva en cuatro juicios contra la torre. Es el mismo juez que hace unos días ordenó la liberación de los padres de Marlon ‘N’, presunto feminicida de la joven Montserrat y que ha sido un caso debatido mediáticamente en virtud de que los padres presuntamente actuaron en complicidad de este feminicidio en protección al hijo, presunto feminicida Marlon ‘N’, y no obstante las pruebas otorgadas por la fiscalía, obligó al juez de control se repitiera la audiencia, pero le instruyó que la resolución tiene que ser la liberación, lo cual también consideramos es un exceso de parte de este mismo juez.</p>
+<p>Pero, por si fuera poco, es de aquí, la gente local de Veracruz lo deberá de recordar muy bien, es el mismo juez que liberó a uno de los llamados ‘Porkys’, en el caso de abuso sexual a una menor.</p>
+<p>Este juez en estas tres actuaciones, pensamos, indebidas, debe ser ya señalado, investigado por sus actuaciones por el Consejo de la Judicatura Federal. Por lo tanto, en esta última nosotros pensamos tener la razón de una presunta mala actuación del juez, por lo que procederemos a su denuncia.</p>
+<p>Es todo.</p>
+<p>Gracias.</p>
+<p><strong>JOSÉ RAFAEL OJEDA DURÁN, SECRETARIO DE MARINA:</strong> Cono su permiso, señor presidente.</p>
+<p>Vamos a darles el informe de seguridad aquí en el estado de Veracruz. El estado de Veracruz cuenta con 71 mil 823 kilómetros cuadrados, 212 municipios y más de ocho millones de habitantes. Los municipios más poblados, desde luego es Veracruz, Xalapa, Coatzacoalcos, ellos ocupan, más o menos, el 17.5 por ciento de la población del estado.</p>
+<p>En lo que se refiere a la incidencia delictiva, vamos a mostrarle los ocho delitos con mayor frecuencia aquí en el estado, desde diciembre del 18 a marzo del 23. Vamos a ir viendo por uno por uno.</p>
+<p>En lo que se refiere a secuestros, en el mes de marzo hubo tres, ocupa el tercer lugar de la media nacional, es un delito que va a la baja.</p>
+<p>En lo que se refiere a feminicidio, ocho casos en el mes de marzo, también va decreciendo, ocupa el sexto lugar con respecto a la media nacional, 19 en lo que va del año.</p>
+<p>Extorsiones, 82 casos en marzo, es uno delitos que va creciendo, ocupa el séptimo lugar, 224 casos en lo que va del año.</p>
+<p>En robo a transportistas, 11 casos en el mes de marzo, va decreciendo, ocupa el 10º lugar, y son 28 casos en lo que del año.</p>
+<p>En lo que se refiere a robo a negocio, 287 casos, va decreciendo, 997 en lo que va del año, ocupa el 12º lugar con respecto a la media nacional.</p>
+<p>En robo a transeúntes, 206 casos, es una constante, ocupa el 13º lugar, 574 casos en lo que va del año.</p>
+<p>Robo en transporte, 11 casos en marzo, 43 en lo que va del año, ocupa el 15º lugar con respecto a la media nacional.</p>
+<p>Y homicidio doloso, 64 casos, va a la baja, 18º lugar con respecto a la media nacional, 189 casos en lo que va del año.</p>
+<p>Con respecto a homicidios dolosos por entidad federativa en la presente administración al mes de marzo, Veracruz está ubicado en el noveno lugar con respecto a la media nacional.</p>
+<p>Y homicidio doloso por cada 100 mil habitantes en la presente administración en lo que va del mes de marzo, ocupa el 18º lugar con respecto a la media nacional.</p>
+<p>Los municipios con mayor incidencia delictiva: Veracruz, Xalapa, Coatzacoalcos, Córdoba y Orizaba. En total del estado, tres mil 441 y, de estos municipios, mil 804 ocupan el 52 por ciento.</p>
+<p>En lo que se refiere a seguridad pública, la policía estatal tiene siete mil 118 elementos, de los cuales siete mil 20 son operativos.</p>
+<p>Las policías municipales, seis mil 351, de los cuales cinco mil 990 son los operativos.</p>
+<p>En lo que se refiere a la policía naval, 845 elementos, de los cuales 645 son operativos.</p>
+<p>En total de la seguridad pública se tienen, reales, 14 mil 314; operativos, 13 mil 255.</p>
+<p>En lo que se refiere a fuerzas federales aquí en la seguridad del estado, la Secretaría de Marina cuenta con nueve mil 462 elementos; operativos, siete mil 96. El Ejército, siete mil 214, seis mil 492 operativos; la Guardia Nacional cuatro mil 15, tres mil 614 operativos. Y en total, las fuerzas federales, estatales y municipales se tiene un número de 35 mil cinco elementos, de los cuales 30 mil 457 son los operativos.</p>
+<p>En lo que se refiere al despliegue de las coordinaciones regionales de la Guardia Nacional aquí en el estado, hay una coordinación estatal y 18 coordinaciones regionales con cuatro mil 15 elementos.</p>
+<p>En lo que se refiere a compañías de Guardia Nacional en el estado, 32 instalaciones, de las cuales 13 compañías ya están terminadas, ocho compañías en construcción, siete compañías pendientes por su construcción y cinco espacios asignados por la Secretaría de la Defensa Nacional para ocuparse como cuarteles de la Guardia Nacional.</p>
+<p>En lo que se refiere a aseguramientos de diferentes índoles aquí en el estado, como pueden ver en la presentación, hay diferentes cosas que se han detectado aquí: marihuana, tres mil 394 kilógramos; vehículos asegurados, tres mil 188; una aeronave; madera, dos mil 636 mil metros cúbicos; armas de fuego, 487 cartuchos, etcétera, etcétera.</p>
+<p>En lo que se refiere a búsqueda y rescate, la Secretaría de Marina cuenta con dos estaciones navales de búsqueda y rescate aquí en el estado, una aquí en Veracruz y el otro en Coatzacoalcos. En Veracruz se cuenta con 24 elementos, en Coatzacoalcos con 15. Y se han realizado en Veracruz 202 operaciones en Coatzacoalcos 195, en Veracruz se han rescatado 201 personas, en Coatzacoalcos 53, y evacuaciones médicas en Veracruz siete y en Coatzacoalcos uno.</p>
+<p>Con lo que se refiere a la Secretaría de la Defensa Nacional, tiene un Subcentro Regional de Búsqueda y Rescate en la Estación Aérea Militar número VII, en Canticas, Veracruz, 149 elementos.</p>
+<p>Y activación del Sistema Ensar de la Secretaría de la Defensa para obtener información inicial, han sido 12 casos; y personal asistidas 28 personas.</p>
+<p>En lo que se refiere a alertamiento aéreos, ha habido cinco casos con un resultado positivo, una avioneta asegurada.</p>
+<p>En lo que se refiere a Plan Marina, Plan DN-III-E y Plan de la Guardia Nacional, se han dado 426 eventos; personas beneficiadas, 127 mil 42; lluvias severas, se ha atendido 128; incendios forestales, 167; incendios urbanos, 50; explosiones, seis; accidentes ferroviarios, tres; accidentes aéreos, dos; amenaza de bomba, dos; huracanes, se han atendido en un caso; frente frío, uno; deslaves, 13; accidentes vehiculares, 26; derrame de sustancias químicas, 27.</p>
+<p>En lo que se refiere a un programa de atención medida de primer contacto en lugares de difícil acceso, se han beneficiado aquí en el estado a 13 mil 963 personas. Se emplean ambulancias, cuatro; vehículos, 14, una cocineta; comunidades atendidas, han sido 24. Las dependencias participantes: la Secretaría de Marina, el Instituto Mexicano del Seguro Social, Secretaría de Salud del estado, Bienestar y el DIF.</p>
+<p>Por lo que se refiere al estado y la seguridad en la situación de seguridad pública en el estado es todo lo que le podemos informar, señor.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muchas gracias.</p>
+<p>Muy bien, pues vamos a abrir. Sí, contigo comenzamos y luego un compañero de los medios. Ahora vamos con ella.</p>
+<p><strong>PREGUNTA:</strong> Gracias, gobernador.</p>
+<p>Claudia Montero, de <em>Al Calor Político</em>.</p>
+<p>Ayer anunció la venta del avión, que, bueno, se habían hecho sorteos, incluso Veracruz fue uno de los premiados en algún municipio de la sierra. Pero preguntarle sobre esta venta, si hubo alguna pérdida en la transacción que se hizo.</p>
+<p>Y sobre los recursos que se van a invertir, mencionaba usted que obras, en hospitales, pero si se va a detallar o si solamente van a hacer ese tipo de obras.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, la verdad que estamos contentos porque se vendió el ostentoso avión presidencial.</p>
+<p>Este avión lo compró Calderón, aunque él no lo usó, se lo dejó comprado al licenciado Peña Nieto. Al final del gobierno de Calderón tomaron la decisión de comprar este avión, que lo mandaron a hacer especial, no es un avión construido en serie.</p>
+<p>Desde luego, es un avión que no podía utilizarse en nuestro país porque técnicamente debe volar en distancias largas que lleven cinco horas en promedio y nuestro territorio en ese avión se puede recorrer en menos tiempo, ni siquiera a la frontera; puede ser que de frontera a frontera, pero no.</p>
+<p>Entonces, fue un despropósito porque, por ejemplo, no se debía usar para venir a Veracruz, porque apenas está levantando y ya hay que bajarlo. Es un avión para ir a Europa en 10 horas sin recarga de combustible, incluso más de 10 horas sin recargar combustible. Es enorme, no hay aviones de este tamaño en las rutas nacionales, Aeroméxico no usa un avión así para sus viajes al interior del país, ni Viva Aerobús ni ninguna línea.</p>
+<p>Costó muchísimo porque es un avión muy lujoso. Miren nada más sus interiores. En una situación normal es para 240 pasajeros, pero lo adaptaron para 80, para que las sillas sean amplias.</p>
+<p>Esas son de segunda o de tercera ¿Por qué no ponen las de primera?</p>
+<p>Miren, este es un despacho. A ver, este es otro.</p>
+<p>Otra. A ver si no tienes ahí la de la alcoba. Tiene un departamento adentro, miren.</p>
+<p><strong>INTERVENCIÓN:</strong> ¿Ya se sabe cuándo se entrega?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Vamos por partes. Ya no quisieran que yo hablara de esto.</p>
+<p>Una caminadora. Le preguntaba yo al comandante que, si él veía normal, ¿no?, ir en un vuelo y usar una caminadora. Un despropósito. Miren los lujos para pequeños faraones, acomplejados.</p>
+<p>Bueno, como a todo mundo le consta, quisimos venderlo desde el principio, hice ese compromiso en la campaña, como hemos vendido ya como unos 10 aviones, porque no fue nada más este. Sí, creo que cerca de 10 ya se han vendido, le voy a pedir al director de Banobras que la semana que viene en la Ciudad de México presente todo el informe.</p>
+<p>Entonces, no había clientes. Se lo ofrecí al presidente Trump, se lo ofrecí al presidente Biden, se lo ofrecimos a la vicepresidenta Kamala Harris, se reía nada más cuando le explicaba yo cómo era el avión.</p>
+<p>Como también les consta, lo rifamos; ya le sacamos algunos fondos que se usaron para la construcción de escuelas, de centros de salud, pero nos quedaba el avión, hasta que un gobierno de Asia Central, Tayikistán, el país de Tayikistán se interesó.</p>
+<p>Y cuidamos el acuerdo porque, pues como tenemos tantos —no tantos, pero sí algunos adversarios— no quisimos decir nada. Se hicieron los avalúos y aceptaron comprar el avión, se hizo un avalúo en el gobierno, en Hacienda, y pagaron mil 658 millones, mil 658 millones al Instituto para Devolverle al Pueblo lo Robado, y ya entregaron todo el dinero. Por eso, también no podíamos decir nada hasta que se contara con todo el dinero; ya se tiene y fue de acuerdo al avalúo.</p>
+<p>Una de las preocupaciones, porque teníamos varias, es de que el avión pues se fue depreciando en la medida en que fue pasando el tiempo. Ayer hablaba yo de que estábamos como los nuevos ricos, los nuevos ricos que compran un yate o un avión así, y están contentos cuando lo estrenan y luego vuelven a estar contentos cuando lo venden. Entonces, cada vez, cada día, pues se depreciaba.</p>
+<p>Y tuvo también una falla de origen en la fabricación, que salió desde el primer avalúo y eso le bajó el precio, y fue creciendo también ese desperfecto, pero, bueno, el último avalúo que se realizó fue de mil 658 millones.</p>
+<p>Se atrevieron a ponerle el nombre de ‘José María Morelos y Pavón’, imagínense, cuando Morelos luchó por la igualdad. Decía Morelos: ‘Que se modere la indigencia y la opulencia’.</p>
+<p>Pero ya se va a ir y el dinero se va a emplear en la construcción de dos hospitales:</p>
+<p>Uno en La Montaña de Guerrero, en Tlapa, que es la zona más pobre de México, ahí se va a construir un hospital de 80 camas.</p>
+<p>Ahí se está haciendo también un hospital para atender a niños, a niñas con discapacidad; pero este hospital general se necesita, porque el hospital que hay en Tlapa tiene ya cerca de 50 años y está en muy mal estado, se va a hacer un hospital nuevo.</p>
+<p>Los dos hospitales los va a construir la Secretaría de la Defensa a través de los ingenieros militares. En el caso de Tlapa, para no tener que tirar el que está, se va a ubicar el nuevo hospital en un terreno que tiene la Secretaría de la Defensa de alrededor de 60 hectáreas, para que quede bien ubicado.</p>
+<p>El otro hospital se va a construir en Tuxtepec, Oaxaca, y esto también va a ayudar a Veracruz porque es en la cuenca del Papaloapan, está en los límites de Oaxaca y Veracruz, y es una zona también muy pobre. Ahí está el histórico valle nacional, donde llevaban a los esclavos en la época de Porfirio Díaz. Y es una región, todo lo que es la cuenca del Papaloapan, Tuxtepec, que necesita de atención. Ahí ya se tiene el terreno, el presidente municipal, el gobierno de Tuxtepec ya ofreció el terreno.</p>
+<p>De modo que vamos a empezar a construir pronto los dos hospitales, también ese de 80 camas con especialidades, y vamos a inaugurar los dos hospitales antes de septiembre del año próximo, equipados, y con médicos, y con especialistas, y con medicinas suficientes.</p>
+<p>Entonces, ya salimos de este pendiente que teníamos. Desde luego, hay algunos que no les gusta, pero la mayoría de la gente está contenta, porque, además, es algo que no se debe repetir, imagínense con tanta pobreza un avión así.</p>
+<p>Tiene un poco más de 10 años y, estuve sacando cuentas sobre las horas de vuelo, y creo que fueron siete días sumados, siete o 70, creo que 70 días. Y tenerlo era un gasto de millones de pesos en mantenimiento, había que llevarlo a Estados Unidos dos o tres veces al año, más los intereses, porque se pagaban por la renta, porque fue una operación de ese tipo financiera, también, onerosa.</p>
+<p>Ojalá y esto nunca jamás vuelva a pasar, porque era lo que predominaba la fantochería, la prepotencia. Usaban helicópteros también modernos, me acuerdo que compraron seis aviones, no como este, jets pequeños en el gobierno anterior y seis helicópteros, y usaban los helicópteros hasta para ir a jugar golf. Entonces, todo eso ya se terminó.</p>
+<p>Y sólo algunos medios de información denunciaban eso, la mayoría, como el <em>Reforma</em>, el pan-fleto, el boletín del conservadurismo, el <em>Reforma</em>, silencio, pues ¿cómo va el <em>Reforma</em> a denunciar estas cosas, si ellos se hicieron fuertes con Salinas de Gortari? Ese periódico comenzó con Salinas, y es un edificio grandote, que no grandioso, pero sí versallesco, construido en la época de Salinas. Entonces, ellos no decían nada; ahora todo, todo en contra. Pero las cosas ya están cambiando.</p>
+<p>Entonces, es la información. Vamos a seguir detallando los informes sobre la venta del avión creo que a mediados de la semana que viene, porque hay muchas cosas que tienen que informarse, que la gente sepa, de cómo se vendió este avión.</p>
+<p><strong>INTERLOCUTORA:</strong> Y en otro tema, presidente, me gustaría saber su opinión con respecto a lo que mencionó el gobernador del estado, la Torre Centro, una petición que hizo usted hace más de un año; sin embargo, pues ya comentó el tema de los jueces, la torre terminó de construirse, se generó un accidente y continúa. ¿Qué se puede hacer o qué medida pudieran tomar desde el gobierno federal?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues yo creo que está muy bien lo que está planteando el gobernador, nosotros lo apoyamos. Nada más que no debe de presentarse la denuncia al Consejo de la Judicatura, porque ahí no hacen nada, tiene que ser a la Fiscalía Anticorrupción, la fiscalía federal, porque es evidente que hay corrupción, o sea, ¡cómo van a permitir que se haga una torre así sin permisos! Es influyentismo, es corrupción.</p>
+<p>Y no se hizo en las afueras de Veracruz, es una agresión, una intromisión alevosa a lo que es el Centro Histórico de Veracruz, estamos hablando de uno de los lugares históricos más importantes de México, y atreverse, por el influyentismo, por la conservación, afectar la imagen del Centro Histórico de Veracruz, del malecón de Veracruz, pues se necesita ser muy caradura o mucha prepotencia, o pensar que se tienen muchas agarraderas. ¿Qué les costaba rebanar unos pisos? No, están demostrando que son muy poderosos.</p>
+<p>Ese es el problema que tiene el Poder Judicial, porque no es nada más lamentablemente este caso, son varios, jueces, magistrados, ministros.</p>
+<p>Ahora que estamos viendo, hoy analizamos lo del castigo a los que roban combustible, a los que se dedican al huachicol, me acuerdo que, cuando iniciamos el combate al huachicol se envió una iniciativa para que se considerara como delito grave y que el que cometía estos ilícitos no salieran bajo fianza, pero resulta que los jueces liberan a todos; creo que hay uno o dos por ciento de todos los casos, sujetos a proceso por la corrupción en el Poder Judicial. Entonces, hay que seguir luchando y denunciando.</p>
+<p>Y está muy bien la decisión del gobernador y nosotros vamos a apoyarlo porque sí es…</p>
+<p>Miren, este es el faro, aquí despachó Venustiano Carranza cuando la Revolución, aquí se expidió la Ley Agraria el 6 de enero de 1915, es un edificio emblemático, y atrás el adefesio ese como monumento al influyentismo, a la corrupción.</p>
+<p>Hay que procurar que lo mochen. Si estos conservadores se atrevieron a mochar el águila, ¿no se va a poder mochar el adefesio este? Y es un influyentismo, pero puro. Sería bueno que se hiciera una narración del caso, quiénes gobernaban en Veracruz, en el gobierno municipal, su vinculación del juez, esto que hablabas con el señor Medina. ¿No tenía que ver con Medina Mora?</p>
+<p><strong>CUITLÁHUAC GARCÍA JIMÉNEZ:</strong> Sí, es el hijo, (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, es que es otro, pero hay que ver, sí, y luego este nuevo juez con los otros casos en donde ha dejado en libertad a presuntos delincuentes. Es importante el tema, pero, en fin.</p>
+<p>De México. ¿Tú eres Veracruz?</p>
+<p><strong>PREGUNTA:</strong> De Veracruz.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> De la república de Veracruz.</p>
+<p><strong>INTERLOCUTOR:</strong> Muchas gracias. Muy buenos días, señor presidente de la República, Andrés Manuel López Obrador; muy buenos días, señor gobernador Cuitláhuac García Jiménez.</p>
+<p>Ricardo Ramírez Juárez, del portal <em>EnPrivadoveracruz.com.mx</em>.</p>
+<p>Vengo a esta conferencia de prensa mañanera no a preguntar ni a cuestionar su gobierno, ni del señor gobernador, sino para agradecer por todas las políticas públicas que usted ha instrumentado en beneficio de los sectores empobrecidos del país, incluyendo Veracruz.</p>
+<p>Es lamentable leer a los compañeros periodistas, especialmente a los que escriben en el <em>Notiver</em>, del que todos dicen es propiedad del exgobernador del PAN, Miguel Ángel Yunes Linares, quienes se lanzan con todas sus fuerzas todos los días buscando con sus ofensas y difamaciones desprestigiar o disminuir la popularidad de su gobierno, inspirados en la frase de que cuando la calumnia no mancha, tizna. Y también contra el gobernador Cuitláhuac.</p>
+<p>Sin embargo, aunque no lo quieran aceptar y menos difundir, la dispersión millonaria de recursos federales tan sólo en Veracruz alcanza un total de dos millones 820 mil 683 personas beneficiadas con un monto de 67 mil 170 millones 726 mil 407 pesos del ejercicio 2022, beneficiarios y montos de los programas sociales que incluyen adultos mayores, estudiantes de preparatoria, niños con discapacidad, Jóvenes Construyendo el Futuro y campesinos del programa Sembrando Vida, entre otros.</p>
+<p>En esta conferencia de prensa mañanera que usted ha ofrecido en esta ciudad de Veracruz en otras ocasiones también han venido compañeros periodistas, enviados obviamente por los adversarios políticos del gobierno de la Cuarta Transformación que usted dignamente encabeza, que son los mismos que perdieron la gubernatura el 1 de julio de 2018 gracias al apoyo masivo del pueblo veracruzano y son el mismo grupo de mafiosos que se encuentran atrás de esta construcción de la torre.</p>
+<p>Estos mismos compañeros han venido a querer tratar de cuestionar el trabajo del gobernador Cuitláhuac y como esto nadie lo quiere reconocer públicamente, menos el <em>Notiver</em>, se tiene que decir en esta conferencia de prensa y ante usted, señor presidente, que hoy Veracruz goza de cabal salud financiera, donde se practica su ejemplo a nivel nacional de luchar contra la corrupción, de eliminar los lujos y los derroches, de la disminución notable de los salarios y de la contención del gasto público, gracias a la ley de austeridad, creada por el gobernador Cuitláhuac, ley que no sólo fue promulgada, sino que ha provocado una disminución notable a la deuda pública por un monto de 13 mil millones de pesos, disciplina financiera aplicada desde la Subsecretaría de Finanzas y Administración de la Sefiplan, a cargo de Eleazar Guerrero Pérez.</p>
+<p>Ahorros millonarios del gobernador Cuitláhuac que se han traducido en miles de cuartos-habitación y casas completas para familias ubicadas en las zonas marginadas de Veracruz, que han sido construidas con recursos de la Comisión Nacional de Vivienda del gobierno federal y el Instituto Veracruzano de la Vivienda; centros de salud y hospitales construidos y otros terminados, luego de más de seis años de abandono, como el de Perote, entre tantas obras realizadas por esta administración estatal.</p>
+<p>También se le tiene que agradecer, señor presidente de la República, en esta conferencia de prensa mañanera el haber instruido la eliminación de la caseta de Fortín de las Flores, que fue un reclamo ciudadano que llevó ante usted el gobernador Cuitláhuac y los senadores Gloria Sánchez Hernández y Ernesto Pérez Astorga, aunque ahora esta exitosa gestión se la quiere adjudicar el diputado federal plurinominal de Morena, Sergio Gutiérrez Luna, quien anda igual que el senador del PAN, Julen Rementería del Puerto, buscando ser candidato a gobernador en el 2024, a pesar de su notable desarraigo, utilizando, como usted lo dijo en su conferencia mañanera del pasado miércoles, con cualquier disparate.</p>
+<p>A nombre de los miles de beneficiarios de los cuarto-habitación y casas completas, y de los dos millones 820 mil personas a quienes se les ha beneficiado con 67 mil 177 millones correspondientes al ejercicio 2022, que es un mundo inmenso de dinero, que olímpicamente se gastaban en insultantes derroches y lujos, extravagantes como el avión presidencial del expresidente Enrique Peña Nieto y que su gobierno acaba de vender, en asquerosos robos y desvíos millonarios a cuentas bancarias de particulares de los gobiernos federales y estatales del PRI y del PAN.</p>
+<p>Por otro lado, señor presidente de la República, Andrés Manuel López Obrador, a nombre de miles de estudiantes de preparatoria de Papantla y de la Sierra del Totonacapan, solicito a usted respetuosamente su apoyo para convertir el Centro de Innovación del Instituto Politécnico Nacional, ya en funciones, se convierta en un campus Papantla del Instituto Politécnico Nacional con todas las carreras presenciales existentes.</p>
+<p>Hay varios edificios construidos, hay 25 hectáreas, hay una carretera de concreto hidráulico y un moderno puente nuevo para acceder, sólo falta que usted instruya lo correspondiente al director general de esta prestigiosa institución educativa para que Papantla, la tierra del <em>papan</em> sagrado, la tierra de los espectaculares voladores, la tierra que perfuma al mundo con su vainilla y con su gastronomía, la tierra dueña de una cultura milenaria, cuya herencia de las ruinas del Tajín son el orgullo de Veracruz y de México, para que este municipio cuente con esta importante institución educativa.</p>
+<p>Gracias, señor presidente, Andrés Manuel López Obrador, deseando que a usted y al señor gobernador de Veracruz Dios les conceda larga vida para seguir llevando a cabo esta cuarta transformación que estamos viviendo en todo el país gracias a usted.</p>
+<p>Muchas gracias, señor.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien.</p>
+<p>Vamos a ver lo del Politécnico con el gobernador para Papantla.</p>
+<p>Y agradecemos por tus palabras de apoyo y de confianza.</p>
+<p>Me extraña mucho lo de <em>Notiver</em>, porque antes era pues independiente y además a mí me gustaba mucho porque, no sé ahora, tenían sentido del humor, me hacían reír con sus fotografías y sus encabezados, muy a lo jarocho.</p>
+<p>Además, en una ocasión cuando caminé de Tabasco a México, en el Éxodo por la Democracia, hace más de 30 años, cuando empezamos a luchar, que no querían reconocernos el triunfo en Cárdenas, Tabasco, y tuvimos que caminar para evadir el acoso, para no caer en la provocación, en la violencia, y caminamos 50 días, el Éxodo por la Democracia, 1990, 1991, y me acuerdo que hicimos un tramo, llegamos aquí a Veracruz. Y estaba lloviendo mucho, como llueve aquí, aguacero fuertísimo, y estaba el dueño de <em>Notiver</em>, que tenían sus oficinas por aquí, y pasamos y él observó, porque luego lo relató, observó cómo mojándonos con convicción llegamos aquí al puerto.</p>
+<p>Y luego, cuando venía siempre sacaban información. Si se echó a perder, a lo mejor es porque se vinculó a Yunes y ahí estuvo el problema. Y ese es el problema, pero recuerdo bien a <em>Notiver</em>.</p>
+<p>Y desde luego aquí en Veracruz está el decano del periodismo, el periódico de más antigüedad, <em>El Dictamen</em>, que es un periódico histórico.</p>
+<p>Y últimamente también está un nuevo periódico, que es de los dueños del <em>Periódico del Istmo</em>, <em>Imagen</em>, también buen periódico. Y el <em>Periódico del Istmo</em> de lo mejor de Veracruz y de lo mejor de México como periódico, desde hace muchos años.</p>
+<p>Y luego las radios, pues aquí también hay otra radio con mucha antigüedad, la XEU, desde hace muchísimo tiempo, aunque también ahí hay de todo en la familia. ¿Cómo se llama?</p>
+<p><strong>INTERVENCIÓN: </strong>Luis Pazos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Luis Pazos, sí, es muy conservador, pero Baltazar no. Y Fernando, que lo conocí, su otro hermano, que tienen también estaciones de radio, sus hijos ya heredaron, en Villahermosa y en Tabasco, era otra cosa Fernando; Baltazar también, y ya de plano el más letrado, más conservador, Luis Pazos.</p>
+<p>Y por ahí hay otro Luis Pazos, yo creo que es el hijo o el sobrino, que es ultraconservador, de los que no quieren al pueblo y se creen de la moronga azul.</p>
+<p>Pero eso es Veracruz y sólo Veracruz es bello.</p>
+<p>A ver, ya van dos de Veracruz. Luego vas tú y ustedes dos.</p>
+<p><strong>PREGUNTA: </strong>Presidente, gracias.</p>
+<p>Preguntarle si nos pudiera hablar de cómo se va a dar el traspaso de la Guardia Nacional a la Secretaría de Seguridad, no sé si el secretario de la Defensa o la secretaria de Seguridad, hablarnos de este plazo que se ha dado para que sea en enero del próximo año.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues yo se los contesto. La Corte actuó mal, ocho ministros resolvieron con criterio político, no con criterio jurídico, y no les importó el daño que pueden ocasionar al impedir que la Guardia Nacional dependa de la Secretaría de la Defensa, porque lo que resuelven es que la Guardia Nacional continúe como estaba la Policía Federal de los tiempos de Calderón y de García Luna, esa corporación que se corrompió por completo, por entero. Porque se creó esa Policía Federal sin disciplina, sin profesionalismo, sin mística, sin honestidad, y empezó a ser manejada por jóvenes en ese entonces, ambiciosos, sin principios, sin ideales, y miren en lo que terminó.</p>
+<p>Se olvida que durante el gobierno de Calderón ―y hay que seguirlo diciendo― hubo un narco-Estado, la seguridad pública estaba en manos de la delincuencia y, hay que subrayar, de la delincuencia organizada y de la delincuencia de cuello blanco.</p>
+<p>Imagínense que el secretario de Seguridad está siendo juzgado en Estados Unidos por narcotráfico, por asociación delictuosa y no tomaron en cuenta eso los ministros, esgrimiendo de que la ley es la ley, puro <em>choro mareador</em>, cuando lo que buscan es que no se consolide la Guardia Nacional. Vamos nosotros a seguir fortaleciendo la Guardia Nacional.</p>
+<p>Para los jóvenes, cuando crearon la Policía Federal en la época de Zedillo empezaron a incorporar a estos jóvenes ambiciosos en los cargos de dirección; luego, con Fox sucedió lo mismo.</p>
+<p>¿De dónde salían estos jóvenes ambiciosos?</p>
+<p>Del Cisen, del órgano de espionaje, que venía de tiempo atrás, pero lo reformó, entre comillas, Salinas, y de ahí salieron cosas de lo más oscuras de ese grupo del Cisen, que llevaban a cabo operaciones violatorias a los derechos humanos y espionaje. Entonces, ahí se fueron formando todos ellos, de ahí salió García Luna.</p>
+<p>Y luego Fox creó un organismo supuestamente para enfrentar a la delincuencia organizada. ¿Cómo se llama ese organismo?</p>
+<p><strong>INTERVENCIÓN:</strong> AFI, Agencia Federal de Investigación.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> La AFI, Agencia Federal de Investigación, como la CIA mexicana.</p>
+<p>Y, luego, lo nombra secretario de Seguridad, Calderón, cuando se declara la guerra. Pero no olvidemos que hubo muchísimos muertos, desaparecidos, en ese entonces. Y ahora se sabe que García Luna estaba al servicio de la delincuencia.</p>
+<p>Hay dos notas que llaman la atención:</p>
+<p>Una de uno de los testigos, que dice que se cerraban el aeropuerto de la Ciudad de México, la operación la conocían como ‘30/45’ o algo así, y bajaban aviones en el aeropuerto de la ciudad y metían droga.</p>
+<p>Y otra anécdota, que se vestían de la AFI o de la Policía Federal con uniformes los delincuentes para combatir a otros. Y una vez le dijo uno a un jefe de la delincuencia, un sicario, le dijo: ‘Oiga, ¿entonces nosotros trabajamos para García Luna, para Calderón, para el gobierno?’ ‘No, no, no, ellos trabajan para nosotros, que te quede claro’. Así estaba.</p>
+<p>Entonces, eso es lo que aprobaron ahora los ministros, y claro que nosotros no vamos a permitir que la Guardia Nacional caiga en el desorden, en la indisciplina, mucho menos en la corrupción y que se destruya, como sucedió con la Policía Federal, que se pudrió.</p>
+<p>¿Qué vamos a hacer?</p>
+<p>Vamos a continuar fortaleciendo la Guardia Nacional. Ya son 130 mil elementos. A ver, ¿por qué no pones, de favor, el plano de Veracruz?</p>
+<p>¿Cuándo se habían hecho tantos cuartales para la Guardia Nacional en Veracruz? ¿Cuántos se hicieron en los tres gobiernos en que estuvo la Policía Federal? ¿Cuántos cuartales para la Policía Federal hicieron en el gobierno de Zedillo, en el gobierno de Fox, en el gobierno de Calderón? ¿Dónde están los cuartales que hicieron para la Policía Federal? Y miren cuántos hemos hecho en todo Veracruz; cada cuartel, 120 elementos, mujeres y hombres, y van a ampliarse.</p>
+<p>Pues esto es lo que quieren destruir los ministros corruptos de la Corte; no lo vamos a permitir.</p>
+<p>Además, declaran inconstitucional la ley para que sea la Defensa la que tenga el control de la Guardia Nacional.</p>
+<p>¿Por qué la Defensa? ¿Por qué la Secretaría de Marina?</p>
+<p>Porque tienen escuelas.</p>
+<p><strong>INTERLOCUTORA:</strong> O sea, porque usted apuesta a una formación militar, porque ahora también las cosas en la Secretaría de Seguridad no son las mismas, está Rosa Icela Rodríguez…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, pero esto es civil, o sea, es una rama civil.</p>
+<p><strong>INTERLOCUTORA:</strong> Mi pregunta es: ¿por qué ahora que las cosas han cambiado? Ya no es Genaro García Luna, es la secretaria Rosa Icela; usted mismo ha dicho, pues es otra cosa, definitivamente, ¿no?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, pero no es que me preocupe ahora. Me preocupa, claro.</p>
+<p>¿Quién manejó esto antes?</p>
+<p>García Luna.</p>
+<p>¿Quién otro?</p>
+<p>Chong.</p>
+<p>¿Saben qué hacían en Gobernación, en el gobierno pasado, para el manejo de la seguridad pública?</p>
+<p>Les aprobaban un presupuesto de mil millones. Hagan la investigación de cuánto aprobaban de presupuesto para Seguridad Pública a la Secretaría de Gobernación y cuánto terminaban gastando; el doble, el triple, sin comprobación. Yo no quiero eso.</p>
+<p>¿Ahora quién va a decidir?</p>
+<p>El pueblo.</p>
+<p>¿Ustedes creen que nosotros, que hemos luchado tanto por la justicia nos vamos a dar por vencidos a la primera, si estamos acostumbrados a luchar? Cuando se lucha por una causa justa puede uno tropezarse y caerse y se tiene uno que levantar y seguir caminando, y seguir luchando hasta llegar al propósito que se tiene.</p>
+<p>¿Quién nos dejó ese ejemplo, entre otros?</p>
+<p>Juárez, que estuvo aquí también proclamando las leyes de Reforma. ¿Qué, no enfrentó a los conservadores y luego a los que nos invadieron, a los que fueron a buscar los conservadores para que gobernaran México, convertirnos en una Colonia, que trajeron a Maximiliano, los mismos conservadores? La historia es la maestra de la vida.</p>
+<p>Entonces, ¿qué nos enseñó Juárez? Que hay que perseverar por lo principios, no hay que perder nunca la fe en las causas justas, mantener inalterable los principios.</p>
+<p>Entonces, ¿qué vamos a hacer, que es tu pregunta? Pues va a continuar la Guardia Nacional.</p>
+<p>Va a hacer un recorrido Rosa Icela y el general secretario, los dos, por todo el país para decirles a todos los elementos que no se preocupen, que no van a cambiar sus condiciones laborales, porque miren lo que hicieron estos ministros irresponsables y corruptos, impidieron el que se mantengan los grados, ascensos, con el propósito de que provocar una deserción masiva. Porque muchos de los elementos de la Guardia tienen que ver con la Defensa, tienen que ver con Marina y al momento de que se recibe este golpe, ¿qué pueden pensar? ‘Yo me regreso a la Defensa’, ‘me regreso a Marina’ y todo lo que hemos construido se derrumba.</p>
+<p>Entonces, van a hacer estas visitas para garantizarles a todos los elementos de la Guardia que continúan las mismas condiciones laborales.</p>
+<p>Además, aprovecho para comentar que nos importa tanto la seguridad pública, que es nuestro propósito fundamental garantizar la paz, la tranquilidad, la seguridad pública, los mexicanos, más que nada, de que se dio la instrucción de que los elementos de la Guardia ganaran más incluso que los integrantes de Marina y de Defensa.</p>
+<p>Entonces, van a ir a recorrer el país con ese propósito, a garantizarles que vamos a hacer adecuaciones para que no cambien sus condiciones laborales.</p>
+<p>Y además voy a presentar una nueva iniciativa de reforma a la Constitución, pero no la voy a presentar ahora porque ahora la van a bloquear los conservadores corruptos, los del supremo poder conservador, los legisladores, porque para reformar la Constitución se requiere de mayoría calificada, que se llama. No me gusta decir ‘mayoría absoluta’. Es dos terceras partes; si son 500 diputados, se requieren como 330 votos.</p>
+<p>No es nada más mayoría simple, no es la mitad más uno. Con eso se puede reformar y se puede aprobar una ley que fue lo que hicimos, pero si no hay reforma constitucional van, como fueron, los conservadores a la Suprema Corte y presentan un recurso que se llama de inconstitucionalidad y entonces los ministros resuelven si es constitucional o no, y entonces lo que hicieron fue resolver que era inconstitucional la ley.</p>
+<p>¿Qué es lo que vamos a hacer?</p>
+<p>Vamos a que en la próxima elección la gente ya tenga más elementos para que vaya internalizando que no sólo se debe de votar por quien representa la transformación de México, sino también por los legisladores. Porque si la presidenta, el presidente busca la transformación, busca la honestidad, busca acabar con la corrupción, busca acabar con el clasismo, con el racismo, busca que haya una auténtica democracia, que el pueblo sea el que mande; pero si en el Congreso son conservadores, como un diputado, senador de aquí de Veracruz que fue a España a buscar a un grupo de políticos españoles, de esos que le aplauden al rey. ¿Cómo se llama el grupo de allá?</p>
+<p><strong>INTERVENCIÓN: </strong>Vox.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Vox, Vox, sí. ¿Cómo se llama? <strong>INTERVENCIÓN: </strong>Rementería.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Rementería.</p>
+<p><strong>INTERVENCIÓN: </strong>Julen Rementería del Puerto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> De aquí, ¿no?</p>
+<p><strong>INTERVENCIÓN: </strong>Sí, de aquí, el panista.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí. Bueno, pues entonces, si se vota por esa gente, por esos partidos, pues entonces no se avanza.</p>
+<p>Entonces, voy a mandar la iniciativa de reforma constitucional el 1º de septiembre del año próximo, del 24, cuando se integre la nueva legislatura, el nuevo Congreso, porque yo espero que, en junio, que van a ser las elecciones del año próximo, la gente defienda la transformación de México.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Qué sí va a pasar en estos ocho meses como resultado de esta resolución de la Corte?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Queda igual.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Va a haber nuevos nombramientos de civiles en la Guardia Nacional? ¿Qué va a cambiar en la…?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, es que queda igual. Es que hasta se arrepintieron ayer, porque estaban muy prepotentes, pero la gente está en contra de ellos porque ya no es el tiempo de antes.</p>
+<p><strong>INTERLOCUTORA:</strong> Pero ¿cómo se acata, digamos, la resolución?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No se puede acatar porque entra en vigor hasta enero del año próximo…</p>
+<p><strong>INTERLOCUTORA: </strong>En teoría sería un proceso…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> O sea, se arrepintieron, o sea, en vez de que ordenaran que entrara en vigor de inmediato, empezaron ahí hasta mandándonos a decir que por qué no se negociaba para que entrara en vigor después.</p>
+<p>No, le dije al secretario de Gobernación y a la secretaria de Seguridad Pública: No, nada de negociación, esto tiene que ver con la dignidad, nosotros no hacemos acuerdos en lo oscurito.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Quién mandó ese mensaje?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> La presidenta y otros ministros.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Que entrara en vigor después de enero?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, sí, que querían, y les dije: Ni les contesten el teléfono, ni les contesten el teléfono.</p>
+<p>Entonces… Ah, porque ayer tenía un desayuno la secretaria de Seguridad Pública con la presidenta de la Corte. Entonces, cuando me enteré…</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Ahí se lo dijo?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, y les dije: No quiero ningún enjuague, ya no es el tiempo de antes, porque quiero enviar la iniciativa de reforma a la Constitución, porque quiero que sea el pueblo el que decida.</p>
+<p>No puede ser que una élite corrupta sea la que decida un asunto tan delicado como es la seguridad de la gente. Ya se acabó la política cupular, ahora el pueblo manda, y nosotros estamos aquí para mandar obedeciendo al pueblo, siempre. Entonces, no hay negociaciones como las que se acostumbran antes.</p>
+<p><strong>INTERLOCUTORA:</strong> Es decir, ¿el desayuno sí se llevó a cabo y ahí le dio ese mensaje?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, sí, y ahí empezaron. Y me fueron a consultar el secretario de Gobernación y la secretaria de Seguridad.</p>
+<p>Y todavía —voy a decir otra cosa, porque esto antes se callaba— le dijo la presidenta de la Suprema Corte a la secretaria: ‘Oye, pero cómo te quejas, si tú vas a manejar la Guardia Nacional’. Politiquería ramplona, abriéndole el apetito para que ambicionara ser ella la que manejara la Guardia Nacional.</p>
+<p>¿Qué le contestó?</p>
+<p>Le dijo: ‘No, es que es un asunto mío’. Pero lamentable el nivel de indignidad, cuando deberían de estar dando ejemplos de rectitud, de moralidad.</p>
+<p>Nada más para que sepan que ya no es lo mismo, porque se quedaron en el almanaque.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya vámonos a desayunar, porque miren, un lechero, un lechero con canilla y unas picadas.</p>
+<p><strong>INTERVENCIÓN:</strong> (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí ya lo sé. Y a ti, ‘Charrito’, te estimo mucho. Ahora ya terminando de desayunar, después del lechero, sí, después del lechero y de las canillas y de las picadas, seguimos hablando. Además, nos vamos a seguir encontrando paisanos, paisanas.</p>
+<p>A ver, ¿me van a dejar desayunar, sí o no? Gracias.</p>
+<p><strong>INTERVENCIÓN:</strong> señor presidente, la foto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> La foto.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

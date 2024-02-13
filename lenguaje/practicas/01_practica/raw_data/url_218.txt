@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>10.05.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/10-05-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=161791' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F10-05-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F10-05-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2suha-f-ecfc2a8a0-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c60634","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":51098,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726670","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==78LzisJR4GPJIAMC8nP0s3/2/KK3Okdrb/SbjhvEb1Hja7YnAQT2DIhFwPfq2iteT2ZTP0iQC722/2wBe9sb+1FLYg1bnZCPaTldWYvbkIxpK3DYWbmO0wiWkOEiX10WD8HdsZrDnkKYbDOftu+IaVXXq/8AY+wzkG8z0Kyeokt6ip6lyAEuPTYoX8mkjkBFtkpRFXR7cGTZPy7szjpu2C9KTzfoKtkqlpuTQhIheA/GdmWzwdi8CiBNGJ9JOTY2hKN4aw4cGybH7UrlN3lnoZoj4y3bb3VMEz4gqwrYYBSQeOYvg4iD49NinT24QtA1edOrXQjoauLVmISnb6AYNlZFW6//QiL5htOAQeSw6abTHmRqsxYsLzzho2zVQRy01du8tEBvx/5RvG/QHov9yeRUEEhs/13QQLWCwnzsOEk=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-161791 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba938a4b635" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>10.05.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 10.05.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-161791" class="post-161791 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/05/2023-05-10-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/05/2023-05-10-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05-745x450.jpg" alt="10.05.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">10.05.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/0kJJl8NnOTJA23Hp3xoe1t?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muchas felicidades<strong>. </strong>Buenos días. Ánimo.</p>
+<p>Bueno, primero, enviar de manera cariñosa una felicitación a todas las mamás de nuestro país, las que están en el extranjero, a todas las madres de México y fraternalmente a todas las mamás en el mundo.</p>
+<p>De manera muy especial, ayúdenme, ayúdenme, a las mamás que viven en las comunidades indígenas, con todo nuestro cariño, que ayudan a sus compañeros, a sus esposos, en el trabajo, en el campo; que tienen que atender, darles de comer, vestirlos, prepararlos para la escuela, curarlos, abrazarlos, a los hijos, hijas e hijos. Felicidades a las mujeres campesinas, muchas felicidades.</p>
+<p>Felicidades a las mujeres obreras, que tienen que dejar también a sus niñas, a sus niños, para ir al trabajo.</p>
+<p>A las que son mamás y son abuelas, que también ayudan a sus hijas, a sus hijos.</p>
+<p>Felicidades a las maestras, a todas las maestras mamás.</p>
+<p>Felicidades a las trabajadoras domésticas.</p>
+<p>Felicidades a las mamás periodistas.</p>
+<p>Felicidades a las mamás artesanas.</p>
+<p>A las mamás artistas.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/05/Conferencia-matutina_2023-05-10.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/-SZkSYRVnzo?t=1168" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p>A las que se dedican a la cultura, a la ciencia.</p>
+<p>A las mamás que se dedican a la academia, a la investigación.</p>
+<p>A las mamás empresarias.</p>
+<p>A las mamás que se dedican al comercio.</p>
+<p>Las que tienen que trabajar en el mostrador, en sus tiendas, pero también en los mercados, en los tianguis.</p>
+<p>A todas, a todas las mamás.</p>
+<p><strong>INTERVENCIÓN:</strong> A las políticas y las juezas, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> También, a las que se dedican a la impartición de justicia.</p>
+<p>A las mamás que trabajan como servidoras públicas.</p>
+<p>Desde luego, a las enfermeras, mamás enfermeras, mamás médicas.</p>
+<p>A todas, a todas. Bueno, las mamás policías, mamás marinas, mamás soldadas, mamás pilotas aviadoras, mamás que trabajan en los servicios de limpia. A todas, a todas las mamás, con todo nuestro cariño, hoy, en su día.</p>
+<p>Y vamos a dedicarles un concierto, nada más que como no podemos cancelar una mañanera, vamos a estar un momentito informando, porque es miércoles, es el día de 'Quién es quién en las mentiras' y pues también es parte, ¿no?, de la diversión, del entretenimiento.</p>
+<p>No hay que enojarse, hay que tener sentido del humor, no hay que amargarse, hay que decir: gracias a la vida, que nos ha dado tanto.</p>
+<p>Bueno, vamos a nos informe Elizabeth García Vilchis sobre el 'Quién es quién en las mentiras' y luego abrimos para preguntas.</p>
+<p>Y a las 8:00, mamás, mamás, a las 8:00 empieza el concierto, dos mujeres: va a estar María Inés Ochoa, que tiene una voz de diosa, y Eugenia León. ¿Quieren el repertorio? No. Eso, sorpresa, sorpresa, sorpresa. Pero sí son extraordinarias las dos, muy buenas intérpretes, muy buenas cantantes, de lo mejor y con voces únicas; porque ahora con toda la parafernalia de equipos y sonidos se puede hasta simular que se canta bien, pero estas son voces muy auténticas y nos gustan mucho, y les van a gustar a las mamás que para ellas es este concierto.</p>
+<p>Muy bien, pues vamos con Elizabeth.</p>
+<p><strong>ANA ELIZABETH GARCÍA VILCHIS:</strong> Buenos días, señor presidente. Con su permiso.</p>
+<p>Hoy es 10 de mayo de 2023. Particularmente es un gusto estar aquí en la conferencia de prensa este día porque hoy celebramos y reconocemos a todas las madres mexicanas. Quiero felicitar y aprovechar, si me lo permite, señor presidente, a Ana María, que es mi madre, quien tuvo la perseverancia, el compromiso, el trabajo digno de educarnos a mis hermanas a mí valores, sentó las bases para que ellas y yo en este momento militemos del lado correcto de la historia. Ella, como millones de mexicanas, madres en México, son el ejemplo de por qué nuestro pueblo es y será un referente a nivel mundial de unión familiar.</p>
+<p>Gracias a todas las mamás. Que vivan las mamás mexicanas.</p>
+<p>Y ahora sí, vamos a empezar con la sección, con la primera noticia falsa. Difunden noticia falsa sobre un presunto incendio en la refinería Deer Park de Pemex. El 5 de mayo pasado se publicó información falsa sobre un incendio en Deer Park, Texas, en un complejo que alberga varias refinerías, entre ellas la de Petróleos Mexicanos, que fue adquirida por el Gobierno de México el 20 de enero de 2022.</p>
+<p>De inmediato, medios de comunicación tanto estadounidenses como mexicanos aseguraron que el incendio se había presentado en la refinería de Pemex, lo cual resultó falso. Lo que pasó es que se registró un incendio en una plataforma química de la compañía petrolera Shell, cerca de la refinería de Pemex.</p>
+<p>Uno de los primeros en difundir la nota fue la cadena <em>Fox News</em> en Houston, en Estados Unidos, que presentó imágenes del incendio y aseguró que el siniestro ocurrió en la refinería de Pemex. De ahí se desató el nado sincronizado, ya saben, digno de las Olimpiadas, que duró varias horas en tendencia en la red social Twitter.</p>
+<p>A la oleada se sumaron <em>Nación 321, El Financiero, La Silla Rota, el Latinus, de Loret de Mola;</em> periodistas como Ana Francisca Vega y Sergio Sarmiento, así como políticos como el expresidente Vicente Fox y Enrique de la Madrid, que difundieron una mentira sin verificar, sin ningún dato. Bueno, ni siquiera le preguntaron a Pemex.</p>
+<p>Con ese proceder poco ético desnudan sus verdaderos propósitos de acusar y descalificar al gobierno del presidente Andrés Manuel López Obrador con cualquier pretexto.</p>
+<p>Petróleos Mexicanos aclaró en un comunicado: ‘Pemex informa que no hay ningún incendio en las unidades de la refinería de Pemex Deer Park. Sin embargo, nuestros equipos de respuesta a emergencias han dado auxilio a otra compañía que se encuentra adyacente a nuestra instalación’.</p>
+<p>Pero les decimos, no les cuesta nada verificar la información antes de publicarla. Así se las gastan.</p>
+<p>Hay que reconocer que la mayoría de estos mensajes que acabamos de mostrar fueron borrados de las redes sociales, aunque algunos no tienen decencia y no lo hicieron.</p>
+<p>Vamos con la siguiente, por favor. <em>Proceso</em> miente, no existe falla en Cofepris. La revista <em>Proceso</em> público en su versión semanal un reportaje titulado: ‘Medicamentos inseguros, falla la vigilancia en Cofepris’, una cabeza sensacionalista para intentar generar miedo en la población. El reportaje retoma información desactualizada, descontextualizada, etcétera.</p>
+<p>En primer lugar, <em>Proceso</em> dice que en la plataforma <em>Fármaco Vigilancia Notireporta </em>hay reportes de sospecha de reacciones adversas a los medicamentos que ciudadanos, personal médico y farmacéuticas enviaron a la Comisión Federal para la Protección Contra Riesgos Sanitarios.</p>
+<p>Estas quejas fueron usadas como base de su nota para asegurar que hay fallas de vigilancia en medicamentos. Pero todo esto es falso, esa plataforma no es usada por Cofepris desde el 25 de septiembre de 2019, esto debido a graves irregularidades encontradas por esta administración, la administración de la Cuarta Transformación encabezada por Andrés Manuel López Obrador. Incluso los datos y funcionarios de los involucrados provenientes, por supuesto, del sexenio pasado, fueron separados del cargo y denunciados por la Cofepris.</p>
+<p><em>Proceso</em>, además, asegura que se presentan anomalías en el sistema y que casi cualquier persona puede acceder al sistema y manipular los datos. Esto también es falso. El Sistema Nacional de Farmacovigilancia usa ahora la plataforma Vigiflow, diseñada por la Organización Mundial de la Salud y el Centro de Monitoreo Uppsala. A partir del cambio de plataforma, la autoridad sanitaria cuenta con información del más alto nivel y con ello realiza un detallado análisis del riesgo-beneficio de los medicamentos en el país.</p>
+<p>Finalmente, la revista <em>Proceso</em> presenta casos de funcionarios que omitieron información. Miente. Esta información la desactualizaron porque estas personas señaladas, como ya dijimos en la nota, ya no laboran en la Comisión Federal para la Protección contra Riesgos Sanitarios y fueron denunciados. Las indagatorias continúan.</p>
+<p>La Cofepris es una institución confiable pese a lo que dice <em>Proceso</em>; también es una institución sería y profesional, por eso la OMS la eligieron y eligieron a nuestro país para ser sede de la 12ª Encuentro Internacional de Farmacovigilancia de las Américas a realizarse a finales de este año.</p>
+<p>Bueno, pues aquí está el desmentido a la revista <em>Proceso</em>, que también en su versión digital publicó este reportaje que difunde mentiras.</p>
+<p>Vamos con la siguiente, porque <em>Proceso</em> no es el único que miente, también <em>El Universal</em> pública mentiras sobre la compra de medicamento, y nada más y nada menos que lo desmiente un médico en las redes. El pasado lunes 8 de mayo, el columnista de <em>El Universal</em>, Mario Maldonado, tituló su columna: ‘IMSS-Bienestar, medicinas caras, López-Gatell y Larry Fink’.</p>
+<p>Se trata de un compendio de mentiras, señalamientos sin fundamento y, la verdad, es que argumentos sin lógica, toda una falsedad. La respuesta no se hizo esperar, el doctor Juan Sierra Madero, jefe de la Clínica de VIH-Sida del Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’, lo desmintió en redes.</p>
+<p>De acuerdo con el columnista, el sector salud público de México adquirió el medicamento Biktarvy para el tratamiento del VIH a la empresa Gilead Sciences con sobrecosto. Además, dijo que el fármaco pudo haber sido reemplazado por un medicamento genérico en Europa.</p>
+<p>Todo esto es falso. El doctor Juan Sierra Madero aclaró que este antiviral destinado al tratamiento del VIH ha sido adquirido por el Gobierno de México a la empresa Gilead desde 2019 y su precio fue de mil 720 pesos por cada frasco de 30 tabletas y que, escuchen esto bien, no existe un medicamento genérico en el mercado que reemplace a este antiviral. Ay, bueno, pero ya sabemos que medios de comunicación, algunos medios de comunicación, columnistas y la oposición a todo le quieren sacar raja.</p>
+<p>Maldonado cuestiona: ‘La compra de costosos medicamentos de patente a empresas señaladas en México y el mundo, y cuyos principales inversionistas resultan ser muy cercanos al presidente Andrés Manuel López Obrador’. Esta es otra mentira.</p>
+<p>Dice Maldonado que el laboratorio tiene como principal accionista a BlackRock, del magnate Larry Fink, amigo del presidente Andrés Manuel López Obrador, pero miente, miente. El presidente conoció a Larry Fink en 2020, mucho después de la compra de las medicinas. Así desinforma <em>El Universal</em> y sus plumas.</p>
+<p>Vamos a continuar, esta esta es la siguiente. Existe una campaña de mentiras en torno a la familia del presidente. La oposición y sus medios están bastante enojados ante la falta de argumentos y, por supuesto, no tienen proyecto. Se dedican a atacar a la familia del presidente un día sí y el otro también, inventan mensajes falsos, también inventan falsos conflictos de interés, viajes al extranjero.</p>
+<p>La organización ‘Mexicanos a favor de la Corrupción y la Impunidad’, de Claudio X. González, esta empresa, sin fines de lucro dicen ellos, financiada por el gobierno de Estados Unidos, se dedica ahora a algo sumamente grave: a acusar y a hostigar a la familia del presidente y a difamarla con mentiras y calumnias.</p>
+<p>Y, bueno, ya sabemos que ayer celebraron como un triunfo la decisión de la Suprema Corte de Justicia de la Nación de declarar inválida parte de la reforma electoral, pero enfurecieron cuando se enteraron del plan C. Falta ver hoy las columnas, las portadas de los diarios y también las redes sociales durante todo el día de ayer.</p>
+<p>Gran parte de su enojo, sabemos, es por los buenos indicadores económicos y el impacto de las obras del gobierno federal, pero también todo por el apoyo popular que existe hacia el presidente Andrés Manuel López Obrador.</p>
+<p>Aquí les dejamos un ejemplo, ya sabemos por qué están tan enojados. En la más reciente encuesta nacional publicada en mayo por la empresa demoscópica De las Heras le preguntaron a los encuestados que, en una escala de 1 al 10, qué calificación le daban al trabajo del gobierno de López Obrador; el promedio fue de 8.3.</p>
+<p>Asimismo, también se le preguntó a los encuestados: ‘¿Usted aprueba o desaprueba el desempeño del presidente Andrés Manuel López Obrador?’ El 80 por ciento de los respondientes dijo aprobar la gestión del mandatario federal.</p>
+<p>Nosotros pediríamos más altura a la oposición, pero sabemos que no dan para más. Por eso la ira y las campañas de odio.</p>
+<p>Antes de finalizar, tenemos otros dos temas sobre… Obviamente no pudo faltar esta semana, como todas las semanas, el periódico <em>Reforma,</em> que él y aliados de la oposición dijeron que las palabras del presidente fueron estas, pero fueron tergiversadas. Pongamos mucha atención en esto.</p>
+<p>Lo quisieron hacer ver al presidente como un cínico y corrupto. Ellos dijeron que el presidente había dicho: ‘100 millones no es nada’. Esta frase no existió. Medios de comunicación como <em>Reforma</em> y personajes de la oposición publicaron en sus titulares ‘Mis hijos no son corruptos, 100 millones no es nada, dijo AMLO'.</p>
+<p>Se refiere a la respuesta del presidente López Obrador acerca de un reportaje de Carlos Loret de Mola contra uno de los hijos del presidente. El mandatario federal sí dijo que sus hijos no son corruptos, pero le pegaron la frase ‘100 millones no son nada’, algo que nunca pronunció el presidente de México.</p>
+<p>Vamos a ver este video que demuestra que <em>Reforma</em> miente como publica.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </em></strong><em>Que Loret saca un reportaje de que mis hijos están haciendo negocios, cosa que es rotundamente falso, que es parte del periodismo —si se puede llamar así— que él ejerce, porque en realidad es un mercenario que pertenece al hampa del periodismo, no pasa nada, porque no es cierto. Este es, está demostrado, especialista en montajes. Y si tiene pruebas de corrupción, de todo, pues que vaya a la fiscalía; pero no, es la consigna de que la calumnia, cuando no mancha, tizna. </em></p>
+<p><em>Mis hijos no son corruptos, o sea, nada que ver con Loret de Mola, que se ha dedicado a hacer un periodismo mercenario con fines de lucro. Y sí se exceden porque, los entiendo, están muy desesperados. Ayer fueron a la casa donde vive José Ramón, o sea, a esperarlo ahí.</em></p>
+<p><strong><em>INTERLOCUTOR</em></strong><em>: Acosarlo. </em></p>
+<p><strong><em>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</em></strong><em>: Sí, es un acoso. Pero tampoco, yo ya le dije a mis hijos: Aguanten, no caigan en ninguna provocación. Es como si yo voy o va gente a la casa —eso no se debe de hacer— de Loret de Mola o de Claudio X. González, o de López-Dóriga. No, esto es debate público político<strong>. </strong></em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>ANA ELIZABETH GARCÍA VILCHIS:</strong> Ojalá rectificaran este andar tan deshonesto.</p>
+<p>Y, bueno, vamos a terminar esta sección presentando el video en colaboración con Infodemia sobre las noticias falsas acerca de la migración y el fin del Título 42.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>VOZ HOMBRE:</em></strong><em> A raíz del anuncio de la eliminación del Título 42, el próximo 11 de mayo, en redes sociales circularon noticias falsas, mentiras que incluso son repetidas por traficantes de personas para engañar a migrantes.</em></p>
+<p><em>Uno. Falso que la eliminación del Título 42 abre las fronteras de Estados Unidos a migrantes. En redes sociales se aseguró desde abril de 2023 que la frontera de México con Estados Unidos se abriría con el fin del Título 42, ocasionando que grupos de migrantes buscaran cruzar desordenadamente el puente fronterizo Paso del Norte, de Ciudad Juárez, Chihuahua.</em></p>
+<p><em>Ante el flujo migratorio impulsado por noticias falsas, el Consulado General de los Estados Unidos en Nuevo Laredo aclaró que el Título 42 permanecía vigente e informó que para trámites de solicitudes de asilo se requiere agendar una cita previa a través de la aplicación CBP One.</em></p>
+<p><em>Dos. Falso que eliminación del Título 42 también elimina deportaciones de migrantes. Ante la noticia de la finalización del Título 42, en redes sociales se aseguró falsamente que los migrantes que lleguen a la frontera de Estados Unidos no podrán ser deportados. El titular de la Secretaría de Relaciones Exteriores, Marcelo Ebrard, aclaró el 5 de mayo que Estados Unidos continuará deteniendo y repatriando a personas que intenten de manera irregular a su territorio.</em></p>
+<p><em>Tres. Falso video de migrantes cruzando el muro fronterizo. Un video difundido a través de redes sociales muestra a un grupo de migrantes escalando una valla para cruzar la frontera de México con Estados Unidos debido al próximo retiro del Título 42; sin embargo, el video original corresponde a un grupo de migrantes que intentan subir una valla para entrar a la ciudad de española de Melilla, situada al norte de Marruecos, África, en marzo de 2022.</em></p>
+<p><em>Cuatro. Falsas ofertas de limpieza de registro migratorio. El Consulado General de los Estados Unidos en Matamoros alertó el 9 de mayo por supuestos reclutadores de trabajo que ofrecen limpiar el registro migratorio a cambio de un pago. Aclaró que solamente el oficial consular tiene acceso a consulta tal información y no se tiene que pagar ninguna cuota adicional.</em></p>
+<p><em>Infodemia.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>ANA ELIZABETH GARCÍA VILCHIS:</strong> Gracias, Infodemia; gracias a todas. Felicidades, mamás.</p>
+<p>Es cuanto, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Cómo ven si nada más preguntan mamás? Vámonos. <em>Cepillados</em>. Mamás, vamos.</p>
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Muy buenos días.</p>
+<p>Rocío Jardínez, de <em>Teleurban</em> y <em>W Radio</em>.</p>
+<p>Preguntarle en primera instancia, presidente, su opinión acerca de las declaraciones del canciller Marcelo Ebrard, que pues ya está calentando motores para alistarse y acercarse ya a este interés de contender por la Presidencia. Él ha comentado que, pues no hay reglas al interior de Morena precisamente para elegir al próximo candidato o candidata, está urgiendo al partido a ya actuar y poner estas reglas porque, si no, está propiciándose que exista la ley de la selva al interior del partido. ¿Qué opina al respecto, presidente?</p>
+<p>Y saber también si en la Presidencia ya están arreglando algunos asuntos al respecto, si están buscando quién estaría en lugar del canciller o de algunos funcionarios que estén ya alistándose para salir de sus cargos.</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No puedo opinar de ese tema, de esa cuestión, sólo respetar, como decía aquel entrenador, Bora: ‘Yo respeto, yo respeto, yo respeto’.</p>
+<p>Es importante que todos se expresen, que ya en definitiva se termine con el <em>tapado</em>, que se termine con el <em>dedazo</em>, que se termine con la compra del voto, que se termine con los candidatos impuestos por los medios de información, que ya no se fabriquen telenovelas y es también muy importante que se terminen en definitiva para siempre los fraudes electorales.</p>
+<p>Y se va a iniciar una etapa nueva, ya comenzó una etapa nueva de auténtica democracia en México, porque fueron siglos de imposiciones, de simulación, de fraudes, de imposiciones, mucho tiempo, mucho tiempo en que se engañó que había democracia y en realidad dominaba la oligarquía. Era siempre el gobierno de una minoría, el gobierno de los ricos, no el gobierno democrático, que es el gobierno del pueblo, de todos. Entonces, ya las cosas son de otra manera afortunadamente.</p>
+<p>Desde luego, hay añoranzas, nostalgia por lo de antes, por la antidemocracia, por la simulación, por las imposiciones, por la corrupción que imperaba, y ahí andan los del bloque conservador con su ahora supremo poder conservador, que está situado en el Poder Judicial, en la Corte. Pero eso tiene remedio y eso se resuelve con el método democrático, por eso voy a enviar una iniciativa de reforma a la Constitución para que jueces, magistrados y ministros sean electos, los elija el pueblo, para que se termine de una vez y para siempre el dominio de las cúpulas, y sea el pueblo el que realmente mande y gobierne en México a plenitud.</p>
+<p>Que ya se acabe con el elitismo y que todos los mexicanos participemos con el método democrático; que no haya privilegios, exclusividad, que sólo los de arriba decidan, que sea todo el pueblo. Nada de esa política en donde todos los intereses cuentan, menos el interés del pueblo, bajo el supuesto, la falsedad, la mentira, de que el pueblo no existe, no sabe, que tiene que ser conducido, orientado, manipulado. Eso se termina lo quieran o no lo quieran, les guste o no les guste.</p>
+<p><strong>INTERVENCIÓN: </strong>Presidente, y una consulta para…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pura mamá ahora.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Ya se están preparando, presidente, para este tema? Le reitero la pregunta: ¿ya están ustedes viendo quiénes van a ocupar este lugar, sobre todo el canciller?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, eso en su momento.</p>
+<p><strong>INTERLOCUTORA:</strong> Porque él había dicho que quizás renuncie en junio, ya no falta mucho tiempo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, pero hay que esperar.</p>
+<p>Es muy importante, por ejemplo, para los jóvenes, primero que sepan la importancia que tiene el manejo de los tiempos en política. Política es tiempo, entre otras cosas, eso para los jóvenes.</p>
+<p>Entonces, hay dos elecciones en puerta. También es importante que se sepa a nivel nacional, que son elecciones en dos estados, pero que tienen una repercusión política en lo nacional; porque de eso no hablan los medios convencionales, entonces tenemos que informar aquí.</p>
+<p>Hay elecciones en Coahuila y en el Estado de México. A ver, pregunto a quienes nos están viendo, escuchando: ¿sabían que había elecciones en Coahuila y en el Estado de México? Puedo sostener, sin temor a equivocarme, de que la mitad de los ciudadanos del país no lo sabía.</p>
+<p>Entonces, vamos a empezando por informar, porque los medios llamados de información no cumplen con ese propósito, porque no son medios de información, son medios de manipulación, eso lo voy a estar dice y dice; con excepciones honrosas, pero los medios convencionales estaban acostumbrados a eso, a manipular, y siguen manipulando. ¿No ven lo de las mentiras? Sergio Sarmiento y <em>El Universal</em>, y el <em>Reforma</em>, etcétera, etcétera, etcétera.</p>
+<p>No estoy inventando nada, no estoy hablando al tanteo, diario, hay pruebas de que manipulan. El <em>Proceso</em>, sensacionalista, alarmista, dedicado por entero ese semanario a la mentira, a la calumnia, completamente derechizado, otro boletín más del PAN.</p>
+<p>Pero, bueno, vienen esas dos elecciones, Coahuila y el Estado de México. Las dos son importantes, pero imaginen lo que significa la elección del Estado de México, estamos hablando del estado más poblado del país, estamos hablando de un estado que tiene alrededor de 18 millones de habitantes, es la población de varios países en el mundo. Pues va a haber elecciones el primer domingo de junio, que es 4 de junio, y en los dos estados nunca ha perdió un partido que no puedo mencionar, pero, bueno, es fácil de imaginar. Entonces son elecciones muy importantes.</p>
+<p>¿Quién va a decidir?</p>
+<p>La gente, el pueblo, libremente. Que no haya manipulación a través de la prensa, la radio, la televisión vendida o alquilada a los candidatos, a los partidos, que es una vergüenza eso.</p>
+<p>Si ven a un candidato que aparece y aparece y aparece más que las Sabritas y que la Coca-Cola, tengan cuidado, tengan cuidado porque una de las estrategias que usaban más cuando estaba la robadera en alta era la de introducir al mercado, como si fuese un producto chatarra, a través de la publicidad a un candidato. Y lo elevaban, lo hacían famoso. Sin experiencia, sin convicción, sin honestidad, sin conocimiento de los problemas del pueblo, pero lo inflaban y ganaba. Entonces, ya eso no, cuidado con eso.</p>
+<p>Y cuidado también con la compra del voto, la entrega de despensas y materiales de construcción, y pollos, y patos, chivos, borregos, puercos, cochinos, marranos, cerdos, y el frijol con gorgojo, traficando con la pobreza de la gente. Y un caudal de mentiras:</p>
+<p>―Si gano, voy a hacer un puente aquí, en este poblado.</p>
+<p>―Pero no hay río.</p>
+<p>―Vamos también a hacer el río.</p>
+<p>Iban a mentir y a engañar a la gente, ya nada más recogían los votos y no los volvían a ver. Y hasta era indignante, porque iba la gente después a verlos a los palacios municipales, al palacio de gobierno de los estados y hasta los corrían: ‘Qué me vienes a pedir, si ya te dimos, te compramos tu voto’. Nada de eso.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, todavía no termino.</p>
+<p>Nada de eso, nada de manipulación, voto libre, secreto, que cada quien vote por lo que le dicte su consciencia, esa es la democracia.</p>
+<p>Y que no estén vendiendo el futuro de los hijos, que no hipotequen el futuro de las nuevas generaciones, que voten con libertad pensando siempre en la transformación, en el cambio, en la justicia, en la libertad; que no se deje la gente manipular.</p>
+<p>Y yo estoy seguro que estas elecciones que están en puerta se van a dar en completa libertad, elecciones limpias, libres, sin fraude.</p>
+<p>Y ya, después de eso, ya tu pregunta, ya me preguntas sobre eso.</p>
+<p><strong>INTERLOCUTORA:</strong> Okey, presidente. Gracias.</p>
+<p>Por último, hacerle dos cuestionamientos:</p>
+<p>Su opinión acerca de este galardón que recibirá la presidenta de la Suprema Corte de Justicia de la Nación, Norma Piña. Es un premio de derechos humanos por la Asociación Internacional de Mujeres Juezas. Se ha considerado que ha tenido pues criterios transcendentales, que ha hecho labor en materia de perspectiva de género. Saber su opinión al respecto.</p>
+<p>Y, por último, pues se encuentra culpable al expresidente Donald Trump de agresión sexual contra la columnista Jean Carrol. Saber su opinión al respecto, presidente.</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues mire, esos premios se pueden conseguir en la Plaza de Santo Domingo o también en el <em>Time</em>. Acuérdense, esta revista famosa internacional que decía: ‘El economista del año’, siempre era un secretario de Hacienda de México de la época del saqueo, de la corrupción, los presidentes de México de aquél entonces; salían en la portada. Premios a Krauze en la monarquía española, casi una vez por año.</p>
+<p>Ah, miren aquí. A ver, no, no hablaba yo de él. Quítalo, pon a Krauze mejor, le están poniendo ahí su medalla el rey de España.</p>
+<p>Hace poco al rector… ¿Cómo se llama?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Enrique Graue.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Graue, sí. También fue allá por su medalla a España. Yo no sé por qué se van a allá, o a vivir o a recibir premios, tienen esa fascinación.</p>
+<p>Miren su medalla, su medalla. A ver, pon al rector, ¿no lo tienes? también con su medalla.</p>
+<p>Ah, pues al que salió del INE, a ese fue Magro o Almagro.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> Almagro.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Almagro, de la OEA, también le dio su premio.</p>
+<p>Entonces, ¿qué puedo decir? Pero ya llegó la hora, ya, ya, hasta nos estamos pasando.</p>
+<p><strong>PREGUNTA:</strong> De la llamada con Biden.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, la llamada, mañana hablamos de la llamada.</p>
+<p><strong>PREGUNTA:</strong> ¿Del Título 42 hablaron?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, de todo, de todo hablamos, y muy bien, fue muy buena la llamada.</p>
+<p>Ahí está también la medalla del… Eso también es España, ¿no? Reparten medallas como si tiraran confeti.</p>
+<p><strong>PREGUNTA: </strong>¿Que desaparece 'Quién es quién en las mentiras'?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, sí, que quieren los de <em>Proceso</em> y los de… No es de <em>Proceso</em>.</p>
+<p><strong>PREGUNTA: </strong>La Comisión Interamericana de Derechos Humanos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, los de Almagro quieren que desaparezcan las mañaneras.</p>
+<p><strong>INTERLOCUTORA: </strong>No, la sección.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Cuál?</p>
+<p><strong>INTERVENCIÓN: </strong>La sección.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> La sección de 'Quién es quién en las mentiras'. ¿Ustedes qué opinan? Claro que no. Ya, ya está.</p>
+<p>Pero miren qué injerencismo de esta organización palera que está al servicio de los grupos de intereses creados.</p>
+<p><strong>PREGUNTA:</strong> Le recomiendan que desaparezca porque consideran….</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, yo les recomiendo que desaparezca la OEA, que no sirve para nada. O sea, ¿sirve para algo la OEA?, ¿saben ustedes que haya hecho algo bueno la OEA? Lo único que ha hecho es avalar todos los actos autoritarios en contra de gobiernos legítimos, legales, populares, en América Latina, nada más eso es lo que ha hecho la OEA. Entonces, no tienen ninguna autoridad, ni autoridad moral ni autoridad política.</p>
+<p><strong>INTERLOCUTORA: </strong>Según, que es utilizado por el Poder Ejecutivo para manipular la información y detener el trabajo de la prensa, estigmatizar el trabajo de la prensa.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, pero no hace falta, no, no, no. Ni conviene, pues, responderles, están muy desacreditados.</p>
+<p>Está como… Dice Loret de Mola que me quiere hacer una entrevista. Imagínense que yo me voy a dejar entrevistar. No lo quiero ver. O sea, es un hampón. O sea, me reservo el derecho de admisión, sí, aquí me reservo el derecho de admisión. No puedo reunirme con bandoleros, no puedo reunirme con malandros, no puedo reunirme, no, no, no, nada, nada, nada.</p>
+<p>Esto del cambalache que le estoy proponiendo, de que todos sus bienes, ¿no?, todos sus bienes a cambio de los bienes de mi familia, los bienes de su familia con los bienes de su familia, o sea, vamos a llegar a ese acuerdo.</p>
+<p>Y él tiene muchísimo más, pero muchísimo más dinero mal habido, lo que nosotros tenemos es producto de nuestro trabajo, y eso es lo que estoy esperando, pero no necesito verlo, para eso nombro a un representante. Y es cuestión nada más de ir al Registro Público de la Propiedad y decir: ya, todo lo que aparece a nombre de él y de su esposa, de su familia, se enlista, y todo lo que aparece a mi nombre, a nombre de mis hijos, y todo, se enlista y se hace el cambio.</p>
+<p>Él tiene un abogado ahí, una finísima persona, que es el que le hace las escrituras, uno que fue procurador en la época de Salinas.</p>
+<p><strong>INTERVENCIÓN:</strong> Morales Lechuga.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Morales Lechuga, sí, Morales Lechuga. El problema es que también ahí que me vaya a representar va a tener que ir blindado.</p>
+<p><strong>INTERLOCUTOR:</strong> Y sin cartera.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, y sin cartera. Pero ya contestamos.</p>
+<p>Y ahora sí ya nos pasamos, vámonos ya a hablar de cosas bellas, de cosas alegres, de la felicidad. Vamos ya a darle la oportunidad, que venga María Inés Ochoa. Lo voy a decir, ¿no?, hija de a quien escuchamos mucho y hasta nos formó con sus canciones, Amparito Ochoa; y Eugenia León. Vamos a darles a ellas ya la palabra y la voz.</p>
+<p><strong>(INICIA CONCIERTO DEL DÍA DE LAS MADRES)</strong></p>
+<p><strong>A DUETO: <em>LAS MAÑANITAS </em></strong></p>
+<p><strong>MARÍA INÉS OCHOA: <em>LA PRIETITA CLARA, DEJA QUE SALGA LA LUNA, LA MALAGUEÑA, FLOR DE CAPOMO, CAMPESINA, EL BARZÓN.</em></strong></p>
+<p><strong>EUGENIA LEÓN: <em>YO VENGO A OFRECER MI CORAZÓN</em>, <em>AGUA</em>, <em>NAVEGAR</em>, <em>VIVAN LOS HUMANOS</em>, <em>¡QUE VIVAN LAS MUJERES!</em>, <em>LA PALOMA</em></strong></p>
+<p><strong>A DUETO: <em>AMOR ETERNO.</em></strong></p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

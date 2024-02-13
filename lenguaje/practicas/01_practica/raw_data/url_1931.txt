@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>30.01.19 Versión estenográfica. Conferencia de prensa conjunta España-México &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/version-estenografica-conferencia-de-prensa-conjunta/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=112517' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conferencia-de-prensa-conjunta%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conferencia-de-prensa-conjunta%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2ua5q-f-e6f7c9b1c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"26369f1","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":45794,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706729531","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==1dpzSxGp6C6lFk9rs/+xC+KeiiNO2Q6ltp9CEVZfrol4xCaFEG35Jo7aw1oOrH9jUtYW9be6Twiu3UlmCq9UZnDbft0HLFkzSz8n+Q0/ruPZscne7SbJlG1jdkErdsqZBT0aDer5WlcpRssuHZFvt2UGWuUqZiUth7KSkUynp7q9liw7B1zrwL5eOcRUw5xVE6J5xM+3o8Zn2fJXBnQf4haCffVVSNXDvjeLpbnkW+bRZj/oIHumbCIPoVdiC/flSiOAAOuuskDSAOyKxR2iFvkzMHTEM2eQ7Fj37lAXdOhWXUGLKEl2FXVAKcxcmUUYzESsu4cc/MQYr9/JJhJ0EYkdTjQ9wotsIMXndEds2XE5o2ayyUwTR7Usm48Wi8U1U5CdWByxNVVayB6ukVbCnPU/ZCszNa55GM1qrJ7zmZA=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-112517 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9eb759d90" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>30.01.19 Versión estenográfica. Conferencia de prensa conjunta España-México</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 30.01.19 Versión estenográfica. Conferencia de prensa conjunta España-México 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-112517" class="post-112517 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-amlo tag-andres-manuel tag-andres-manuel-lopez-obrador tag-espana tag-lopez-obrador tag-pedro-sanchez tag-pedro-sanchez-perez-castejon tag-presidente-de-mexico tag-presidente-espana tag-visita-oficial-espana">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/01/30-01-2019-FOTO-12-CONFERENCIA-DE-PRENSA-CONJUNTA.jpeg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/01/30-01-2019-FOTO-12-CONFERENCIA-DE-PRENSA-CONJUNTA-745x450.jpeg" alt="30.01.19 Versión estenográfica. Conferencia de prensa conjunta España-México" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">30.01.19 Versión estenográfica. Conferencia de prensa conjunta España-México</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><span style="font-size: 10pt;"><em>2019, Año del Caudillo del Sur, Emiliano Zapata</em></span></p>
+<p><strong>MODERADOR</strong>: Buenas tardes.</p>
+<p>Damos la bienvenida al licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos y al excelentísimo señor Pedro Sánchez Pérez-Castejón, presidente del Gobierno de España.</p>
+
+<figure class="wp-block-audio"><audio src="https://lopezobrador.org.mx/wp-content/uploads/2019/01/Audio-Conferencia-de-prensa-conjunta-1.mp3" controls="controls"></audio></figure>
+<p><div id="fb-root"></div><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2"></script><div class="fb-video" data-href="https://www.facebook.com/lopezobrador.org.mx/videos/625207511243642/" data-width="500"><blockquote cite="https://www.facebook.com/lopezobrador.org.mx/videos/625207511243642/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lopezobrador.org.mx/videos/625207511243642/">Conferencia de prensa de los presidentes de México y España</a><p>Recibimos con mucho gusto la visita del presidente del Gobierno de España, Pedro Sánchez Pérez-Castejón, a quien compartimos nuestra estrategia para acabar con la corrupción y lograr el establecimiento del bienestar del pueblo. Los gobiernos de México y España coincidimos en que hay condiciones inmejorables para que la relación que une a nuestros pueblos, se exprese en términos de amistad, cooperación y apoyo entre gobiernos. Acordamos fortalecer nuestras relaciones culturales, políticas y económicas.</p>Posted by <a href="https://www.facebook.com/lopezobrador.org.mx/">Andrés Manuel López Obrador</a> on Wednesday, January 30, 2019</blockquote></div></p>
+
+<p style="text-align: justify;"><strong>MODERADOR</strong>: Hace uso de la palabra el licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>:</p>
+<p style="text-align: justify;">Amigas, amigos:</p>
+<p style="text-align: justify;">Nos da mucho gusto recibir al presidente del Gobierno de España, Pedro Sánchez.</p>
+<p style="text-align: justify;">Iniciamos pláticas, conversaciones entre los equipos de los dos gobiernos, todo esto en el marco de la relación de amistad que une a nuestros pueblos y que como lo manifesté al presidente, ahora hay condiciones inmejorables para que la relación de amistad entre nuestros pueblos se exprese de la misma manera en la relación de amistad, cooperación, apoyo entre nuestros gobiernos.</p>
+<p style="text-align: justify;">El presidente del gobierno español, Pedro Sánchez, es un hombre con vocación democrática, con dimensión social. Pertenece a un movimiento progresista muy cercano, parecido a lo que nosotros representamos en México.</p>
+<p style="text-align: justify;">Estamos, como es sabido, iniciando la Cuarta Transformación de la vida pública de nuestro país.</p>
+<p style="text-align: justify;">Y el propósito de esta transformación, la idea central es erradicar, acabar con el principal problema de México, lo que originó la crisis de México, acabar con la corrupción en nuestro país.</p>
+<p style="text-align: justify;">Pensamos que si logramos limpiar de corrupción al país se va a lograr el renacimiento de México.</p>
+<p style="text-align: justify;">En eso estriba, en muy pocas palabras, nuestra estrategia y tiene desde luego un complemento, un añadido importante. Pensamos que todo lo que se ahorre en el combate a la corrupción, que va a ser mucho, se va a destinar al bienestar del pueblo. Se va a destinar a mejorar las condiciones de vida y de trabajo de nuestro pueblo; a sacar de la pobreza a millones de mexicanos.</p>
+<p style="text-align: justify;">Y en esto vamos a aplicar lo que distinguió a España durante mucho tiempo, lo que significó un gran avance en la democracia en España: el Estado de bienestar.</p>
+<p style="text-align: justify;">No sólo fue importante en España, sino en toda Europa. Creo que fue la aportación más trascendente en Europa, luego de la Segunda Guerra Mundial, el establecimiento del Estado de bienestar.</p>
+<p style="text-align: justify;">No puedo opinar sobre las políticas de cada país, pero creo que las crisis de los pueblos y los problemas que ha habido en Europa se han agravado porque se ha buscado socavar, desmantelar, este Estado de bienestar.</p>
+<p style="text-align: justify;">Hay quienes, de manera muy ligera, superficial, consideran esa política anacrónica, cuando ha sido el sostén, la base para el desarrollo de los pueblos.</p>
+<p style="text-align: justify;">Nosotros, a partir de nuestra experiencia, de las características propias de nuestro país, vamos a fortalecer una estrategia de Estado de bienestar; queremos que el mexicano tenga seguridad desde que nace hasta que muere, que tenga seguridad y bienestar desde la cuna hasta la tumba.</p>
+<p style="text-align: justify;">Aquí nosotros, en la medida de nuestras posibilidades económicas, presidente, ya estamos aplicando, entre otros programas, el de la Pensión Universal para los Adultos Mayores.</p>
+<p style="text-align: justify;">Este año van a ser beneficiados más de ocho millones de adultos mayores, con una inversión, que no gasto, de 100 mil millones de pesos.</p>
+<p style="text-align: justify;">Lo mismo se va a realizar con pensiones a personas con discapacidad; lo mismo estamos haciendo para garantizar el derecho a la educación en la concepción de que la educación no es un privilegio, es un derecho de los ciudadanos.</p>
+<p style="text-align: justify;">Vamos a otorgar este año más de 10 millones de becas para estudiantes de los distintos niveles de escolaridad. Y así vamos a fortalecer el bienestar del pueblo.</p>
+<p style="text-align: justify;">Nos da mucho gusto que nos visite un presidente de España, cuyo movimiento impulsó estas políticas de bienestar. Entre otras cosas, eso nos identifica y por eso le damos la bienvenida a nuestro país.</p>
+<p style="text-align: justify;">Y vamos a fortalecer nuestras relaciones en lo cultural, nuestras relaciones políticas y también nuestras relaciones económicas.</p>
+<p style="text-align: justify;">Bienvenido, señor presidente.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SÁNCHEZ PÉREZ-CASTEJÓN</strong>: Buenas tardes.</p>
+<p style="text-align: justify;">En primer lugar, agradecer de corazón al presidente López Obrador y a toda la delegación del nuevo Gobierno de México la acogida, la hospitalidad y la hermandad que hemos sentido desde el primer minuto que pisamos esta hermosa tierra.</p>
+<p style="text-align: justify;">En primer lugar, agradecerle porque, lo he dicho antes en privado y me gustaría decirlo en público, agradecerle el honor que dispensa al Gobierno de España, que seamos el primer gobierno extranjero que ha recibido bajo la presidencia del presidente López Obrador al inicio de su mandato.</p>
+<p style="text-align: justify;">Creo que no es una casualidad, como se lo he dicho antes en privado, creo que es toda una declaración de intenciones, una declaración de intenciones de fortalecer, como bien ha dicho antes el presidente López Obrador, de relanzar la extraordinaria relación que tenemos bilateral el Gobierno de España, mi país, España, con México. </p>
+<p style="text-align: justify;">Y esa relación tiene múltiples acepciones, tiene sin duda alguna una que ha comentado antes el presidente y es la relación económica.</p>
+<p style="text-align: justify;">En España hay ya cada vez más empresas mexicanas que apuestan, que creen en las oportunidades que les ofrece el país, nuestro país, España. Y también hay muchas empresas españolas que desde hace ya mucho tiempo han apostado por el desarrollo, por el progreso, por la prosperidad, por la dignidad de los trabajadores y trabajadoras de México.</p>
+<p style="text-align: justify;">Son más de seis mil las empresas españolas que tienen una base de operaciones aquí, en México, en múltiples sectores, desde las infraestructuras, las telecomunicaciones, el sector de las energías renovables. En definitiva, muchas de las políticas que necesitan del aporte también de la colaboración público-privada.</p>
+<p style="text-align: justify;">Y en ese sentido lo que quiero trasladar, y le he trasladado antes al presidente López Obrador, es el compromiso de las empresas españolas por el progreso, la prosperidad, porque son empresas que cuando invierten en México está en el grado de afinidad, de alineamiento con el país y con su futuro; que no especula, que son inversiones que vienen para quedarse, que vienen para apostar, como he dicho antes, por el progreso y por la prosperidad de México.</p>
+<p style="text-align: justify;">En segundo lugar, evidentemente, como bien ha dicho antes el presidente, todo el enfoque de nuestra relación cultural que es enorme y donde a mí me gustaría, sobre todo, presidente, subrayar el que este año se celebra el 80 aniversario del exilio español.</p>
+<p style="text-align: justify;">De un exilio que vio hace 80 años a un presidente, al presidente Lázaro Cárdenas, que tiene por cierto una enorme estatua también en homenaje suyo en uno de los principales parques de la ciudad de Madrid, de la capital de España, que tuvo entonces al presidente Lázaro Cárdenas como comentaba antes a esa persona que supo entender el momento histórico y supo acoger a no solamente artistas, intelectuales, creadores, sino también trabajadores manuales, amas de casa, trabajadores anónimos que vinieron aquí huyendo de la postguerra, huyendo de la dictadura, huyendo de la represión y encontraron aquí una nueva patria.</p>
+<p style="text-align: justify;">Tuvieron que renunciar desgraciadamente a su patria, a la patria española como consecuencia de las consecuencias de la Guerra Civil y de la represión, que posteriormente hubo y encontraron su patria aquí, en México.</p>
+<p style="text-align: justify;">Posteriormente vamos a tener la ocasión de poder estar en El Colegio de México y poder también departir en el Ateneo con muchos de los hijos de los nietos, ya, en algunas, en la mayoría de los casos de esos exiliados españoles.</p>
+<p style="text-align: justify;">Para nosotros este es un elemento fundamental de nuestra memoria histórica, de nuestra memoria democrática y que nos enorgullece -y mucho- el poder compartirla con México y con su gobierno.</p>
+<p style="text-align: justify;">En tercer lugar, algo que ha comentado antes el presidente, y que a mí me parece fundamental, y es la cooperación y la colaboración que como país que somos, europeo, podemos aportar también a México.</p>
+<p style="text-align: justify;">Creo que México es uno de los… diría de los socios estratégicos de la Unión Europea.</p>
+<p style="text-align: justify;">Somos uno de los pocos países, México me refiero, que tiene un acuerdo global, que tiene un acuerdo estratégico con el conjunto de la Unión Europea. Ahora mismo está en proceso de renovación y le he trasladado antes al presidente, y lo quiero hacer público también, que desde luego el Gobierno de España va a luchar y va a trabajar para que esa renovación del acuerdo global entre la Unión Europea y México se pueda producir cuanto antes.</p>
+<p style="text-align: justify;">Y, finalmente, sí que me gustaría subrayar algo que ha comentado antes el presidente López Obrador y que quiero también trasladar a la opinión pública mexicana.</p>
+<p style="text-align: justify;">Desde luego nosotros hemos vivido con enorme expectación y enorme entusiasmo como gobierno progresista que se sustenta en valores progresistas y en un partido, como el Partido Socialista Obrero Español, que por cierto este año, presidente, cumple 140 años de historia en nuestro país, la victoria de este movimiento progresista de regeneración en la sociedad mexicana, creo que compartimos muchos de los objetivos que se han trasladado antes por el presidente López Obrador.</p>
+<p style="text-align: justify;">Desde luego creo que el fundamental es el de la lucha contra la desigualdad y, en consecuencia, el de construir bienestar, el de construir prosperidad y el de que se rompa esta suerte de maleficio que cada vez está más presente en nuestras sociedades: de que el progreso al final se base en la exclusión social.</p>
+<p style="text-align: justify;">Creo que una de las cosas que compartimos el presidente López Obrador y yo mismo, como gobiernos progresistas que representamos, es que o el progreso representa a todos, o el progreso alcanza a todos y a cada uno de los habitantes de nuestras sociedades o no es progreso. Es otra cosa.</p>
+<p style="text-align: justify;">Y creo que desde ese punto de vista el crecimiento económico, el reparto de ese crecimiento económico, la construcción de la justicia social, el fortalecimiento de la cohesión social, de la cohesión territorial, la unión en definitiva es lo que puede hacer que respondamos de manera efectiva y eficaz a muchos de los desafíos que tenemos por delante y que tienen que ver con la migración, que tienen que ver con la desigualdad, que tienen que ver con la igualdad de género, que tiene que ver con la lucha contra el cambio climático, que tienen que ver con tantas y tantas cosas que afectan y nos importan a ambos gobiernos.</p>
+<p style="text-align: justify;">Yo quisiera en ese sentido aplaudir el Plan de Desarrollo Integral para Centroamérica, que está impulsando el gobierno de López Obrador, porque creo que toca la tecla que está bien enfocado, que es algo que nosotros compartimos cuando estamos hablando de la migración y es la necesidad de reforzar la cooperación bilateral, el diálogo bilateral con los países de origen y de tránsito de esa migración.</p>
+<p style="text-align: justify;">El volcar recursos económicos para que se pueda lograr prosperidad en esos países, me parece que es fundamental para tener una migración lo más ordenada posible.</p>
+<p style="text-align: justify;">Eso es algo que nosotros estamos defendiendo, querido presidente, en la Unión Europea, que sea una responsabilidad compartida, que sea un desafío común, y que se volqueen recursos económicos en aquellos países donde los migrantes desgraciadamente se ven obligados a emigrar, como consecuencia de la falta de oportunidades en sus países de origen.</p>
+<p style="text-align: justify;">En definitiva, no quiero dejar pasar esta pequeña intervención para agradecer de corazón a todo el Gobierno de México, a la sociedad mexicana y en su nombre al presidente López Obrador la amable acogida, la hospitalidad, la deferencia que hacen con España, no solamente con su gobierno de acogernos y recibirnos oficialmente en esta primera visita.</p>
+<p style="text-align: justify;">Y, desde luego, llamarnos a determinadas reuniones que tenemos a lo largo de este año que tienen que ver con la Comisión Binacional, con la Interparlamentaria entre los parlamentos español y mexicano, que creo que van a seguir reforzando estos lazos tan estrechos y tan fuertes que tenemos ambas sociedades</p>
+<p style="text-align: justify;">Así que: gracias, presidente, por sus palabras.</p>
+<p style="text-align: justify;">Gracias, presidente, por su hospitalidad.</p>
+<p style="text-align: justify;">Y gracias, de nuevo, a la sociedad mexicana.</p>
+<p style="text-align: justify;"><strong>MODERADOR</strong>: Damos comienzo a la sesión de preguntas y respuestas, para lo cual los voceros de ambos países harán uso de la palabra.</p>
+<p style="text-align: justify;"><strong>CARMEN PÉREZ, DIRECTORA GENERAL DE COMUNICACIÓN INTERNACIONAL DEL GOBIERNO DE ESPAÑA</strong>: Buenos días, buenas tardes a todos.</p>
+<p style="text-align: justify;">Por la parte española va a preguntar, en primer lugar, don Carlos Cué, del diario <em>El País</em>.</p>
+<p style="text-align: justify;"><strong>CARLOS CUÉ</strong>: Quería preguntarles sobre Venezuela. Parece bastante evidente que hay una diferencia entre sus posiciones, España está apunto de reconocer a Guaidó en los próximos días, México no está en eso.</p>
+<p style="text-align: justify;">Quería saber cómo han resuelto esa diferencia y si México estaría dispuesto a reconocer a Guaidó como España.</p>
+<p style="text-align: justify;">Por otra parte, también ustedes han hablado de gobiernos progresistas, pero también hay preocupación en las empresas españolas por el nuevo gobierno, ¿cuáles son los planes del nuevo gobierno?</p>
+<p style="text-align: justify;">Quería preguntarle en concreto si las empresas españolas van a participar en el nuevo aeropuerto, el Tren Maya, ¿qué pasa con las empresas españolas?</p>
+<p style="text-align: justify;">Gracias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Hemos platicado con el señor presidente del gobierno español sobre este tema.</p>
+<p style="text-align: justify;">Hay entendimiento y comprensión acerca de la política que seguimos, tanto el Gobierno de España, como el Gobierno de México; cada gobierno de acuerdo a su circunstancia, a su historia, de acuerdo a sus leyes.</p>
+<p style="text-align: justify;">En el caso nuestro, por tradición política, la política exterior se ha sustentado en los principios de no intervención, de autodeterminación de los pueblos, de solución pacífica de las controversias, de cooperación para el desarrollo.</p>
+<p style="text-align: justify;">En este marco que está establecido en el artículo 89 de nuestra Constitución, estamos nosotros actuando en el caso de Venezuela.</p>
+<p style="text-align: justify;">Y ya mencioné que, como parte de esa política, se contempla la solución pacífica de las controversias. Esto es consustancial al diálogo.</p>
+<p style="text-align: justify;">Nosotros estamos por el diálogo, estamos por llegar a acuerdos sin el uso de la fuerza; estamos por la no violencia.</p>
+<p style="text-align: justify;">Creo que en este punto tenemos coincidencia con el gobierno español en llamar al diálogo a las partes.</p>
+<p style="text-align: justify;">En eso creo que coincidimos y estaríamos hasta en condiciones de participar, si se nos solicita, para que puedan sentarse las dos partes en conflicto y dialogar sin condiciones.</p>
+<p style="text-align: justify;">Siempre el diálogo deja buenos resultados; siempre el diálogo da frutos.</p>
+<p style="text-align: justify;">El diálogo en sí es política. De modo que si actuamos de esta manera y hay coincidencia podemos, en el caso de que las partes lo soliciten, ayudar para concretar la comunicación, el diálogo entre las partes en conflicto. Esto es lo que yo puedo mencionar.</p>
+<p style="text-align: justify;">En cuanto a las empresas españolas, tienen las puertas abiertas en nuestro país. La inversión española en México es la segunda inversión extranjera en importancia. Después de la inversión estadounidense es la inversión española, y como aquí lo ha dicho también el presidente de España, hay inversión mexicana en España.</p>
+<p style="text-align: justify;">Hay inversionistas mexicanos que tienen actividades productivas en España. De modo que es muy buena la relación económica, las empresas españolas van a ser respetadas y se va a impulsar la participación de la inversión española en México.</p>
+<p style="text-align: justify;">Solo destacaría algo, pondría un acento que no es con dedicatoria a un país, sino a todas las empresas del mundo que participan e invierten en México.</p>
+<p style="text-align: justify;">Queremos que en las relaciones de las empresas extranjeras en México haya un comportamiento ético. No queremos que las empresas extranjeras actúen violando las leyes o propiciando, aceptando o participando en actos de corrupción, de soborno.</p>
+<p style="text-align: justify;">Y esto, como lo hemos platicado con el presidente del gobierno español, es también una práctica y una política del Gobierno de España, el que se actúe con honestidad, el que se tenga un auténtico estado de Derecho, respeto a las leyes y que no se permita la corrupción, la asociación delictuosa entre empresas y servidores públicos.</p>
+<p style="text-align: justify;">Pero en eso hay ahora un buen entendimiento con el Gobierno de España, de modo que no veo obstáculos de ningún tipo para que se fortalezcan las relaciones económicas y comerciales con España.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SÁNCHEZ PÉREZ-CASTEJÓN</strong>: Gracias Carlos por la pregunta.</p>
+<p style="text-align: justify;">Yo añadir, además a lo que ha comentado el presidente López Obrador, el que saben que nos está acompañando también en la delegación la ministra de Justicia, la ministra de Industria, Comercio y Turismo, que precisamente una de las fechas que tenemos a lo largo de este año es la celebración en México de un foro inversor, cuando lo que se pretende es seguir impulsando y relanzando esa inversión española en México.</p>
+<p style="text-align: justify;">Lo hacíamos antes en la reunión a puerta cerrada y es que efectivamente las grandes corporaciones españolas están presentes en México, importantes y esas grandes corporaciones españolas también se han, digamos, tengan ese efecto arrastre a pequeñas y, sobre todo, medianas empresas españolas que apuestan y creen empleo aquí, en México.</p>
+<p style="text-align: justify;">Lo cual, desde ese punto de vista creo que el compromiso de las empresas españolas y la política de internacionalización que pueda hacer el Gobierno de España para ayudar a sus empresas españolas, sobre todo las medianas, es inequívoco y se va a ver reflejado el próximo mes de abril, creo recordar en las celebraciones del foro inversor.</p>
+<p style="text-align: justify;">Y respecto a la primera de las cuestiones que se han planteado, efectivamente la política exterior que tenemos cada uno de los países, pues corresponde a nuestro acervo, a nuestra forma de haber practicado de manera, digamos, secular, la política exterior.</p>
+<p style="text-align: justify;">Pero en todo caso, creo que por dejar las cosas bien claras, la relación bilateral entre el Gobierno de España y el Gobierno de México, entre México y España trasciende de lejos lo que puedan ser crisis determinadas, como puede ser la de Venezuela.</p>
+<p style="text-align: justify;">Lo he dicho antes, la Unión Europea tiene pocos acuerdos globales, pocos acuerdos estratégicos con países, como por ejemplo, con México y eso tiene mucho que ver también del aporte y la contribución que ha hecho España a la construcción europea y a darle esa dimensión latinoamericana.</p>
+<p style="text-align: justify;">México y España hemos sido los grandes impulsores de las Cumbres Iberoamericanas. Hablamos de, por supuesto, todo lo que tiene que ver con la economía, pero recordar también desde el punto de vista cultural, o hasta incluso afectivo, con las cuestiones de memoria histórica lo que une a México y a España.</p>
+<p style="text-align: justify;">Con lo cual, desde el punto de vista global de lo que representa la relación bilateral, creo que trasciende, y con mucho, crisis puntuales como pueda ser lógicamente la de Venezuela.</p>
+<p style="text-align: justify;">Y en relación con Venezuela yo le diré dos cosas.</p>
+<p style="text-align: justify;">La primera de ellas. El Gobierno de España no quiere quitar o poner gobiernos. El Gobierno de España lo que quiere es que, por métodos democráticos, con unas elecciones justas, limpias, transparentes, la sociedad venezolana encuentre una salida a la crisis que vive desde hace ya muchos años.</p>
+<p style="text-align: justify;">Una crisis que es política, una crisis que es económica y una crisis que es social, y que se está viviendo además en la forma de éxodo masivo de muchísimos venezolanos y venezolanas que lo que quieren es probablemente encontrar oportunidades que ahora mismo no tienen en su país.</p>
+<p style="text-align: justify;">Y en ese sentido lo que está haciendo el Gobierno de España, en el marco de la Unión Europea es, en primer lugar, salvaguardar una posición común que nos parece fundamental de la Unión Europea.</p>
+<p style="text-align: justify;">En segundo lugar, trasladar la necesidad de constituir un grupo de contacto, no solamente de países europeos, sino también de países latinoamericanos, que puedan propiciar un diálogo entre las dos partes para que se pueda celebrar un proceso de elecciones, insisto, que tienen que ser justas, que tienen que ser libres, que tienen que ser transparentes con todas las garantías para que el propio pueblo venezolano encuentre la salida a esta crisis.</p>
+<p style="text-align: justify;">También le diré algo en términos de política nacional, porque si uno mira Europa, el presidente Macrón, la canciller Merkel o yo mismo pertenecemos a tres familias políticas distintas, pero nos hemos puesto de acuerdo en una posición en relación con Venezuela.</p>
+<p style="text-align: justify;">¿Por qué lo que es posible en Europa no es posible en España? A mí me gustaría, y eso es lo que me gustaría pedir a la oposición, que seamos muy conscientes del sufrimiento del pueblo venezolano, que seamos muy conscientes de que la política exterior en España es una política de Estado y que, en consecuencia, apoyen al Gobierno de España para poder ayudar a resolver una crisis que nos afecta como país hermano que somos de Venezuela.</p>
+<p style="text-align: justify;"><strong>JESÚS RAMÍREZ CUEVAS, VOCERO DEL GOBIERNO DE MÉXICO</strong>:  Toca el turno a los medios de comunicación mexicanos.</p>
+<p style="text-align: justify;">Le damos la palabra a Carlos Montesinos, de <em>La Hoguera</em>.</p>
+<p style="text-align: justify;"><strong>CARLOS MONTESINOS</strong>: Buenos días, señores presidentes.</p>
+<p style="text-align: justify;">Dos de las principales instituciones bancarias que operan en México, Santander y BBVA Bancomer, son de capital español y cuentan con beneficios que, si bien están contemplados por la ley, no reflejan un trato de igualdad hacia el consumidor mexicano, toda vez que un porcentaje importante de sus ingresos parten de este mercado.</p>
+<p style="text-align: justify;">Hay una iniciativa por parte del Movimiento de Regeneración Nacional para modificar esos beneficios, y aunque fue recibida de manera negativa en un inicio, hace unos días se reiteró la importancia de esta iniciativa para con el bienestar del pueblo de México.</p>
+<p style="text-align: justify;">Entonces, al presidente López Obrador le pregunto: Usted ya dijo que no contempla cambios al marco jurídico financiero en la primera mitad de su sexenio, pero en caso de que los senadores sigan por su cuenta para esta iniciativa, ¿qué tanto podría intervenir usted para mantener el capital español aquí, en México? Ya mencionaron la importancia que tiene, incluso, si podría llegar a vetar la iniciativa.</p>
+<p style="text-align: justify;">Y al presidente Sánchez: ¿Cuál es la perspectiva de su gobierno ante este cambio latente que podría ocurrir, ya que representaría un impacto directo a dos firmas muy importantes para la economía de España, incluso, afectando su operación internacional?</p>
+<p style="text-align: justify;">Muchas gracias</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Ya fijamos nuestra postura. Incluso durante la campaña hablamos de que no iba a llevarse a cabo ninguna reforma fiscal, que íbamos a mantener el mismo marco legal, que no iban a aumentar los impuestos en términos reales; que no iba a aumentar la deuda y que también no íbamos a cancelar contratos ya establecidos en el sector energético en el primer tiempo, en los primeros tres años de nuestro gobierno, como lo mencionas.</p>
+<p style="text-align: justify;">Esto aplica también para las reglas de desempeño, de operación de bancos. No consideramos que deban de modificarse. Esto ya lo hemos expresado.</p>
+<p style="text-align: justify;">Tenemos, desde luego, conciencia de lo que significan cobros que están fuera de lo normal, si pensamos en un mundo globalizado y nos gustaría que se ajustaran estos cobros de comisiones, de intereses, a lo que se maneja en el mercado mundial.</p>
+<p style="text-align: justify;">Pero no vamos nosotros a legislar en esta materia, porque no queremos crear ninguna causa para la desconfianza.</p>
+<p style="text-align: justify;">Nos importa la inversión privada, nacional y extranjera. Estamos convencidos de que no basta con la inversión pública, hace falta la inversión privada. Y no es suficiente la inversión privada nacional, necesitamos también de la inversión extranjera, porque urge crecer.</p>
+<p style="text-align: justify;">No podemos mantenernos con las tasas de crecimiento del periodo neoliberal. En más de 30 años no crecimos en términos reales.</p>
+<p style="text-align: justify;">El crecimiento en más de 30 años fue del dos por ciento anual en promedio. Desgraciadamente, México es de los países con menos crecimiento económico en el mundo en los últimos tiempos.</p>
+<p style="text-align: justify;">Entonces, necesitamos crecer, y para eso se requiere de la inversión extranjera.</p>
+<p style="text-align: justify;">Y pensamos que, sin esos cambios a las leyes, sin reformas legales, sin reformas fiscales, podemos salir adelante.</p>
+<p style="text-align: justify;">Si combatimos la corrupción, todavía no se alcanza a internalizar lo suficiente, la importancia que tiene para la promoción del desarrollo, para el crecimiento, el acabar con la corrupción.</p>
+<p style="text-align: justify;">Hoy en la mañana hablaba yo que la corrupción, estoy convencido, no sólo hay que acabarla por razones de índole moral, sino porque es mucho el dinero que se va por el caño de la corrupción. Dinero que podría utilizarse, que se está utilizando ya para impulsar el desarrollo.</p>
+<p style="text-align: justify;">Pemex, por poner un ejemplo, es de las empresas más saqueadas del mundo en los últimos tiempos, sobre todo en este periodo neoliberal. Y ya estamos limpiando a Pemex de corrupción.</p>
+<p style="text-align: justify;">Entonces, sin corrupción podemos financiar el desarrollo y no hace falta cambiar el marco legal.</p>
+<p style="text-align: justify;">Solo aclaro que somos respetuosos también de las decisiones del Poder Legislativo. El Ejecutivo ya no es el poder de los poderes como sucedía en México desde hace más de un siglo. Ya esto cambió, ya hay división y equilibrio entre los poderes.</p>
+<p style="text-align: justify;">Si existe esa iniciativa en el Poder Legislativo, los legisladores van a resolver: los diputados, los senadores, pero la postura política del Gobierno de México es la de no impulsar iniciativas de reforma que puedan producir, generar desconfianza en los inversionistas.</p>
+<p style="text-align: justify;">Cuando se presentó esta iniciativa. que hubo algún nerviosismo en el mercado financiero, yo aclaré que era una iniciativa del Legislativo y que con todo respeto no estábamos de acuerdo.</p>
+<p style="text-align: justify;">Acababa yo de tener una reunión amistosa con la presidenta del consejo del banco Santander, con la señora Botín y le acababa de decir, pero no solo en corto, en privado, sino hasta grabamos un video diciéndole que el nuevo Gobierno de México iba a ser respetuoso de las inversiones y que no iban a cambiar las reglas por lo que a nosotros correspondía.</p>
+<p style="text-align: justify;">De modo que estamos en lo mismo.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SÁNCHEZ PÉREZ-CASTEJÓN</strong>: Yo agradecer las palabras del presidente López Obrador.</p>
+<p style="text-align: justify;">Trasladar lo que he dicho antes al principio de mi intervención, que las empresas españolas que invierten en México lo hacen no para especular, sino para crear prosperidad, para crear empleo.</p>
+<p style="text-align: justify;">Los datos son que las seis mil empresas españolas que están en México han creado de manera directa o indirecta un millón de puestos de trabajo y creo que esto demuestra el compromiso de las empresas españolas con la prosperidad de México.</p>
+<p style="text-align: justify;">Es verdad también, que nosotros en España tenemos un debate, sobre todo las fuerzas progresistas, en relación con la construcción de justicia social que inevitablemente tiene que llevar acarreado la justicia fiscal.</p>
+<p style="text-align: justify;">Y hay un debate ahora mismo en el mundo global donde yo creo que sí que tenemos -sobre todo, las fuerzas progresistas-, que empezar a ofrecer alternativas, como puede ser, por ejemplo, la creación como hemos hecho en España, de un impuesto sobre las transacciones financieras, que está ahora mismo en trámite de aprobación parlamentaria, o también un impuesto sobre los servicios digitales, para que las grandes corporaciones tecnológicas compitan en igualdad de condiciones con el pequeño y el mediano comercio que paga sus impuestos, pero ve que estas grandes corporaciones tecnológicas, que proveen servicios digitales, no pagan esos impuestos.</p>
+<p style="text-align: justify;">Yo creo que estos son los debates que tenemos que abrir. En Europa se está abriendo, desde luego, el del impuesto de servicios digitales, el del impuesto de las transacciones financieras.</p>
+<p style="text-align: justify;">Nosotros hemos y somos la vanguardia en Europa para abrir estos debates, son dos impuestos de nueva creación que hemos llevado al Congreso de los diputados, que es, digamos, la Cámara donde se debaten y se tienen que aprobar.</p>
+<p style="text-align: justify;">Y creo que ese es un planteamiento progresista que exige también del concurso de otros países, pero en todo caso, por terminar por donde empecé, agradecer al presidente López Obrador la confianza en la inversión extranjera española.</p>
+<p style="text-align: justify;"><strong>CARMEN PÉREZ, DIRECTORA GENERAL DE COMUNICACIÓN INTERNACIONAL DEL GOBIERNO DE ESPAÑA</strong>: Por parte española pregunta ahora Paula de Las Heras, de la agencia <em>Colpisa</em>.</p>
+<p style="text-align: justify;"><strong>PREGUNTA</strong>: Muy breve.</p>
+<p style="text-align: justify;">En principio para el presidente López Obrador, porque me ha quedado una duda con su intervención.</p>
+<p style="text-align: justify;">Ha sido usted muy claro al decir que estaría dispuesto a mediar en la crisis venezolana, siempre y cuando se lo pidieran y para un diálogo sin condiciones.</p>
+<p style="text-align: justify;">Quería que me aclarara simplemente si esto quiere decir que usted no está dispuesto a formar parte del grupo de contacto que están impulsando España y la Unión Europea para esta crisis, puesto que lo que persigue este grupo de contacto es la celebración de unas elecciones presidenciales en Venezuela.</p>
+<p style="text-align: justify;">Y al presidente Sánchez le quería preguntar: La semana que viene concluye el plazo para la presentación de enmiendas a la totalidad de los presupuestos. Ayer oímos a la ministra de Hacienda decir que si esos presupuestos no salen adelante habrá elecciones.</p>
+<p style="text-align: justify;">Quería que me dijera si usted descarta que vaya a haber elecciones en mayo en España.</p>
+<p style="text-align: justify;">Por otro lado, como sabe que es el tema del día en España, usted llegó a sondear a políticos como Alfredo Pérez Rubalcaba para la alcaldía de Madrid, finalmente ha optado por un perfil totalmente ajeno a la política, como el de Pepu Hernández, quería que nos aclarara por qué.</p>
+<p style="text-align: justify;">Y usted que fue el candidato que se presentó a las primarias como el más respetuoso con las bases, quería saber si teme que las bases no entiendan su falta de neutralidad en este proceso, puesto que ya de inicio apoya a Pepu Hernández como candidato para las futuras primarias.</p>
+<p style="text-align: justify;">Gracias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SANCHEZ PEREZ CASTREJON</strong>: Muchas gracias, Paula.</p>
+<p style="text-align: justify;">En relación con la pregunta que ya viene siendo habitual por parte de los medios españoles, querido presidente López Obrador, si va a haber elecciones, no va a haber elecciones.</p>
+<p style="text-align: justify;">Estamos ahora mismo en el tiempo de los presupuestos, yo lo que me gustaría plantearle a la oposición y cuando digo la oposición no solamente me estoy refiriendo a los que, de manera sistemática en las votaciones en el Congreso de los diputados, sino también a la oposición conservadora, al Partido Popular y a ciudadanos: No veten la entrada de estos presupuestos, que son buenos para España, en el Congreso.</p>
+<p style="text-align: justify;">Son unos presupuestos que tienen que ver con la reconstrucción del Estado del bienestar, con la recuperación de derechos después de siete años de austeridad y de recortes.</p>
+<p style="text-align: justify;">Si estos presupuestos son buenos para España, serán buenos para todos y cada uno de los territorios de España. Esto es lo que le pido a la oposición.</p>
+<p style="text-align: justify;">Qué tiene que ver, en fin, hablando, por ejemplo, de las fuerzas parlamentarias independentistas catalanas, qué tiene que ver la crisis de fondo que el Gobierno de España ha manifestado en reiteradas ocasiones que quiere resolver en Cataluña, con la recuperación del subsidio al desempleo de los mayores de 52 años; o con el impulso a las políticas de dependencia o con la recuperación de la sanidad pública, o con el incremento de los presupuestos en educación pública, en ciencia o en innovación; qué tiene que ver. No tiene que ver nada, son dos debates aparte.</p>
+<p style="text-align: justify;">Y en ese sentido, me gustaría, insisto, pedirle a toda la oposición, a toda la oposición que no veten unos presupuestos que son buenos para España.</p>
+<p style="text-align: justify;">Y, en segundo lugar, en relación con la pregunta que me hace, en fin, tengo que decirle que al hablar de la candidatura de Pepu Hernández, pues se me enciende una sonrisa y, por tanto, en primer lugar, le di la bienvenida y, en segundo lugar, quiero agradecerle dos cosas:</p>
+<p style="text-align: justify;">La primera, su compromiso con la ciudad de Madrid. Y, en segundo lugar, la confianza que ha depositado en el Partido Socialista Obrero Español para poder expresar ese compromiso con la ciudad de Madrid y poder transformar la ciudad de Madrid con un proyecto, que yo creo que es ilusionante.</p>
+<p style="text-align: justify;">A partir de ahí no se olvide de que yo soy afiliado del Partido Socialista Obrero Español en Madrid y que por tanto votaré en ese proceso de primarias y que, ya le adelanto, votaré lógicamente por Pepu Hernández.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Acerca del planteamiento sobre Venezuela, es diálogo como primer paso.</p>
+<p style="text-align: justify;">No se pueden imponer las cosas. Primero se tienen que sentar a dialogar las partes.</p>
+<p style="text-align: justify;">Y ya el diálogo, como lo dije, es un buen avance para el entendimiento. En vez de estar haciendo recomendaciones, lo mejor es que auspicie la posibilidad del diálogo entre las partes. Yo estoy seguro que eso va a ayudar.</p>
+<p style="text-align: justify;">El diálogo es parte de la democracia. Entonces, que se pueda convencer a las partes para que se sienten a dialogar, a buscar acuerdos y el resultado de ese diálogo tiene que desembocar en la democracia.</p>
+<p style="text-align: justify;">Pero lo tienen que resolver los venezolanos. Un diálogo, no a la confrontación. Esa es nuestra postura.</p>
+<p style="text-align: justify;">Si se logra este diálogo entre las partes, nosotros vamos a participar, vamos a ayudar para que se lleve a cabo y que se exploren todas las salidas a la crisis en Venezuela.</p>
+<p style="text-align: justify;">Y, desde luego, no descartar la vía democrática de ninguna forma, pero respetando la decisión de los venezolanos. Esa es nuestra postura, no con desconocimientos a gobiernos, o reconociendo a gobiernos cuando no nos corresponde ese papel. No podemos actuar de esa manera.</p>
+<p style="text-align: justify;">Nosotros podemos llegar hasta convocar a las partes al diálogo y ayudar a que se lleve a cabo ese encuentro, y ojalá y se logre.</p>
+<p style="text-align: justify;">Y convocamos a todos a buscar una solución pacífica, no violenta, no caer en la provocación, en la violencia. No hay peor cosa que la guerra.</p>
+<p style="text-align: justify;">Y la política se inventó, entre otras cosas, para evitar la guerra. Y la diplomacia tiene ese encargo fundamental.</p>
+<p style="text-align: justify;">Entonces, todo lo que podamos hacer nosotros lo vamos a realizar con la participación de la Secretaría de Relaciones Exteriores. Marcelo Ebrard está mandatado para esa función de hablar, explicar el porqué de nuestra postura, a veces no se entiende, pero es parte de nuestra historia.</p>
+<p style="text-align: justify;">Hoy lo recordaba. Luego de la Intervención Francesa, cuando los conservadores de entonces fueron al extranjero a buscar a un príncipe y se desconoció al gobierno legítimo de México (al gobierno del presidente Benito Juárez), y se resistió a esa invasión y se logró restaurar la República.</p>
+<p style="text-align: justify;">Cuando regresa triunfal el presidente Juárez, su primer discurso en la Ciudad de México incluyó esa frase célebre: ‘Entre los individuos como entre las naciones, el respeto al derecho ajeno es la paz’. Eso es parte de nuestra política exterior. Entonces, son los fundamentos históricos de nuestra política.</p>
+<p style="text-align: justify;">Y además nosotros, por razones de geopolítica, sostenemos estos principios, porque no queremos que gobiernos ajenos, extranjeros, intervengan en asuntos que sólo competen a los mexicanos.</p>
+<p style="text-align: justify;">Por eso tenemos que ser muy cuidadosos de no intervenir en asuntos de otros países, para que otros gobiernos, otros países, no intervengan en nuestra política interna.</p>
+<p style="text-align: justify;">Esto es parte de la tradición política de México y España tiene, como lo ha mencionado el presidente de España, Pedro Sánchez, su política.</p>
+<p style="text-align: justify;">Y además, hay algo también muy destacado de sus palabras, algo que rescato es que la relación México y España va más allá de nuestras posturas específicas sobre el caso de Venezuela.</p>
+<p style="text-align: justify;">Nosotros llevamos una muy buena relación que queremos fortalecer, porque consideramos que hay condiciones inmejorables para estrechar las relaciones de amistad y de cooperación con España.</p>
+<p style="text-align: justify;"><strong>JESÚS RAMÍREZ CUEVAS, VOCERO DEL GOBIERNO DE MÉXICO</strong>: Ahora, por los medios de comunicación mexicanos, tiene la palabra Daniel Rosas, del <em>Grupo Radio Centro</em>.</p>
+<p style="text-align: justify;"><strong>PREGUNTA</strong>: Gracias, por acá.</p>
+<p style="text-align: justify;">Hola. Muy buena tarde, buena tarde a todos.</p>
+<p style="text-align: justify;">A la comitiva española bienvenidos a nuestro país.</p>
+<p style="text-align: justify;">Quiero un poco ya nada más para terminar con ese tema que, sin duda, nos ha llamado a todos la atención, que es lo de México, lo de Venezuela, perdón, ya escuchamos todas las posturas y nos han quedado medianamente claras.</p>
+<p style="text-align: justify;">Lo que quiero preguntarles ahora para terminar con este tema es: Qué tanto, no sé si porcentualmente se valga, ¿qué tanto de la conversación que tuvieron ahorita fue destinado para temas políticos como este?, ¿cuánto fue destinado para el tema económico?, ¿cuánto para el tema cultural que nos han comentado?, ¿si de alguna manera en esta conversación se lograron algunas posturas o puntos de coincidencia entre las dos posturas respetando, evidentemente la independencia de cada una de las naciones?</p>
+<p style="text-align: justify;">Y para el presidente Sánchez, ya hablaba un poco de las inversiones españolas, se ha tocado aquí en esta conferencia de prensa, pero quisiera preguntarle: En el caso concreto de las empresas españolas que van a invertir en México, ¿algunas de ellas están pensando en hacerlo en obras de infraestructura prioritarios para el gobierno mexicano, como, por ejemplo, el Tren Maya o algunos otros programas similares?</p>
+<p style="text-align: justify;">Muchas gracias a todos.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SÁNCHEZ PÉREZ-CASTEJÓN</strong>: Si les parece, presidente, cierro yo con esta pregunta y le doy las gracias por la bienvenida, porque la verdad es que nos sentimos como en casa.</p>
+<p style="text-align: justify;">Bueno, decirle, no sé qué porcentaje le podríamos dar, presidente, pero yo creo que probablemente un 90 por ciento del tiempo que hemos hablado primero en el (…) solos y posteriormente con las delegaciones, un 90 por ciento ha sido básicamente la relación bilateral en todos esos aspectos. No sé cuánto convendría darle a la economía, yo le diría el 90 por ciento.</p>
+<p style="text-align: justify;">Y en relación con la segunda de las cuestiones, hombre, yo creo que España es un país que tiene grandes empresas expertas en infraestructuras y, en fin, yo no le he preguntado a las empresas, pero estoy convencido de que estarían más que dispuestas a participar y a poner su granito de arena en este proyecto tan ilusionante para México, como es el de las infraestructuras ferroviarias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí, conversamos ampliamente de temas varios.</p>
+<p style="text-align: justify;">Tuvimos una muy buena plática sobre cultura. Le comentaba al presidente de España de nuestro gran muralista Diego Rivera. Estuvimos hablando del muralismo, de nuestro Picasso, estuvimos hablando, precisamente, por la época de la Guerra Civil española, el exilio.</p>
+<p style="text-align: justify;">Conversamos de literatura, evocamos a escritores, a Hemingway, la extraordinaria novela: <em>Por quién doblan las campañas</em>.</p>
+<p style="text-align: justify;">Hablamos también del literato este que espero que como Hemingway llegue a ser Premio Nobel de Literatura, ojalá no le estemos echando aquí la sal. Este gran escritor cubano, Padura, que escribió ese extraordinario libro: <em>El hombre que amaba a los perros</em>, que tiene que ver con el exilio de Trotski, en México, en esa época. Es un gran libro, es un gran escritor.</p>
+<p style="text-align: justify;">Ojalá y no le vayan a hacer lo que le hicieron a Carpentier que por sus posturas políticas no le dieron el Nobel de Literatura.</p>
+<p style="text-align: justify;">Bueno, estuvimos hablando de todo esto, de la relación cultural y hablamos también de la cooperación económica. Y de Venezuela, pero no fue lo central. Tratamos el tema, pero hablamos de muchas otras cosas. ¿Verdad, presidente?</p>
+<p style="text-align: justify;"><strong>PRESIDENTE PEDRO SÁNCHEZ PÉREZ-CASTREJON</strong>: Así es.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Muchísimas gracias.</p>
+<p style="text-align: justify;">+++++</p>
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

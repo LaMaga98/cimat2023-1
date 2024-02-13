@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>22.04.22 Versión estenográfica. Desarrollo del Istmo de Tehuantepec, desde Veracruz &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/22-04-22-version-estenografica-desarrollo-del-istmo-de-tehuantepec-desde-veracruz/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=149978' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F22-04-22-version-estenografica-desarrollo-del-istmo-de-tehuantepec-desde-veracruz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F22-04-22-version-estenografica-desarrollo-del-istmo-de-tehuantepec-desde-veracruz%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2s44q-f-f151fa82b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":40,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1e3f833","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":34471,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706727225","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==OkfU9zxs2XboKQC+aV2t6P+ROQypDlejcC43n/kMuPnuOW2933u/Xo4MeB4MFbMXMramnAsvNSedHU5WT53ilRYqgC9gAQlZndJubpOA0lAQdcHcswajAi0hjSVWPL71XAliUY4qgUWe6Ddt0oo7zTtHg7hhhPlkPdQBOE8TKXbFoTzPHXOQKliO0n5RngTVVEQf823Lqcp09hPDtf8M2aGkte62jUSzgQ3xFjOrweoVI9Mov5MDa/qQ83JrMRsfQb8C24mdZ9bQJnMjp5OPcmKEk5/mU4S4LSG3taR1DIxPw81V2fUfAK99qQPtinyAeWKLi78fxah4CooKbmpkgBrOgIaZm1czZqYDzmJU/qEBeVjtmysjGZTEQZlUnYqU5U0Cqe16m4++gzEPuL/4bhETVB9Z6lwnL4VUlBeKUiA=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-149978 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba95b4d34b5" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>22.04.22 Versión estenográfica. Desarrollo del Istmo de Tehuantepec, desde Veracruz</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 22.04.22 Versión estenográfica. Desarrollo del Istmo de Tehuantepec, desde Veracruz 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-149978" class="post-149978 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-andres-manuel-lopez-obrador tag-desarrollo-del-istmo-de-tehuantepec tag-istmo-de-tehuantepec tag-veracruz">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2022/04/22-04-2022-DESARROLLO-DEL-ISTMO-DE-TEHUANTEPEC-FUERTE-DE-SAN-JUAN-DE-ULUA-VERACRUZ-FOTO-09.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2022/04/22-04-2022-DESARROLLO-DEL-ISTMO-DE-TEHUANTEPEC-FUERTE-DE-SAN-JUAN-DE-ULUA-VERACRUZ-FOTO-09-745x450.jpg" alt="22.04.22 Versión estenográfica. Desarrollo del Istmo de Tehuantepec, desde Veracruz" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">22.04.22 Versión estenográfica. Desarrollo del Istmo de Tehuantepec, desde Veracruz</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2022: Año de Ricardo Flores Magón, precursor de la Revolución Mexicana</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues a mí me da mucho gusto estar con ustedes.</p>
+<p>Creo que es importante que tenga ustedes la información de lo que se está haciendo en el país y en el sureste en especial.</p>
+<p>Quiero llamar la atención sobre el porqué es importante el que nos integremos en lo económico en América del Norte y, como un ideal, como una utopía que se puede convertir en realidad, la integración de toda América. Así como en su momento fue la Comunidad Europea y luego la Unión Europea, ¿por qué no pensar en que se puede dar esta integración regional, estratégica, para nuestros países?</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2022/04/Desarrollo-del-Istmo-de-Tehuantepec-desde-Veracruz.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/V60LnkVicaA" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>En cuanto a la integración económica, creo que lo que está sucediendo nos debe de llamar la atención de cómo hay que contemplar la relación económica, comercial, incluso política, al futuro.</p>
+<p>Sería bueno que viéramos un momento una gráfica que en su… Hace unos días me mostró Juan Pablo de Botton, subsecretario de Hacienda, subsecretario de Egresos. A ver si la explicas, de cómo era la relación económica comercial hace unos años y cómo es ahora.</p>
+<p><strong>JUAN PABLO DE BOTTON, SUBSECRETARIO DE EGRESOS DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBICO (SHCP):</strong> Sí, claro, presidente.</p>
+<p>Lo que muestra las distintas imágenes que vamos a ver es la evolución de la relación comercial entre los países.</p>
+<p>La liga o, digamos, la establece aquel país con el cual ellos tienen una mayor relación comercial. Entonces lo que se observa en los 60 es que Estados Unidos tiene un núcleo importante y por otro lado se encuentran ciertos países de Europa y también Inglaterra.</p>
+<p>La siguiente lámina, por favor. Básicamente lo que se empieza a ver es una disgregación entre lo que tiene que ver con la Comunidad Europea con una presencia más importante de Alemania y por lado un <em>clúster</em> importante con Estados Unidos y una participación también ahí relevante de Japón y por ahí un satélite.</p>
+<p>Si podemos pasar a la misma gráfica en el 2000. En el 2000 ya vemos mucho más marcada la diferencias entre Europa y Estados Unidos. China empieza a agarrar un poco de influencia con algunos países de Asia y digamos, pero Estados Unidos digamos mantiene esta cuestión céntrica hacia una serie de socios comerciales.</p>
+<p>Y si podemos pasar a ver la gráfica cómo se ve en el 2020. Digamos, solamente para referencia, todos estos datos son datos del Fondo Monetario Internacional y corresponden a la suma de importaciones y exportaciones.</p>
+<p>Vemos que China ahora mantiene una imagen mucho más centralizada con una mayor aportación del comercio o mayores socios comerciales hacia una buena cantidad de países, no solamente de Asia y Estados Unidos se ve desplazado en cuanto a su centralidad en esta gráfica. Es un poco lo que hoy se observa como una tendencia en el comercio internacional.</p>
+<p>Sería todo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Si esto lo proyectamos, si continúa la tendencia, se va a producir en el mediano plazo un desequilibrio muy desigual y riesgoso, porque el que haya hegemonías no nos conviene a los que queremos vivir en paz.</p>
+<p>Si hay un desequilibrio mayor, que lo pueden medir los técnicos, que deberían estar ya proyectando lo que va a suceder si no cambiamos las cosas en el 2050.</p>
+<p>Alguien decía que hay quienes piensan en las futuras generaciones y hay quienes piensan en las futuras elecciones. Esa es la diferencia entre un político común y estadista, un hombre de Estado, un hombre de nación.</p>
+<p>Entonces, si se mantiene ese desequilibrio y no hacemos nada, ¿cómo se buscaría el predominio?, pues a través de lo bélico y nosotros no queremos eso. Así de claro y de sencillo.</p>
+<p>Entonces, preferimos un vecino, económica, comercialmente fuerte, no un vecino fuerte en lo militar, en lo bélico. El equilibrio en lo económico y comercial significa estabilidad política.</p>
+<p>Entonces, creo yo que hay que seguir insistiendo en que debemos de integrarnos con respeto a nuestras soberanías. Es un buen paso el haber renovado el tratado comercial, yo me siento muy satisfecho con eso porque cumplí con mi responsabilidad en su momento. No fue fácil el que se le diera continuidad al tratado y ahora ya con este instrumento tenemos muchas posibilidades para el desarrollo en América del Norte, en lo que corresponde a México tiene condiciones para la inversión inmejorables.</p>
+<p>Haciendo a un lado la propaganda política o la politiquería, siempre hablan los hechos, y es la realidad la que se va imponiendo. Está creciendo la inversión extranjera en México como nunca y eso pues es un indicador de que hay futuro para las empresas en México, para el crecimiento económico. Es una región de muchas oportunidades.</p>
+<p>No puedo comparar, pero ya ustedes podrán imaginar la situación tan difícil por la que están pasando los países hermanos de Europa, eso es distante a nuestra realidad.</p>
+<p>Este es un país y una región con futuro, por eso lo del tratado ayuda mucho.</p>
+<p>Y decía, ojalá luego de integrarnos bien en el norte o al mismo tiempo convencer de la importancia de la integración de todo el continente americano, hay un potencial enorme en toda América.</p>
+<p>Y sólo pensemos en una ventaja comparativa, que ahora se mencionó: las distancias, los costos por fletes. Nosotros tenemos inversión, hay tecnología, muchísimos recursos naturales, mano de obra joven y mercado, es cosa nada más de ver los ingresos per cápita en el mundo, cómo estamos en América del Norte, cómo estamos en América, cómo estamos en otras regiones.</p>
+<p>Entonces, ¿por qué no apostar a producir más, dejar de estar consumiendo? ¿Por qué no ser más autosuficientes en lo regional? Eso es algo que quería.</p>
+<p>Lo otro es el equilibrio que estamos buscando en el crecimiento en nuestro país, porque en los últimos tiempos era poco el crecimiento; pero, además, disparejo. En el norte, seis, ocho por ciento anual; en el centro, tres, cuatro por ciento anual; en el Bajío, lo mismo; en el sur sureste, cero o bajo cero, decrecimiento, sólo teníamos con crecimiento Quintana Roo y eso el norte de Quintana Roo, por el turismo, Cancún y la Riviera Maya, porque hasta el sur de Quintana Roo tenía decrecimiento; y desde luego, Yucatán y Campeche y Tabasco, y Oaxaca, Chiapas, Veracruz.</p>
+<p>Bueno, ¿qué estamos ahora haciendo?</p>
+<p>Buscando un crecimiento horizontal, equilibrando, no abandonando el norte, no abandonando el centro, no abandonando el Bajío, sino apoyando a la región que estaba completamente en el abandono.</p>
+<p>Puedo ahora decir a ustedes que como nunca se está invirtiendo en el sureste del país. Ayer hablaba yo de sólo dos proyectos de inversión pública de alrededor de 25 mil millones de dólares, dos proyectos: la refinería de Dos Bocas. nueve mil millones de dólares; y el Tren Maya, 12, 13 mil millones de dólares, mil 500 kilómetros para comunicar todo el sureste.</p>
+<p>Me gustaría que usáramos una de las láminas que presentó creo que el gobernador de Chiapas, Rutilio, o una del sureste para ver lo que significa el Tren Maya y lo que significa el proyecto del istmo. Bueno, esta nos puede ayudar, esa es muy importante.</p>
+<p>No puedo yo, por honestidad intelectual, no puedo plagiar. Este mapa lo hice a partir de una idea de Antonio del Valle y se los describí a los empresarios de la cervecera Constellation para, pues no convencerlos porque ya habían avanzado mucho, de la importancia que tiene el sureste para atender el mercado de la costa este de Estados Unidos.</p>
+<p>Toda nuestra relación es hacia el norte —a ver si ponen de nuevo el mapa— y podemos abrir mercado, es hipotético. Ustedes tienen economistas y expertos, y podemos demostrar, y se puede convertir la hipótesis en tesis, de que todo ese mercado no tiene presencia de productos mexicanos, que toda la relación es hacia Texas y California.</p>
+<p>Si la planta de Constellation —que quiero aprovechar para agradecer la confianza de los empresarios de Estados Unidos, ejemplares empresarios—… si esa planta se reproduce, imaginemos, y se pone otra igual en el istmo y se pone otra igual allá en la desembocadura del río Usumacinta, en donde lo que sobra es agua, es el río más grande de México, tendrían para atender todo el mercado de la costa este. Estamos hablando hacia futuro.</p>
+<p>Bueno, el Proyecto del Istmo tiene ese propósito. Ustedes se ocupan del sector energético, de las distintas ramas de la economía, en todos los casos hay oportunidades.</p>
+<p>La creación de los 10 corredores o parques industriales en el istmo tienen muchas ventajas en la industria petrolera, en el gas.</p>
+<p>Imaginen, volvemos a lo mismo, ahora Europa padeciendo por la dependencia del gas de Rusia y aunque se les quiera ayudar mandándoles gas, que hay suficiente en Texas, pues no hay plantas de licuefacción. A eso me refería cuando decía que hay que cambiar ya, hay que ver las cosas de otra manera.</p>
+<p>Entonces, no sólo es la planta de licuefacción en Salina Cruz para el gas a Asia, no; planta de licuefacción en Coatzacoalcos para Europa. ¿Y qué? ¿No es negocio si se tiene el gas? Una regasificadora en Europa, por mencionar algo, y muchas otras inversiones, todo lo que significa la producción agropecuaria del sureste, de Oaxaca, de Chiapas, Tabasco, Veracruz.</p>
+<p>Celebro el que ya hay una empresa que tiene un ferrobuque y llega el buque enorme, suben 75, 80 vagones del ferrocarril y los bajan en Alabama, eso de Coatzacoalcos a Alabama, dos, tres días. Ya están ellos invirtiendo en eso.</p>
+<p>Entonces, sí hay mucho potencial.</p>
+<p>Garantizarles de que vamos a apoyar en todo, nos importa mucho la inversión.</p>
+<p>Nosotros queremos combatir la pobreza, ese es el propósito central y estamos avanzando, porque estamos combatiendo al mismo tiempo la corrupción porque, siempre lo he dicho, la corrupción es lo que ha dado al traste con todo, eso es lo que más nos dañó en México; no fue una pandemia, una peste, es la causa principal la corrupción de la desigualdad económica y social, ¿sí?, es lo que produjo mucha desigualdad, mucha pobreza y fue lo que nos llevó a la inseguridad y a la violencia.</p>
+<p>Entonces, estamos combatiendo la corrupción y esto nos está permitiendo liberar muchos fondos para el desarrollo, porque no sólo hay que combatir la corrupción por razones de índole moral, sino porque se liberan muchos fondos para el desarrollo.</p>
+<p>Les puedo poner ejemplos. ¿Por qué se pudo hacer el aeropuerto de la Ciudad de México? Bueno, porque estaba estimado en 300 mil millones, lo hicimos en 75 mil.</p>
+<p>Estamos haciendo cuarteles para la Guardia Nacional, para 120 elementos. Ya tenemos 260 cuarteles. Los construye también la Secretaría de la Defensa, los ingenieros militares; 25 millones por cuartel para 120 elementos, equipados. Con corrupción, pues son 250 millones, 10 veces más; pero no sólo cuesta más, sino no se terminan; como tenían que dar soborno, el constructor se llevaba el anticipo y ahí quedaba la obra tirada.</p>
+<p>Estamos ahora construyendo dos mil 700 sucursales del Banco del Bienestar, porque estamos dispersando recursos para el bienestar a toda la población, dos mil 700 sucursales para que la gente tenga un lugar cerca y pueda sacar lo que por derecho le corresponde. Bueno, cada sucursal del Banco del Bienestar, cinco millones de pesos.</p>
+<p>Y así podría poner más ejemplos. Entonces, todo esto nos permite avanzar mucho, destinar recursos al bienestar.</p>
+<p>De los cuatro estados que están aquí presentes, les puedo decir que en el caso de Oaxaca y Chiapas en el 100 por ciento de los hogares se recibe cuando menos un programa, un apoyo. El que no recibe un apoyo porque es adulto mayor y tiene una pensión… Porque ya la pensión en México es un derecho universal, están beneficiándose 10 millones 500 mil adultos mayores de 65 años que mes con mes están recibiendo. Y ya se elevó este derecho a rango constitucional, esté quien esté en el futuro en el gobierno se tiene que mantener este apoyo.</p>
+<p>Entonces, en el caso de Oaxaca y Chiapas, 100 por ciento de los hogares.</p>
+<p>Luego hablaba yo en la mañana sobre Veracruz, que tiene poco más de ocho millones de habitantes, también más de dos millones de hogares, el 95 por ciento de los hogares recibe cuando menos un apoyo para el bienestar.</p>
+<p>En el caso de Tabasco, 90, 95 por ciento.</p>
+<p>Los que tienen atención preferente en todo el país son tres estados, los más pobres: Chiapas, Oaxaca y Guerrero. Si revisamos sobre los programas sociales, son los que tienen más atención.</p>
+<p>Bueno, por eso en estos cuatro estados no hay problemas graves de violencia. Y le agrego ‘grave’ porque me tengo que cuidar, porque estamos también viviendo, así como son tiempos de oportunidades y de esperanzas, son tiempos también de zopilotes, entonces tengo que usar bien la geometría del lenguaje y hablar más despacio que de costumbre, yo no hablo de corrido, para cuidarme, porque si digo: en estos cuatro estados no hay violencia, esa es la nota; por eso le agrego: en estos cuatro estados no es tan grave el problema de violencia.</p>
+<p>Y es cierto, en Chiapas prácticamente no hay violencia, es de los estados con menos violencia en el país; Tabasco lo mismo, nos aparece; el caso de Oaxaca, igual; Veracruz, hoy vimos, hemos bajado.</p>
+<p>Nada más en lo que tiene que ver con el delito de secuestro en el tiempo que estamos 75 por ciento la incidencia de este delito en el país, 75 por ciento.</p>
+<p>Bueno, y no es nada más porque estamos trabajando de manera conjunta la Secretaría de la Defensa, la Secretaría de Marina, la Secretaría de Seguridad Pública. Quiero así subrayar que la Secretaría de Marina y la Secretaría de la Defensa son dos pilares fundamentales del Estado mexicano y hemos recibido mucho apoyo.</p>
+<p>Fue acertado también hacer una reforma constitucional al inicio del gobierno para que la Secretaría de Marina y la Secretaría de la Defensa pudieran ayudaros en labores de seguridad pública, porque no se les permitía legalmente, y se logró esa reforma y gracias a eso enfrentamos el problema de la inseguridad y de la violencia.</p>
+<p>Pero hoy decía, y lo sostengo como una convicción, que lo más importante de todo es el bienestar de la gente. La paz es fruto de la justicia, eso es lo más importante.</p>
+<p>Entonces, vamos a seguir trabajando juntos.</p>
+<p>Hoy también en la mañana hablé, y aprovecho para repetirlo, porque generó alguna inquietud lo de la reforma eléctrica. Quiero comentarles que ya el Poder Judicial resolvió, la Suprema Corte.</p>
+<p>No dejo de señalar de que hay un auténtico Estado de derecho, como nunca. Antes, la división de poderes era una formalidad, el poder de los poderes era el Ejecutivo y en especial el presidente, los otros poderes eran apéndices. Ya no es así.</p>
+<p>Entonces, ahora con independencia completa el Poder Judicial resolvió sobre este asunto y antes de proceder legalmente estamos abriendo la posibilidad al diálogo a las empresas que tienen que ver con la industria eléctrica, y los vamos a convocar en su momento para explicarles cómo queda la ley eléctrica.</p>
+<p>Estoy incluso recomendado que los abogados de las empresas ya se aboquen al análisis de lo que es la nueva ley eléctrica, que las empresas tengan buenos asesores, porque también suele pasar que los abogados u otros profesionales —no todos desde luego, no quiero generalizar— por quedar bien o por mantener sus asesorías engañan a empresas diciéndoles: ‘No se preocupe, no hay problema, nos podemos amparar’.</p>
+<p>Una vez, una corporación muy fuerte tenía un problema fiscal y hablé con el presidente del consejo de administración, porque lo conocí así, en una reunión, y nos caímos bien. Entonces, me informaron de Hacienda de que tenían una adeuda de 12 mil millones de pesos, entonces le hablé, porque teníamos que presentar una denuncia penal, y le hablé y dice: ‘Es que me dicen mis abogados que estamos fuertes’. Pues te están mintiendo. ¿Por qué no envías gente de tu confianza a que revisen el caso?, porque lo que queremos es llegar a un acuerdo. Y envió gente de su confianza y, en efecto, llegaron a la conclusión que debían los 12 mil millones de pesos. Y los pagaron.</p>
+<p>Bueno, voy a decir, fue Walmart, o sea, actuando con legalidad y es de reconocerlo. Entonces, en el caso de la ley eléctrica es lo mismo. Entonces, ya no se va a poder lo del autoabasto, es fraude legal, así, decidido por la mayoría de los votos de la Corte, porque se vio artículo por artículo y en este caso creo que 11 ministros, 11 votaron por considerar que se trataba de fraude legal.</p>
+<p>Entonces, ¿cuántos hay así una vez que empiece a aplicarse la ley?</p>
+<p>Pues como 70 mil empresas que dependen de 10 o 20 que les venden la energía, porque hay un autoabasto legal, que es el que tiene una empresa que consume la energía. Pero este caso es distinto al que genera la energía y la vende simulando de que se trata de una sociedad, comprando con un dólar una acción. Pues eso ya no es posible legalmente.</p>
+<p>Pero, también, ni modo que iniciemos los procesos judiciales, no, vamos a dialogar, a buscar las opciones, qué alternativas tenemos, y eso es lo que vamos a hacer en este asunto, en este caso, como lo hicimos en el caso de los gasoductos y como lo vamos a hacer en todo.</p>
+<p>Imagínense si actuamos de manera estricta. De 110 contratos que se entregaron para la explotación del petróleo, sólo hay dos produciendo, y han transcurrido seis años de la llamada reforma energética y ni modo que actuemos cancelando los contratos. No.</p>
+<p>Si en otros tiempos se consideraba que no era negocio, a lo mejor ahora el precio del crudo está alto, como lo vamos a hacer con esta empresa que tiene en convivencia o tiene cercanía con un campo de Pemex, Talos, queremos que inviertan, ya está el contrato sin ningún problema; pero sí, también la única condición es de que se invierta, porque si llegamos a un acuerdo Pemex y Talos, hablando con toda franqueza, para que ellos extraigan petróleo… Es un campo que tiene capacidad para extraer hasta 150 mil barriles diarios y ya está explorado, ya está para empezar a producir en un año, año y medio. Pero hacemos el acuerdo y resulta que Talos lo que hace es que vende sus bonos o vende la concesión, o sea, sólo utiliza el acuerdo para la especulación. Pues no. Queremos que inviertan y así no hay problema de nada, nosotros ayudamos en todo, pero ya basta de especular.</p>
+<p>En estas cosas parecería extraño, pero coincidimos con el presidente Biden en estos temas que estoy tratando, porque él quiere que se actúe de conformidad con la ley, que haya justicia y es lo mismo que buscamos nosotros.</p>
+<p>Entonces, México tiene muchas oportunidades y ustedes tienen todas las posibilidades de hacer negocios.</p>
+<p>Aquí hay una nieta de Antonio Ortiz Mena, y don Antonio decía que se tenían que crear las condiciones para hacer negocios en México con ganancias razonables, y eso es, hacer negocios con ganancias razonables.</p>
+<p>Él fue secretario de Hacienda 12 años y fueron dos sexenios con crecimientos promedio de seis por ciento anual, sin inflación, sin devaluación en ese entonces, y el país avanzó mucho.</p>
+<p>Entonces, hay posibilidades de que se invierta en México, cuenten con todo nuestro apoyo.</p>
+<p>Le agradecemos mucho a Ken Salazar por ayudar a ser el enlace. Son muy buenas las relaciones con el gobierno de Estados Unidos. No nos podemos pelear, no sólo porque son tres mil 180 kilómetros de frontera, sino porque hay una relación histórica, de amistad y también de oportunidades mutuas que debemos de aprovechar. Entonces, vamos nosotros a seguir cultivando las buenas relaciones de amistad con el gobierno de Estados Unidos.</p>
+<p>Y le agradecemos mucho a Ken que representa muy bien a Estados Unidos y comprende también la situación nuestra.</p>
+<p>Ayer recordaba yo lo que hizo un buen embajador de Estados Unidos en México, Joseph Daniels. Fíjense como es la historia, la política y las vueltas que da la vida. Daniels fue secretario de Marina cuando se invadió Veracruz, cuando se invadió México, él fue el que ejecutó el desembarco estando de presidente Woodrow Wilson, un buen presidente, demócrata. Y Daniels secretario de Marina, y el segundo de Daniels, en 1914, 21 de abril de 1914, ayer hace 108 años, Franklin Delano Roosevelt, que llegaría después a ser presidente, también demócrata, en el tiempo que el presidente Cárdenas toma una decisión histórica: expropiar el petróleo.</p>
+<p>Y ayuda mucho el que Daniels, amigo del presidente, había sido su jefe, era el embajador de Estados Unidos en México y por eso ya no hay otra invasión, entre otras cosas, porque Daniels y el presidente Roosevelt se entienden muy bien con el presidente Cárdenas.</p>
+<p>Y también la invasión del 14 tiene una gran enseñanza porque, ayer lo comentaba, estaba Huerta en el poder, que había llegado con un golpe de Estado, asesinando al presidente con más vocación democrática en la historia de México, el Apóstol de la Democracia, Francisco I. Madero.</p>
+<p>Bueno, se impone Huerta, se declara presidente y Wilson nunca lo reconoce e invaden México pensando en ayudar al movimiento revolucionario. Sin embargo, Venustiano Carranza, que era dirigente del movimiento revolucionario, dice ‘no’, con toda la autoridad moral de Venustiano Carranza, porque fue el único gobernador que cuando se proclama presidente Huerta, dice: ‘No acepto el golpe de Estado’ y organiza la resistencia y así surge nuestro ejército, se constituye el ejército actual.</p>
+<p>Bueno, aun con la diferencia profunda con Huerta, Carranza dice: ‘No, porque no están ustedes autorizados a invadir, todos somos iguales, no puede haber un país que se erija en hegemonía, en potencia e invada a otro’.</p>
+<p>Y esa misma doctrina la aplica al año, cuando también entra el ejército estadounidense por el norte a perseguir a otro adversario de Carranza, a Villa, y aun así dice Venustiano Carranza: ‘no’, y queda establecida esa doctrina.</p>
+<p>Por eso, sin aspavientos, sin exageraciones, cuando se da la invasión de Rusia a Ucrania nosotros decimos: No estamos de acuerdo con ninguna invasión, porque nosotros las hemos padecido.</p>
+<p>Ahora afortunadamente con Estados Unidos y con todos los pueblos y los gobiernos del mundo tenemos buenas relaciones, y más aquí con Ken, embajador respetuoso de nuestra soberanía, como lo es el presidente Biden, respetuoso de nuestra soberanía.</p>
+<p>Muchas gracias.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>23.11.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/23-11-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=167693' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F23-11-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F23-11-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sq7a-f-a82acf69f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":29,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1bad6da","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":49762,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726462","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==F06fHntKZ80GPx92lBQfb1qoK4voTrmOdE+qFKREW6VPOckQYT801EHTQpKYv/XPJHx8HaILgEqiYDIc+/e0cDcA4clIkRVovNfkktqeIYTaY4F++GJzqsPt79nqwCm6i7o6JHd/L1X6Ph6P9VTHEygyYIatWXCtUIZ8yis/tv5t1mgR+RqWCxhPYUMtLBd/eMQjtZUrqF7PbqAk0IIiYbixAhqVKci34KqDBRzu0O+FGOVgnZAIJEyy1iirRI1/KNIDYc1yrl+7s1rEiaTygyGIKhTBwrwd3dedRpXNsOVW/SejFr/SNFjEcOa5F3VtMUyLNdJxMDewuElWjFqEDlKvxfR68zbkMnoTqiikyEo8rwytMWlnUaXRcy5yzxDhwgATc1ng50YNeyGl5kY3aPg6Bf6imYztcPlhA7nGm1c=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-167693 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba92b9da4e3" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>23.11.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 23.11.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-167693" class="post-167693 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/11/2023-11-23-Presidente-AMLO-Conferencia-de-prensa-matutina-Acapulco-Guerrero-Foto-18.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/11/2023-11-23-Presidente-AMLO-Conferencia-de-prensa-matutina-Acapulco-Guerrero-Foto-18-745x450.jpg" alt="23.11.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">23.11.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/1WzU32vsWDaYlWRWNUSQRx?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Muy buenos días. Nos da mucho gusto amanecer aquí, en Acapulco.</p>
+<p>Vamos a informar, primero, sobre el tema de seguridad. Acabamos de concluir la reunión de seguridad que llevamos a cabo de 6:00 a 7:00 de la mañana todos los días, por lo general en la Ciudad de México; en esta ocasión se decidió hacer esta reunión de seguridad aquí, en Acapulco.</p>
+<p>Luego de informar sobre el tema de seguridad, se va a dar a conocer todo el plan de reconstrucción para Acapulco, en beneficio desde luego de su población. Ese es el segundo tema de esta conferencia, el plan de reconstrucción a Acapulco.</p>
+<p>Y, finalmente, decirles que vamos a llevar a cabo hoy, Día de la Armada, vamos a llevar a cabo una ceremonia con la ofrenda de coronas en el mar, porque coincide el día de hoy con el Día de la Armada y se decidió llevar a cabo esta ceremonia aquí, en Acapulco.</p>
+<p>Entonces, si les parece, vamos a que inicie esta conferencia la gobernadora Evelyn Salgado Pineda, gobernadora del estado de Guerrero.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/11/Conferencia-de-prensa-matutina_2023-11-23_1.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/T4Ik6QAQSII?t=1609" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>EVELYN CECIA SALGADO PINEDA, GOBERNADORA DE GUERRERO:</strong> Muchas gracias. Con su permiso. Muy buenos días a todas y a todos, miembros del gabinete, medios de comunicación.</p>
+<p>Agradecer, en primer lugar, la presencia de nuestro presidente aquí en nuestro querido puerto de Acapulco, que, sin duda, pues es un mensaje importante de solidaridad para todos los guerrerenses.</p>
+<p>Informarles que para la atención de este fenómeno natural instalamos el día 24 de octubre el Centro de Mando para la atención de los efectos del huracán Otis. En este Centro de Mando participamos todas las autoridades de atención a emergencias de los tres niveles de gobierno bajo la conducción de la Coordinación Nacional de Protección Civil, a la que le reconocemos su liderazgo y apoyo permanente. Al momento, este Centro de Mando ha sesionado en 37 ocasiones y se mantiene permanente como ente organizador de los esfuerzos para la reconstrucción de Acapulco y de Coyuca de Benítez.</p>
+<p>Como prioridad estamos atendiendo a todas las familias de las víctimas de este huracán que lamentablemente cobró la vida, según las cifras oficiales de la Fiscalía General del estado, de 50 personas. Nos hemos reunido con familiares. Hemos ofrecido, por supuesto, todo el respaldo, todo el apoyo de todas las autoridades con acompañamiento sicológico, jurídico, administrativo, apoyos funerarios, todo lo que se nos ha solicitado, y nos mantenemos en permanente comunicación con todos los familiares.</p>
+<p>También, mantenemos el esfuerzo incansable para la localización de 30 personas que continúan en calidad de desaparecidas y para lo cual se lleva a cabo un esfuerzo conjunto y coordinado de todas las autoridades para lograrlo.</p>
+<p>Asimismo, informamos la creación del Programa Emergente de Localización, que hasta el momento ha logrado localizar a mil 592 personas, que por la falta de conectividad no habían tenido ningún tipo de contacto con sus seres queridos, generando, de esta manera, certidumbre para sus familias.</p>
+<p>Otra de las tareas prioritarias han sido las labores de limpieza, de vialidades, de recolección de basura, tanto en la franja costera como en colonias y comunidades. En este sentido, les informamos la recolección de un total de 211 mil 385 toneladas de basura, así como la limpieza de 322.35 kilómetros lineales de calles y avenidas principales.</p>
+<p>En este esfuerzo conjunto, además del despliegue de cuatro mil 231 personas de los tres niveles de gobierno, agradecemos y reconocemos el esfuerzo de cinco mil 500 jóvenes del programa Jóvenes Construyendo el Futuro, con el uso de 579 unidades de maquinaria, como camiones de volteo y retroexcavadoras.</p>
+<p>En este aspecto, informamos también que ya se han habilitado cuatro predios para la descarga de recibos metálicos, maderables y de construcción, al tiempo que se trabaja en el proyecto para la construcción de una celda en el relleno sanitario de Acapulco, una celda más en el relleno sanitario a cargo de SICT.</p>
+<p>Quiero agradecer en este sentido no solamente a todas y a todos los servidores públicos desplegados en estas labores que, sin duda, han sido titánicas, sino agradecer enormemente a la ciudadanía, al pueblo de Guerrero, de Acapulco, de Coyuca de Benítez, que está colaborando de manera incansable en todas y cada una de las labores de reconstrucción y que, por supuesto, lo hacen con todo el ánimo, con todo el empuje y con todo el amor por Acapulco.</p>
+<p>Concluyo reiterando mi agradecimiento a usted, señor presidente, que ha estado presente y solidario en todo momento con las y los guerrerenses, a todo el gabinete, que desde el primer momento ha estado apoyando a Guerrero, y por supuesto al pueblo de Acapulco, a nuestros hermanos de Coyuca de Benítez por mantener su espíritu resiliente para salir adelante.</p>
+<p>Efectivamente, han sido días difíciles, complicados, pero estamos demostrando una vez más que trabajando en unidad, con solidaridad, con amor y con absoluto compromiso Acapulco y Coyuca de Benítez brillarán más fuerte que nunca.</p>
+<p>Es cuanto. Y cedo el uso de la voz al general secretario de la Defensa, Luis Cresencio Sandoval.</p>
+<p>Muchas gracias.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ, SECRETARIO DE LA DEFENSA NACIONAL:</strong> Con su permiso, señor presidente. Vamos a informar la parte de atención que se ha tenido a esta emergencia, algunos números.</p>
+<p>En cuanto a la activación del Plan DN-III-E, el Plan Marina y el Plan de la Guardia Nacional Asistencia, están concentrados aquí en Acapulco y en Coyuca de Benítez, 14 mil 966 elementos del Ejército, de la Fuerza Aérea y Marina, y 10 mil elementos de la Guardia Nacional, haciendo un gran total de personal de Fuerzas Armadas y Guardia Nacional de 24 mil 966 elementos de estas fuerzas.</p>
+<p>Este personal tiene o cuenta con el apoyo para realizar su tarea con 27 aeronaves, 22 embarcaciones, 50 equipos de maquinaria pesada, 23 plantas potabilizadoras y 98 pipas de agua.</p>
+<p>En cuanto a la seguridad, esta actividad que están realizando los 10 mil elementos de la Guardia Nacional, llevan a cabo diferentes tareas, desde patrullaje y control de tránsito en las diferentes áreas, las diferentes colonias; también, seguridad a instituciones bancarias, a casetas de cobro, a centros comerciales, a estaciones de gasolina, a dependencias que participan en la parte de reconstrucción.</p>
+<p>Sobre esta seguridad se estableció el Plan de Seguridad para los municipios de Acapulco y Coyuca. Aquí ustedes ven en la gráfica 38 sectores en el que se dividió Acapulco, tomando en cuenta las colonias con mayor número de habitantes, y también de dos sectores en Coyuca de Benítez. De tal manera que en estos 40 sectores estarán construyéndose instalaciones para 78 compañías de la Guardia Nacional.</p>
+<p>Adelante, por favor. Aquí vemos lo que sería la construcción, cómo quedarían estas instalaciones. Es un proyecto de nuestros ingenieros militares que se tomará en consideración para hacer estas compañías de una manera similar a lo que se han venido construyendo aquí en Guerrero.</p>
+<p>Sobre la entrega de los paquetes que se integran con refrigerador, con estufa, colchón, el juego de sartenes, la licuadora y el ventilador, todo este paquete que se está haciendo llegar a la población, hasta el momento, hasta la fecha, llevamos entregados 11 mil 836 paquetes, como mencioné, refrigerador, estufa, colchón, juego de sartenes, licuadora y ventilador.</p>
+<p>Cedo la palabra al secretario de Marina. Con permiso.</p>
+<p><strong>JOSÉ RAFAEL OJEDA DURÁN, SECRETARIO DE MARINA:</strong> Con su permiso, señor presidente. Vamos a presentarles a ustedes lo que se refiera al abastecimiento de comidas y agua aquí en el apoyo a Guerrero con respecto al meteoro Otis.</p>
+<p>En lo que se refiera a abastecimiento y alimentos, se han repartido hasta la fecha un total, más de un millón de canastas básicas y despensas durante esta emergencia, con un promedio diario más o menos de 38 mil.</p>
+<p>En lo que se refiere a comidas calientes, se han repartido un millón 779 mil, un promedio más o menos de 61 mil diarias.</p>
+<p>En lo que se refiere a lo que es… Tenemos 10 tortilladoras, se han repartido 171 mil 958 kilos de tortillas.</p>
+<p>También, en lo que se refiere a agua, más de cuatro millones de litros de agua para beber durante toda la emergencia a todas las colonias afectadas; 173 mil, más o menos, litros de agua por día.</p>
+<p>Y también, en lo que se refiere a potabilizadoras, tenemos 23 plantas potabilizadoras que han garantizado la producción de más de cuatro millones de litros de agua.</p>
+<p>Esto es gracias al apoyo federal y muchas entidades también de la población civil que nos han surtido con ciertos productos para seguir manteniendo esta dinámica de estar proporcionando canastas y lo que es también despensas y comida caliente, agua, y esto va a seguir hasta cuando se necesario.</p>
+<p>En lo que se refiere a las embarcaciones menores recuperadas, como lo pueden ver en la siguiente diapositiva, todo lo que es de verde sobre la costa es donde a través de nuestros buzos, 33 buzos que están trabajando, se han llevado a cabo recorridos y hemos localizado hasta la fecha, tenemos localizadas 325 embarcaciones aquí lo que es la bahía de Acapulco y 20 en Puerto Marqués; nada más se han rescatado al día de la fecha en Acapulco 61 y en Puerto Marqués 21; tenemos 82.</p>
+<p>Vamos a seguir con ese trabajo, ya no de localización, porque ya se han localizado, pero sí empezar con la recuperación de todo este tipo de embarcaciones.</p>
+<p>Es lo que se les puede informar. Gracias.</p>
+<p>Sigue la de Bienestar, por favor.</p>
+<p><strong>ARIADNA MONTIEL REYES, SECRETARIA DEL BIENESTAR:</strong> Con el permiso del señor presidente informamos los datos que hemos ya concluido con el censo que se aplicó, con la participación de más de cuatro mil servidores de la nación que desde el día siguiente al suceso del huracán hemos estado aquí todos los días trabajando con la gente.</p>
+<p>El resultado del censo son 274 mil viviendas que han tenido una afectación, desde daño menor hasta la pérdida total.</p>
+<p>En el caso de los locales comerciales, asciende a 47 mil 627 locales. Y, en resumen, se entregarán 322 mil apoyos de limpieza, de vivienda y apoyos a los locales.</p>
+<p>Respecto al mecanismo de entrega de estos apoyos, el apoyo de limpieza será de ocho mil pesos y se entregará del 29 al 7 de diciembre en 29 sedes en Acapulco y una sede en Coyuca. El orden de entrega de estos apoyos es como lo hemos venido haciendo, con las pensiones de Bienestar a través de un calendario que se publicará por la letra del primer apellido. Estas 29 sedes de pago lo que intentan es que todas las personas sean atendidas cerca de su comunidad.</p>
+<p>En el caso del apoyo de vivienda y locales es un apoyo entre 35 y 60 mil pesos dependiendo el daño de la vivienda y se hará en dos exhibiciones: la primera será a partir del 8 de diciembre y hasta el 21 en un calendario que se publicará, igual, por la letra del apellido; y la segunda exhibición se va a realizar a partir del día 22 de diciembre y hasta el 31 de diciembre, es decir, el último día de este año seguiremos trabajando en hacer llegar este apoyo a los afectados por el huracán Otis.</p>
+<p>Respecto a los programas de Bienestar, más de 156 mil beneficiarios están recibiendo sus apoyos referentes a las pensiones, a las becas, al programa Jóvenes Construyendo el Futuro, Sembrando Vida y Madres Trabajadoras. Esta inversión casi asciende a los 500 millones de pesos, que es lo que ya estamos dispersando. Como las sucursales bancarias aún no están abiertas en su totalidad, toda la dispersión de adulto mayor y discapacidad especialmente se está haciendo a través de módulos de Bienestar para que tengan los recursos en efectivo.</p>
+<p>Y en el caso de productores y pescadores, se hará una entrega de un apoyo de siete mil 500 pesos, que es el monto que se entrega en el programa de Producción para el Bienestar y Bienpesca. Estos dos programas se implementarán a través de dispersión bancaria, ya que todos los beneficiarios cuentan con una tarjeta del Banco del Bienestar.</p>
+<p>Respecto a créditos y préstamos el Infonavit está estableciendo tres estrategias:</p>
+<p>La primera, la suspensión automática del cobro por el crédito y será sin intereses esta suspensión de seis meses.</p>
+<p>Por otro lado, van a poder hacer el uso extraordinario de su ahorro de vivienda, lo podrán retirar.</p>
+<p>Y también se está haciendo la valoración por la aseguradora de Infonavit para que se pague este seguro por daños, y el Infonavit también entregará un apoyo para quienes ya tengan este dictamen y que sean afiliados al Infonavit.</p>
+<p>En el caso del Fovissste se está estableciendo un crédito, un préstamo de nómina de hasta 40 mil pesos que ya se están comenzando a entregar para los trabajadores del Estado.</p>
+<p>Y en el caso de Fonacot también está el crédito para la compra de muebles de los trabajadores.</p>
+<p>Es cuanto. Le toca el turno a la secretaria de Economía. Sólo mostrarles que también en esta entrega de recursos económicos se va a entregar esta valera para la recepción de las canastas básicas que harán entrega la Secretaría de la Marina y la Sedena.</p>
+<p>Y, por otro lado, también en este pago se les entregará el vale a todas las familias para la recepción de los enseres, de tal manera que puedan estar la Sedena y la Marina en condiciones de entregar toda la responsabilidad que se les ha conferido de enseres y canastas.</p>
+<p>Muchas gracias.</p>
+<p><strong>RAQUEL BUENROSTRO SÁNCHEZ, SECRETARIA DE ECONOMÍA:</strong> Buenos días.</p>
+<p>En materia de reconstrucción de vivienda les queremos informar que se van a contar con 101 puntos de entrega de materiales para la distribución y se van a buscar precios justos, es decir, se van a establecer tipo Precios de Garantía para que nadie pueda abusar de estos productos.</p>
+<p>Además, se van a armar talleres de autoconstrucción para auxiliar y apoyar a las personas que van a reconstruir su propia vivienda. Y todo esto irá acompañado también en la parte de materiales de construcción con una supervisión de Profeco para evitar abusos en toda la venta de materiales.</p>
+<p>Sigue el secretario de Comunicaciones y Transportes.</p>
+<p><strong>JORGE NUÑO LARA, SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES:</strong> Gracias. Con su permiso, presidente.</p>
+<p>Respecto a las actividades de la Secretaría de Infraestructura, Comunicaciones y Transportes atendimos esta infraestructura en 23 puntos de las autopistas y carreteras que entran a Acapulco en cuatro ejes carreteros, el 27 de octubre quedó libre la autopista y en días subsecuentes se recuperaron los cuatro ejes carreteros y en diciembre quedará completa la infraestructura, sobre todo en las obras de drenaje.</p>
+<p>Continúa la gratuidad en la autopista Cuernavaca a Acapulco y mantenemos las tarifas en la autopista México-Cuernavaca.</p>
+<p>Transportamos, tanto en transporte terrestre como aéreo, casi 30 mil personas. Y el aeropuerto reinició sus operaciones el día 29 de octubre, el 13 empezaron los vuelos nacionales, en enero empezarán los internacionales y la terminal estará por completo en marzo de este año.</p>
+<p>También, en coordinación con la Secretaría de Desarrollo Urbano, el gobierno del estado y el municipio, se atenderán las vialidades urbanas y esperaríamos poder concluir el programa de pavimentación hacia enero.</p>
+<p>Respecto a telecomunicaciones, la fibra óptica y los sistemas de radiodifusión fueron restablecidos y los servicios móviles se han ido activando paulatinamente: Altán lleva al 100 por ciento, Telcel el 83 por ciento y AT&amp;T 45 por ciento.</p>
+<p>Le cedería la palabra al director de la Comisión Federal de Electricidad, el licenciado Bartlett.</p>
+<p><strong>MANUEL BARTLETT DÍAZ, DIRECTOR GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE): </strong>Informo sobre las actividades de la Comisión Federal de Electricidad durante el huracán —y después— Otis.</p>
+<p>Se restableció el 100 por ciento del suministro eléctrico.</p>
+<p>De dos mil 850 usuarios totales afectados en Acapulco, el 98 por ciento ya está utilizando el suministro, quedando pendientes cinco mil 900 usuarios que tienen daños mayores en su instalación particular y no es posible recibir el suministro eléctrico.</p>
+<p>La CFE desplegó tres mil 658 trabajadores para la atención de la emergencia.</p>
+<p>Se han censado el 100 por ciento de las luminarias en Acapulco, 75 mil 814, de las cuales 48 mil 736, el 64 por ciento, se encuentran en buen estado, y 27 mil 078, o sea, el 36 por ciento, se encuentran dañadas. Antes de Navidad estarán instaladas y recolectadas el total de las luminarias.</p>
+<p>La demanda máxima de energía eléctrica una semana antes del huracán Otis fue de 260 megawatts. A la fecha, 29 días después, ya se tiene una demanda máxima de 170 megawatts, representando el 65 por ciento en estas fechas.</p>
+<p>En el sector doméstico se espera que la demanda crezca el dos por ciento con los usuarios que tuvieron daños severos en su infraestructura particular. En los sectores productivos se espera un incremento de la demanda del 61 por ciento.</p>
+<p>Eso es todo, señor presidente. El director de Conagua.</p>
+<p><strong>GERMÁN MARTÍNEZ SANTOYO, DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA): </strong>Con su permiso, señor presidente.</p>
+<p>Para el restablecimiento de la red hidráulica se tiene en este momento una cobertura del 90 por ciento de la población a través de la red de distribución de agua potable. Se espera que el 30 de noviembre se tenga una cobertura al 100 por ciento de lo que se tenía antes de la presencia del huracán Otis.</p>
+<p>Se han rehabilitado los sistemas de captación hasta por tres mil 585 litros por segundo, volumen superior la que se obtenía antes del paso del huracán Otis.</p>
+<p>Para atender a toda la población se requirieron y se tienen que rehabilitar plantas de bombeo y potabilizadoras para poder llegar a distribuir estos tres mil 585 litros por segundo.</p>
+<p>Se han distribuido 60 millones 386 mil litros de agua a través de pipas, esto bajo la coordinación de la Secretaría de la Defensa Nacional.</p>
+<p>Se han desazolvado 49 mil 700 metros lineales de alcantarillas y colectores de aguas residuales. Se realiza la limpieza y desazolve de ríos y arroyos en 11 mil 285 metros Acapulco y 970 metros en Coyuca de Benítez, esto para tener limpios los cauces antes de la siguiente temporada de lluvias.</p>
+<p>En lo que se refiere al abastecimiento de gasolina y diésel, al día de hoy se encuentran en operación 66 gasolineras de las 78 que existen en la región, lo que representa un avance del 84.6 por ciento.</p>
+<p>Se han puesto a disposición dos millones 374 mil 900 litros de combustible para el apoyo de la emergencia.</p>
+<p>Continúa la secretaria de Educación Pública.</p>
+<p><strong>LETICIA RAMÍREZ AMAYA, SECRETARIA DE EDUCACIÓN PÚBLICA:</strong> Buenos días.</p>
+<p>De construcción de escuelas, en el municipio de Acayucan y Coyuca tenemos mil 224 escuelas y se ha realizado la visita a todos los inmuebles. Recuerden que hay escuelas que tienen turno vespertino. Entonces, mil 43 inmuebles, de los cuales tenemos daño menor en 202, daño moderado en 420 y daño severo en 363. Estas las estaremos atendiendo en coordinación con la Sedatu.</p>
+<p>El día 21 de noviembre se empieza la reactivación de las actividades escolares. Hoy podemos decir que tenemos 127 escuelas en actividad, en clases, de todos los niveles.</p>
+<p>Conseguimos, y ya se entregarán, un millón de libros de texto gratuito para todos los alumnos de educación básica que así lo requiera, que se necesita. Hay para todos los alumnos de educación básica, hay libros suficientes.</p>
+<p>Y del programa de becas de educación básica, se incrementó a 45 mil familias, tendrán ese apoyo. Ya hay inscritos al día de hoy 10 mil 500 familias.</p>
+<p>Muchas gracias.</p>
+<p>Secretario de Salud, por favor.</p>
+<p><strong>JORGE ALCOCER VARELA, SECRETARIO DE SALUD:</strong> Con su permiso, señor presidente. Buenos días.</p>
+<p>Para enfrentar los daños a la salud provocados por el huracán, el sector salud cuenta con la operación de los seis hospitales y los 119 centros de salud, con un total de mil 276 profesionales que han estado apoyando.</p>
+<p>Se han trasladado a 550 pacientes de urgencia por vía aérea y terrestre.</p>
+<p>También, se han brindado 91 mil 908 consultas médicas, se han realizado 236 cirugías, dos mil 167 sesiones de diálisis.</p>
+<p>Y existe un abasto del 95 por ciento en las claves del primer nivel de atención y de 80 por ciento en claves de segundo nivel de atención.</p>
+<p>Hemos privilegiado en la vigilancia epidemiológica al dengue, 325 casos probables y 23 confirmados. Y la estrategia mediante nebulizaciones espacial y térmica cubre a 527 mil 640 personas y siete mil 550 hectáreas. Ayer se inició la nebulización aérea,</p>
+<p>Y termino con la posibilidad de un pequeño video. ¿No, no apareció? Bueno, es el vuelo de la avioneta.</p>
+<p>Muchas gracias.</p>
+<p><strong>ZOÉ ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):</strong> Con su permiso, señor presidente.</p>
+<p>En el diagnóstico de daños de unidades de atención médica de IMSS e IMSS-Bienestar, ocho unidades tuvieron daño severo: dos hospitales y seis clínicas; ocho unidades tuvieron daño moderado: tres hospitales y cinco Unidades de Medicina Familiar; y 110 clínicas de IMSS-Bienestar tuvieron daños menores. Ya se han invertido 215 millones de pesos en trabajos para la continuidad de la operación.</p>
+<p>Y en el plan de reconstrucción de las unidades de atención médica hay tres grandes acciones:</p>
+<p>La primera, tener los tres hospitales de IMSS-Bienestar, El Quemado, Renacimiento y el Instituto Estatal de Cancerología operando al 100 por ciento antes de Navidad; tener las cinco unidades de medicina familiar y las 110 clínicas de IMSS-Bienestar operando al 100 por ciento antes de Navidad.</p>
+<p>Y, dos, la recuperación de seis clínicas siniestradas en los próximos 100 días.</p>
+<p>El punto tercero es la remodelación mayor del Hospital General Regional número 1 ‘Vicente Guerrero’, en los próximos 10 meses con la habilitación de 116 camas de hospitalización en unidades temporales, además de la sustitución total del Centro Avanzado de Atención Primaria a la Salud de IMSS-Bienestar, el CAAPS, de la colonia Progreso, también en los próximos 10 meses.</p>
+<p>Y en agosto del 2024 se termina la construcción y el equipamiento del nuevo hospital del Issste, que tendrá una inversión de tres mil 320 millones de pesos.</p>
+<p>Tiene la palabra el secretario Román Meyer.</p>
+<p><strong>ROMÁN MEYER FALCÓN, SECRETARIO DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU):</strong> Muy buenos días.</p>
+<p>En materia de equipamientos y espacios públicos, hemos hecho un censo de 410 espacios, de los cuales el 26 por ciento, 106, tienen una afectación importante; 249, equivalente al 61 por ciento, moderado.</p>
+<p>Estamos arrancando los procesos de instalación de comités vecinales comunitarios para que sea la propia población quien nos pueda apoyar en los procesos de reconstrucción de estos espacios y de estos equipamientos.</p>
+<p>Asimismo, la conformación de los proyectos ejecutivos para que de ambas formas, en la modalidad la vertiente obras comunitarias o la vertiente mejoramiento urbano, podamos ya iniciar los procesos de reconstrucción en el mes de enero.</p>
+<p>Asimismo, vamos a reforzar en temas técnicos, en capacidad técnica, en territorio a la Secretaría de Educación con un despliegue de técnicos en coordinación con ellos con la finalidad de que podamos dar seguimiento constante y continuo a los procesos de reconstrucción en materia educativa.</p>
+<p>Sin más, le cedemos la palabra a la secretaria Rosa Icela. Gracias.</p>
+<p><strong>ROSA ICELA RODRÍGUEZ VELÁZQUEZ, SECRETARIA DE SEGURIDAD Y PROTECCIÓN CIUDADANA:</strong> Con su permiso, presidente.</p>
+<p>Solamente informar que el Tianguis del Bienestar llegará a Acapulco a partir del martes de la semana próxima. Posteriormente, acudirá a Coyuca de Benítez para llevar ropa, calzado, utensilio de cocina y telas, entre otros artículos, todos completamente nuevos y se hace la entrega de manera gratuita. Dichos bienes de primera necesidad han sido incautados en las aduanas y también decomisados a la delincuencia de cuello blanco.</p>
+<p>En meses pasados ya hemos visitado 20 municipios de la Sierra de Guerrero y ahora estaremos en colonias y localidades de Acapulco y Coyuca de Benítez para devolver al pueblo lo que por derecho le corresponde.</p>
+<p>Ahora, la secretaria de Gobernación.</p>
+<p><strong>LUISA MARÍA ALCALDE LUJÁN, SECRETARIA DE GOBERNACIÓN:</strong> Muchísimas gracias, presidente.</p>
+<p>Bueno, además de lo anterior, informar que ya está en marcha el no cobro de IVA e ISR, esto como apoyos económicos y fiscales a la población, exención de impuestos a partir de octubre hasta febrero de 2024.</p>
+<p>También, en el caso del no cobro por el servicio de luz durante cuatro meses. Sabemos que ha habido algunos comentarios en redes sociales; les reiteramos: no habrá cobro de luz a partir de la emergencia hasta los siguientes cuatro meses.</p>
+<p>Como apoyos a los hoteles y pequeños comercios, tenemos los créditos Nafin que se otorgarán sin intereses para pequeños y medianos empresarios, los subsidios al 50 por ciento de los intereses a los créditos que otorga la banca privada para los 373 hoteles de Acapulco y también el diferimiento de pagos de las cuotas obrero-patronales tanto del Instituto Mexicano del Seguro Social como en el caso del Infonavit.</p>
+<p>También mencionar que hemos llegado a un acuerdo con empresarios para continuar con el Tianguis Turístico 2024, la 48 edición, que va a celebrarse aquí en este bello puerto del 8 al 12 de abril. Por eso estamos trabajando de manera conjunta para tener, para esa fecha, por lo menos, tres mil 500 habitaciones listas; también vamos a mantener la celebración del Abierto Mexicano de Tenis para febrero de 2024.</p>
+<p>Hoy nos acompañan aquí en esta conferencia Francisco Cervantes, que es el presidente del Consejo Coordinador Empresarial, también el contador Juan Antonio Hernández. Y antes de pasarles la palabra, solamente agradecer al pueblo de México por su solidaridad, hemos recibido apoyo de sindicatos, de empresarios, de las diferentes entidades federativas, del pueblo de México, así que agradecemos mucho.</p>
+<p>Y le vamos a pasar la palabra a Francisco Cervantes. Adelante, por favor.</p>
+<p><strong>FRANCISCO ALBERTO CERVANTES DÍAZ, PRESIDENTE DEL CONSEJO COORDINADOR EMPRESARIAL (CCE):</strong> Muy buenos días. Saludo con afecto a todas y a todos los presentes. Muchas gracias, señor presidente, por la invitación.</p>
+<p>Expresar que el sector empresarial, como en todos los eventos de sismos, inundaciones y hoy con este lamentable de los huracanes, siempre como mexicanos la solidaridad es lo que nos destaca.</p>
+<p>La primera semana apoyamos con alimentación, con miles de despensas al otro día del evento, desde muy temprano, en colaboración con la Marina, con el Ejército, con la Secretaría de Economía y con la Secretaría de Hacienda empezamos a mandar alimentación y agua, que fue lo que detectamos que era lo más importante.</p>
+<p>La segunda semana nos… Bueno, seguimos con todo el apoyo de despensas, de alimentación, de comidas, con algunos chefs importantes de otros lados del mundo y mexicanos. Y la segunda semana con toda la parte de cal, ayudando al gobierno con la desinfección con cal.</p>
+<p>Y a partir de ayer con dos avionetas que manda el ingeniero Carlos Slim, haciendo fumigaciones en más de 60 hectáreas y en la parte de la ciudad.</p>
+<p>Se ha ayudado con plantas potabilizadoras de agua, que era lo más importante, aguas embotelladas con plantas de luz, con camiones y con maquinaría.</p>
+<p>En la parte de seguros ha habido mucha solidaridad y han hecho adelantos muy importantes para la limpieza, remoción de escombros y para que empiecen también con la reconstrucción en la parte hotelera de algunas casas, igual que restaurantes.</p>
+<p>Ya se empezaron a abrir a partir de la segunda semana los supermercados, que esto era muy importante, que se restableciera el abasto, nos enfocamos al que hubiera el abasto de alimentos, el abasto de medicinas con las farmacias.</p>
+<p>En la parte, como lo decía Germán Martínez, en la parte de las gasolineras ya casi se restablecen todas.</p>
+<p>En los restaurantes, ahora con los apoyos que está dando el gobierno y Hacienda, sobre todo en la gran parte, el 80 por ciento son medianos y pequeños y que necesitan apoyo financiero, ya también estamos trabajando en eso.</p>
+<p>En los centros de convenciones y sobre todo en la parte de apoyar que las convenciones para que la reactivación económica, que eso va a ser muy importante la reactivación económica, inicie. Y el presidente cuando anunció que el Tianguis Turístico venía pues nos puso la vara alta y empezamos también a promover que se hagan convenciones aquí.</p>
+<p>Y la buena noticia que ayer en una reunión que tuvimos de seguimiento con el señor presidente y su gobierno: los bancos anuncian que van a hacer también en abril. O sea, acto seguido de la convención del Tianguis Turístico, viene la Convención Bancaria.</p>
+<p>Y, bueno, ahorita no me adelanto a lo que va a decir don Juan Antonio Hernández también, porque también la parte no sólo hotelera, en la parte automotriz, se van a hacer bastantes, bastantes convenciones en México.</p>
+<p>En la parte de los bancos, siguen también reconstruyendo los bancos, pero también los cajeros para que puedan tener ya dinero para poder comprar todos los abastos.</p>
+<p>Y en las tiendas de construcción, que esto es muy importante, en la parte de reconstrucción de Acapulco y sobre todo en las familias de bajos recursos, en las tiendas ya hay abasto; pero hay un compromiso con el gobierno aquí, vale la pena subrayarlo eso, de que sean a costos moderados y que haya sobre todo los productos más importantes que estén en estas tiendas de abasto, las láminas, el cemento, la cal, la varilla, todo lo que son los 20 productos más importantes para la reconstrucción que estén a precios accesibles para que puedan las mismas gentes ir recomponiendo sus casas. Y también va a haber láminas con un precio muy especial de fibrocemento y de lámina de metal.</p>
+<p>La Fundación Carlos Slim también ha apoyado desde el primer día que hemos estado trabajando muy de la mano con las fundaciones.</p>
+<p>Y 19 plantas potabilizadoras metieron 829 vehículos para la conectividad de red porque era muy importante la parte de telefonía, son mil 331 trabajadores en apoyo de limpieza, del restablecimiento, de lo que pone la Fundación Carlos Slim. Y, bueno, el compromiso total de la iniciativa privada mexicana en este tema de la reconstrucción y apoyo a Acapulco.</p>
+<p>Muchas gracias, señor presidente.</p>
+<p><strong>ANTONIO HERNÁNDEZ VENEGAS, PRESIDENTE DE GRUPO MUNDO IMPERIAL:</strong> Señor presidente, muy buenos días. Muchísimas gracias por la invitación. A todo el panel; señora gobernadora, mis respetos.</p>
+<p>Ha sido duro y lo va a ser más, pero es un reto, un reto muy importante donde todas y todos debemos demostrar de lo que somos capaces. Se denomina, algunos dicen ‘resiliencia’. Vamos a actuar con coraje, con conocimiento, con experiencia, pero principalmente con amor y con compromiso. Debemos mucho a Acapulco, le debemos mucho a México y los que tenemos el privilegio de liderar estamos muy comprometidos.</p>
+<p>Quiero señalarles que al día de hoy, afortunadamente, ya hay hospedaje en Acapulco. Me da gusto ver mantas que dicen: ‘Ya abrimos, suites disponibles’. Y estimo que hoy hay una oferta de alrededor del cuatro por ciento. Primero Dios, a partir del 15 de diciembre próximo espero que tengamos un promedio del 20 por ciento y previo a la Semana Santa confío que andemos ya en el 40 o 50 por ciento. Veo un futuro extraordinario.</p>
+<p>La verdad es que este golpe tan fuerte, tan feroz, nos ha despertado. Tengo aquí a la mano algunos eventos que ya están comprometidos, ya se nos dijo, pero en nuestro feudo y bajo nuestra responsabilidad hoy tenemos ya comprometidos 30 congresos y convenciones para el año 2024. Afortunadamente, quiero decirles que estas convenciones y congresos ya estaban contratadas previamente y hemos tenido la enorme satisfacción de que se ha reafirmado la confianza en nosotros y que no debemos bajo ninguna condición de defraudar. Vamos a cumplir satisfactoriamente. Nadie canceló y eso, les reitero, es una enorme satisfacción y un gran compromiso. Esperamos que estos eventos y convenciones y congresos traigan alrededor de 72 mil noches.</p>
+<p>Por otra parte, tenemos eventos deportivos: box, lucha libre, dos torneos: Major Padel, Beach Soccer; triatlón, Tour de France, Spartan Race y Ironman; luego, tenemos 16 espectáculos en Fórum Mundo Imperial y Arena GNP Seguros, entre ellos el cantante Luis Miguel.</p>
+<p>Y aquí viene algo muy importante: mi origen es de la industria automotriz. Por primera vez he pedido apoyo y he logrado que las fábricas de automóviles, camiones y autobuses y sus concesionarios vengan a realizar eventos, reuniones de trabajo y convenciones a Acapulco. Esto, primero Dios, debe de realizarse en el transcurso del próximo año.</p>
+<p>Todo ello obviamente no hace más que retarnos y lograr una unión, una amistad profesional, porque nosotros, como Mundo Imperial, no podemos abastecer la demanda, de forma tal, que unos a otros tenemos que apoyarnos, y lo que otros originen nosotros los vamos a apoyar y así sucesivamente. Eso es lo que ha traído, desde mi punto de vista, de positivo este meteoro, nos ha unido; y, por otra parte, nos ha despertado en nuestra ilusión y ambición.</p>
+<p>Hay nuevos proyectos, los estamos trabajando unidos con nuestro secretario de Turismo y son: la Gala Mundial del Mariachi, el Parque de las Personalidades, un barco turístico, el Festival Internacional de Cine, Festival de la Música, Fandango Aca, Acapulco Sol y Luna, Acapulco desde el cielo, algo extraordinario: un autódromo tipo Nascar, con pistas de go karts; el campeonato mundial de clavados de altura.</p>
+<p>Y nuestra universidad de turismo Acapulco. Queremos ir integrando licenciaturas, hoy tenemos cuatro: Hospitalidad, Gastronomía, Idiomas y Conceptos Tecnológicos Modernos. Vamos a ir por más, vamos a tratar de crear y de desarrollar la mejor universidad, vamos a tener acuerdos con universidades de otros países para que nos apoyen y logremos el mejor resultado.</p>
+<p>Gracias, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues nos da mucho gusto el que estemos participando de manera conjunta el sector social, el sector privado y el sector público, todo por la reconstrucción de Acapulco.</p>
+<p>Yo quiero, primero, dirigirme a todas las familias de Acapulco y de Coyuca de Benítez, a todos. Esta reconstrucción de Coyuca, de Acapulco, en lo general tiene como esencia, el corazón de toda esta actividad es el que podamos reconstruir los hogares.</p>
+<p>Y son más de 250 mil viviendas que necesitamos rehabilitar y eso no lo podríamos hacer solos desde el gobierno o con las empresas constructoras. La reconstrucción de dos mil 500 viviendas se tiene que hacer con la participación de todos, con un sistema de autoconstrucción, que no es cosa del otro mundo porque todas las viviendas de México, la mayoría de las viviendas de México, de nuestros hogares, los han hecho los integrantes de las familias, son los que primero consiguen los recursos, el dinero para comprar los materiales, saben quiénes son maestros albañiles, trabajadores de la construcción, que son conocidos en los barrios, en las colonias, en los pueblos, incluso familiares que trabajan en la construcción; y se sabe dónde comprar el block, la varilla, el cemento, las tejas, la madera, lo que se requiere para la construcción o reconstrucción de una vivienda.</p>
+<p>Por eso, tenemos que participar todas y todos para reconstruir las casas lo más pronto posible. Imagínense, el gobierno construyendo 250 mil o reconstruyendo 250 mil viviendas, ¿cuándo terminamos? Y eso que sabemos hacerlo y que conocemos de las necesidades del pueblo, así nos hemos formado.</p>
+<p>Yo hace 40 años me tocó —si no es que un poco más, 1978, 1980, como director del Instituto Nacional Indigenista en Tabasco— me tocó construir con brigadas y con la participación de la gente como cinco mil viviendas. Lo sabemos hacer, pero estamos hablando de 250 mil casas y queremos hacerlo en muy poco tiempo, que podamos tener las casas nuevas, rehabilitadas, pintadas, de los colores que nos gustan en el trópico, en la costa, colores alegres. Una etapa nueva vamos a inaugurar.</p>
+<p>Por eso se decidió entregar los apoyos a las familias, porque la mayor riqueza del pueblo de México es la honestidad; o para decirlo de otra forma mejor, la mejor riqueza de México es la honestidad de su pueblo.</p>
+<p>Entonces, cómo no van a saber administrar las familias, las madres de familia los recursos, si son las que hacen que rinda el poco presupuesto familiar, son las que logran estirar el presupuesto para que no falte lo básico en la familia.</p>
+<p>Entonces, se van a hacer tres entregas de apoyos. Nada de intermediarios porque entonces corremos el riesgo de que no llegue, como era antes, que abundaban, cundían las organizaciones de todo tipo, sociales, no gubernamentales, de la sociedad civil, y recibían dinero del gobierno, algunas hasta se autonombraban no gubernamentales y vivían del presupuesto, y el dinero se quedaba siempre en los líderes, asesores, y no llegaba a la gente. Ahora todos los apoyos se entregan de manera directa para que no haya moche, para que no haya <em>piquete de ojo</em>, y se entrega ese apoyo para que la gente maneje lo que por derecho le corresponde.</p>
+<p>Decía yo, tres entregas. Vamos a empezar. A ver si ponen la lámina de Ariadna. Hago un paréntesis para agradecer a todos los servidores de la nación porque vinieron de todo el país y ya hicieron el censo de todas las viviendas, fueron casa por casa y ya sabemos cuáles son las viviendas que tienen más daño, cuáles son las que hay que construir de nuevo, ya tienen una evaluación, no sólo de las viviendas, sino también de los pequeños negocios que van a requerir apoyo.</p>
+<p>Entonces, este es el censo de afectados, van a ser 322 mil apoyos. Pero hablaba de vivienda, 274 mil, estamos hablando de 249 mil 795 en Acapulco y 24 mil 707 en Coyuca, y también de los locales comerciales, tanto en Acapulco como en Coyuca.</p>
+<p>Pero quiero la otra lámina de la distribución de los apoyos. Que nos ayuden ustedes, los comunicadores, para informar que se van a entregar ocho mil pesos por hogar para limpieza. Vamos a iniciar el miércoles de la semana próxima, hasta el día 7. Todas las viviendas van a recibir ocho mil pesos, esto es para limpieza. También, lo estamos haciendo así para que nos dé tiempo.</p>
+<p>Y aquí agradezco a Francisco Cervantes, presidente del Consejo Coordinador Empresarial, que nos está ayudando para el abasto de materiales de construcción, que se tenga suficiente cemento, varilla, block, todo lo que se requiera.</p>
+<p>Y que no haya abuso, que no vayan a aumentar de manera desmedida los precios. Incluso ayer se hizo el compromiso en una reunión que tuvimos con los representantes del sector empresarial de que se va a procurar que lo que se venda de materiales de construcción en Acapulco se va a vender a precios más bajos que en el resto del país, y estamos seguros que van a cumplir con este compromiso para que a la gente le alcance sus recursos.</p>
+<p>Luego, ya empezamos a entregar para la reconstrucción de la vivienda dos pagos:</p>
+<p>El primero del 8 de diciembre al 21 de diciembre. Todo esto va a ser de acuerdo a los apellidos, como se entregan los apoyos del Bienestar. Se va a informar y van a haber módulos en distintos puntos, sitios de Acapulco para que se tenga toda la información. Y ahí se va a entregar el apoyo.</p>
+<p>De una vez, a los malandros les mandamos a decir que va a estar la Guardia Nacional cuidando para que no vayan a pararse por ahí.</p>
+<p>La primera exhibición del 8 al 21 de diciembre, primer pago ya para la reconstrucción.</p>
+<p>Y el segundo, del 22 de diciembre al 31 de diciembre.</p>
+<p>Entonces, en este tiempo van a poder adquirir los materiales. Ponerse de acuerdo con maestros albañiles, con trabajadores de la construcción.</p>
+<p>También aprovechar, porque hay mucha gente de Acapulco y de Guerrero en todo México, en Baja California Sur, en Quintana Roo, en la Ciudad de México, en todos lados hay gente de Guerrero: si pueden venir a ayudar a sus familiares, si trabajan en la construcción, sería muy importante su apoyo para que se pueda cumplir con el plan de reconstrucción de las viviendas.</p>
+<p>Los servicios públicos, ya aquí ha quedado de manifiesto la eficiencia de la Comisión Federal de Electricidad. Nuestro reconocimiento a los trabajadores electricistas.</p>
+<p>Y esto que sirva de ejemplo para los que apuestan a las privatizaciones. Si no fuese por las empresas públicas como la Comisión Federal de Electricidad, no tendríamos estos resultados, de que en poco tiempo se restablece el servicio de energía eléctrica y ya se va a tener pronto el 100 por ciento, ya estamos muy cerca de eso, ya de las conexiones de luz en todas las viviendas, y ya también empieza a utilizarse la energía eléctrica para las actividades productivas. Esto se va a seguir haciendo y esperamos que para la Navidad ya estemos al 100 en todo lo relacionado con la luz para las casas y a finales de año, ojalá fuese para la Navidad, hicimos el compromiso ya con el licenciado Bartlett, de que va a estar todo el alumbrado público de Acapulco, ese es el compromiso que hemos hecho.</p>
+<p>Lo mismo en lo que tiene que ver con el agua, con los servicios de salud, con la reparación, rehabilitación de las escuelas. Y seguir limpiando, seguir recogiendo basura y limpiando Acapulco y Coyuca.</p>
+<p>Esto es importante que lo tengamos presente: no vamos a limitarnos en presupuesto, hay dinero suficiente, lo que se necesite, no hay techo financiero, lo que se requiera para rehabilitar a Acapulco y mejorar la situación de su pueblo, de Coyuca y de Acapulco.</p>
+<p>También, agradecer mucho al sector empresarial. Desde que llegamos por primera vez, el día del huracán, que llegamos en la tarde-noche hasta acá y establecimos el grupo de atención y se quedó ese día el secretario de la Defensa, el secretario de Marina y otros servidores públicos, desde el día 24 en la tarde-noche que llegamos, que hicimos la reunión…</p>
+<p><strong>LUISA MARÍA ALCALDE LUJÁN:</strong> Era el 25.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>El 25, sí, desde que llegamos se instaló un comité y está participando todo el gabinete del gobierno federal.</p>
+<p>Pero también sabíamos de que íbamos nosotros a atender a la población lo fundamental, los servicios, porque ya lo hemos hecho, enfrentamos la inundación de Tabasco, enfrentamos huracanes en Nayarit, en la costa de Oaxaca, en Veracruz y ya tenemos una metodología, ya un procedimiento de cómo actuar.</p>
+<p>Y pensamos también que lo más importante, después de la rehabilitación, pues es la actividad económica; en el caso de Acapulco, el turismo. Y cuando Miguel Torruco me consulta sobre el Tianguis Turístico se decide, porque Juan Antonio Hernández tenía la propuesta de que se mantuviese el Tianguis Turístico, porque había también la intención de suspenderlo por la situación de Acapulco, y se acordó hacerlo, tomamos esa decisión. Imagínense si decidimos cancelar el tianguis, el golpe a Acapulco. Dijimos: No, vamos a hacerlo.</p>
+<p>Y Juan Antonio se comprometió a tener cuartos, habitaciones, ya para entonces, lo está logrando desde ahora.</p>
+<p>Y también invité a otros empresarios, invité a Carlos Slim; invité a Daniel Chávez, de Vidanta; a Antonio Cosío, de Las Brisas, y nos reunimos días después del huracán e hicimos el compromiso de que se iba a hacer el tianguis y que para el tianguis iban a estar abiertos, funcionando, más de 30 hoteles. Y ya se están sumando cada vez más hoteleros.</p>
+<p>Y quiero agradecer que Antonio Cosío, de Las Brisas, hizo el compromiso de que Las Brisas va a estar ya funcionando completo en diciembre; Daniel Chávez también hizo el compromiso de tener su hotel funcionando; y, como ya lo mencioné, Juan Antonio, que es un extraordinario promotor del desarrollo turístico de Acapulco.</p>
+<p>Vamos a seguir apoyando a Acapulco. Y agradecer mucho al sector empresarial por todo su apoyo.</p>
+<p>Tenemos un asunto que quiero compartirlo también con ustedes: si son más de 250 mil viviendas, vamos a entregar 250 mil paquetes de enseres domésticos, electrodomésticos. Son 250 mil estufas, 250 mil refrigerados, 250 mil camas, 250 mil licuadoras, 250 mil ventiladores, 250 mil vajillas, y no se cuenta con todos estos electrodomésticos.</p>
+<p>Ya tenemos adquiridos, de acuerdo al informe que nos ha presentado la Secretaría de la Defensa, el general secretario, 40 mil electrodomésticos. ¿Cuántos paquetes conseguidos?</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ:</strong> Cuarenta y un mil.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Cuarenta y un mil. Pero son 250 mil.</p>
+<p>Ahora que estuve en San Francisco el jueves pasado hablé con el presidente de China y le pedimos también apoyo. Y la secretaria Alicia Bárcena, que está aquí, va a salir a China y a Corea del Sur. Y con los empresarios mexicanos también se está haciendo un esfuerzo para que lo más pronto posible se tengan estos paquetes de electrodomésticos.</p>
+<p>Esto también informarle a la gente para que no se desespere, es para todos, nada más que tenemos que irlos consiguiendo. En el caso de Tabasco creo que fueron 100 mil y nos llevó como 10 meses conseguirlos, todos los paquetes; acá nos va a significar una cantidad mayor, 250 mil, pero vamos a procurar que los tengamos pronto para todas las familias de Acapulco y de Coyuca de Benítez.</p>
+<p>Eso era lo que quería informarles. Ayúdennos a difundir esta información a toda la gente.</p>
+<p>Y vamos a seguir evaluando. He estado en seis ocasiones en Acapulco, he venido casi o cada semana, cada cinco días estoy aquí y voy a seguir viniendo. Y no están solos los acapulqueños ni la gente de Coyuca, vamos a seguir respaldando, vamos a seguir apoyando a los damnificados ahora que se requiere. Y viene una etapa nueva, una etapa mucho mejor para Acapulco.</p>
+<p>Más tarde vamos a ofrecer, vamos a rendir un homenaje a los que lamentablemente perdieron la vida Y vamos también a continuar en la búsqueda de quienes están desaparecidos.</p>
+<p>Y un abrazo a los familiares, que, como aquí Evelyn lo ha sostenido, se les ha estado atendiendo y se les va a seguir apoyando en todo.</p>
+<p>Y agradecer al presidente municipal de Coyuca porque ha estado ayudando, ha estado trabajando con nosotros, y a la presidenta municipal de Acapulco. Y no son tiempos para divisiones y para pleitos, son tiempos para la unidad y la fraternidad.</p>
+<p>Y eso era lo que quería yo informarles.</p>
+<p>Ahora sí abrimos para preguntas. Si les parece, Coyuca y Acapulco, y luego los compañeros que vienen de México.</p>
+<p><strong>PREGUNTA:</strong> Listo, presidente. Buenos días. Gracias por estar aquí en el Puerto de Acapulco.</p>
+<p>Erik Robles, de <em>MVS Noticias Acapulco</em>.</p>
+<p>Yo quisiera preguntarle solamente una, hacerle una pregunta. Señor presidente, a pesar de las críticas que ha hecho usted que tienen los ediles en Acapulco, en sueldos y gestión, ¿les haría un llamado a donar transparentemente su sueldo, la gestión mensual, y apoyar a los damnificados? Que, como usted lo acaba de decir, son muchos y se está invirtiendo mucho. ¿Les haría un llamado usted a ellos, a los ediles del puerto de Acapulco, los regidores, que tanto usted ha hecho?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Es voluntario, es por convicción. Y yo creo que todos están ayudando y van a seguir ayudando.</p>
+<p>Y recuerden, y esto lo debemos de tener muy presente, siempre lo digo, porque cuando estábamos en la lucha por la transformación había la creencia de que el presupuesto era del gobierno. Y nosotros hablábamos y hablábamos haciendo consciencia, aclarando que el presupuesto es dinero del pueblo. Nosotros somos simplemente administradores de los dineros del pueblo y lo que tenemos que procurar es administrar ese dinero con honradez, porque es dinero bendito, dinero del pueblo.</p>
+<p>Entonces, el presupuesto se va a usar para ayudar a la gente. Y si los servidores públicos quieren aportar, pues adelante, pero nosotros tenemos en el gobierno la obligación de atender al pueblo. La función principal de cualquier gobierno es procurar garantizar la felicidad del pueblo.</p>
+<p>Entonces, todo lo que se requiera. Además, tenemos presupuesto, se ha recuperado la economía de nuestro país y no tenemos necesidad de pedir deudas o contratar deuda, hay recursos suficientes.</p>
+<p>Y en estos casos pues no hay límites, porque si se tratara de una obra faraónica, superflua, pues no la hacemos; pero se trata de algo social, humano y se va a ayudar, se va a seguir ayudando a todo el pueblo.</p>
+<p>Que también se tenga en cuenta que van a seguir recibiendo, esto también con el apoyo de las tiendas departamentales que nos están vendiendo una canasta de 24 productos a precios justos. Entonces, es un contrato de tres millones de canastas, que nos alcanzan para tres meses entregando una canasta por semana a cada familia.</p>
+<p>Ahí lo único que tenemos que ir resolviendo es de que incluye carne e incluye huevos y que requieren de refrigeración. Entonces, vamos a entregar unos vales —como ya están abriendo las tiendas— y lo que no necesite refrigeración se entrega de manera directa, como lo ha venido haciendo Marina, Defensa, y lo demás con vales para ir por la carne u otros alimentos a las tiendas, a los supermercados. Entonces, no va a haber problema para eso.</p>
+<p>Lo mismo en el pago de la luz. Ya se dijo, no se paga la luz hasta que termine el bimestre de febrero; no hay pago tampoco de impuestos; hay una prórroga en el pago de las cuotas de Infonavit, del Seguro.</p>
+<p>Se van a otorgar los créditos a la palabra para los más pequeños, sin intereses. Para los que tienen más posibilidad económica se les va a dar el apoyo para pagarles la mitad de sus intereses, se va a absorber por la Secretaría de Hacienda.</p>
+<p>En Acapulco nos han planteado representantes de pequeños, de medianos empresarios que hay negocios que se consideran no sujetos de crédito. Vamos a buscar resolver esto para que todos tengan estos apoyos.</p>
+<p>Pues se van los cuatro, pero primero la compañera. Bueno, ahí, ya son cinco.</p>
+<p><strong>PREGUNTA:</strong> Misael Habana de los Santos, de <em>Al tanto Guerrero</em>. Presidente, bienvenido a este pueblo que lo quiere bien.</p>
+<p>El fenómeno de Otis pues prácticamente, literalmente, nos dejó desnudos a los acapulqueños y coyuquenses, a la ciudad, una ciudad construida con cartón y cristal, una ciudad deforestada, usada por la clase política que gobernó aquí, que construyó en lugares prohibidos.</p>
+<p>Yo me pregunto cómo es posible que se hayan construido grandes desarrollos turísticos en la zona de Diamante sin plantas tratadoras, de edificios de cartón, un fraude inmobiliario de departamentos de 20 millones de pesos donde les vendieron, los ricos, le vendieron a los ricos cartón.</p>
+<p>Vemos Acapulco también como un set cinematográfico, una sociedad de apariencia, de lujo para pocos, mientras la gran mayoría está desprotegida. Yo creo que en esta… Estos debates que tienen ustedes allá de aquel lado, donde están pensando en la reconstrucción de esta ciudad, creo que sería interesante pensar en la construcción de un nuevo Acapulco, pero un nuevo Acapulco no solamente en la infraestructura, sino también en un nuevo ciudadano más solidario, en una clase rica más solidaria.</p>
+<p>Aquí Acapulco ahorita que… Donde todos nos vemos, hemos visto una sociedad de pobres y una sociedad de pocos ricos. Y de la industria turística irresponsable, sí, de la industria turística irresponsable que ni siquiera tienen asegurados sus hoteles. ¡Cómo es posible que le estén pidiendo al gobierno para la reconstrucción! ¡Cómo le voy a pedir yo que me construyan, me devuelvan mi auto! Si yo aseguro mi auto, le pago a una empresa para que me pague los daños. Entonces, los hoteleros tienen que asegurar sus empresas y sus negocios.</p>
+<p>Creo que es la hora de construir un nuevo Acapulco. Y lo pregunto: ¿ustedes están hablando de la construcción de un nuevo Acapulco solamente para echar el viejo Acapulco con sus vicios, desigualdades y todo lo que hemos tenido, y que ha dejado esta clase política que nos ha gobernado?</p>
+<p>Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues todo es nuevo. Estamos, no por el huracán, sino por los cambios que decidió la gente en el 2018, se está llevando a cabo una transformación.</p>
+<p>Antes del huracán, Guerrero —aquí tengo el dato— Guerrero, Chiapas y Oaxaca eran los estados con más apoyo para Programas de Bienestar. Fíjense, en Guerrero, de acuerdo al censo, 942 mil viviendas, 942 mil 509 viviendas, y son un millón 361 mil 79 beneficiarios de los Programas de Bienestar.</p>
+<p>O sea, no hay, son muy pocas las viviendas en Guerrero en donde no llega un Programa de Bienestar, aunque sea una pequeña porción del presupuesto público, desde la atención a los jóvenes, becas, pensión para adultos mayores, apoyo a los campesinos, apoyo a los pescadores y apoyo en todo lo que tiene que ver con el bienestar y con la actividad productiva.</p>
+<p>Entonces, ya puedo demostrar de que había iniciado el cambio, que ya inició el cambio.</p>
+<p>¿Cómo lo pruebo?</p>
+<p>Guerrero, en el tiempo que llevamos nosotros, es de los estados en donde más se redujo la pobreza. Lo puedo probar. A ver si tenemos el dato.</p>
+<p>Y no sólo se redujo en Guerrero y en México la pobreza —por eso sí creo que en este modelo que llamamos Humanismo Mexicano— no sólo se redujo la pobreza, sino, lo que tú planteas, se redujo también la desigualdad.</p>
+<p>En 2010 en nuestro país la diferencia entre el que ganaba más y el que ganaba menos era 35 veces, y ahora en la última encuesta del Inegi la diferencia es de 15, 20 veces menos la desigualdad ahora. Entonces, esto ya va a continuar cambiando, mejorando.</p>
+<p>Y yo siento también, y lo digo de manera sincera, hay una actitud distinta en el empresariado mexicano, hay más dimensión social, cívica. Nosotros no hemos tenido problemas, cuando hemos solicitado apoyo del sector empresarial para beneficio del pueblo hay contribuciones. En las reuniones que hemos tenido en el caso de Acapulco ahí ha estado Carlos Slim, hasta ayer. Por poner el ejemplo de un empresario, pero todos: Juan Antonio desde el principio. Daniel Chávez, de Vidanta, todos. Me dio muchísimo gusto la actitud de Antonio Cosío, el dueño de Las Brisas. Y así muchos otros.</p>
+<p>Y sí tenemos que recoger la experiencia de cómo las estructuras de los hoteles se mantuvieron, no hay afortunadamente muchos daños estructurales; pero todo lo que estaba hecho de tablarroca, de eso no quedó nada, o sea, todo lo que era fachada, lo que tú dices, o sea, en vez de los muros de block, las fachadas, estas que tienen que ver con aserrín, la tablarroca y los vidrios, todo eso es lo que se afectó. Lo mismo en el caso de las viviendas.</p>
+<p>Y afortunadamente… Es muy lamentable que hayan perdido la vida hasta ahora 50 personas, duele mucho, duele mucho, pero para la fortaleza del huracán tenemos que agradecer a la naturaleza, al Creador, porque yo, mi hipótesis es que no hubo mucha lluvia, pasó.</p>
+<p>Yo cuando llegué ese día, pues traía la preocupación de lo que iba a encontrar, porque cuando es mucha la lluvia pues se desgajan cerros completos y quedan casas enterradas; afortunadamente pasó la lluvia.</p>
+<p>Pero, también, si vemos las casas que más se mantuvieron de pie, pues son las casas que se hicieron con ladrillo, concreto, esas son las que tuvieron menos problema.</p>
+<p>Y también hay que ver porque… Por eso tiene que ver con la creatividad de nuestro pueblo, lo de la reconstrucción, porque es fácil o relativamente fácil poner las vigas, ya hay hasta de aluminio las vigas, y luego las láminas, pero si desgraciadamente regresa otro huracán —toco madera—, pues las láminas de nuevo se van a ir.</p>
+<p>Entonces, ¿por qué no…? Antes en toda esta costa se usaba la teja. No es fácil de conseguir, pero la gente sabe, el pueblo es sabio; dejarle a la gente el que se aproveche esta nueva situación para tratar de hacer más resistentes las viviendas.</p>
+<p><strong>INTERLOCUTOR:</strong> Lo último, nada más. Oí que dijo usted, y también el empresario de aquí de Acapulco, que se iban a vender materiales. Una demanda de la ciudadanía y queja es precisamente los altos costos de los materiales. Ayer pedí un presupuesto de aluminio y vidrio para reconstruir lo que se me había dañado; me lo dieron, sesenta y tantos mil pesos por colocar cuatro vidrios grandes y aluminio. Entonces, es espantoso el abuso que están haciendo los empresarios que venden vidrios, que venden aluminio, con la situación que estamos viviendo, pues.</p>
+<p>Entonces, yo creo que tal vez desde el Estado o desde los empresarios se podría hacer algo para controlar este abuso generalizado que hay en Acapulco con los materiales y con todo.</p>
+<p>La gente está abusando mucho: los comerciantes, los abarroteros. Llegó a valer una Coca-Cola 85 pesos, un kilo de tortilla 85 pesos, en la crisis en su momento más grave; hasta el abarrotero de la esquina, nuestro amigo, el que vendía con las cosas que tenía guardadas, las duplicó, las triplicó, sí.</p>
+<p>Entonces, esto mostro también, Otis, a un ciudadano, ciudadanos muy solidarios, pero también a gente muy abusiva.</p>
+<p>A ver qué se puede hacer con lo de los materiales.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues aquí están dos actores principales: Francisco Cervantes, presidente del Consejo Coordinador Empresarial; Raquel Buenrostro —¿dónde está Raquel?—, la secretaria de Economía, y se llevan muy bien. Entonces, a ellos les vamos a pedir que nos ayuden, ya se hizo ese compromiso.</p>
+<p>También otra cosa que voy a plantear, que se dijo desde la primera reunión con los empresarios, y fue incluso Carlos Slim el que lo propuso, que se hiciera el compromiso de que no despidan a los trabajadores, que se les siga pagando a los trabajadores de hoteles, de restaurantes. Eso lo propuso Carlos Slim, es un llamado también a la solidaridad del sector empresarial.</p>
+<p>Y yo estoy seguro que van a seguir manteniendo a sus trabajadores, y nosotros vamos a estar ayudándolos también. Quien mantenga a sus trabajadores, les mantenga su sueldo, cuenta con nosotros, va a contar con nosotros. Pero es una propuesta que ya hizo el sector empresarial.</p>
+<p><strong>PREGUNTA:</strong> Bienvenido, señor presidente. De la <em>Radio Universidad</em>, de la famosa <em>Universidad Pueblo.</em></p>
+<p>No soy yo quien debiera decirlo, plantearlo, porque soy un trabajador de la radio universitaria, pero hemos monitoreado la cobertura nacional de todo el apoyo de las universidades. Bueno, hemos caminado junto con paisanos que están en otras universidades, son de la Asociación Nacional de Universidades, Asociación de Educación Superior, aparte el Politécnico. Y creo que se ha dado mucha solidaridad, por eso aprovecho, han estado en Coyuca de Benítez, aquí en Acapulco, al propio doctor Javier Saldaña Almazán, que se ha coordinado con la gobernadora, la maestra Evelyn Cecia Salgado Pineda, y es la solidaridad universitaria.</p>
+<p>Pero me pidieron, porque hemos estado en el Acapulco rural… Por cierto, le mando saludos, bueno, muchas comunidades que usted conoce, que cuando usted transita lo abordan, en particular los bienes comunales Cacahuatepec. Ya ve que de por si se retrasaron las lluvias, llegaron tarde, perdieron sus cosechas, está siniestrado toda esta parte y después el huracán Otis.</p>
+<p>Usted conoce esas comunidades, conoce ahí a los actores políticos. Y sí priorizar, se prioriza, o tienen esa percepción, de que el Acapulco dorado, el Acapulco de la periferia, pero que ojalá que en su agenda considere ir a al Acapulco rural, donde también falta telefonía, falta energía eléctrica.</p>
+<p>Y a propósito, en este tramo que le queda, hay mucha confianza de que la telefonía celular cubra a estas poblaciones marginadas.</p>
+<p>Y esto Acapulco es el referente para todos nosotros. Yo vengo de Chilpancingo, ahí está la sede de la Universidad Autónoma de Guerrero, y maestros, maestras de La Montaña. Usted conoce bien Malinaltepec, Tlapa, del Filo Mayor, de Capulines, de Pueblo Viejo, de todos estos pueblos que usted conoce en las costas, de la Tierra Caliente. Y si en este tramo todavía se va a cumplir lo que usted prometió, la telefonía celular para nuestros pueblos.</p>
+<p>Y otra pregunta, si me permite nada más, porque hay esta… A propósito de las regiones yaquis, se aprobó la octava región de los pueblos del Filo Mayor, pero pues hay esperanza de que se detone esta famosa zona económica, la octava región. Los pueblos de La Montaña afortunadamente pueden presumir que tienen sus caminos, pero se sigue esperando en aquellos pueblos las carreteras que aparecían en las estadísticas nada más, nunca se supo a dónde quedó ese dinero, nunca se supo dónde quedaron esas obras.</p>
+<p>Por eso, también ya de Capulines, Los Laureles, le mandan saludos. Recorremos como reporteros, sudamos la camiseta, estamos ahí donde también debemos de reconocer que llegan los apoyos ahí, los programas, Sembrando Vida, por ejemplo. Hemos estado aquí desde Filo Mayor, desde Filo de Caballos, Tlacotepec.</p>
+<p>Y, finalmente, señor el tema de la inseguridad. Ayer hubo balaceras en Carrizalillo, en Las Mineras.</p>
+<p>Ya ve que está pendiente lo de Taxco, los mineros. Napoleón Gómez Urrutia dijo que iba a venir. Y Roberto Hernández Mujica inclusive le ha planteado esto, ya se han perdido vidas de mineras en Taxco. Y, bueno, hay la confianza que en este tramo usted pueda ayudar, sobre todo también como otros sectores del estado de Guerrero.</p>
+<p>Le agradezco darme la palabra. Buenos días y bienvenido a Guerrero.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, también decirle a la gente de Guerrero que por esta emergencia estamos dándole atención especial a Acapulco, a Coyuca, pero no significa abandonar todo Guerrero. Ya hablaba yo de que es, junto con Chiapas y Oaxaca, los estados que más apoyo reciben de la federación y van a seguir recibiendo apoyo de la federación.</p>
+<p>Noticias buenas: vamos a casi duplicar las becas para estudiantes de nivel básico, va a continuar el programa de becas para nivel medio superior, a todos.</p>
+<p>Noticia buena es que ya en Guerrero todos los discapacitados, todos, sin importar la edad, van a tener derecho a la pensión, porque antes nada más era hasta 29 años. Se llegó a un acuerdo con Evelyn para que el gobierno del estado aporte un 50 por ciento, la federación otro 50 por ciento y ya sea universal lo de la pensión para discapacitados.</p>
+<p>Precisamente el domingo inauguramos un centro de rehabilitación en Tlapa, en La Montaña, que va a tener todas las especialidades.</p>
+<p>Allá en Tlapa vamos a estar también el domingo, porque ya iniciamos la construcción, con el apoyo de los ingenieros militares, de un hospital nuevo en Tlapa, que se está financiando con lo que se obtuvo de la venta del avión presidencial. Se decidió utilizar ese dinero para dos hospitales, uno en Tuxtepec, Oaxaca, y otro en Tlapa, y antes de que termine el gobierno va a estar completo el hospital de Tlapa.</p>
+<p>Y decirles a los adultos mayores de Guerrero que a partir de enero hay un aumento de 25 por ciento de sus pensiones para todos.</p>
+<p>Entrando diciembre, ya estamos en pláticas, también aquí Francisco nos está ayudando para llegar a un acuerdo sobre el aumento al salario mínimo, que tenemos que ponernos de acuerdo el sector empresarial, el sector obrero y nosotros. Y vamos por buen camino, van bien las pláticas. Entonces, también esto es una buena noticia para los trabajadores.</p>
+<p>Y va a continuar el Sembrando Vida, vamos a seguir apoyando a los pescadores en Guerrero, y vamos a seguir adelante.</p>
+<p>También pues era mucho, sigue siendo mucho el atraso, el rezago, el abandono en Guerrero; era de los estados, todavía lo sigue siendo, con más pobreza. Entonces, tenemos que seguir luchando por la justicia. Y yo tengo mucha confianza, tengo fe de que este movimiento que ya se inició no se va a detener, no va a haber retrocesos y se va a seguir mejorando al pueblo de Guerrero.</p>
+<p>Pero sí tomo en cuenta lo que me planteas. En lo específico, lo del internet, lo de la telefonía celular, hemos estado trabajando. Teóricamente —yo creo que me está escuchando Emiliano Calderón, que es el de Internet para Todos— ya tenemos 94 por ciento de la población con posibilidad o acceso a internet, incluyendo todas las empresas; también Altán, que es una empresa nueva que tiene que ver con el sistema que se creó, que se llama Internet para Todos, que ya es una filial de la Comisión Federal de Electricidad.</p>
+<p>Así como la Comisión Federal de Electricidad se hace cargo de que haya energía eléctrica en todos los hogares… Por eso se nacionalizó la industria eléctrica con el presidente López Mateos en 1960, porque no llegaba la energía eléctrica a los pueblos porque no era negocio para las empresas particulares; entonces, el entonces secretario de Hacienda, Antonio Ortiz Mena, le dijo a los empresarios: ‘Vamos a nacionalizar la industria eléctrica, vamos a ponernos de acuerdo, se les va a pagar, va a haber una indemnización, pero ese es un servicio que tenemos que ofrecer nosotros, el Estado, porque no se puede ver como un negocio; si continúa así, no se van a electrificar los pueblos, porque no les va a resultar a ustedes rentable’. Entonces eso fue lo que llevó a la nacionalización de la industria eléctrica y por eso, gracias a eso, el 99 por ciento de los hogares de México tiene energía eléctrica.</p>
+<p>Lo mismo en el caso del internet. ¿Dónde hay internet? Pues en las ciudades. Sale uno de un pueblo y ya no hay ni siquiera telefonía celular.</p>
+<p>Entonces cuando llegamos dijimos: Vamos a que llegue el internet a todos los pueblos. Y los técnicos nuestros —por eso le estoy mandando el saludo y el recordatorio a Emiliano Calderón—, pues pensaban, yo mismo, de que era relativamente fácil. Y no nos ha faltado el presupuesto, tenemos presupuesto, y estamos trabajando, pero nos ha resultado más complicado de lo que imaginábamos, porque sí nos pueden estar escuchando ahora desde un satélite porque tienen sonorizado lo que les interesa, o sea, sí hay un gran avance en el desarrollo tecnológico para lo bélico, para la seguridad nacional, la seguridad del mundo, pero para la comunicación entre los seres humanos no hay.</p>
+<p>Nos dicen: ‘con satélite’. Sí, pero los satélites, así como está ahora nublado no funciona, no hay forma.</p>
+<p>Nos dicen: ‘fibra óptica’. Pues sí, pero alumbrar la fibra óptica lleva su tiempo, que es lo que estamos haciendo.</p>
+<p>Antenas, ¿saben cuántas estamos levantando en todo el país? 12 mil antenas con el apoyo de la Comisión Federal de Electricidad, y ya el informe que tengo es que, con otras empresas, ya tenemos comunicación para el 94 por ciento de la población. Sin embargo, por eso dije que era en teoría, en los hechos todavía, como yo ando recorriendo el país, puede ser que haya telefonía celular en una cabecera municipal, pero apenas sale uno de la cabecera municipal ya no hay nada, seguimos como antes en algunas partes, subiéndonos a las lomas para encontrar la ansiada señal.</p>
+<p>Entonces, esa es una asignatura pendiente, pero yo espero, porque estamos en eso y somos perseverantes, de que antes de terminar vamos a tener ya un sistema de internet, que es fundamental para las comunicaciones en el país.</p>
+<p>A ver, la compañera.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, señor presidente.</p>
+<p>Pues preguntarle, primero, si tienen una meta fija —perdón, soy Ángeles Rodríguez, de <em>Radio Fórmula</em> <em>Guerrero</em>—, si tienen una meta fija de recuperación total de lo que es el puerto de Acapulco y Coyuca, si tendrán algún porcentaje. ¿Y qué meta tienen o qué mes tienen para la recuperación?</p>
+<p>Otra, señalaba usted que ya había hablado con los empresarios hoteleros aquí en el puerto de Acapulco, que van a apoyar; sin embargo, es una sola parte, porque lo que es la parte tradicional ya muchos hoteles están cerrando, están anunciando que hasta nuevo aviso van a abrir, inclusive están dando de baja a personal, etcétera. Y otros están emigrando, uno es el hotel Elcano y el otro es el Dreams, que ya ellos ya dijeron que hasta nuevo aviso, iban a cerrar.</p>
+<p>Y la última, la tercera es: ¿cómo va a seguir, va a seguirse la construcción del hospital del Issste en el Centro Internacional Acapulco para sacar adelante lo que es la seguridad para todos los ciudadanos?</p>
+<p>Buenos días.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, te contesto la última o empiezo contestando la última pregunta: en octubre… No, agosto, agosto del próximo año inauguramos el hospital del Issste. Así es, ¿no?, Rosa Icela</p>
+<p><strong>ROSA ICELA RODRÍGUEZ VELÁZQUEZ:</strong> Sí, señor.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, explícalo tú.</p>
+<p><strong>ROSA ICELA RODRÍGUEZ VELÁZQUEZ:</strong> Sí, señor, con su permiso.</p>
+<p>Efectivamente, hay un convenio firmado, un contrato firmado con una empresa para terminar el año próximo, a fines de agosto, a principios de septiembre del 2024, la construcción del nuevo hospital del Issste, que tendría una inversión de tres mil 320 millones de pesos.</p>
+<p>A la fecha ya se lleva un avance, todavía se nos hace poco, pero ha seguido la construcción. Entonces estamos sobre la empresa, sobre las empresas, para que avance esta construcción y esté cumpliendo con el compromiso del señor presidente a los trabajadores al servicio del Estado, a los que están en Acapulco, a los maestros, a todos los que necesitan ese hospital, que es un compromiso del Gobierno de México para que se acabe en ese tiempo.</p>
+<p>Entonces, mientras tanto, hemos sido informados por la Dirección General del Issste que van a hacer en una plancha, que están ahí mismo, un hospital móvil para estar también atendiendo la demanda en tanto está en construcción este hospital.</p>
+<p>Entonces, queremos informar que va a estar terminado el hospital. Vamos a estar en la supervisión para cumplir con ese compromiso.</p>
+<p>Eso es, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Y lo de los pequeños hoteles del centro, ya hemos estado buscando la forma de ayudar. Era el caso que mencionaba de quienes no se consideraban sujetos de créditos, queremos que Nacional Financiera, la banca de desarrollo les ayude, los vamos a apoyar. Estamos muy conscientes de que el porcentaje mayor de hoteles son pequeños y medianos, pero también de esos pequeños, medianos hoteles viven muchos trabajadores.</p>
+<p>Entonces, estamos ya hablando con ellos, ayer estuvieron en la reunión en Palacio Nacional representantes de ellos, de estos pequeños hoteleros de Acapulco, y los vamos a seguir apoyando.</p>
+<p>Y en el caso de Elcano, ahí se lo voy a encargar mucho a Raquel y a Francisco, porque Elcano, imagínense, ahí me hospedaba yo. Y no solo me hospedaba, sino la comida ahí era…</p>
+<p><strong>INTERLOCUTORA:</strong> La paella.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> La paella, sí.</p>
+<p>Entonces, no, vamos a seguir apoyando en la recuperación de Acapulco.</p>
+<p>Y ya nos vamos, porque vamos a —les invitamos al acto— la conmemoración de la Armada, que es un acto también muy importante hacerlo aquí en Acapulco.</p>
+<p>No puedo dejar de hacer un reconocimiento a todos los marinos, a los soldados, a los integrantes de las Fuerzas Armadas; a los elementos de la Guardia Nacional. Nos han ayudado muchísimo, mucho, mucho.</p>
+<p>Miren, cuando decidí que solamente iban a tener aviones para movilizarse el secretario de la Defensa y el secretario de Marina, de que el resto de los funcionarios no íbamos a tener avión, lo decidimos así con el compromiso de que ellos iban a llegar primero cada vez que se necesitara, en una emergencia. Y así ha sido, y ahora hasta me dan a mí el <em>aventón</em>.</p>
+<p>Pero fueron los primeros los marinos, los elementos de la Secretaría de la Defensa, la Guardia Nacional. Era importante poner orden, porque los primeros días hay desesperación, hay angustia, y llegó la Guardia Nacional y ya hay orden.</p>
+<p>En el tema de seguridad íbamos a informar hoy, tenemos todo el reporte de lo que está sucediendo en materia de seguridad en Guerrero. No lo hicimos porque le queremos dar toda la atención a la reconstrucción de Acapulco. Pero también con la gobernadora seguimos trabajando de manera coordinada para garantizar la tranquilidad y la paz en Guerrero.</p>
+<p>Pues muchísimas gracias y vamos adelante.</p>
+<p>Nada más esperemos que… Creo que es a las diez y media el acto, a las diez y media es el acto en el mar. También están…. ¿Si están invitados? Sí.</p>
+<p>Nos vemos.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

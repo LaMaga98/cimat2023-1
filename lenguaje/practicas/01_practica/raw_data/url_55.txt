@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>06.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/06-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=168102' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F06-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F06-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sqxq-f-8fcf5e547-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":37,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1ba5770","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":47118,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726447","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==6tRmNksIS7YjMBesQDajGT0Kv1g2sVJ8cbyndbT53hMCxQbesdFpyApMtNr/T9v3RsJEvRDT9bQ28kyHgXYLd2ekiYERrXShOsNJ41BjY+yGsQud3nBPAxBf7Z/woDmehv91NxT8fpgF0vHwW8Vnmaq1h3RpPdVuSgYOc92Zi+/+dQbakoqq09lGR2fTRswCRuCDw6tCz0t8yzhO51RSf5YeDYzjQakxjxV0kXa9z2wU7R/kNGYgyZFyjal/Udn6VN858N0W3Ptme5JkBrmvBgTxjYuEYni/vWlOe2+9PhGyzMGIbRO1vXhHkl427EuPd2nbrfXrDRHwlGK8RkZFhG2Ruvhs5sjdamrYIGY3EN05O1NN/dg+QU8SXQXGy2V9jA+WV4ez9bei76x1HynslmRhX18/fibRkMl33VR+azE=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-168102 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba92ab77f79" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>06.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 06.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-168102" class="post-168102 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-06-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-06.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-06-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-06-745x450.jpg" alt="06.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">06.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario de pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/7xZxey0n5elLM5s2Ason9R?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy buenos días. Ánimo.</p>
+<p>Vamos hoy, como todos los miércoles, a informar sobre 'Quién es quién en las mentiras de la semana'.</p>
+<p>Pero tenemos algo muy especial, que nos da muchísimo gusto: están aquí los representantes del sector obrero y del sector empresarial —son bienvenidos—, porque se va a dar a conocer formalmente lo del incremento al salario mínimo, cómo se llegó a este acuerdo, que es algo verdaderamente importante, histórico. Es un acuerdo, un consenso del sector obrero, del sector empresarial, y del sector público, y esto va a ayudar mucho a millones de trabajadores. Es una muy buena noticia, sobre todo porque se logró consenso, es decir, hay un acuerdo.</p>
+<p>Yo les agradezco mucho a los representantes del sector obrero, a los representantes del sector empresarial, que se pusieron de acuerdo y se logró este incremento.</p>
+<p>Entonces, si les parece, empezamos con el 'Quién es quién en las mentiras' y luego el secretario del Trabajo, el maestro MarathBolaños López, va a hacer la exposición y luego escuchamos a los representantes del sector obrero y del sector empresarial.</p>
+<p>Marath, secretario del Trabajo, ha hecho una labor de primer orden en la Secretaría del Trabajo y esta es una muestra, una prueba precisamente de su trabajo. Lo mismo Luis Felipe Munguía Corella, que lleva ya bastantes años como presidente de la Comisión Nacional de los Salarios Mínimos, que es un técnico destacadísimo. Cuando digo lleva muchos años, bueno, cinco, porque antes quien estaba sí llevaba 30; entonces, que no se vaya a confundir, cinco, y muy bien, muy bien, muy buen desempeño de Luis Felipe.</p>
+<p>Entonces, vamos con Elizabeth en el 'Quién es quién en las mentiras'.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/12/Conferencia-matutina_2023-12-06.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/_YjUMx03jAo?t=468" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>ANA ELIZABETH GARCÍA VILCHIS: </strong>Con su permiso, señor presidente.</p>
+<p>¿Cómo están? Buenos días a todas, a todos.</p>
+<p>Esta es la sección 'Quién es quién en las mentiras de la semana'. Hoy 6 de diciembre del año 2023. Y vamos a iniciar. El Heraldopublica nota falsa sobre bono del Issste: el pasado 23 de noviembre circuló ampliamente una nota de El Heraldo de Méxicocon el título: ‘Issste confirma el otorgamiento de bono anual para jubilados</p>
+<p>¿Cuándo se realizará el pago extra de cinco mil pesos?’</p>
+<p>Eso es lo que dice la nota de El Heraldo, en la que se asegura que el instituto planeaba entregar un bono a sus afiliados por un monto de cinco mil pesos, lo cual es falso. La intención de este tipo de notas es engañar a los lectores y generar inquietud y malestar entre la gente, que no recibirá nada, porque es mentira, el dinero extra anunciado por El Heraldo.</p>
+<p>Con muy mala fe, hay que decirlo, El Heraldo publica que el Issste, vamos a citar la nota de El Heraldo, ‘ratificó la implementación de este incentivo económico a determinados receptores de la pensión del Issste, por lo que con esta noticia los trabajadores mexicanos podrán concluir este año 2023 no sólo con la totalidad de su pensión, sino también con un apoyo económico que ya comenzó a dispersarse desde este mes de noviembre en algunos estados. Hasta aquí la nota de El Heraldo. ¿Cómo ven?</p>
+<p>Vale la pena que nos detengamos un poco. El Heraldo miente cuando dice que el Issste ratificó la entrega del bono, pero luego vuelve a mentir para crear insidia entre los pensionados y jubilados porque afirma que les será entregado sólo a determinados beneficiarios de la pensión del Issste. Y para aumentar la expectativa entre ellos, inventa que ya comenzó a dispersarse en algunos estados. Tres mentiras, tres, pero con una sola intención perversa.</p>
+<p>Al respecto, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Issste, dijo que no era verdad y desmintió esta entrega del bono a pensionados y jubilados; en cambio, se informó que el pasado 15 de noviembre de 2023 se pagó la primera parte del aguinaldo para sus derechohabientes y que el próximo 2 de enero de 2024 se realizará el pago de la segunda parte del aguinaldo. Así se las gastan.</p>
+<p>Pero si creen que aquí acaba, es temporada y vamos con otra nota de aguinaldos. Es falso que Pemex registre atraso en el pago de aguinaldos. El pasado 29 de noviembre circuló un supuesto comunicado de Petróleos Mexicanos anunciando el atraso en el pago del aguinaldo a sus trabajadores. Esta información es falsa. Aunque circuló por miles de grupos de WhatsApp y dirigidos al personal de Pemex, como siempre no faltó el comunicador que hizo eco de esta mentira, vamos a ver: el caricaturista Antonio Garci Nieto, fiel opositor al gobierno de la Cuarta Transformación, lo hemos visto en varias ocasiones en esta sección, publicó en su cuenta de X el siguiente mensaje, y por supuesto no revisó la autenticidad, vamos a leer lo que dice Antonio Garci Nieto a través de su cuenta de X:</p>
+<p>‘Se van a robar los aguinaldos de los trabajadores de Pemex y, como en el caso de la ayuda de los damnificados del terremoto del 2017 que organizó López Obrador, esa lana servirá para la campaña y para robársela’.</p>
+<p>¿Cuál es su fuente?</p>
+<p>Pues decimos: es la fuente de los deseos, porque hasta parece impresionante el nivel al que pueden llegar ciertos personajes y periodistas de la oposición, quienes sólo se dedican a atacar sin fundamento.</p>
+<p>Pemex, por su parte, informó que el aguinaldo será entregado a sus trabajadores en tiempo y forma, e invitó tanto al personal como a los ciudadanos a informarse por vías oficiales para evitar caer en este tipo de noticias falsas.</p>
+<p>Bueno, hasta aquí las notas sobre los aguinaldos. Quizás haya más, porque ya saben que es temporada.</p>
+<p>Pero vamos con la siguiente: y dale, vuelven a mentir con la salud del presidente. El 1 de diciembre fue inaugurado por el presidente Andrés Manuel López Obrador el aeropuerto de Tulum ‘Felipe Carrillo Puerto’, en Quintana Roo. Algunos de ustedes tuvieron la oportunidad de asistir. Apenas el mandatario había abordado el avión, o sea, nada más se había subido al avión que lo llevaría al sureste mexicano, cuando lanzaron el rumor de que el jefe del Ejecutivo federal habría estado en un hospital de Cancún. O sea, primero, de la transportación, no es posible, y apenas se estaba subiendo, no había llegado, pero según ya estaba en un hospital de Cancún. Vamos a decirlo, esto es absolutamente falso,</p>
+<p>Al nado sincronizado le entró el medio La Política Online, así como Lourdes Mendoza, Martín Moreno, la cuenta de Twitter de Guacamaya Leaks, entre otros. Lo cierto es que ya sabemos que a la menor provocación existen este tipo de personajes que comparten mensajes alarmantes que desinforman y difunden mentiras.</p>
+<p>Aunque, vamos a ser honestos, a veces ya la creatividad les falla. ¿No les parece que esto ya es como un refrito, es una nota del año pasado? Se la pasan mintiendo con esto. La verdad es que ya aburren.</p>
+<p>Como todos lo vimos, el presidente llegó sin contratiempos a la inauguración del aeropuerto de Tulum ‘Felipe Carrillo Puerto’, acompañado de su esposa, la doctora Beatriz Gutiérrez Mueller, a quien le mandamos un saludo. Quien, por cierto, escribió en su cuenta de Instagram la pifia y de manera irónica escribió algo que la verdad es que nos dio mucha risa, dice: ‘Hay mucho movimiento en el aeropuerto de Tulum, me dicen personas que están adentro que ahí se encuentra el señor presidente ¿Jesús Ramírez, podrías confirmar si esto es cierto?’ Y, sí, ahí se encontraba, confirmamos que sí llegó, no estaba en el hospital como difundieron.</p>
+<p>Esta noticia nos da muchísimo gusto exponerla. A pesar de la visión pesimista de los pronósticos publicados en medios, México es de los países cuya economía más crecerá este año, porque se trata de un… Bueno, esta nota, más bien vamos a presentar una cobertura mediática de un pronóstico que fue ampliamente difundido en medios de comunicación desde finales de 2022 y principios de 2023.</p>
+<p>Por ejemplo, el Fondo Monetario Internacional aseguró que México crecería, en 2023, 1.7 por ciento del producto interno bruto y las calificadoras y los analistas, así como los medios de comunicación reforzaron la difusión de esta visión pesimista. Ya saben, todo lo que peguen van a publicarlo.</p>
+<p>La Cepal se fue más abajo y pronosticó que México, la segunda economía regional, avanzaría solamente 1.1 por ciento para este año. Todos al unísono decretaron el mal desempeño de la economía, producto de la mala política del gobierno, esto es lo que decían. Al nado sincronizado —otro nado sincronizado— de la percepción mediática le entraron Forbes, El Universal, Excélsior, El Financiero, Animal Político, El Universal, Reforma, Latinus de Loret, Expansión, Televisa, Fortuna y Poder, Debate, entre muchos otros.</p>
+<p>Pero, ¿qué creen?, ¿qué creen?, les fallaron los pronósticos, buenas noticias para México y malas noticias para sus malquerientes, para nuestros malquerientes, los malquerientes de la Cuarta Transformación y del presidente Andrés Manuel López Obrador: hoy todos han mejorado los pronósticos de crecimiento económico para México en 2023, veamos:</p>
+<p>Moodys mejoró su proyección de que la economía crecerá de 3.3 por ciento a 3.55 por ciento, el Banco de México calcula de 3.0 por ciento a 3.3 por ciento, el Fondo Monetario Internacional de 2.6 por ciento a 3.2 por ciento, la OCDE de 2.6 por ciento 3.3 por ciento del producto interno bruto. En fin, vamos requetebién, sólo miremos la comparación del crecimiento económico de otros países, veamos a México, a mucha honra, la verdad. Qué buena noticia para México.</p>
+<p>Por último, les vamos a compartir la colaboración con Infodemia, que aborda recientes noticias falsas publicadas sobre Acapulco, vamos a verlo.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong>VOZ HOMBRE:</strong> A pesar del despliegue del Estado para atender a las personas damnificadas por el paso del huracán Otis en Guerrero con miles de elementos de la Guardia Nacional, Secretaría de Marina y Defensa Nacional, cuadrillas de CFE, apoyos económicos y colaboración con el sector empresarial, aun circulan noticias falsas en redes sociales que buscan señalar una falsa incapacidad del Gobierno de México para atender a la población de Acapulco y Coyuca de Benítez.</p>
+<p>Uno. Falso saqueo de enseres electrodomésticos en una bodega del Bienestar en Acapulco. La Secretaría de Seguridad Pública del estado de Guerrero desmintió que se haya registrado un saqueo en la bodega del Bienestar. Además, informó que las instalaciones, los enseres domésticos y ayudas destinadas a los afectados por el huracán Otis se encuentran seguras y bajo estricta vigilancia.</p>
+<p>Dos. Falso que el gobierno de Acapulco venda material de construcción a bajo costo. Luego del paso del huracán Otis, supuestos gestores de apoyos con documentos apócrifos del ayuntamiento de Acapulco ofrecieron a personas damnificadas la posibilidad de adquirir cemento, varilla y un tinaco a bajo costo, a cambio de entregar por adelantado una suma de dinero.</p>
+<p>La presidenta municipal de Acapulco, Abelina López Rodríguez, desmintió que el gobierno municipal venda material de construcción y tinacos a bajo costo, como refiere el documento apócrifo. La alcaldesa exhortó a la población a evitar entregar dinero en efectivo a cambio de supuestos artículos de construcción y agregó que la Fiscalía General del estado de Gurrero realizará la investigación correspondiente para identificar a los responsables del presunto delito de fraude.</p>
+<p>Tres. Falso que el gobierno de Acapulco organizó un baile tras el paso del huracán Otis. Un medio de circulación nacional publicó una nota titulada ‘Damnificados critican a alcaldesa de Acapulco por organizar baile: queremos comida, no un circo’, la cual refiere que habitantes de Acapulco realizaron críticas contra la alcaldesa morenista por organizar un baile en lugar de realizar labores de limpieza y vigilancia. La presidenta municipal de Acapulco, Abelina López Rodríguez, desmintió que su administración haya organizado un baile después del paso del huracán Otis; la alcaldesa aclaró que dicho evento fue organizado por músicos acapulqueños con motivo de su día.</p>
+<p>Infodemia.</p>
+<p><strong>ANA ELIZABETH GARCÍA VILCHIS: </strong>¡Ay!, lo que hay que ver.</p>
+<p>Es cuanto, señor presidente. Buenos días a todos.</p>
+<p><strong>MARATH BARUCH BOLAÑOS LÓPEZ, SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL: </strong>Muy bien, señor presidente.</p>
+<p>Como usted ya había informado hace unos días al pueblo de México, en esta ocasión me complace compartir información relativa al incremento del salario mínimo que fue aprobado el 1º de diciembre en el seno de la Comisión Nacional de Salarios Mínimos, la Conasami, un acuerdo logrado de manera unánime por las y los trabajadores, los empresarios y el gobierno, lo cual implica un incremento del 20 por ciento a partir del 1º de enero de 2024.</p>
+<p>En la mayor parte del país pasará de 207.44 a 248.93 pesos diarios, lo cual significa siete mil 572 pesos mensuales, mientras que en la Zona Libre de la Frontera Norte pasará de 213.41 a 374.89 pesos diarios, lo cual equivale a 11 mil 403 pesos mensuales; también, un 20 por ciento en los salarios mínimos profesionales.</p>
+<p>Con esto, se cumple el compromiso establecido por el presidente Andrés Manuel López Obrador de aumentar el salario mínimo aquí ya al doble a nivel nacional y al triple en la Zona Libre de la Frontera Norte en términos reales.</p>
+<p>En esta tabla podemos ver cómo llegamos al gobierno con un salario mínimo nacional de 88.36 pesos y, como ya mencionamos, para el 2024 tendremos un salario de 249 pesos y 275 pesos en el caso de la Zona Libre de la Frontera en términos redondos.</p>
+<p>En esta gráfica se puede observar el valor del salario mínimo en términos reales durante los últimos 35 años; esto, en pesos estimados. Al cierre del 2024, con la aprobación del incremento del 20 por ciento se habrá logrado una recuperación salarial del 110 por ciento al cierre del 2024 con respecto al año 2018.</p>
+<p>Durante muchos años nos dijeron la teoría económica y los expertos que incrementar el salario mínimo traería inflación y pérdida de empleo, pero los resultados demuestran todo lo contrario, pues hoy son ya más de 22.4 millones de empleos registrados formalmente en el IMSS.</p>
+<p>Durante su administración, señor presidente, hemos tenido seis incrementos salariales y nos complace muchísimo con esto haber contribuido a la reducción de la pobreza en 5.1 millones de personas, empujados también por su política salarial.</p>
+<p>También, comentar que en esta gráfica podemos identificar que el salario mínimo de la Zona Libre de la Frontera Norte ha superado ya su máximo histórico de poder adquisitivo, que fue alcanzado en 1976, Aquí podemos observar claramente cómo se ha fortalecido el salario mínimo durante su administración.</p>
+<p>Finalmente, para poder dar algunos de los ejemplos, cuando empezó el actual gobierno el salario mínimo alcanzaba para comprar 3.1 kilos de frijol, 3.2 kilos de huevo, seis kilos de tortilla solamente; con el incremento del 20 por ciento para el año 2024 se podrán comprar 5.3 kilos de frijol, 5.9 kilos de huevo y 12 kilos de tortilla, prácticamente el doble. Esta estimación es justamente con base en los precios del mes de octubre del año 2023 y es simplemente una manera para poder ejemplificar el avance del poder de compra que ha tenido el salario mínimo.</p>
+<p>Finalmente, quisiera agradecer, como ya mencionó también el presidente, al presidente de la Comisión Nacional de Salarios Mínimos y a todo el equipo, Luis Munguía, por estar muy pendiente de toda esta discusión y acuerdo.</p>
+<p>Y, fundamentalmente, agradecer así al sector empleador y al sector de las y los trabajadores que forman parte de la Conasami porque, como siempre, mostraron una grandiosa disposición al diálogo, a la construcción de los acuerdos para así avanzar en un incremento del 20 por ciento, con el cual hemos hecho ya historia.</p>
+<p>Señor presidente, con esto se garantiza que las y los trabajadores son el centro de su política laboral en el país y seguiremos viendo por el bienestar de todas y todos. Por el bien de todos, primero los pobres.</p>
+<p>Muchas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>¿Quién va a primero? Francisco.</p>
+<p><strong>FRANCISCO ALBERTO CERVANTES DÍAZ, PRESIDENTE DEL CONSEJO COORDINADOR EMPRESARIAL (CCE): </strong>Buenos día, señor presidente; muy buenos días a todas y todos los presentes.Nuevamente, buenos días, señor presidente.</p>
+<p>Muy brevemente quisiera ratificar el compromiso del sector empresarial por mejorar el ingreso de las y los trabajadores mexicanos con este incremento del 20 por ciento al salario mínimo. Como ustedes saben, este acuerdo unánime es resultado de la colaboración y coordinación entre las organizaciones del sector privado, de la Secretaría del Trabajo y los representantes de los organismos sindicales.</p>
+<p>En la Conasami, que es la Comisión de Salarios Mínimos, con el titular, con Luis Munguía, tuvimos ahí varias reuniones, que fue una reunión tripartita con el sector de los trabajadores para llegar a este acuerdo, un acuerdo que ya con este gobierno es ya el sexto incremento, alcanzando el 110 por ciento.</p>
+<p>Pero también vale la pena comentar que hoy México tiene un momento muy importante. Como ustedes saben, con el nearshoring, el tema de la relocalización de empresas, estamos teniendo un momento muy importante en todo México.</p>
+<p>La frontera norte, que además tiene un incremento mayor, pero que también tiene beneficios fiscales y que hoy nos faltan bodegas, nos faltan trabajadores; tenemos el mínimo histórico en el desempleo, en dos por ciento, estamos entre los países de desempleo a nivel mundial. Y bueno, pues tener todas las condiciones para que podamos seguir siendo México el captador de estas inversiones, que tengamos lo que los inversionistas buscan.</p>
+<p>Este incremento, que habrá de entrar en vigor el 1º de enero del 2024, establece un salario mínimo general de 374.89 pesos diarios en Zona Libre de la Frontera Norte y de 248.93 pesos diarios, como lo decía el secretario Marath, secretario del Trabajo, para el resto del país.</p>
+<p>En el sector privado estamos seguros que en este aumento habrán de entrar cambios significativos en la calidad de vida y el poder adquisitivo de las y los mexicanos. Es por ello que, en el Consejo Coordinador Empresarial y los organismos que lo integran,reiteramos nuestra disposición de diálogo siempre con todos los sectores, alcanzar consensos en beneficios de las familias mexicanas. Ahí es una muestra de diálogo, señor presidente, que con el diálogo alcanzamos siempre los mejores acuerdos para que a México le vaya bien.</p>
+<p>Y tengan por seguro que seguiremos invirtiendo en nuestro país con una dimensión social y trabajando incansablemente para generar más y mejores empleos e impulsando el desarrollo económico y crear estrategias que garanticen una mejor calidad de vida para todas y todos los mexicanos,</p>
+<p>Y para cerrar, comentar que, gracias a esta armonía que existe con el sector público, el sector de los trabajadores, hoy nada más tenemos tres huelgas en un México que estamos ocupando ahorita el séptimo lugar a nivel mundial en inversión, tenemos solamente tres huelgas, que además se pueden resolver rápidamente. Dicho de otra manera, casi estamos en cero huelgas y eso creo que es de presumirse, gracias a la armonía entre los sectores el diálogo que hay.</p>
+<p>Muchísimas gracias. Muchas gracias, señor presidente.</p>
+<p><strong>JOSÉ LUIS CARAZO PRECIADO, REPRESENTANTE DE LA CONFEDERACIÓN DE TRABAJADORES DE MÉXICO (CTM): </strong>Muy buenos días. Y muchas gracias, señor presidente, por recibirnos en esta reunión matutina que tiene todos los días y que nos informa a los mexicanos.</p>
+<p>En primer lugar, reciba usted un saludo y un reconocimiento de don Carlos Aceves del Olmo, quien está muy comprometido con usted por el saludo que le hizo favor de hacerle llegar el día 1º en la apertura del Aeropuerto de Tulum.</p>
+<p>La Conasami, por parte de los trabajadores, lo formamos un conglomerado de 24 organizaciones sindicales muy representativas en el país. No las menciono porque me llevaría muchísimo tiempo. Están sindicatos como el de la UNAM, como del Seguro Social, los sindicatos de los bancos, el Sitatyr, el Stirtt, la Confederación de Trabajadores de México, obviamente mi casa, los harineros, los textileros, los azucareros, los petroquímicos, la CFE, en fin, me quedo con algunos y espero que mis compañeros me disculpen en aras del tiempo.</p>
+<p>La realidad es que estamos muy reconocidos todos, todo el sector obrero con usted, señor presidente, porque este incremento fortalece lo que para nosotros en cuentas rápidas hacemos: iniciamos 2018 con 88 pesos y, si hacemos una cuenta rápida, 249 pesos es casi el triple, y en el caso de la Zona Libre de la Frontera Norte es 4.3, casi cuatro veces y media lo que se está ganando.</p>
+<p>Sin duda alguna, esto fortalece la economía familiar, pero a su vez fortalece también el mercado local, el mercado interno del país que requiere impulsar la macroeconomía. Un grave problema que hemos tenido en el país es que se piensa sólo en la macroeconomía y esta no está siendo impulsada por la economía micro, por la economía familiar, que realmente es lo que fortalece y le da vigencia y durabilidad.</p>
+<p>Pensemos, muy fácil, para un comerciante pues va a vender más, para un fabricante va a producir más y para un productor va a tener más demanda de sus productos si la ciudadanía tiene poder adquisitivo y tiene bienestar.</p>
+<p>No quiero extenderme, señor, sé que el tiempo es muy corto, pero quiero dejarle con estas palabras el reconocimiento y el agradecimiento de todo el sector obrero. La realidad es que para nosotros ha sido una buena administración; no sólo hablamos del salario, hablamos de las mejoras en pensiones, hablamos de vacaciones, hablamos de que se terminó con el outsourcing.</p>
+<p>Recientemente, el Legislativo aprobó 88 nuevos padecimientos de enfermedades que van a beneficiar mucho a los trabajadores. Teníamos 53 años sin revisar la tabla de enfermedades laborales, 53 años. Y hoy además quedó un candadito: cada cinco años se tiene que manejar.</p>
+<p>Todo esto no puede pasar de noche. Agradezco el honor de poder expresar esto como un reconocimiento a su administración sincera y comprometida con su gobierno, señor.</p>
+<p>Como último, por si fuera poco, nos envió usted, en primer lugar, a un extraordinario secretario del Trabajo. Déjeme comentarle que no cerrábamos la negociación y este hombre llegó a las 11 de la noche de ayer a la cena de la Conasami y en conjunto con nuestro preciado Luis ahora sí que hicieron manita de puerco a todos para que firmáramos este pacto.</p>
+<p>Un último comentario, señor: la verdad, que también fue un tino mandar a don Zoé Robledo Aburto al Seguro Social; ha transformado auténticamente la mayor casa de la seguridad social de todo el país. Sin duda alguna, estamos muy comprometidos.</p>
+<p>Y estos incrementos tienen un gran impacto en la seguridad social porque el histórico que tenemos con 22.4 millones de trabajadores y el salario base de cotización se desprende de todo esto.</p>
+<p>Le ofrezco una disculpa por haberme extendido, pero tenemos mucho que decir los trabajadores.</p>
+<p>Muchas gracias, señor.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADO</strong>R: Bueno, pues terminamos la exposición. Me da mucho gusto que estén aquí con nosotros.</p>
+<p>Vamos a las preguntas. Empezamos por acá, es que él se quedó pendiente ayer.</p>
+<p><strong>PREGUNTA: </strong>Buenos días, presidente constitucional de los Estados Unidos Mexicanos; buenos días a todos los invitados, al sector obrero, al sector empresarial. Y felicidades por este incremento a los salarios mínimos. Que yo como periodista también escuché en muchas ocasiones que era dispar la espiral inflacionaria, y vemos que no es verdad.</p>
+<p>Pero inicio, señor presidente, mi primera pregunta: un servidor público del Estado de México traicionó los principios de la 4T en materia de austeridad republicana, disfrutó de un show en el palco de la Arena Ciudad de México, ahora en el pasado concierto de Luis Miguel. Él es el secretario de Seguridad Pública del Estado de México, Andrés Andrade Téllez. Se le vio muy contento y cantando en el show de ‘el Sol’, mientras la delincuencia mexiquense hace de las suyas allá, en el Estado de México. Hay que recordar, presidente, que el Estado de México lamentablemente ostenta el primer lugar en el caso de feminicidio en el país. Y esta información no ha trascendido en los medios tradicionales de manipulación, pero en las benditas redes sociales es un escándalo esta presencia del secretario de Seguridad Pública el Estado de México.</p>
+<p>Mi pregunta sería, señor presidente: ¿usted admite la traición de Andrés Andrade Téllez a los principios de la 4T de la austeridad republicana, que impactan en la imagen de la maestra Delfina Gómez, quien trabaja incansablemente para atender los problemas sociales que le heredaron los gobiernos neoliberales?</p>
+<p>Y aquí está la fotografía en las redes sociales, presidente, aquí se le ve al secretario en el show de Luis Miguel en la Arena Ciudad de México.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Pues ya hiciste la denuncia, ya se enteraron algunos de que fue al espectáculo el secretario de Seguridad Pública. Y es un tema que debe de corresponder a la gobernadora, la maestra Delfina, que, en efecto, es una mujer honesta, austera, excepcional, es una muy buena gobernadora la maestra Delfina. Y si algún servidor público no está actuando con apego a los principios de la austeridad republicana, pues ya ella va a actuar seguramente, hay que tenerle confianza.</p>
+<p>Hay que ver también si lo hizo en un horario que no es el de su trabajo, hay que ver eso, porque pues también los servidores públicos pueden ir al cine, al teatro, a cualquier festival, pero hay que analizarlo, hay que verlo, no podemos juzgar sin elementos, sin pruebas, ningún juicio sumario, nada de linchamientos públicos, políticos, y sí poder expresarnos libremente, como lo estás haciendo, porque al final es la gente la que va a calificarnos, son los ciudadanos, y ahora tenemos la ventaja, la gran ventaja de que hay mucho desarrollo de consciencia en el pueblo de México, que es un pueblo muy informado, politizado, entonces podemos decir todo, hablar todo, y al final son los ciudadanos los que van a dar su última palabra.</p>
+<p><strong>INTERLOCUTOR: </strong>En este sentido de espectáculos y de ‘el Sol’, Luis Miguel donó, entiendo, 10 millones de pesos para Acapulco.</p>
+<p>El Barcelona, la mesa directiva del equipo español Barcelona se compromete también a donar las entradas del partido que tiene contra el América para contribuir a restablecer la vida en Acapulco. ¿Qué opinión le merece que un equipo español, la directiva, haga estos actos de solidaridad?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Pues muy bien. Y qué bueno que personas y organizaciones ayuden, cooperen, se manifiesten con humanismo, de manera solidaria. Se reconoce mucho el apoyo que se está entregando a Acapulco.</p>
+<p>Desde el principio mucha gente ha llevado su apoyo, lo hacen de manera anónima, personal, pero sí ha habido muchas donaciones, apoyos, se entregan de manera directa a los damnificados y en otros casos se entregan a la Secretaría de la Defensa, a Marina, a la Coordinación de Protección Civil.</p>
+<p>Y que tenga la gente la seguridad absoluta de que no es el tiempo de antes, en que se traficaba con los donativos, porque había un ambiente contaminado de corrupción. Bueno, había desde el gobierno una institución, ahora me voy a acordar, que todavía la añoran los corruptos.</p>
+<p><strong>INTERVENCIÓN: </strong>El Fonden.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> El Fonden. Era un barril sin fondo. Estaban esperando tragedias, creo que dependía de Gobernación y había un grupo selecto de proveedores en espera de tragedias por temblores, por huracanes, por cualquier calamidad, para vender láminas de zinc, para vender colchonetas, de todo, a precios elevadísimos, porque como se trataba de emergencias no se licitaba nada, se compraba todo sin licitación al doble, al triple, hacían su agosto. Eso se terminó, eso no existe, y no se permite la corrupción. No somos iguales, pues.</p>
+<p>Es como lo del pago de impuestos, que antes algunos decían: ‘¿Cómo voy a pagar impuestos, si se lo roban?’ Pues no, ahora esas contribuciones se utilizan para el desarrollo del país, no se permite que nadie se robe el dinero del presupuesto. Y se está haciendo un gobierno austero, no hay un gobierno con lujos, ya no es el tiempo en que los funcionarios, que no servidores públicos, se dedicaban a vivir colmados de atenciones, de privilegios, ahora es distinto completamente.</p>
+<p>Entonces, qué bien que estas asociaciones están aportando.</p>
+<p>Yo quiero también comentarles que en el caso de Acapulco hay un plan de reconstrucción que se viene aplicando de acuerdo a lo establecido. Por ejemplo, dijimos: del día 29 al día 7, mañana, vamos a entregar a todos los damnificados en sus hogares o en centros de distribución de recursos sus apoyos para la limpieza de todos los hogares. Muchos ya se adelantaron, ya limpiaron, pero están recibiendo su apoyo y ya están utilizando ese apoyo para empezar a adquirir materiales para la reconstrucción.</p>
+<p>Y el día 8 comienza la entrega ya de los apoyos para la reconstrucción de sus viviendas. O sea, primero es la limpieza y luego son dos entregas de dinero en el efectivo para la rehabilitación, reconstrucción de sus casas.</p>
+<p>Entonces, terminamos mañana 7 y comienza ya la entrega de recursos.</p>
+<p>Me mandó Ariadna lo que llevan hasta ayer, el corte de ayer, sobre la entrega de limpieza; no ha habido ningún problema. Además, como todo es de manera directa, no hay intermediarios, no hay ningún problema. Son los que inventan esto de que están vendiendo materiales más baratos, los coyotes, que ya no pueden porque ya se terminó todo eso de que les daba el dinero a las organizaciones y las organizaciones no entregaban el apoyo a la gente, ahora todo es directo.</p>
+<p>A ver si tiene Ariadna el informe. De modo que vamos a continuar, debemos de llevar entregados, nada más para la limpieza de las viviendas, como mil 500 millones de pesos hasta ayer, aproximadamente, no sé exactamente el monto. Pero vamos a seguir.</p>
+<p>Y hoy voy para allá en la tarde para la evaluación de la búsqueda de los desaparecidos, el trato a los familiares de los que perdieron la vida; lo que tiene que ver con el reparto de despensas, de las canastas básicas.</p>
+<p>Aquí aprovecho para agradecerle a Francisco y transmitirles a los dueños de las tiendas nuestro agradecimiento porque han mantenido los precios bajos las grandes tiendas: Walmart, Comercial Mexicana, Chedraui, Soriana, otras que no me acuerdo. Pero miren, ya son 190 mil apoyos entregados y un cobro promedio del 97 por ciento, o sea, casi todos llegan a los módulos, ahí sí es una inversión hasta ahora de mil 480 pesos.</p>
+<p>El operativo de pago transcurre en calma, bajo la programación establecida, de acuerdo a los apellidos, a las letras de los apellidos, día, hora y Módulo de Bienestar. La población ha respetado el orden establecido, con la gente no hay problema, es mucho pueblo para tan pocos dirigentes, dirigentes sin convicciones, sin principios, muy oportunistas, sin ética, falsos, pero la gente es lo mejor. El pueblo es el motor del cambio. Pueblo, pueblo, pueblo.</p>
+<p>Bueno, así vamos.</p>
+<p><strong>INTERLOCUTOR: </strong>Sí, presidente.</p>
+<p>No me presenté, soy su servidor Carlos Pozos, de la página web Lord Molécula Oficial y en YouTube Lord Molécula Oficial.</p>
+<p>Presidente, mi segundo planteamiento tiene que ver con el Corredor Multimodal Interoceánico que va a convertir a nuestra nación en la nueva fábrica del continente americano. El Corredor del Istmo será por donde Estados Unidos pueda equilibrar su balanza comercial, según la proyección del ingeniero Marcos Theurel Cotero, es el autor del libro El Corredor Interoceánico hoy. Nos muestra cifras muy importantes o muy interesantes, en donde dice que el Corredor Multimodal Interoceánico pondrá a nuestra nación con el acceso al 80 por ciento del mercado global de mercancías y se brindará un ahorro de cuatro mil kilómetros por viaje y mayores utilidades para las empresas navieras entre un ocho y un 15 por ciento anual, esto es un detonador para nuestro país.</p>
+<p>La pregunta sería, presidente: ¿considera usted que los proyectos de infraestructura de su administración —el Aeropuerto Internacional ‘Felipe Ángeles’, el Tren Maya, la refinería Olmeca y el Corredor Multimodal Interoceánico— son las obras que permitirán integrar a la economía social al sureste mexicano? Pero,sobre todo, que ha sido siempre marginado, pero sobre todo estas obras les dan a los mexicanos el sentido de identidad nacional.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí, bueno, yo creo que se está empezando a pagar una deuda con el sursureste, porque se marginó esta región del país durante muchos años. Es una región que tiene muchos recursos naturales, es donde está el agua, en el sursureste está el 70 por ciento del agua del país; es donde está el petróleo, donde está el gas y, a pesar de las riquezas naturales, también de las bellezas de sus playas, tanto del golfo como el Caribe, el Pacífico, su cultura, ahí floreció la gran civilización maya, la nación maya, que es algo espléndido, bueno, a pesar de eso era una zona rezagada, abandonada y con mucha pobreza. Era una paradoja: una región rica con pueblo pobre, una contradicción.</p>
+<p>Y aportaba mucho al desarrollo de la nación, pues nada más imagínense lo que significó históricamente la venta de petróleo al extranjero que se utilizaba para contar con presupuesto público que llegaba a todo el país; sin embargo, no regresaba lo suficiente, no se reponía el sureste.</p>
+<p>Ahora es distinto, ahora hay más inversión pública y está renaciendo el sureste, hay crecimiento económico. Y sí va a tener mucho futuro el sursureste. Es cosa nada más de pensar que durante 30 años o más, desde los años 70 que empezó el desarrollo de Cancún, allá en esa punta de la península, empezó el crecimiento económico, tasas de crecimiento del 10, del 12 por ciento anual, pero era como un lunar, un islote de crecimiento rodeado de abandonado todo el sureste.</p>
+<p>Incluso el mismo Quintana Roo, el crecimiento era en el norte de Quintana Roo, pero en el sur de Quintana Roo pobreza, abandono. Lo mismo Yucatán, Campeche, Tabasco, Chiapas, Oaxaca. Al grado de que durante el periodo neoliberal mucha gente se fue a vivir a Quintana Roo. Por eso la gente originaria de Quintana Roo ha sido muy solidaria, porque le permitió en momentos difíciles a muchos irse a buscar la vida allá a Cancún, luego la Riviera Maya.</p>
+<p>Y ahora se está desarrollando toda la región.</p>
+<p>¿Qué va a significar esto?</p>
+<p>Que, desde luego, se mantiene el agua, todavía por algún tiempo el petróleo, el gas, pero se está impulsando para el futuro, para las nuevas generaciones, la actividad turística, con nuestras riquezas arqueológicas excepcionales, con la selva, con la flora, la fauna nativa, única, es el paraíso, es todo un paraíso; entonces, eso va a atraer a muchos visitantes y esa actividad va a ayudar mucho para la creación de los empleos, para el bienestar de la gente. Entonces, ya no sólo va a ser el petróleo, sino el turismo.</p>
+<p>Hay países de Europa que viven básicamente del turismo. Toda esa región va a ser para el disfrute de la naturaleza, de mar Caribe, Bacalar, la Laguna de los Siete Colores, bueno, tantos lugares bellísimos: Xelhá, Calakmul, la ciudad de Campeche, es una de las ciudades más bellas de México, amurallada; Mérida, Chichén Itzá, Palenque, la zona arqueológica de Palenque es una joya.</p>
+<p>Antes de irse a Cuba con Fidel Castro en el Granma, ‘el Che’ Guevara hizo un viaje a la península y a Palenque, y estuvo en Palenque. Y escribió un poema, ahí se los dejo de tarea que lo busquen, sobre Palenque, pero le llamaba ‘el Joyal’ de América. Entonces, todo eso lo tenemos todo eso lo tenemos.</p>
+<p>Bueno, con toda esta infraestructura que se está impulsando, pues se les va a garantizar a mucha gente el que pueda tener oportunidades de trabajo, de bienestar.</p>
+<p>Y, luego, en efecto, el istmo, que cuando Porfirio Díaz construyó el Ferrocarril del Istmo y los puertos de Coatzacoalcos y de Salina Cruz para unir los dos océanos, al mismo tiempo que se estaba construyendo el canal de Panamá, pues se terminó incluso el Tren del Istmo y los puertos antes de que atravesara el primer barco por el canal de Panamá; sin embargo, pues en ese entonces Asia no tenía el desarrollo de ahora y bastaba con el canal de Panamá, y por eso no tuvo el éxito deseado el desarrollo del istmo, la construcción de los puertos, el ferrocarril.</p>
+<p>Pero ahora son otras circunstancias, el Pacífico ha crecido muchísimo, Asia. Durante siglos el puerto del Atlántico, del golfo más importante fue Veracruz, siempre, y ahora resulta que tiene más movimiento de contenedores, de mercancías, Manzanillo, en el Pacífico que Veracruz.</p>
+<p>De modo que el proyecto del istmo… Además, han tenido algunas dificultades nuestros hermanos panameños, que les deseamos que les vaya muy bien porque les ha costado mucho recuperar la soberanía del canal y la soberanía de Panamá, porque imagínense ustedes que se creó el nuevo país, Panamá, por el canal, porque era de interés, sobre todo para los estadounidenses, el canal.</p>
+<p>Panamá pertenecía a Colombia; se promueve la independencia, pero toda la franja del canal queda dependiendo de Estados Unidos. Es hasta que llega el general Torrijos y el expresidente Carter, que se logra un acuerdo para devolverle a Panamá su soberanía en toda la franja del canal, y ahora son los panameños los que, de manera libre, soberana, manejan el canal y eso les permite ingresos, es el principal ingreso de Panamá lo que obtienen por el paso de las embarcaciones.</p>
+<p>Sin embargo, por la falta de agua, el cambio climático, todo esto que está pasando, han tenido algunas dificultades que esperemos que se resuelvan.</p>
+<p>Desde que vino aquí el barón de Humboldt, ese científico alemán, decidió que eran tres los mejores pasos: era Panamá para unir los dos océanos, Panamá, Nicaragua y el istmo, nada más que se decidió por hacer el canal en Panamá.</p>
+<p>Incluso, hubo investigaciones —esto viene desde el inicio de la llegada de los españoles—, Carlos V le pidió a Cortés que investigara cómo encontrar un paso para unir a los océanos. Cortés estuvo explorando en lo que es ahora Salina Cruz y consideró que no había posibilidad, querían incluso utilizar ríos desde Coatzacoalcos para pasar hacia el Pacífico.</p>
+<p>Nosotros retomamos el proyecto, el antiguo proyecto del tren, de los puertos, rehabilitamos los puertos. Los dos, los hizo el contratista predilecto de Porfirio Díaz, Pearson, que era también dueño de la compañía petrolera El Águila; también fue el que hizo el puerto de Veracruz en la época de Porfirio Díaz, y desde luego el ferrocarril. Entonces, retomamos el proyecto, estamos modernizando los dos puertos, ya estamos por terminar la ampliación del puerto de Salina Cruz con un rompeolas —a ver si no lo pones el rompeolas— de más de mil metros para darle estabilidad al nuevo puerto que tiene un calado 24 metros de profundidad para embarcaciones muy grandes, va a ser uno de los mejores puertos del Pacífico.</p>
+<p>Y lo mismo en el caso de Coatzacoalcos.</p>
+<p>Y ya terminamos la vía del ferrocarril y vamos a inaugurar el día 22 de este mes, vamos a inaugurar el tren de pasajeros, como era antes, de Salina Cruz a Coatzacoalcos, están invitados; y también el tren de carga, los trenes de carga.</p>
+<p>Y ya también se licitaron los manejos, la administración de los puertos, nada más se cuidó que fuesen empresas mexicanas porque es un asunto de soberanía.</p>
+<p>Es una historia fantástica, es una historia llena de situaciones excepcionales: cuando la guerra de Reforma, los liberales ya habían llegado a un acuerdo con el gobierno de Estados Unidos, algo parecido a lo de Panamá con el Tratado McLane-Ocampo, para dar en concesión todo el corredor a cambio de una renta, porque no había dinero para enfrentar el embate de los conservadores y de los extranjeros.</p>
+<p>Afortunadamente, porque este país está bendito, no lo aprobó el Tratado McLane-Ocampo el Senado estadounidense y nos liberamos de eso. De todas formas, tenemos que cuidar la soberanía. Y es una franja que tiene que ver con nuestra seguridad nacional, entonces por eso no puede ser un enclave extranjero y se puso como condición en las licitaciones que fuesen empresas mexicanas las que manejen los dos puertos, el ferrocarril desde luego también público, y los polos de desarrollo sólo en algunos casos, en uno de los seis que están ya comprometidos, uno es para una empresa de Dinamarca, danesa, que va a producir energías verdes, hidrógeno verde.</p>
+<p><strong>INTERVENCIÓN:</strong> ¿Cuál es?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Es un fondo de Dinamarca. Van a invertir alrededor de 10 mil millones de dólares en un polo de desarrollo.</p>
+<p>Pero, miren este es Salina Cruz. A ver si vemos el… Esto es lo que se está modernizando. Este es el antiguo puerto, es a la derecha.</p>
+<p>Es este, este rompeolas, que si se… Aquí está todavía en la etapa inicial, pero ya llegó al otro muelle y esto permite que las grandes embarcaciones lleguen aquí sin problema. Hay un calado suficiente de 24 metros.</p>
+<p>Y la producción del hidrógeno verde tiene que ver con dejar de utilizar combustibles fósiles para las embarcaciones, para los grandes barcos, y empezar a mover las embarcaciones con este hidrógeno verde como combustible. Y va a haber una parte aquí que va a ser como una terminal para la carga de ese combustible a barcos, ese es el proyecto hacia adelante, porque se debe saber que contaminan mucho los barcos en combustible y esto es lo que se va a evitar. Entonces, lo de este proyecto es muy importante.</p>
+<p>Y en los 300 kilómetros, imagínense, 300 kilómetros que unen dos océanos, no hay otra parte en el mundo. Estamos hablando de unir los dos océanos más grandes. Sólo el Pacífico es la tercera parte de la Tierra. A ver si pones el mapa de México.</p>
+<p>Entonces, tenemos una franja que nos permite esto. Al llegar las embarcaciones aquí con contenedores, está el tren de carga y en seis, ocho horas, están en Coatzacoalcos y de ahí a la costa este de Estados Unidos, toda Asia y la costa este de Estados Unidos.</p>
+<p>Nuestra relación económica-comercial con Estados Unidos la tenemos hacia el norte, toda la costa este.</p>
+<p>A ver, baja uno. No, bájale, para ver, a ver si alcanzamos a ver. Sí, esto, todo esto, es aquí, que es la parte más angosta de nuestro territorio, son 300 kilómetros. Entonces, esto es lo que vamos a inaugurar el 22.</p>
+<p>Y no sólo es esto, porque de aquí sigue la línea, estamos rehabilitando esta línea hasta Palenque.</p>
+<p>Y luego aquí viene ya el Maya, da la vuelta aquí y es esto, y luego hasta Guatemala. Son tres mil kilómetros de vías férreas con el puerto de Chiapas, Salina Cruz, Coatzacoalcos, hasta acá, Progreso y Seybaplaya, Campeche.</p>
+<p>Es toda una infraestructura para esto, porque toda la relación la tenemos acá y esto está virgen en comercio, eso lo sabe bien Francisco. Para el futuro eso es.</p>
+<p>Entonces, México es un país con muchas ventajas comparativas. Si cuidamos nuestros recursos naturales, si hay planeación, si cuidamos el agua, si el desarrollo es ordenado, que no destruya nuestro territorio, pues le vamos a dejar a nuestros hijos y a nuestros nietos pues un país con muchas posibilidades de crecimiento, de bienestar para seguir siendo felices viviendo en México, trabajando en México, soñando en México. Entonces, sí hay mucho futuro.</p>
+<p>Aquí está Panamá, ese es por aquí, el otro cruce y este otro.</p>
+<p>De países de Asia ya el tiempo para pasar a la costa este, va a ser mejor aquí que venir acá. Pero no le estamos compitiendo, ¿no?, a nuestros hermanos panameños, porque para todos, para todos alcanza.</p>
+<p><strong>INTERLOCUTOR</strong>: Finalmente, presidente, el 27 de enero de 2020 y el 6 de octubre del 2022, palabras más, palabras menos, usted dijo que analizaba realizar mañaneras los días sábados y domingos por considerar que los opositores provechan esos días para seguir sus campañas de manipulación y desinformación. Así dijo: ‘Si no nos alcanza el lunes a viernes para responder a las calumnias, habrá mañaneras sábados y domingos’.</p>
+<p>Presidente, se aproxima el 2024 y, ante la erupción de campañas negras por las elecciones del 2024, le pregunto: ¿será enero del 2024 el momento para iniciar las mañaneras los fines de semana?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no porque vamos bien, vamos muy bien, ya la gente está muy consciente.</p>
+<p>Miren, es que nos ayudan. Ahora que estaba Elizabeth en la sección de 'Quién es quién en las mentiras'… No sé si pones lo de Pemex, que el caricaturista este, nuestro adversario… Pero por cualquier cosa. No, pero imagínense esto, falsificar todo esto, todo. ¿Y en qué cabeza cabe? Dice:</p>
+<p>‘Por medio de la presente se les informa a todos los trabajadores petroleros de nuestra paraestatal, Petróleos Mexicanos, Pemex, que el pago del aguinaldo se verá reflejado hasta el día 23 de febrero del año 2024’ —sólo les faltó ponerle del año 2025—, con el fin de ayudar a los damnificados por el huracán Otis, mandando nuestra ayuda a todos nuestros hermanos de Acapulco’.</p>
+<p>O sea, los trabajadores petroleros, primero, ya recibieron la parte del aguilando que les corresponde o están por recibirlo. Pero si leen una cosa así, se produce una rebelión; además, con razón. Pero muy burdo. Entonces, el otro señor no ve nada de eso, es oponerse por oponerse.</p>
+<p><strong>PREGUNTA:</strong> ¿Fue una inocentada?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no, no, es que están muy molestos, muy molestos, muy molestos. Pero, entonces, no es para presumir, pero son ternuritas, o sea… Ojalá y le sigan así.</p>
+<p>Porque no hace falta afortunadamente, estar informando más; puede haber toda una campaña, pero son muy elementales.</p>
+<p>Y ellos nos ayudan. O sea, más adelante le vamos a mandar, porque no puede venir aquí, pero le vamos a mandar una condecoración a Claudio X. González hijo por todo su apoyo al movimiento de transformación. Y así vamos a premiar a otros que nos ayudan, que son promotores.</p>
+<p><strong>PREGUNTA:</strong> ¿Una estatuilla?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Un certificado o un collar por los servicios prestados a la transformación de México porque, la verdad, sí, sí ayudan, sí, sí, sí, nos ayudan bastante.</p>
+<p>Por eso siempre digo que no hay que ningunear o menospreciar el oficio de la política, es como el oficio del periodismo. Pongan ustedes a cualquier persona, incluso a un intelectual, un doctor, nivel de posgrado, a que hagan una nota como las que hacen ustedes, pónganlo: a ver, escribe una nota informativa; no van a poder, porque es un oficio el de ustedes, lo mismo es el oficio del político.</p>
+<p>Si Claudio X. González hijo fuese encargado de un corporativo empresarial, ya lo hubiesen corrido con esos resultados, si se hiciera el símil con lo aportado políticamente. Pero está mal para ellos, pero está muy bien para nosotros, así son las cosas. Entonces, sí vamos a hacerle su reconocimiento.</p>
+<p>Además, todos se han portado muy bien, Claudio, todos, todos, todos, y no sólo es por esto, sino porque el país va creciendo, no tenemos ingobernabilidad; esto que dijo aquí Francisco, de que no hay huelgas, miren, no se le impide a nadie manifestarse. Pero el país va muy bien, el hecho de que sea de los países con menos desempleo en el mundo, que tengamos fuentes de trabajo.</p>
+<p>Estamos avanzando, poco a poco porque no eran tamalitos de chipilín los problemas de inseguridad, de violencia, pero ahí vamos y yo espero que se mejore mucho más todo lo relacionado con seguridad.</p>
+<p>Hay una cosa que tenemos que estar repitiendo todos, todos, todos como disco rayado: hay que cuidar que no aumente, que no haya crecimiento en el consumo de droga, sobre todo de los químicos, ahí está la clave de todo, porque si aumenta el consumo ya es un problema muy grave de resolver, se convierte en una pandemia, una crisis profunda.</p>
+<p>Esto del consumo, por ejemplo, del fentanilo en Estados Unidos, es gravísimo, es grave, grave, grave. Estamos hablando de que de fentanilo y de otras sustancias químicas por eso, por ese consumo, pierden la vida 100 mil jóvenes cada año.</p>
+<p>Entonces, eso, enfrentar esa crisis sí no es fácil, porque eso tiene que ver con una descomposición social, eso tiene que ver con la soledad, tiene que ver con un vacío, tiene que ver con la falta de felicidad. De ahí la importancia de valorar mucho nuestras costumbres, la importancia de evitar la desintegración de las familias, todo esto que tenemos en México, cuidarlo, porque eso es lo que nos protege.</p>
+<p>Acaba de haber un problema lamentable en Guanajuato hace dos días de un asesinato de jóvenes, y tuvo que ver con consumo de droga, eso que se está combatiendo allá y que no queremos que se extienda. O sea, no hay consumo de droga en Oaxaca, no hay consumo de droga en Chiapas. Incluso existe consumo, pero no es un problema, o sea, no existe consumo de droga en Yucatán, no existe consumo de droga en Campeche, pero incluso en Sinaloa, en Jalisco, no hay ese consumo de droga; es tráfico, pero no hay consumo de químicos. El problema en Guanajuato es que por razones que deben de seguirse analizando creció el consumo en jóvenes.</p>
+<p>Y fíjense que estamos hablando no de todo Guanajuato, sino del corredor industrial. Pero con todo lo que se pueda decir de Zacatecas o de Michoacán o de Jalisco, no es lo mismo, porque no tienen el consumo que hay en Guanajuato; ya ni hablamos de Querétaro, no hay consumo. O sea, sí hay, pero mínimo, nada.</p>
+<p>¿Cuántos pierden la vida en México por sobredosis?</p>
+<p>Muy pocos, para los 100 mil que pierden la vida en Estados Unidos y jóvenes. Entonces, es muy claro.</p>
+<p>¿Cómo enfrentamos eso? ¿Cómo prevenimos hacia adelante?</p>
+<p>Bueno, fortaleciendo valores, atendiendo a los jóvenes, manteniendo la integridad en las familias. En la familia, en el sentido amplio, moderno, para que nadie vaya a pensar que estamos nosotros sólo pensando en la familia de antes, no, la familia tiene que ver con la fraternidad, que tiene que ver con la solidaridad. La familia es la principal institución de seguridad social en nuestro país.</p>
+<p>Así, con todo respeto y de manera fraterna, porque tenemos todos que ayudar, en el caso de Estados Unidos tienen que revisar ese modo de vida en donde los jóvenes apenas están en la adolescencia y ya se salen de la casa. ¿Y qué se les ofrece afuera?</p>
+<p>Es algo parecido al absurdo este de negar la posibilidad del estudio a quienes no tienen para pagar colegiatura.</p>
+<p>¿Por qué es un absurdo, una estupidez?</p>
+<p>Bueno, porque la escuela es como el segundo hogar. Si hay problemas en la casa, en la escuela, con los amigos, con los compañeros de estudio, con los maestros, se socializa y se encuentra apoyo, solidaridad, fraternidad. Pero si se vive solo, ¿a qué se recurre? A la droga, pensando que ahí se va a encontrar la felicidad, y eso es efímero, produce más infelicidad, eso no resuelve nada, es un callejón sin salida y causa la muerte por la adicción ahora de estas drogas. A los seis meses pierden la vida los jóvenes, es una situación gravísima.</p>
+<p>Entonces, nosotros tenemos algo. Por eso somos potencia, porque tenemos una gran reserva de valores culturales, morales, espirituales, en ese sentido somos potencia en el mundo, eso es lo que nos salva, nuestras culturas nos han salvado siempre.</p>
+<p>Entonces, hay que estar insistiendo, no al consumo, ayudar en eso.</p>
+<p>Y no avergonzarnos de nuestro pasado, de nuestras tradiciones, de nuestras costumbres, de nuestras culturas, de nuestras lenguas. Acabo de estar en Oaxaca y hay creo que 16 lenguas que están vivas, pero hay una lengua que se está perdiendo de una etnia donde cuando fui hace 10 años en 2007, 2008, —más, entonces ya tiene más— que visité todos los pueblos, fuimos a unas comunidades y ya nada más habían 20 o 25 que hablaban la lengua de esa etnia, de esa cultura, ya iba a desaparecer.</p>
+<p>Y ahora que fui y pregunté, estábamos allá en la Sierra Mazateca, y me dijo Salomón Jara, el gobernador, que ya nada más quedaban cuatro que hablaban la lengua, los mayores. Entonces le dije: doble beca para los jóvenes y los cuatro ancianos maestros. Y el que tome clases y aprenda la lengua doble beca, porque nuestro pasado está lleno de valores.</p>
+<p>No nos trajeron la civilización, como nos han hecho creer, los europeos. No quiere decir que todo fue barbarie, pero ya nosotros teníamos de tiempo atrás culturas milenarias, sí, grandes civilizaciones.</p>
+<p>Y por eso el mexicano hasta ahora tiene una idiosincrasia excepcional, por eso somos una potencia. Vayan a Estados Unidos y pregunten quiénes son los mejores trabajadores de la construcción; los mexicanos, y precisamente mixtecos, y lo mismo, otomí, y los trabajadores de la construcción del Estado de México, de Hidalgo son excepcionales. Eso no lo tienen en otras partes.</p>
+<p>Entonces, cuidar eso, fortalecer nuestros valores, nuestros orígenes y hacer a un lado toda esa supuesta concepción de la civilización y de la modernidad, todo esto que se sintetiza en que le digan a alguien ‘naco’, que viene de ‘totonaco’, del desprecio de quienes construyeron Tajín nada más, pero para dominarnos, para someternos tenían que negar nuestro pasado.</p>
+<p>Eso no sólo se da en México, sino se da en todo el mundo: el que conquista, el que invade, el que coloniza, tiene que negar o tiene que buscar una justificación para llevar a cabo lo que está en el fondo.</p>
+<p>¿Qué es lo que está en el fondo?</p>
+<p>El despojo.</p>
+<p>¿Para qué vinieron los europeos?</p>
+<p>Para buscar oro.</p>
+<p>¿Dónde se lleva a cabo la primera fiebre de oro?</p>
+<p>Pues aquí.</p>
+<p>¿Cómo se justifica eso?</p>
+<p>Hablando de que vienen a civilizarnos porque nosotros éramos unos bárbaros.</p>
+<p>Y tenemos que tomar en cuenta que fue, que somos herederos de un pasado glorioso, de culturas extraordinarias, porque eso es lo que nos mantiene, eso es lo que nos protege.</p>
+<p>El ejemplo este que les estoy poniendo sobre lo del consumo de la droga, ¿es el gobierno el que ha mantenido a raya lo del consumo masivo de droga en México? No; ¿son las organizaciones sociales?No. Es las culturas en nuestras familias, en nuestros pueblos, porque existen estos valores, se mantienen, y eso hay que conservarlo, no olvidar.</p>
+<p>Porque imagínense si a nosotros nos azota una pandemia de consumo de droga en nuestros jóvenes, ¿cómo le hacemos?</p>
+<p>¿Qué viene asociado con el consumo de la droga?</p>
+<p>Pues el comercio, la venta.</p>
+<p>Estos muchachos que asesinaron hace dos días en Guanajuato fue por el consumo, porque le fueron a comprar a alguien que estaba vendiendo droga en un territorio que pertenecía a otra banda. Entonces, evitar eso, evitar eso, y eso sólo con amor, con atención a los jóvenes, con apapacho. Que los jóvenes tengan posibilidad de trabajo, tengan posibilidad de estudio, que no se sientan solos, que no haya vacíos, que puedan ser felices sin la droga, eso es importantísimo.</p>
+<p><strong>PREGUNTA</strong>: ¿Y de la marcha de los que piden justicia y que no se victimizara a los jóvenes allá en Guanajuato, de estos cinco jóvenes?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, sí. No, los familiares están expresándose, manifestándose, pero yo creo que hay que ir al fondo, siempre hay que ir a las causas y hay que ver qué sucedió ahí, porque esto no es nuevo.</p>
+<p><strong>INTERLOCUTORA: </strong>(Inaudible) con el consumo de drogas.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Ayer estuvo aquí el gobernador hablando con la secretaria de Seguridad Pública.</p>
+<p><strong>PREGUNTA:</strong> Pero ¿qué fue lo que pasó?, ¿qué información tiene?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Pues lo que sucedió es que jóvenes estudiantes, incluso de medicina, fueron a una fiesta a Querétaro y de regreso pasaron creo que…</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA</strong>: A Juriquilla y luego…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí, se fueron a Querétaro y luego se fueron a Villagrán. Y en algún lugar de estos pasaron —esto es todavía hipotético, todavía no se tiene toda la investigación, se está investigando, pasaron a algún lugar, supuestamente para la adquisición de droga, y ahí los asesinaron. Y hay que ver eso a fondo.</p>
+<p>Y también cómo fue que en esta región del país creció el consumo, porque no está así en Aguascalientes, no está así en Querétaro, no está así en Culiacán, no está así en Guadalajara, y menos en Mérida, y menos en Oaxaca, y menos en Tuxtla. O sea, es un asunto que tiene que ver con el consumo. Y por eso donde tenemos más problemas de consumo es donde hay más homicidios, están relacionados; a mayor consumo, más homicidio.</p>
+<p>Lo de Guanajuato, de homicidios tiene que ver con eso, ese enfrentamiento de bandas, por la venta de la droga.</p>
+<p><strong>PREGUNTA:</strong> Hace meses comentó que incluso se estaba haciendo un estudio, que las autoridades de la Secretaría de Seguridad estaban levantando una investigación al respecto del consumo, de bandas. Y, de hecho, anunció que iba a presentar los resultados.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>INTERLOCUTOR: </strong>¿Cuándo sería? Porque por lo que usted está planteando suena que está relacionado, ¿no?, a este estudio.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, sí, estamos trabajando en eso, yo creo que pronto vamos a tener ya toda la información.</p>
+<p>Y esto hay que difundirlo. Son pocos lugares, afortunadamente. Tenemos algo de esto, se estaba dando en Obregón, en Sonora; por razones de cercanía con Estados Unidos, en Juárez, Tijuana, en Reynosa, pero tampoco mucho en Tamaulipas, ¿eh?, de consumo. Es que son cosas distintas, una cosa es el narcotráfico y otras actividades delictivas y otra cosa es que se consuma la droga. Por ejemplo, sí hay en algunos centros turísticos, porque llegan algunos a drogarse y ahí se vende.</p>
+<p>Pero todo esto tiene que ser parte de una campaña de información constante, permanente, en las familias, los jóvenes, un poco lo que se hizo con los vapeadores, de que se prohíben y, sin embargo, se siguen vendiendo. Son muchos intereses, pero pues tenemos que continuar con la campaña en contra de las drogas.</p>
+<p>¿Cómo vamos con eso, Jesús? ¿Sí sigue en la radio, en la televisión?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS</strong>: Es permanente, y ya tenemos un reguetón y van a salir en enero los próximos productos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, eso no dejarlo.</p>
+<p>Y hasta me quiero reunir con los dueños de los medios de información, porque es que eso sí, a lo mejor llegamos a un acuerdo en eso. Es muy importante fortalecer la campaña, porque eso no va a proteger, todo lo preventivo.</p>
+<p><strong>PREGUNTA:</strong> (Inaudible) pertenece a bandas.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, hay lugares en donde hay grupos; constantemente se está deteniendo y se les está combatiendo, porque no hay impunidad, pero existen.</p>
+<p>Y es, regresando al ejemplo de Estados Unidos, pues claro que existe quien distribuye y también combaten, pero sigue insistiendo y hay que seguir adelante. Pero lo mejor, lo mejor de todo es que no haya consumidores, lo mejor es alcanzar una sociedad mejor, eso es lo mejor. Eso puede ser utópico, puede ser un ideal, pero hacia allá tenemos que ir, y esto tiene que ver con valores, y tiene que ver con reconocer que había de manera deliberada un fomento al clasismo, al racismo, al individualismo, a la búsqueda de lo material, del lujo barato, al consumismo y eso no lleva a nada bueno.</p>
+<p>La felicidad es estar bien con uno mismo, estar bien con nuestra conciencia y estar bien con el prójimo. Valores. No es triunfar a toda costa, mintiendo, robando sin escrúpulos morales. Eso es lo que se tiene que seguir atendiendo, una nueva corriente de pensamiento, auspiciarla, porque eso es lo que nos protege.</p>
+<p>¿Qué más nos ha protegido en México? ¿Cuál es nuestro blindaje?</p>
+<p>Nuestro pasado, nuestras culturas, es lo que nos ha sacado adelante frente a cualquier tipo de calamidades; ahora mismo. Díganme si no es por nuestras culturas en México que no tenemos el consumo de droga que se tienen en Estados Unidos, díganme. Para los que se creen, ¿no?, de sangre azul, que se dan ínfulas de superioridad, racistas, pues eso es lo que nos ha salvado.</p>
+<p>Ya voy a terminar mi libro nuevo. No les va a gustar algunas cosas a algunos, pero estoy hablando de esto, de dónde vino la corrupción, de dónde vino la codicia, de dónde se fomentó el individualismo. Está interesante, son buenos temas.</p>
+<p>Vámonos a desayunar ya.</p>
+<p><strong>PREGUNTA: </strong>Sobre los resultados de la prueba PISA, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues ya los vieron. Nosotros no los tomamos en cuenta porque pues todos esos parámetros se crearon en la época del neoliberalismo, del predominio del periodo neoliberal, en donde lo que querían era impulsar supuestamente la calidad de la enseñanza, la excelencia, y desaparecer la educación pública, degradándola. Nunca en la historia de México se había ofendido tanto a los maestros como en el periodo neoliberal, a nuestros maestros, nunca. Y esas pruebas son parte de lo mismo, es como si yo tomara en cuenta una opinión del Fondo Monetario Internacional o una encuesta de…</p>
+<p><strong>INTERVENCIÓN:</strong> GEA-ISA.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> De GEA-ISA, ándale, gracias por la ayuda. O una editorial del Reforma, o leyera yo un libro de Martín Moreno. Zafo.</p>
+<p>Vámonos.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>11.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/11-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=164522' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F11-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F11-08-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2ss2q-f-673177161-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c06934","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":43856,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726581","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==tjs5E3it9BHW8nnY9jOxN/juIopJRKeFMi/w94TO35TDUKMbltgG/KpUOGzRJNcw1jhYnatzF2G0sIa43Q8QKLk4WCEv420rb0C3SVHaG6RT5Shevkyp/2KWO7SxBy8MmHjOYb5pPUJPazr2cnKKyCSfD0MtPu6zkcj3dD6Hby2MY7DNL/5M8ieRt9Js+UTVxjko6HfQFZiXje41yp2J9miBk/m0VJfu51ldktPG9TG0zgpuQG91ZO5/WU/zUNwz13D/bw6bJYNqwZ737e9MomrXYsWDj+EStD/5Fc30ShGZ8P2W1Y5NonN7giEX8eA/yykMl+QDTMj+xyW8GfWpAQ4Ym2szkNiH3p6W9aRRh9ikoGGiqY8578BxPskoB61U31vRMFH8gNSS0JkMpCdoEaYhaTzJa/JlQaqknzO8MxU=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-164522 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba933117154" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>11.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 11.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-164522" class="post-164522 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/08/2023-08-11-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/08/2023-08-11-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01-745x450.jpg" alt="11.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">11.08.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/00oA8ouNd0H18dTqULfZJZ?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Buenos días. Ánimo.</p>
+<p class="p1">Bueno, vamos a iniciar la conferencia de este viernes. Hay, desde luego, una muy buena noticia que se complementa con la información que dio a conocer el Inegi sobre los ingresos de las familias mexicanas, de cómo han ido mejorando los ingresos, en especial para la gente pobre, lo cual demuestra que ha funcionado nuestra estrategia, que se puede resumir en una frase: por el bien de todos, primero los pobres.</p>
+<p class="p1">Y hay menos pobreza y menos desigualdad en nuestro país, esto es un gran logro, creo que ese es el objetivo principal de cualquier gobierno: lograr la justicia y la felicidad del pueblo. Y por eso estoy muy contento.</p>
+<p class="p1">Y ayer el Coneval, que fue creado con ese propósito, también reafirmó que ha habido una disminución de la pobreza y de la desigualdad, de manera histórica, en el tiempo que llevamos en el gobierno.</p>
+<p class="p1">Esto no nos lo van a poder quitar, esta alegría que nos produce el que haya menos pobres en el país. Eso sí me llena de orgullo.</p>
+<p class="p1">Y aquí están los datos de ayer, del Coneval. Miren cómo se redujo la pobreza.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/08/Conferencia-matutina_2023-08-11.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/C5_xpAICup8?t=784" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p class="p1">Desde el 84, 1984, el reporte, yo me imagino que es el registro. Miren, 2004, el porcentaje de la población en pobreza, es decir, de todos los mexicanos, en 2004 era del 47 por ciento, esto es el gobierno de Fox; con Calderón, 46.1 por ciento; este es con Peña Nieto, 43.2; y este es con nosotros, hasta el 22, 36.3. Miren esto, 10 por ciento menos de pobreza en comparación con los gobiernos panistas. Ofrezco disculpas por el enojo que les va a causar a los conservadores.</p>
+<p class="p1">Y esto es en millones de personas, eran 49 millones con Fox, en pobreza; 52.8 con Calderón, 52.2 millones con Peña y 46.8 con nosotros. Esto es porcentaje de la población y este es el número de habitantes en pobreza, y yo estoy seguro que en el informe 2024 esto va a estar más abajo y también la población.</p>
+<p class="p1">A ver si tienes otra. Esta es importantísima, diferencia salarial entre los más ricos y los más pobres. Eran 23 veces más con Fox, que tenían los ricos 23 veces más que los pobres; miren con Calderón, 25.6 veces más, esto yo creo que es muy parecido a lo que sucedía con Salinas, que había una monstruosa desigualdad, para esto se robaron la Presidencia; esto es con el gobierno del licenciado Peña Nieto, 21 veces más, y ahora 15 veces más. Lo mismo, aquí casi 10 por ciento y aquí casi… Bueno, 20 por ciento de disminución.</p>
+<p class="p1">Bueno, esto era lo que queríamos mostrarles. La encuesta tiene otras informaciones, todas realmente favorables, vamos avanzando.</p>
+<p class="p1"><b>PREGUNTA:</b> En salud.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, en el caso de salud hay una disminución, pero tiene que ver con la pregunta que se hizo y con el hecho de que tenían apuntados a todos con credencial, con el llamado Seguro Popular, que ni era seguro ni era popular. Entonces, como ya no están esas credenciales, la gente, cuando les preguntaron, dijeron: ‘No, pues no tenemos Seguro’, porque ya ahora es atención médica gratuita y ya no se necesita ningún tipo de seguro, pero ahí va a ir poco a poco entendiéndose.</p>
+<p class="p1">El compromiso que tenemos en materia de salud es que antes de que termine mi mandato vamos a tener un sistema de salud de los mejores del mundo, se va a garantizar el derecho a la salud.</p>
+<p class="p1">Estos son otros datos. Pero, bueno, también en alimentación, que eso me llena de satisfacción, hay menos hambre. Y así como baja la pobreza, ahora la gente tiene más alimentos que antes, pero considerablemente más.</p>
+<p class="p1">Si puedes poner lo de alimentación, la llamada seguridad alimentaria, 5.1 millones de personas tienen mejor alimentación y aumenta la seguridad alimentaria, que pasó de 57.8 a 66.1, seguridad alimentaria. Esto, sólo del 22, perdón, del 20 al 22, 11.9 millones de personas; pero si llevamos atrás, el incremento es notorio, casi 20 por ciento de más seguridad alimentaria.</p>
+<p class="p1"><b>PREGUNTA:</b> ¿Qué hacer con la pobreza extrema, presidente?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Y también bajó la pobreza extrema, poco, pero bajó.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> De 7.0 a 7.1 por ciento, según los datos</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No. A ver, pon pobreza extrema, a ver. ¿Dónde está? Hay que tener mucho cuidado.</p>
+<p class="p1">¿De qué periódico eres tú?</p>
+<p class="p2"><b>INTERLOCUTOR:</b> De<i> La Jornada.</i> Aquí traemos que bajó, pero no tienen…</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Poco, pero bajó.</p>
+<p class="p1">Es que andan… Nada más que… Casi los estoy recentando diario, tengan para que aprendan.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> ¿Realizar más acciones, presidente? ¿O cómo hacer para reducirla?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No, ahí vamos. Es que estamos saliendo, En 22 todavía teníamos los efectos de la pandemia, si por eso es extraordinario este resultado.</p>
+<p class="p1">En el 24 vamos a estar mejor, nada más que la encuesta del 24 se da a conocer en el 25. Tengan cuidado ustedes, ¿eh?, ustedes, del periódico <i>La Jornada</i> son lo mejor que hay en la prensa de este país, es el mejor periódico de México desde hace mucho tiempo, es el periódico que está más cercano a la gente, que defiende las causas del pueblo, que tiene periodistas no sólo profesionales, sino comprometidos con las causas populares, nada que ver con los periodistas, con todo respeto, del <i>Reforma</i>.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> El dato que traemos, presidente, compara 2018 a 2021, y ahí sí incrementa 0.1 por ciento, y el que presentó usted es de 2022 a…</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, es este, es 16, 18, 20, 22. Ahí están los porcentajes, total de pobreza. Y es el efecto, también, de la pandemia.</p>
+<p class="p1">Muy bien. Adelante.</p>
+<p class="p1"><b>PREGUNTA:</b> Gracias. Buenos días, presidente.</p>
+<p class="p1">Gustavo García, de <i>Comunicante MX</i>, somos un medio de Tijuana.</p>
+<p class="p1">Presidente, el día de ayer en la oposición ocurrió un foro, el famoso foro, que tal parece que fue un debate. Si bien, los cuatro aspirantes que pasaron a esta final de la oposición, hubo una declaración que llamó mucho la atención, que fue Enrique de la Madrid, uno de los aspirantes, que había mantenido bajo perfil, pero ayer decidió que iba a ser retórico contra su gobierno, y él mencionó que México ha vivido dos virus: el virus del COVID, que lamentablemente les quitó a miles de mexicanos; y el virus de la 4T, y él específicamente dijo que ese virus le estaba haciendo daño a México y que la solución o la inyección para ese virus era justamente el Frente Amplio por México.</p>
+<p class="p1">Presidente, le quiero preguntar qué le merecen estas opiniones y esta declaración de Enrique de la Madrid, que aquí usted mismo había dicho que se había mantenido en ese bajo perfil.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Nada, nada, nada. Pues él no tiene que ver nada con lo que hizo su papá, pero él sí hizo cosas que yo considero inapropiadas, diría hasta inmorales, pero no voy a hablar.</p>
+<p class="p1">Que es normal, están en campaña. Ahora hay hasta divisiones en el bloque conservador y para qué me meto, no vaya a ser que los jueces…</p>
+<p class="p1">Ya me pusieron en la lista negra los del tribunal. Yo también los tengo ahí en mi listita, les tengo ahí en varias cuestiones de actitudes deshonestas, a los magistrados del Tribunal Electoral; la última fue esa resolución, en donde se atrevieron a modificar lo que expresé aquí en una mañanera, lo que dije lo tergiversaron. Entonces, sí los tengo apuntados en la lista, porque sí son muy falsarios y son jueces, magistrados, de consigna; pero, de todas maneras, no hay que tocarlos porque, si no, vienen las sanciones, las multas.</p>
+<p class="p1">No me han multado todavía, no me vayan a arruchar, no me vayan a poner una multa. Ahí le voy a pedir a la gente que me ayude, vamos a hacer una colecta si me multan.</p>
+<p class="p1">Adelante.</p>
+<p class="p1"><b>PREGUNTA:</b> La segunda pregunta, presidente, estas dos últimas semanas estuve visitando Centroamérica, estuve en Guatemala, específicamente Guatemala y El Salvador. Quise entender qué es lo que hay detrás de ese 91 por ciento de aprobación del presidente Nayib Bukele, y platicando con más de 100 personas que me encontré en ese recorrido me decían ellos que prácticamente el que él haya solucionado de tajo el tema de la inseguridad se dan por bien servidos.</p>
+<p class="p1">Si bien El Salvador tampoco es un país que tenga indicadores económicos arriba o arriba de la media de lo que ocurre aquí en México o en otros países, es un hecho que el tema de la seguridad impactó positivamente en la sociedad.</p>
+<p class="p1">Ayer, el presidente Bukele utilizó sus redes sociales, presidente, justamente sobre este tema, en Twitter. En Twitter utilizó un video de un desafortunado asesinato que ocurrió en León, Guanajuato, de una persona, de una mujer llamada Milagros, asesinada a quemarropa, y él decía en su tuit, palabras más-menos, una indirecta, de que esto iba para los gobiernos que defendían a delincuentes y que no estaban usando mano dura para este tipo de gente que estaba quitándole la vida a la sociedad en general.</p>
+<p class="p1">Presidente, yo le quiero preguntar: su estrategia de seguridad aquí en México, usted ha sido muy contundente: ‘abrazos, no balazos’, e incluso aquí hace un mes yo le pregunté que si había o iba a haber ajustes en su estrategia. Usted me comentó que el gabinete también le ha presentado propuestas, pero van a seguir sobre la misma línea.</p>
+<p class="p1">Ante estos cuestionamientos que existe del presidente Bukele y de los resultados que él está teniendo allá en El Salvador, presidente, ¿usted qué opinión tiene? ¿Esa es la estrategia que algún momento podría funcionar en México? ¿Son contextos distintos?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Son realidades distintas y también concepciones diferentes. Yo pienso que hay que atender las causas, no se trata sólo de aplicar medidas coercitivas. La paz duradera se consigue con justicia, y eso es lo que estamos nosotros llevando a la práctica. Y no quiero polemizar con el presidente de El Salvador, no.</p>
+<p class="p1">Nosotros vamos bien. A pesar de que heredamos una situación muy difícil, porque hubo un presidente que declaró la guerra al narcotráfico y apostó por enfrentar la violencia con la violencia, eso agravó la situación de inseguridad en el país y desde entonces se constituyeron grupos, bandas de delincuentes, nuevos cárteles, y cuando llegamos la violencia estaba en lo más alto, sobre todo los homicidios, y poco a poco hemos venido reduciendo los homicidios.</p>
+<p class="p1">A ver si ponemos la gráfica de cómo vamos, porque esto también ayuda bastante a contextualizar qué hemos hecho, si funciona, no funciona nuestra estrategia.</p>
+<p class="p1">¿Por qué funciona nuestra estrategia?</p>
+<p class="p1">Por lo que acabamos de ver hace un momento, porque la paz es producto de la justicia. Si la gente tiene trabajo, si hay buenos salarios, si se atiende a los jóvenes, si se combate la pobreza, si se combate la corrupción, se logra avanzar mucho. Y eso es lo que hemos hecho en el país, atender a los jóvenes, que haya bienestar, se han incrementado los salarios como nunca. México es de los países con menos desempleo en el mundo, la gente está contenta.</p>
+<p class="p1">Y, miren, así estamos. Pero, por qué no ponemos por gobiernos, así como vimos de cómo ha disminuido la desigualdad en este gobierno.</p>
+<p class="p1">Miren, los homicidios con Salinas, desde que llegó hasta que se fue aumentaron 9.2; con Zedillo disminuyeron los homicidios 31.2; ya con Fox aumentó el número de homicidios en 1.6; Calderón, que declaró la guerra, que optó por enfrentar el mal con el mal, casi 200 por ciento de aumento, y aquí había tortura, masacres. Aquí el secretario de Seguridad Pública protegía a uno de los cárteles y combatía a otros, por eso está en Estados Unidos recluido. Había una especie de narco-Estado, dominaban ellos hasta el aeropuerto de la Ciudad de México, los narcotraficantes.</p>
+<p class="p1">¿Y saben ustedes que el gobierno de Estados Unidos o las agencias de Estados Unidos encargadas de la aviación le mantenían al aeropuerto de la Ciudad de México la categoría 1, y ahora que nosotros administramos el aeropuerto de la ciudad nos bajaron de categoría?</p>
+<p class="p1">Cuando manejaban el aeropuerto los narcotraficantes, la agencia de Estados Unidos, encargada arbitrariamente… Porque no tienen por qué meterse en decisiones que corresponden a otros países, porque eso es injerencismo, porque ellos, los que califican, a ver, quién se porta bien, quién se porta mal… No hay gobierno mundial, cada país tiene su gobierno y somos libres. Bueno, pues esa agencia en el tiempo en que aplicaban operativos para… Creo que se llamaban operativos 21/40. ¿Cómo se llamaban los operativos, cuando Calderón, en el aeropuerto?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA:</b> 35/45.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> 35/45, todo mundo tenía que voltear a ver para otro lado y se callaban como una hora o más tiempo para bajar droga en el aeropuerto de la Ciudad de México y el aeropuerto. Repito, tenía categoría 1. Pero miren el resultado en homicidios.</p>
+<p class="p1">Luego, con el presidente Peña Nieto, 59 por ciento de incremento. Miren dónde lo agarramos, el último año, y con todo lo que implicaba la creación de bandas que se fueron formando, se fueron creando, se fueron constituyendo con tolerancia con la asociación delictuosa entre delincuencia y autoridades, incluso hasta con la tolerancia de las agencias extranjeras, supuestamente encargadas del combate al narcotráfico. Entonces, llegamos y detuvimos el incremento en homicidios y ya estamos logrando una disminución —nos ha costado muchísimo— porque no hay masacres, no se ejecuta a heridos, se respetan derechos humanos, no hay desaparecidos.</p>
+<p class="p1">Hay un índice de letalidad que mide bien cuando una autoridad utiliza la violencia, la fuerza bruta, para querer resolver el problema de la inseguridad y de la violencia, ese índice de letalidad lo van a ver ahora, a ver si lo ponemos. Miren, lo que mostraba, ese pico es Calderón.</p>
+<p class="p1">Y en los enfrentamientos entre Fuerzas Armadas o policías con la delincuencia, estas son las agresiones; esto es el 11, mil 76 agresiones. Pero miren los muertos en esos enfrentamientos y vean los heridos y detenidos, eran más los muertos que los heridos y detenidos.</p>
+<p class="p1">De por sí esto, el número de agresiones es muy alto porque los remataban, era ‘mátalos en caliente’. Esto no lo veían los de la ONU, de derechos humanos. Aquí hay un representante de la ONU que está en contra de nosotros, muy conservador, que en una de esas hasta nos recomendaría que aplicáramos esto. Bueno, una persona que aspira a ser presidente de México —no voy a hablar de género— del bloque conservador, acaba de declarar que va a aplicar esta política. Nada más que como ya no puedo hablar… Pero fíjense. ¡Cómo no voy a hablar de esto, si estamos hablando de asesinatos, estamos hablando de sufrimiento de mucha gente!</p>
+<p class="p1">Bueno, por acá estamos nosotros, siempre abajo, fallecidos. Aquí son los heridos, vean la diferencia, heridos y detenidos, y fallecidos.</p>
+<p class="p1">Bueno, cada quien tiene su propia concepción; yo sostengo que los seres humanos no nacemos malos, hay quienes piensan que hay personas que nacen con la maldad, yo sostengo que no, que son las circunstancias las que llevan a algunos a tomar el camino de las conductas antisociales, entonces hay que cambiar las circunstancias para que cambie esa realidad, y es lo que estamos haciendo.</p>
+<p class="p1">Pero te hablo de homicidios, te hablo del índice de letalidad, pero si vemos que eso nunca lo vas a leer en un periódico de México o escuchar en la radio o ver en la televisión….</p>
+<p class="p1">Te voy a mostrar otra cosa, el porcentaje de secuestros, cómo ha disminuido el número de secuestros. A ver, esto sería como para se reconociera; no, no, no. Miren. Y esto es de dominio público, la gente sí lo sabe porque se padecía mucho del secuestro en distintas regiones, en distintos estados del país, y eso ya no existe o es mínimo con relación a lo que sucedía.</p>
+<p class="p1">Había casos en donde los secuestraban y les pedían que firmaran —en la época de Calderón— que firmaran ante notario público la entrega de sus bienes, escrituras, para liberarlos, y lamentablemente también muchas muertes.</p>
+<p class="p1">Bueno, llegaron a secuestrar a Fernando Gutiérrez Barrios, que fue secretario de Gobernación; pero antes era el encargado de la seguridad nacional, lo fue durante muchos años, desde los años 50, él fue el que detuvo a Fidel Castro, al ‘Che’, antes de que se embarcaran en Tuxpan, en el yate ‘Granma’ para iniciar la revolución en cuba, él los detuvo, porque era el encargado de la inteligencia y de la seguridad del Estado. Y luego intervino el general Cárdenas y se decidió liberarlos. Luego se fue. Pero ya estaba Gutiérrez Barrios en eso y siguió hasta que llegó a ser secretario de Gobernación, y luego de eso lo secuestran y piden un rescate y tienen que pagar el rescate.</p>
+<p class="p1">Entonces, ¿cómo no se puede reconocer que estamos avanzando?</p>
+<p class="p1"><b>INTERLOCUTOR:</b> ¿Qué es lo que sí está funcionando este año, presidente? La gráfica que este año específico algo está funcionando, efectivamente, menos operativos, pero algo está funcionando.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Este año es bueno. Es que, miren, cuando nosotros planteamos que había que atender las causas, que era la forma más humana, más eficaz para enfrentar el flagelo de la violencia desde antes de que llegáramos a la Presidencia —yo he escrito sobre eso, he leído bastante sobre eso, lo que ha pasado en otros lugares del mundo—, siempre que hablábamos de atender las causas nos decían: ‘Sí —nos <i>daban el avión</i>—, sí, sí, sí, pero eso lleva mucho tiempo’. Nos emplazaban, nos decían: ‘Sí, pero pronto, pronto, pronto’, pues casi querían que optáramos por razias, por desapariciones y masacres, o sea, mano dura, porque hay esa mentalidad, sobre todo en el conservadurismo, son muy autoritarios.</p>
+<p class="p1">Entonces, nosotros decíamos: No le hace que tarde, pero esto es lo que va a resolver el problema de fondo, el que podamos atender a los jóvenes, que los jóvenes tengan oportunidades de estudio, oportunidades de trabajo, que no se desintegren las familias, que mantengamos valores, que no sea el lujo barato, lo material, lo que más importe en la vida.</p>
+<p class="p1">Afortunadamente, cuando se dan los cambios, nosotros no esperamos: desde el primer día nos metimos a ayudar a la gente más necesitada y a garantizar el bienestar, atender a los jóvenes, aumentar el salario. Entonces, eso lleva tiempo.</p>
+<p class="p1">Me preguntas: ‘¿Por qué ahora…?’ Ayer y antier… Pongan los datos, primero, el promedio de homicidios diarios que tenemos, y, en efecto, va bajando, ¿por qué? Porque coincide con el hecho que hay más oportunidades de trabajo, mejores salarios, menos pobreza, más atención a los pobres, a los jóvenes en especial, con estudio.</p>
+<p class="p1">¿En dónde? ¿En qué país del mundo se entregan 12 millones de becas a estudiantes de familias pobres? ¿En dónde?</p>
+<p class="p1">¿En qué país del mundo hay un programa en donde a los jóvenes que no están estudiando y que no tienen empleo se les contrata y se les da trabajo como aprendices y se les paga un salario mínimo? Que, dicho sea de paso, ya aumentó ese salario al doble, para que los jóvenes se formen y que no sean enganchados por las bandas de delincuentes. ¿En qué país del mundo? Pues eso está dando resultados.</p>
+<p class="p1">Se burlaban, ¿no?, lo de abrazos, no balazos; claro, los represores, los de mentalidad autoritaria. Sí es abrazos, no balazos, pero no cruzarse de brazos. Porque, a ver, ¿en qué país del mundo hay un presidente que todos los días, de lunes a viernes, tiene una reunión con el Gabinete de Seguridad de 6:00 a 7:00 de la mañana para recibir estos resultados, lo que sucedió en las últimas 24 horas?</p>
+<p class="p1">Hoy vine con ganas de presumir, de <i>tirar aceite</i>, ofrezco disculpas. Pero miren. Esto es ayer, ¿no? Pero antes —son 62 homicidios— antes, ¿por qué no pones lo del número de homicidios por año, para ver?</p>
+<p class="p1">Esto es ayer, pero también pon antier, por lo que ya percibiste, que a mí me da mucho gusto también, pero lo atribuyo… Miren, este fue antier, 56.</p>
+<p class="p1"><b>INTERVENCIÓN:</b> (Inaudible)</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Ahorita vas a ver.</p>
+<p class="p1">Esto puede subir porque estos son los datos que nosotros tenemos y luego el Inegi hace una revisión muy puntual con actas de defunción.</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>¿Promedio por año?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, promedio por año.</p>
+<p class="p1">Mira, 101, 100, 100; 101 en el 18, promedio diario; en el 19, 100; en el 20, 100; lo mismo. Nos costó, fue pura detención, contención. Empezó, pero muy poquito en el 21, 98; ya el 22, sí, 89, y ahora traemos en promedio 83, pero estamos hablando de ayer y de antier, 60, 50 o 50, 60.</p>
+<p class="p1">Entonces, yo calculo que el 17 por ciento se puede convertir en 25, cuando termine, de homicidio.</p>
+<p class="p1">Ahora, robo de vehículo o robo en general, robo en general ya estamos en 25 por ciento abajo, sí, robo total, y robo de vehículo más. Ahí vamos poco a poco.</p>
+<p class="p1">Y respeto mucho al presidente Bukele y no, no lo cuestiono en nada.</p>
+<p class="p1"><b>INTERVENCIÓN:</b> Por el tema del asesinato, presidente, de la joven de León (inaudible)</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, pero… También yo lo lamento muchísimo. Estamos buscando que estas cosas no sucedan y, si suceden, lamentablemente, asegurar que no hay impunidad, que se castiga.</p>
+<p class="p1">Acaba de haber un caso de un joven empresario que perdió la vida en un bar, creo que ya informó el gobierno de la ciudad. sí, informó que al parecer le pusieron algunas sustancias a las bebidas y ya hay detenciones. O sea, se actúa, es cero corrupción, cero impunidad sea quien sea, eso también ayuda mucho.</p>
+<p class="p1">Porque, imagínense, en los tiempos de Calderón, que le ponían uniformes de policía a los delincuentes. Y existe esa declaración, cuando estaban juzgando a García Luna, que le dijo un delincuente a su jefe:</p>
+<p class="p1">―¿Esto quiere decir ―cuando los estaban uniformando para enfrentar a otra banda, como si se tratara de policías― esto quiere decir que nosotros trabajamos para ellos, para la autoridad?</p>
+<p class="p1">―No, esto quiere decir que ellos trabajan para nosotros.</p>
+<p class="p1">O sea, totalmente penetrado, infiltrado el gobierno por la delincuencia.</p>
+<p class="p1"><b>PREGUNTA:</b> Qué tal, presidente, buen día. Carlos Guzmán, de <i>Cuatro Media Telecomunicaciones, AVA Noticias Veracruz</i>.</p>
+<p class="p1">Pues preguntarle el tema local de Veracruz. Ahorita que hablaba mi compañera Dalila de temas de mujeres, hay una teniente que se llama, se llamaba Gloria Cházaro, que fue muerta hace algunas semanas allá en Veracruz.</p>
+<p class="p1">¿Por qué viene a colación este tema?</p>
+<p class="p1">Uno, porque los grupos de feministas desgraciadamente no se han acercado a ella, no se ha hecho mucho ruido, su familia ha hecho mucho ruido en redes sociales. Ahorita que va a ir por Veracruz ojalá y pueda preguntar el tema, usted como comandante supremo de las Fuerzas Armadas. Pero nos llama la atención este caso.</p>
+<p class="p1">¿Por qué?</p>
+<p class="p1">El antecedente es que es la primer teniente en comandar un buque, la primer teniente a nivel mujeres, vaya. Era una persona que hacía muchos videos motivacionales para las mujeres que ingresaban a la Marina, porque era una institución, es una institución que les daba confianza, seguridad, pero desgraciadamente pasa este tema de que supuestamente su pareja la asesina.</p>
+<p class="p1">Su familia está reclamando que es un tema de feminicidio. Le reitero, no hay organizaciones feministas que se hayan acercado a ella, la familia está sola, está pidiéndome mediante redes sociales que intervenga, que averigüe qué pasó ahí.</p>
+<p class="p1">La fiscal del estado, en el caso de Veracruz, pues menciona que es un homicidio, siendo que los familiares alegan que es un feminicidio.</p>
+<p class="p1">Pues consultarle y pedirle a ver si puede usted, como comandante de las Fuerzas Armadas, pues averiguar este tema, presidente.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, lo hacemos, vamos a pedir información y aquí se da a conocer qué fue lo que sucedió y qué elementos hay, qué pruebas hay, para culpar a su esposo.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> A su pareja.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, a su pareja, y en qué se basó la autoridad para actuar. Y si no fue de esa manera, que aquí también nos den a conocer. Es más, el jueves… Perdón. Sí, el jueves.</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>El martes.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> ¿El martes no es salud? No, pero puede ser antes, antes informamos.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> El tema que le pide la familia su intervención es que presuntamente murió en una de esas casas que tienen los marinos para resguardarse, que están dentro de las zonas navales militares, ese es el tema; no es tanto que sea una persona no común, sino por ese tema:</p>
+<p class="p1">Uno, por el tema de que es una marina, bueno, es una integrante de la Secretaría de Marina.</p>
+<p class="p1">Dos, una mujer muy destacada en cuanto a la cuestión, que es la primera, le reitero, la primera mujer en comandar un buque. En México no se había dado que una mujer comandara un buque.</p>
+<p class="p1">Y la tercera, pues obviamente lo que está pidiendo la familia es que está sola, desesperada.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Lo hacemos, hacemos la investigación. Me voy a informar yo, voy a solicitar yo que me informen.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Sí. Y dos temas, finalmente, también de Veracruz, uno de Veracruz y otro de Yucatán, pero nos llega a Veracruz porque las ocho emisoras que cubren el estado, de <i>Avanradio,</i> pues tienen cobertura incluso hasta Coatzacoalcos. Nos llegaron dos casos: uno de ferrocarrileros, pero todavía no nos pasan los datos; y otro de delegado de la Secretaría de Bienestar en Yucatán, Joaquín Díaz Mena, que le dicen ‘Huacho’, nos dicen allá en la redacción de Xalapa si usted sabe de algunas acusaciones que se le hacen a esta persona de corrupción.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No, no. Pero hay que tener cuidado.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Sí, la cuestión política.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, porque ya vienen las elecciones en Yucatán y este delegado ya fue candidato a gobernador de Yucatán. Entonces, hay que ver de qué se trata, presentar pruebas.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Si sí es político o de verdad…</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, sí. Ahora que sí aplica el dicho que para mentir y comer pescado hay que tener mucho cuidado.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Y ya muy rápido, disculpe que le insista, pero a principios de año le comentaba el tema de la alerta sísmica. Nos comentaba que iba a haber un informe. Hubo un informe de Laura Velázquez, le agradezco mucho que haya informado, sobre el tema del <i>cell broadcast</i>. Le comentábamos de los amparos que metieron aplicaciones como Sky Alert, ya tengo los documentos, se los voy a hacer llegar vía Jesús o donde usted me diga, de cómo está el tema de los amparos que metieron esas dos empresas, son cinco empresas, pero básicamente es Sky Alert y otra que no recuerdo, sobre el tema de la alerta sísmica.</p>
+<p class="p1">Este informe de Protección Civil de la Ciudad de México, que comanda también… Ay, no me acuerdo, es una señora muy delgadita, se me olvida. Platiqué ya con ella del tema, pero sí me comenta que efectivamente Sky Alert y otras aplicaciones se han amparado para difundir el tema de la alerta sísmica.</p>
+<p class="p1">¿Por qué le reitero este tema?</p>
+<p class="p1">Es un tema que yo considero que puede ser, es de seguridad nacional, implica muchísimas personas. Le reitero, nada más en el Valle de México somos 20 personas, 20 millones, perdón, 20 millones; a nivel centro sur de México son muchísimas más. Incluso ayer hubo un sismo, ayer o antier, en Chiapas, que por desgracia no está dentro de la aplicación del Cires, de la alerta sísmica que usted conoce perfectamente bien, lo detecta la estación que está cerca de Oaxaca, que Oaxaca sí tiene el sistema.</p>
+<p class="p1">Pero sí sería pedirle que mediante estos documentos que le voy a hacer llegar, seguramente los tiene Laura Velázquez, los revise, los analice y finalmente se dé el tema del <i>cell</i> <i>broadcast</i>. Esta aplicación, le reitero, es para cualquier tipo de celular, no implica bajar ninguna app, es directamente en el celular, cuando hay una alerta se dispara automáticamente, eso es lo que los privados no quieren.</p>
+<p class="p1">Son temas, como el agua, como usted mencionaba, con la alimentación, que tienen que ser de seguridad nacional, yo considero así. Digo, con todo respeto le insisto el tema, que sí sería importante que usted lo tome y finalmente este sistema se pueda utilizar aquí en México. Que le reitero, no implica nada más alerta sísmica, puede implicar alerta por inundación y ya Secretaría de Marina ya tiene el centro listo, nada más están esperando justamente este tema y otras dependencias.</p>
+<p class="p1">Muchas gracias, señor presidente.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, Laura lo está planteando, lo estamos revisando en el Gabinete de Seguridad, pero vamos a tomar en cuenta lo que planteas.</p>
+<p class="p1">Muy bien, vamos contigo, te quedaste ayer, y luego tú y luego tú.</p>
+<p class="p1"><b>PREGUNTA:</b> Muy buenos días, presidente.</p>
+<p class="p1">Miguel Arzate, del <i>Sistema Público de Radiodifusión del Estado Mexicano</i>.</p>
+<p class="p1">Primero preguntarle, presidente, esta semana ocurrió un capítulo más en el caso de Israel Vallarta Cisneros, esta persona que fue detenida —seguramente lo tiene muy presente— y luego fue utilizado en este montaje de Genaro García Luna para intentar mostrar ante los medios que su función como funcionario público daba resultados deteniendo a bandas de secuestradores, se realizó un montaje, apareció él junto a esta ciudadana francesa, Florence Cassez.</p>
+<p class="p1">Y, bueno, esta semana un juez revisó nuevamente su situación jurídica. Recordemos que él lleva 17 años en prisión preventiva y se revisó si podía seguir su proceso de libertad o continuaba en prisión preventiva; finalmente, ayer se determinó que continúa su proceso en prisión preventiva.</p>
+<p class="p1">Israel Vallarta no solamente está señalado por el caso por el que supuestamente fue detenido, sino está señalado con otros delitos cometidos. En su momento la secretaria de Gobernación, Olga Sánchez Cordero, lo mencionó, está relacionado con otra comisión de delitos y por eso permanece en prisión.</p>
+<p class="p1">Presidente, preguntarle: ¿qué esperar de este caso? Se ha hablado mucho de Genaro García Luna, de cómo intentó manipular la opinión pública con este tipo de montajes, otro tipo de montajes que también hacía con su llamado <i>búnker</i>, donde sorprendía a periodistas.</p>
+<p class="p1">¿Qué esperar de este caso, presidente? ¿Podría Israel Vallarta continuar en prisión o su administración podría hacer algo para revisar este caso?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Lo estamos revisando. Ahora que el juez accedió a que se consultara de nuevo a las autoridades para que se concediera libertad condicionada, que fuese liberado y que el proceso lo continuara en su casa, la opinión de la Secretaría de Seguridad Pública, de la Guardia Nacional, fue en el sentido que se le liberara, esa fue nuestra opinión, fundamentalmente porque está demostrado que se le torturó, hay pruebas de que fue torturado. Pero no sólo eso, es que ya lleva muchísimos años sin sentencia. ¿Dónde está la justicia rápida y expedita? Sin embargo, como tú lo mencionas, volvieron otra vez a negar la posibilidad de que pueda llevar su proceso en libertad.</p>
+<p class="p1">Vamos nosotros a continuar con este tema, lo está viendo Rosa Icela Rodríguez. Pero sí estamos enterados. Lo vimos en una reunión del gabinete, nos pidieron opinión a todos y se decidió que se opinara de que merecía llevar su proceso en libertad.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> ¿Se podría aplicar una amnistía?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, pero no se puede aplicar una amnistía si no hay sentencia, sí, no existe sentencia. Y así hay muchos que deberían de ser liberados, sólo por ese hecho, en este caso 16 años, ¿no?</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Diecisiete.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Diecisiete. Y así hay otros casos, esa es una más de las deficiencias del Poder Judicial, de los sótanos del Poder Judicial.</p>
+<p class="p1"><b>INTERLOCUTOR:</b> Muy bien, presidente.</p>
+<p class="p1">Como segundo tema, presidente, mucho se ha expuesto sobre el rescate de los ferrocarriles de pasajeros con esta estrategia que se está realizando: está el Corredor del Istmo, que va a ser de carga, de pasajeros; el Tren Maya, el Tren Interurbano México-Toluca, en fin, varios proyectos de trenes que tiene esta administración.</p>
+<p class="p1">También se ha hablado de cómo se abandonó a la industria ferrocarrilera mexicana y cómo se vio afectada a partir de la privatización que ocurrió durante el gobierno de Ernesto Zedillo.</p>
+<p class="p1">Pero también hay un tema importante con los ferrocarriles en nuestro país, que fue previo al movimiento del 68, en 1958 hubo un movimiento de trabajadores ferrocarrileros que provocó la represión de líderes sindicales, de ese movimiento salieron líderes como Demetrio Vallejo, Valentín Campa.</p>
+<p class="p1">Preguntarle, presidente, ¿considera que el sistema ferrocarrilero empezó a ser abandonado? ¿Empezó a ser una punta que lastimaba al gobierno desde el movimiento del 58 y por ello se abandonó a los ferrocarriles?</p>
+<p class="p1">Regresar el ferrocarril de pasajeros sería una forma de dignificar, de ver la lucha que encabezaron Valentín Campa y Demetrio Vallejo en los 50; también su lucha fue por los trabajadores, pero el sistema ferroviario en ese momento, en los 50, era muy importante y desde ahí se empezó a abandonar. Si nos puede dar una reflexión, presidente.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, desde luego, hay una tradición de lucha del movimiento ferrocarrilero desde los orígenes, desde el gobierno de Francisco I. Madero. Porque aquí hemos comentado que el primer ferrocarril se construyó de la Ciudad de México a Veracruz, lo empezó el presidente Juárez, lo terminó el presidente Lerdo. Muere el presidente Juárez en 1872 y el ferrocarril se inaugura en 1873, el ferrocarril de la Ciudad de México a Veracruz es el primer ferrocarril.</p>
+<p class="p1">Y luego que toma el poder por la fuerza Porfirio Díaz, en 1876, se inicia la construcción de nuevas vías de ferrocarril, y se avanza mucho, porque se dan concesiones a empresas extranjeras para la construcción de vías férreas. Se les llamaba en ese entonces, a los subsidios, subvenciones; por cada kilómetro que construían el gobierno les daba una subvención, un dinero, por kilómetro.</p>
+<p class="p1">Entonces, se hicieron más de 20 mil kilómetros de vías férreas en el porfiriato. Claro, estamos hablando de 34 años, pero se comunicó todo el país con ferrocarriles. Por eso siempre recuerdo que la Revolución, como decía Adolfo Gilly, se hizo a caballo y en ferrocarril, estaba comunicado todo México; poblaciones que no existían, que eran muy pequeñitas, se volvieron grandes centros poblacionales. Torreón, por ejemplo, gracias al ferrocarril creció.</p>
+<p class="p1">Y así en el norte. Cananea, también vinculada con la minería y el ferrocarril se fueron creando y consolidando esas ciudades por el ferrocarril. Y después de la Revolución se siguieron haciendo vías férreas.</p>
+<p class="p1">Y llegan estos tecnócratas y desaparecen los ferrocarriles de pasajeros y entregan todas las vías férreas para ferrocarriles de carga a dos grandes empresas que se quedan en promedio con 10 mil kilómetros cada una, si no es que más, en concesiones. Pero esto lo hace Zedillo, antes se había llevado a cabo todo el movimiento ferrocarrilero.</p>
+<p class="p1">Bueno, cuando asesinan… Primero, cuando fallece en Nueva York, porque estaba en el exilio, nunca quiso regresar, durante el porfiriato, Sebastián Lerdo de Tejada, y lo traen, es en ferrocarril y el movimiento ferrocarrilero le hace un gran homenaje, los trabajadores ferrocarrileros de entonces.</p>
+<p class="p1">Es muy interesante porque, cuando Porfirio Díaz, las empresas extranjeras eran las que tenían los ferrocarriles y Porfirio Díaz y Limantour<i> </i>les compran todas las acciones, es el primer Fobaproa, compran las acciones de las empresas ferrocarrileras extranjeras, la mayoría estadounidenses, y convierten en deuda pública todo lo que se les paga a las empresas extranjeras.</p>
+<p class="p1">Pero era tanto el antinacionalismo que, ya siendo los ferrocarriles de México, los siguieron manejando estadounidenses; los conductores, los que vendían los boletos, eran estadounidenses. Ya habiéndose rescatado, ya con el pago de dinero de México, se estableció el convenio de que iban a seguir siendo administrados por extranjeros, porque había la mentalidad de que eran mejores los extranjeros que los mexicanos. Es hasta que triunfa la Revolución, Madero mexicaniza a los ferrocarriles porque establece que tenían que ser mexicanos los trabajadores del ferrocarril. Y, bueno, viene todo un movimiento.</p>
+<p class="p1">Hablaba yo de Lerdo. Cuando asesinan en una cárcel de Estados Unidos a Ricardo Flores Magón, ya en vísperas de que lo dejaran libre después de años de haber estado en la cárcel… La versión oficial es que murió de un infarto, pero hay otra versión: de que lo estrangularon en la cárcel antes de salir, ya grande, enfermo. Entonces, cuando lo traen a México, en cada estación de ferrocarril un mitin de los ferrocarrileros y de los trabajadores.</p>
+<p class="p1">Entonces, ese es el antecedente. Por eso lo de Vallejo, por eso lo de Campa, por eso cuando convocan a huelga los encarcelan y pasan mucho tiempo encarcelados. Vallejo, un gran dirigente; Campa, lo mismo, un gran dirigente, honesto; Vallejo, un hombre con muchas convicciones, nacido allá en el Istmo de Tehuantepec.</p>
+<p class="p1">Pero, posteriormente a eso, fueron sometiendo a los dirigentes sindicales. O sea, que la causa de la privatización de los ferrocarriles no tuvo relación con eso; o influyó, pero no fue decisivo, lo determinante es que querían entregar todos los bienes de la nación, los bienes del pueblo, a particulares.</p>
+<p class="p1">Imagínense, entregarles a dos empresas toda esa infraestructura a cambio de nada, porque ni siquiera cumplen con los compromisos de las concesiones de manera cabal, tienen que darles mantenimiento a las vías para tenerlas en buen estado y no lo hacen.</p>
+<p class="p1">Ahora que se rescató el tramo de vía del istmo, ahí de acuerdo a la concesión, tenían que mantener las vías en buen estado. Hablan de categoría, son vías para mantenerlas en categoría 4 y las mantienen en categoría 3, eso fue Zedillo. Sí se peleó con Salinas, pero, como piensan igual, continuó Zedillo con la política de las privatizaciones; como también continuó Fox y continuó Calderón, y Peña Nieto, porque es un pensamiento. Por eso habló del periodo neoliberal, fueron 36 años de gobiernos neoliberales.</p>
+<p class="p1">Ahora lo que estamos haciendo es regresando a lo público lo que es público, lo que es del pueblo, lo que es de la nación. Y estamos avanzando, porque tengo el orgullo de que voy a ser el presidente de los últimos años que más kilómetros de vías férreas deje operando. Ya todo el sureste, desde el istmo hasta la península, dos mil 500 kilómetros.</p>
+<p class="p1">Guatemala, hoy voy para allá, hoy voy a Tapachula y voy a sobrevolar toda la línea, desde la frontera hasta Ixtepec, voy a pasar nada más por el Puerto Chiapas, que se está rehabilitando, ahí va a haber un centro de desarrollo, un polo de desarrollo en Puerto Chiapas.</p>
+<p class="p1">Ahí tenemos un vivero en donde se producen muchísimas plantas para el programa Sembrando Vida, un vivero que está a cargo de la Secretaría de la Defensa, porque hay 200 mil sembradores en Chiapas del programa Sembrando Vida. No, son 200 mil hectáreas y sembradores son 80 mil, para ser exactos, 80 mil, y por eso ese vivero. Y eso es hoy.</p>
+<p class="p1">Mañana superviso las obras del puerto de Salina Cruz y todo el istmo. Vamos a pasar a Ixtepec.</p>
+<p class="p1">Vamos a estar en Matías Romero. Ahí era el centro del movimiento ferrocarrilero de Vallejo.</p>
+<p class="p1">Y vamos a terminar en Coatzacoalcos, vamos a ir a descansar a Coatzacoalcos.</p>
+<p class="p1">Y mañana, digo, el domingo, tenemos reunión, el puerto de Coatzacoalcos, que se está también rehabilitando y estamos revisando los 10 polos de desarrollo.</p>
+<p class="p1">En esta ocasión no voy a supervisar de Coatzacoalcos a Palenque, que también se está trabajando para dejar esa línea para transporte de pasajero y de carga.</p>
+<p class="p1">Y la semana que viene me toca de nuevo el Tren Maya, y ahí sí de Palenque a… En tres días superviso, sobrevuelo, mil 550 kilómetros. Y ahí vamos avanzando.</p>
+<p class="p1">Y el día 1º ya la supervisión, 1º de septiembre, que es mi informe, que lo vamos a rendir en Campeche. Vamos a hacer la supervisión ya, supervisión, no inauguración, en tren, de Campeche a Mérida, de Mérida a Chichén Itzá, y de Chichén Itzá a Cancún, viernes y sábado, el 1 y el 2.</p>
+<p class="p1">Vamos a seguir construyendo las vías férreas. Y sí, todo esto llena de nostalgia y de sentimientos a los ferrocarrileros, a sus familiares, como lo de ayer de Mexicana. Y así hay otros temas.</p>
+<p class="p1">Es que el neoliberalismo causó muchos daños, despidieron a miles de trabajadores porque no les importaba la gente, eran gobiernos que estaban al servicio de minorías rapaces, todo era negocios, bisnes, corrupción, y eso es lo que quieren que regrese, nada más que se van a quedar con las ganas, no se va a poder, porque ya la gente dijo: ‘Basta’, y ya no quiere eso. Por más que mantengan su guerra sucia con los medios de manipulación, ya la gente está muy consciente, muy despierta, y aquí están los resultados.</p>
+<p class="p1">Imagínense… ¿Por qué no pones lo de la desigualdad? Pon esta de desigualdad, la de cuánto ganaban más los de arriba que los de abajo.</p>
+<p class="p1">Sobre todo, me llamó la atención lo de Calderón, que fue el sexenio en que más dinero entró al país por petróleo, porque llegó a estar el precio del barril a más de 100 dólares. Y hubo una sobreexplotación, estaba sacando como dos millones 500, hasta tres millones de barriles diarios. Y llegó muchísimo dinero, pero todo lo dedicaron a crear los aparatos burocráticos, lo dedicaron a subsidiar a las grandes empresas, a las grandes corporaciones que no pagaban impuestos, no pagaban impuestos los de arriba, y corrupción, mucha corrupción.</p>
+<p class="p1">Entonces, el resultado: que les fue muy bien a los arriba, 35 veces más recibían que los de abajo en el tiempo de Calderón, y ahora nada más 15.</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Veinte veces menos.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Veinte veces menos.</p>
+<p class="p1">Pero pon, hay una curva, una gráfica del Banco Mundial que la da a conocer Esquivel, cuando Salinas de Gortari, que es parecido. Incluso a ver si podemos nosotros hacer toda la gráfica desde que se mide desigualdad en México. Estoy seguro que estamos viviendo desde hace 40 años en el tiempo de menos desigualdad.</p>
+<p class="p1">No, esta es del 92 a… Ah, bueno, pues es… Esa parte es Salinas, ¿no? Esto es pobreza, miren, es lo más bajo desde el 92; y ahí está pobreza extrema, por lo que decían.</p>
+<p class="p1">Pero ahora hay otra lámina, que está en uno de mis libros, sobre cómo en la época de Salinas…Es como muy parecido a lo de Calderón en desigualdad, ahora lo van a ver, esto del Banco Mundial y de otro organismo, la OCDE.</p>
+<p class="p1">Miren, aquí es Salinas, aquí empiezan las privatizaciones y, miren, cuando termina, desigualdad.</p>
+<p class="p1">Y aquí de nuevo vuelve a levantar, aquí es Calderón.</p>
+<p class="p1">Pero estoy seguro que nosotros hemos logrado una menor desigualdad. A ver si la tenemos toda, toda la serie completa.</p>
+<p class="p1"><b>PREGUNTA</b>:<b> </b>¿Su informe será masivo, como en el Zócalo?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No, no. Van a estar presidentes municipales de Campeche, autoridades de Campeche, algunas personas de Campeche, básicamente; los gobernadores del sureste sobre todo, y sí van a estar los miembros del gabinete, pero no mucha gente, no mitin.</p>
+<p class="p1"><b>PREGUNTA:</b> ¿A qué hora va a ser?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Como a las 9, 10 de la mañana, no se tiene todavía la hora. Pero terminando el informe sí nos subimos al tren.</p>
+<p class="p1"><b>PREGUNTA:</b> Los gobernadores, presidente, ¿van a estar todos o algunos nada más?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Algunos, algunos, no todos.</p>
+<p class="p1">Y de ahí nos subimos al tren y ya nos vamos a Mérida.</p>
+<p class="p1"><b>PREGUNTA:</b> ¿Hasta Cancún, presidente?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No, a Mérida. No, es que no puede desarrollar todo, toda la velocidad, todavía. Es para 160 kilómetros por hora, entonces vamos a ir creo que como a 60, 70, 80.</p>
+<p class="p1">Imagínese que se descarrile ahí. Aunque no nos pase nada, noticia mundial, o sea, y sobre todo aquí, imagínense los gritos, los gritos de Joaquín, y de Ciro, y López-Dóriga, digo, ¿cómo se llama? Loret. ‘¡Esta noche en <i>Hechos</i> se descarriló el Tren Maya!’ No, no, despacio, despacio, ahí vamos poco a poco.</p>
+<p class="p1">Pero sí es una gran obra, extraordinaria. Entonces, despacio porque llevamos prisa.</p>
+<p class="p1"><b>PREGUNTA:</b> Gracias, presidente, gracias.</p>
+<p class="p1">Sandra Aguilera, de <i>Grupo Larsa Comunicaciones</i> y de <i>Despierta Quintana Roo</i>.</p>
+<p class="p1">Presidente, antes que nada, quiero darle las gracias a Cofepris y a la Secretaría de Salud, en especial al doctor López-Gatell, porque han estado emitiendo alertas sobre el problema de los médicos esteticistas, que he estado tratando aquí continuamente, de la Universidad del Conde y el Instituto de Estudios Superiores de Medicina, donde alertan que no tienen las facultades para estar haciendo las cirugías.</p>
+<p class="p1">Y, por otro lado, quiero denunciar a estas universidades por seguir anunciándose las maestrías y las clínicas en televisión <i>Azteca</i> de Veracruz, además de que siguen haciendo estas personas sus congresos y hay gente que les cree y se están inscribiendo.</p>
+<p class="p1">Además, tenemos denuncias, presidente, de médicos esteticistas que están presentando documentos apócrifos de cirugías plásticas de la Habana, Cuba. Yo estuve investigando todo esto, me comuniqué a Cuba precisamente, con la Dirección General de Profesiones de Cuba, y dicen que desconocen esta situación, o sea, esto es falso.</p>
+<p class="p1">Sin embargo, en la Dirección General de Profesiones de la SEP los están validando. No sé en qué se basan para poderlo validar, yo tengo las pruebas y tengo las cartas de Cuba donde no conocen a estas personas, como, por ejemplo, al doctor Aldo Pérez, de Cuernavaca; al doctor Nava, de Tuxtla; al doctor José Vicente, de Tijuana. Y le digo, tenemos las evidencias de la falsificación de las firmas.</p>
+<p class="p1">Y, bueno, yo le pido que si me pueden, por favor, dar alguna explicación o cómo avalan, en qué se basa la Dirección de Profesiones para poder avalar esto, si esto no existe. Esa es mi primera pregunta.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, pues vamos a seguir con lo que está haciendo la Secretaría de Salud, o sea, revisando a todos estos profesionales: si realmente tienen especialidad, si pueden hacer estas intervenciones quirúrgicas, y cancelar si se tienen estas autorizaciones falsas, lo vamos a seguir haciendo.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Muchas gracias.</p>
+<p class="p1">Además, les dan la certificación cada cinco años a los cirujanos plásticos, entonces a ellos que les hagan la certificación si es que ellos sienten que son los doctores; porque, imagínese, no son médicos y tienen la certificación de Cuba, pues ¿cómo lo hacen?</p>
+<p class="p1">Yo ahorita le voy a entregar a Jesús todo lo que tengo. Yo tengo todas las pruebas para que también se puedan comunicar con ellos a la Habana, Cuba, y se den cuenta que esto es real.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Y también, qué bueno que lo tratas aquí, para que las personas que necesitan de este servicio tengan cuidado, se informen bien; porque no solo es en este caso, en muchos otros.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Sí, todas las especialidades, presidente.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Hay en todas las especialidades, ¿no? Que se cuiden.</p>
+<p class="p1">Yo estoy muy contento porque, así como hay veces que no se requieren las cesáreas y que puede haber partos naturales, y que es mejor, pero se volvieron pues muy usuales las cesáreas, ¿no?, así también llegó un tiempo, un momento de que se usaban mucho las operaciones de columna para todos y, muchos no quedaban bien; es más, empeoraban. Entonces, hay que tener cuidado.</p>
+<p class="p1">Yo me escapé, porque ya me habían recomendado una operación, sí, de columna. Entonces fui con un buen médico, ahora voy a tratar de recordar su nombre.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> ¿Dufoo sería?</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No. Un buen médico que… extraordinario, muy bueno, que atendió a la esposa del finado Colosio. Es de Sonora; es más, es de Magdalena de Quino. Especialista, es neurocirujano. Y ya me habían diagnosticado, porque traía yo un dolor atrás, aquí, pero insoportable, y casi como un año.</p>
+<p class="p1">Imagínense en mis actividades. Todavía no era presidente, pero estaba yo en campaña, y con el dolor fuertísimo, y en los mítines y todo, pues.</p>
+<p class="p1">Y me hicieron de todo, hasta algo que tiene que ver con toques eléctricos, que parece tortura, que para… Todo el cuerpo. Se tarda uno una hora en eso y ya llevaba media hora torturándome ahí con… Son toques eléctricos para ver cómo anda la energía y todo, en todo el cuerpo. Ya me faltaba como media hora y me dijo el médico, se estaba compadeciendo de mí: ‘Si quiere, lo dejamos para después, venga después’. No, primo hermano, termina, ya termina. ¿Por qué voy a regresar?</p>
+<p class="p1">Y el caso es que ya había me recomendado…</p>
+<p class="p1"><b>INTERLOCUTORA:</b> La cirugía.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí. Y cuando fui con el doctor, este me dijo: ‘Mire, todos los mexicanos’. Bueno, a lo mejor todas las personas tenemos problema de columna, y más ya con la edad, o quien hace ejercicio, o sea, todos, los discos, todo, todo, todo. Y no es para que, si tienen un problema, un dolor, de inmediato vamos a la operación de columna.</p>
+<p class="p1">Y ya me dijo: ‘Le voy a inyectar ahorita —ya me inyectó aquí, ahí en la consulta— y si se le quita el dolor —ya ve cómo le dicen a uno— del cero al 10, ¿cuánto?’, yo andaba como 11. Y ya me inyectó.</p>
+<p class="p1">Vio todo, porque me habían hecho todos los estudios. Eso fui antes de que tomara la decisión de que me operaran de la columna por un supuesto disco, ¿no? Y me quitó un poco el dolor. Y lo fui a ver y me dice: ‘Hay otra forma’, entonces me infiltraron, me quemaron unos nervios, como cuando le quitan a uno los nervios de las muelas para que no duelan.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Endodoncia.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Ajá. Y dice: ‘Tiene que hacer terapia y esto’. Se me quitó, no del todo.</p>
+<p class="p1">Pero en otros casos también lo más recomendable es, antes de esto, bajar de peso para que el cuerpo no cargue tanto y ejercicio, y hay muchos que la libran así.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Con terapia y ejercicio.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí.</p>
+<p class="p1">Entonces, consultar, tener cuidado, porque mucha gente queda mal con estas intervenciones.</p>
+<p class="p1">Ya nos estamos desviando, ¿verdad?, que no corresponde esto, pero no vamos a estar hablando siempre de política.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Presidente, le quería yo preguntar: ¿qué vamos a hacer en el caso de <i>TV Azteca, </i>que está promoviendo, que le está dando espacio a estos médicos esteticistas para que promuevan? Y que ya dijeron en la Secretaría de Salud que tengan cuidado con estas universidades; sin embargo, pues obviamente compran espacios para poder seguir hablando de algo que no están autorizados. ¿Qué se puede hacer ahí, presidente?</p>
+<p class="p1">Lo regula directamente la Secretaría de Gobernación, tengo entendido, y pues sí, la Secretaría de Salud.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí, pues que Salud lo siga viendo, que Salud lo siga viendo.</p>
+<p class="p1">Yo aprovecho para decir que tengo en muy buen concepto a Javier Alatorre, lo tengo en muy buen concepto y lamento por eso que ahora con lo de los libros de texto se haya emprendido una campaña muy exagerada.</p>
+<p class="p1">Yo he estado revisando los libros, bueno, desde el principio. Prácticamente no aparece la palabra ‘comunismo’. Aparece en un libro, creo que de cuarto, de quinto, pero lo que aparece es un poema de Bertolt Brecht<i>, </i>que yo he puesto aquí —pon el poema—, que tiene que ver con la manera en que debemos de unirnos en contra del fascismo, en contra de la represión, en contra de la violación de los derechos humanos. Eso es lo que aparece en el libro.</p>
+<p class="p1">Y lo otro, otra mención, tiene que ver con libros de maestros, donde explican sobre la historia política de los movimientos opositores, de los movimientos guerrilleros en México, pero es para maestros. Pues eso yo también lo he escrito, bueno, aquí en la sala ‘Daniel Cabrera’, ya les comentaba.</p>
+<p class="p1">Ahí están, porque forman parte de la historia. Tuvieron que tomar las armas, porque se padecía de autoritarismo; como lo hizo el cura Hidalgo, que era un sacerdote bueno; tan bueno y tan pacifista que, estando las fuerzas insurgentes aquí, en el Cerro de las Cruces, ya para tomar la ciudad, decidió no hacerlo porque calculó que iban a haber muchos muertos y prefirió no tomar la ciudad. Bueno, pues ese cura bueno, rebelde, llamó al pueblo de México a liberarse.</p>
+<p class="p1">Madero llama a tomar las armas al pueblo de México, y era pacifista, un hombre bueno.</p>
+<p class="p1">¿Y por qué Genaro Vázquez Rojas? ¿Por qué Lucio Cabañas?</p>
+<p class="p1">Porque no había libertades, se reprimían a los campesinos, a los maestros en Guerrero. Entonces hay que explicar eso nada más. Y eso es la historia. ¿Y qué tiene que ver eso con inyectar el virus del comunismo? No se midieron, o sea, o no se miden, es una desproporción.</p>
+<p class="p1">Está bien que tengan problemas con nosotros, que no les guste cómo estamos gobernando, que no estén a favor de la transformación, que pensemos distinto, está bien, somos libres, pero no hacer una campaña, una lanzada utilizando los medios de información, que deben de ser objetivos, profesionales, informar con verdad, no alarmar, no espantar, no infundir miedo, temor, y desde luego no mentir.</p>
+<p class="p1">¿No tienes el poema? A ver. Este se repite creo que en dos: en el de 4º, 5º grado, y luego el de secundaria, o luego un libro para maestros, esto:</p>
+<p class="p1">‘Primero vinieron a buscar a los comunistas —esa es la palabra, estoy hablando de la palabra, pues, pero miren el sentido que tiene— y no dije nada porque yo no era comunista.</p>
+<p class="p1">‘Luego vinieron por los judíos, y no dije nada porque yo no era judío.</p>
+<p class="p1">‘Luego vinieron por los sindicalistas, y no dije nada porque yo no era sindicalista.</p>
+<p class="p1">‘Luego vinieron los católicos, y no dije nada porque yo era protestante.</p>
+<p class="p1">‘Y luego vinieron por mí, pero para entonces ya no quedaba nadie que dijera nada’.</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Y el poema está atribuido a Bertolt Brecht, pero no es de Bertolt Brecht.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> ¿No es Bertolt Brecht?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Es de Martin Niemoller, un pastor.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Ah, yo pensaba. Un pastor. Pero ¿por qué yo lo atribuyo?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Porque todos lo atribuyen a Bertolt Brecht y lo citan como Bertolt Brecht, pero no es de Bertolt Brecht.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> ¿No es de él?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>No.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </b>Yo siempre pensé.</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Sí, yo también creía, pero es de Martin Niemoller, un pastor.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Y en sus libros de poema sí está, ¿eh?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>Pues, lo voy a buscar, pero…</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Sí.</p>
+<p class="p1"><b>INTERVENCIÓN:</b> ¿Y en los libros de texto a quién le atribuyeron el poema?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>No, a…</p>
+<p class="p1"><b>INTERVENCIÓN:</b> ¿A Martin?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS: </b>Sí, pues es el autor.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Son muy buenos los que hicieron los libros, son profesionales, expertos.</p>
+<p class="p1">¿Van a seguir informando en las tardes?</p>
+<p class="p1"><b>JESÚS RAMÍREZ CUEVAS:</b> Todas las tardes.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Qué bueno, porque ayuda mucho. Por ejemplo, ya nos aclararon. Siempre pensé que era Bertolt Brecht, siempre.</p>
+<p class="p1"><b>INTERLOCUTORA:</b> Presidente, por último, tenemos algunas denuncias, que ya fueron verificadas por nosotros, de servidores de la nación que están apoyando a una de las ‘corcholatas’. Y, bueno, usted había comentado que no debían de hacerlo.</p>
+<p class="p1">La secretaria del Bienestar seguramente no lo ha de saber. Tenemos los nombres de estas personas y también tenemos las pruebas, los videos donde están… Ya lo verificamos también en el portal, donde está, en el portal de transparencia, y sí son ellos mismos, están sus cargos y están también los videos. Se los voy a hacer llegar a Jesús para que usted los tenga. Y de alguna manera todas las ‘corcholatas’ son lo mismo, pero a la vez sí se están utilizando aparatos del gobierno, que yo creo que no debe de ser.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No deben, no deben de meterse, ningún servidor público se debe de meter y mucho menos utilizar los recursos públicos. No podemos hacer lo mismo que hacían los conservadores del Prian en el gobierno, de cómo utilizaban el presupuesto, de cómo los secretarios participaban en los procesos de elección.</p>
+<p class="p1">Recuerdo que cuando impusieron a Felipe Calderón, Fox era presidente y designó a cada uno de los secretarios para atender estados. En aquel entonces el de comunicación, —porque existen las pruebas, hasta las grabaciones— Cerisola, estaba a cargo de Tamaulipas. Y así todos.</p>
+<p class="p1">El que era secretario de Gobernación, el finado… Que su papá fue de los fundadores del Partido Sinarquista, el secretario de Gobernación de…</p>
+<p class="p1"><b>INTERVENCIÓN:</b> Javier Usabiaga.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> No, no, ese era de Agricultura.</p>
+<p class="p1"><b>INTERVENCIÓN:</b> Abascal.</p>
+<p class="p1"><b>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</b> Abascal. A ese le tocó hablar con todos los gobernadores de nosotros, vinculados a nosotros: Zacatecas, en ese entonces gobernábamos, Michoacán, Baja California Sur, y así se distribuyeron.</p>
+<p class="p1">Bueno, hace poco cuando la elección en el Estado de México hace seis años, hicieron algo parecido. Al doctor Narro le tocó ir de delegado, siendo secretario de Salud, fue delegado del PRI a Ecatepec.</p>
+<p class="p1">Así se acostumbraba, y dinero a raudales, nada más que de eso no se habla ya, ya se olvidó todo eso.</p>
+<p class="p1">Te vas a quedar, ahora sí, aunque se enojen todos, el lunes, tú, ¿sí? Porque ya nos tenemos que ir a desayunar para ir a la gira. Nos vemos, nos vemos. Adiós, adiós.</p>
+<p class="p3">---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

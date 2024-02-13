@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>07.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/07-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=168121' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F07-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F07-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sqxa-f-6c043907c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":30,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1ba49ce","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":65025,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726446","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==WeVtLZeZoOSxVA3iNXcVYVkWlsqF+r92UXIxG5rB6bMDj81uifgy5SuZpjSsLIVmMEqWK0CRKHJU6sZCLW3t81XXJwK5U3+kuRJo7TE2PN5x62jvgeegZkFAPloooN1c+Z1kPjBOf0MvLpAmJU9Z1m+UqeoVN6g1WQWkZA5G8crI5FikEFRLHQUXuIltchBSGv0Xm4pFxzxrgVaHhpW0M8mGMBaegpfgJnhN0TV0Uk0LO/V/E4BkbjyeApukslLhSySOrUjDn3HjMxEHA1d3K73I7g5PfxyVqQsGZrlrP2pcS8FF4TFW505+vlPZEuwJZsADLn5ua8azhONttCxKBrUrCT5z1OVuo7wr533xis0rWIYvF8PD0vbXxn+B4ZCPWFdNqK9SxClLjLq/u6014h0J8CPqGkcIpHSHSjdBghU=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-168121 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba92a9f1c0f" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>07.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 07.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-168121" class="post-168121 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-07-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-08.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-07-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-08-745x450.jpg" alt="07.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">07.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/0PcWYB4TWpyc7EzykFyvob?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy buenos días. Ánimo, ánimo, ya estamos por entrar al Guadalupe-Reyes y ya empieza el espíritu navideño, están las calles del centro llenas, del centro de la ciudad. Da un gusto, porque mucha gente saliendo a sus compras y a pasear al Zócalo, a ver las luces de los centros comerciales aquí, en 20 de Noviembre. No puedo decir qué centros comerciales porque no podemos hacerles publicidad, pero qué bien que la gente está contenta aquí, en la ciudad, y lo veo también en todo el país, eso es lo más importante, la felicidad del pueblo.</p>
+<p>Bueno, pues vamos a informar. Los compañeros de Sonora nos pidieron que se informara sobre lo que se está haciendo en el Infonavit, si mal no recuerdo, los programas que se están llevando a cabo. Y acordamos dar un informe general de todo lo que tiene que ver con la Secretaría de Desarrollo Agrario, Territorial y Urbano, que dirige muy bien Román Meyer, el maestro Román Meyer, que es el secretario de Desarrollo Agrario, Territorial y Urbano, y de él depende esta secretaría, es la cabeza de todo el sector; Infonavit, Fovissste, y también Edna, que es la subsecretaria, que tiene el programa de vivienda para quienes no son derechohabientes ni del Issste ni del Seguro, la gente más necesitada, más pobre, que también recibe apoyo para sus viviendas, para construcción de vivienda, para ampliación de vivienda y mejoramiento de vivienda.</p>
+<p>Y como todavía nos faltan nueve meses, es importante también que se dé a conocer lo que vamos a realizar a partir de enero, que ya se aprobó el presupuesto para el año próximo.</p>
+<p>Entonces, si les parece, empezamos con Román y seguimos adelante.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/12/Conferencia-matutina_2023-12-07.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/v2SyaOH3pLg?t=1470" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>ROMÁN MEYER FALCÓN, SECRETARIO DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO:</strong> Muchas gracias, señor presidente. Muy buenos días, compañeros y compañeras.</p>
+<p>Vamos a dar un rápido resumen de lo que ha sido el avance en la política nacional de vivienda. empezamos con el Programa de Mejoramiento Urbano, que junta acciones de vivienda, temas de regularización y lo que corresponde a la parte de los planes de desarrollo urbano. Los datos que tenemos al día de hoy:</p>
+<p>Son más de mil obras a nivel nacional en 26 estados en 165 municipios, 384 mil acciones de vivienda.</p>
+<p>Acciones de regularización, 45 mil acciones de regularización.</p>
+<p>Y llevamos al día de hoy 227 planes de desarrollo regionales, estatales y municipales.</p>
+<p>Aquí tenemos el total de tipologías de los equipamientos en los espacios públicos que hemos llevado a cabo, el total de beneficiarios, el estimado de empleos directos a través de estas obras locales y el tamaño, los montos, la dimensión, más de 20 millones de metros cuadrados.</p>
+<p>En la siguiente lámina tenemos lo que corresponde a imágenes de las tipologías que hemos ya presentado anteriormente aquí, estamos hablando de 196 deportivos, tenemos el caso de Ecatepec, el Parque Bicentenario; 176 equipamientos de educación y cultura, en Fresnillo, Zacatecas, el Centro Cultural ‘José González Echeverría’; 41 equipamientos de comercio, un mercado en Valladolid, el mercado ‘Donato Bates’; 41 equipamientos de salud y seguridad, tenemos en Ayoxuxtla, Puebla, centro de salud atendido por el IMSS; y 579 parques, plazas y calles, en la imagen vemos Santa María Mixtequilla, Oaxaca, la plaza principal.</p>
+<p>En la siguiente lámina tenemos ya referente, como ha comentado ya el señor presidente, cuáles han sido las acciones en materia de equipamiento y desarrollo urbano en el estado de Sonora. Hemos atendido siete municipios más lo ocho pueblos yaquis.</p>
+<p>Un total de acciones, 35, más de cinco mil acciones de vivienda, nueve planes de desarrollo urbano y más de… O casi seis mil acciones de regularización de tenencia del suelo. Estamos hablando de una inversión aproximadamente de dos mil 200 millones de pesos. Además, tenemos lo que corresponde al Plan de Justicia para los Pueblos Yaquis, además del otorgamiento de la tierra, que hemos ya entregado.</p>
+<p>En temas de infraestructura, tenemos 89 obras, que corresponden a 155 kilómetros de agua potable, 190 kilómetros de alcantarillado, 62 tanques, 12 cárcamos, también 37 obras y aproximadamente dos mil 500 acciones de vivienda. Un monto total de inversión de tres mil 700 millones de pesos, más-menos 21 mil acciones o empleos directos.</p>
+<p>En la siguiente lámina tenemos lo que es ya un resumen de lo que ha sido la política nacional de vivienda en esta administración, vemos lo que corresponde al diagnóstico, el rezago habitacional que teníamos en el 2018. Podrán ver ustedes que cuando nosotros entramos en la administración la gran mayoría del rezago habitacional se concentraba en los estados del sur: Veracruz, Chiapas, Estado de México, Oaxaca y Guerrero.</p>
+<p>Posteriormente, con esa información y con una comparativa de dos políticas completamente distintas, tenemos lo que fue la distribución del subsidio entre lo que sería el periodo 2013 a 2018. Como podrán ver, no se concentraba en la zona del rezago, está repartida en la zona centro y en la parte norte del país.</p>
+<p>¿Qué fue lo que hicimos nosotros?</p>
+<p>Concentramos el subsidio con, exactamente, en el rezago y podrán ver, digamos, como sí estamos atendiendo en esta administración exactamente las localidades y los estados con mayor rezago habitacional preferenciando a la gente que no tiene capacidad de crédito.</p>
+<p>¿Cómo lo hemos atendido?</p>
+<p>Tenemos prácticamente 3.1 millones de acciones entre Infonavit, la Comisión Nacional de Vivienda, Sociedad Hipotecaria Federal y el Fovissste, ese es un monto de aproximadamente de 1.3 billones de pesos, más de 11 millones de beneficiarios con estas acciones.</p>
+<p>En materia de autoproducción, que ha sido una de las políticas principales que hemos impulsado en esta administración, tenemos un millón 300 mil acciones, beneficiando prácticamente cuatro millones de personas a nivel nacional.</p>
+<p>Y las acciones que se han realizado para los no derechohabientes, que ha sido también un elemento fundamental en esta administración, son prácticamente dos millones de beneficiarios entre la Comisión Nacional de Vivienda y Sociedad Hipotecaria Federal.</p>
+<p>Por último, ¿cuáles han sido…? Digamos, ¿cómo se representan estos beneficios o esta política nacional de vivienda en miras de los pocos meses que ya nos quedan?, ¿cuál han sido los logros en esta administración?</p>
+<p>2.9 millones de personas salieron del rezago habitacional, es un dato contundente y muy importante, son datos del Inegi, de la propia Comisión Nacional de Vivienda. Hemos pasado, digamos, de 36.3 a 33.4.</p>
+<p>Las carencias de la pobreza, esta forma en que se mide, la multidimensionalidad a través del Coneval, 1.9 millones de personas salieron en carencias de calidad y espacios de la vivienda y 1.4 millones de personas salieron en la carencia de accesos a servicios básicos.</p>
+<p>Esto es, digamos, es la numeraria de los logros que hemos llevado a cabo con esta política nacional de vivienda. Sería cuanto.</p>
+<p>Y le cedo el micrófono a la doctora Edna Vega. Muchas gracias.</p>
+<p><strong>EDNA VEGA RANGEL, SUBSECRETARIA DE ORDENAMIENTO TERRITORIAL Y AGRARIO, (SEDATU):</strong> Con su permiso, señor presidente. Buenos días a todas y todos.</p>
+<p>Presentamos aquí lo que se ha logrado avanzar a través de la Comisión Nacional de Vivienda respecto a los apoyos y subsidios que otorga la comisión. En este caso no son créditos, son subsidios que, por lo mismo, se focalizan a la población más vulnerable de este país.</p>
+<p>De 2019 a 2023 se han otorgado poco más de 384 mil subsidios, que implica que una inversión de 31 mil 500, prácticamente 31 mil 500 millones de pesos; más de un millón y medio de personas beneficiadas en las 32 entidades del país, mil 100 municipios.</p>
+<p>Aquí quisiera explicarle, esto se hace a través de tres programas:</p>
+<p>Por una Mejor Vivienda, lo que en su momento fue el Programa Emergente de Vivienda, que se ha aplicado en 27 entidades del país, más de 225 mil apoyos, básicamente son mejoramientos que se otorgan de manera directa sin intermediarios a las personas para que ellos puedan ejercer estos recursos en lo que consideren mejor para su vivienda.</p>
+<p>En el caso del Programa Nacional de Reconstrucción de las Viviendas afectadas en las distintas entidades del país, prácticamente 63 mil apoyos, 10 mil 208 millones de pesos en las entidades como Oaxaca, Puebla, Morelos, Guerrero, Chiapas, donde se sufrieron el mayor número de afectaciones. Y ratificar que este año se concluye el programa.</p>
+<p>En el caso de vivienda social que tiene alcances mayores, que en la mayoría son de vivienda nueva, son 95 mil 705 acciones, casi 11 mil millones de pesos en las 32 entidades del país.</p>
+<p>Del lado derecho pueden ver ustedes algunas imágenes del tipo de vivienda. Se busca esta Estrategia Nacional de Autoproducción, que consiste en que la familia lleve a cabo el proceso para desarrollar su vivienda, y han tenido alcances muy importantes en su vivienda, se ha logrado transformar comunidades enteras a partir de este ejercicio colectivo donde ellos buscan en conjunto el mejor costo de materiales y de mano de obra, y esto ha permitido mayores alcances en la vivienda.</p>
+<p>Para el siguiente año, en 2024, se tienen proyectados 76 mil 765 apoyos, una inversión de cuatro mil 437 millones de pesos, básicamente lo que es Por una Mejor Vivienda, que es este apoyo directo para mejoramiento en 31 entidades, 201 municipios.</p>
+<p>Prácticamente la totalidad de las personas que serán beneficiarías ya se identificaron, lo cual hará muy fácil, muy rápido, que en enero, febrero del próximo año ellos ya cuenten con su apoyo y puedan iniciar su obra de manera inmediata.</p>
+<p>Y a través del Programa de Vivienda Social, cinco mil 337 apoyos; también, se han identificado ya al 73.1 por ciento de las personas beneficiarias y un número muy importante de ellas se ubican en los proyectos prioritarios del Gobierno de México, en particular para el tren interoceánico, las líneas F, A y K, donde se están relocalizando a las familias para que no sean afectadas, sino que se incorporen al proyecto.</p>
+<p>Finalmente, tenemos en la siguiente lámina las acciones que se han desarrollado en Sonora, es un número muy importante, siete mil 844 apoyos, prácticamente mil 200 millones de pesos de inversión a través de los tres programas que mencioné anteriormente: Por una Mejor Vivienda, el Programa de Mejoramiento Urbano, que tuvo que ver mucho en las ciudades fronterizas en los primeros años, y el Programa de Vivienda Social, esto es 2019-2023.</p>
+<p>Para 2024 se proyectan dos mil 240 apoyos de vivienda y tiene mucho que ver en el acumulado a la atención a las distintas comunidades indígenas, principalmente yaquis, pero también con guarijíos, mayos, yuremes, seris. Y se está atendiendo de una manera muy importante a estas comunidades.</p>
+<p>Ya prácticamente también para 2024 ya llevamos un 53 por ciento de avance en la identificación de las personas que serán beneficiarias para el próximo año y con esto estamos garantizando que todas las acciones de vivienda con estos apoyos puedan ser concluidas antes de junio del próximo año.</p>
+<p>Muchas gracias.</p>
+<p><strong>CÉSAR BUENROSTRO MORENO, VOCAL EJECUTIVO DEL FONDO DE VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (FOVISSSTE):</strong> Gracias. Con su permiso, señor presidente. Buenos días.</p>
+<p>Vamos a presentar un resumen de lo que hemos hecho en Fovissste este año y después una perspectiva del próximo año. En la presente administración el Fovissste ha otorgado 234 mil 42 créditos de viviendas. En este año hemos otorgado 32 mil 236 créditos, con una derrama económica de 30 mil 190 millones de pesos.</p>
+<p>El desglose vendría haciendo, y es interesante y es una tendencia que hemos venido observando en los últimos años: hay mayor interés por la vivienda usada, 16 mil 900 créditos; vivienda nueva, 15 mil 20; y la cuestión de la autoproducción, lo que es la construcción, 309 créditos.</p>
+<p>El programa que tenemos junto con el Infonavit de una copartipación, mil 155 créditos en este año; Fovissste para Todos, tres mil 180, que es un cofinanciado con la banca comercial, y 260 créditos para personas pensionadas.</p>
+<p>Históricamente el Fovissste —y la mayor parte de ustedes saben, estamos por cumplir ya 51 años— se han otorgado dos millones de financiamientos. Este año el monto promedio del crédito ha sido de 936 mil 518 pesos, un máximo alrededor de un millón 300 mil es lo que podemos otorgar. Y se estima que al cierre de este año estemos dando un poco más de 34 mil financiamientos.</p>
+<p>¿Qué pensamos la perspectiva para el 2024?</p>
+<p>Pensamos que con un presupuesto de 43 mil 733 millones de pesos podemos atender a 38 mil 225 derechohabientes.</p>
+<p>El programa, digamos, tiene unas bondades importantes debido a, como ustedes recordarán, en mayo de este año por el congreso se aprobó la modificación a la ley del Issste en materia de créditos de vivienda, entonces tenemos previsto que se puedan dar, como decía, 43 mil 733 millones de pesos para 38 mil créditos, 25 mil 658 acciones de vivienda para abatir el rezago habitacional alineados a la política nacional de vivienda, estas son sin garantía hipotecaria, son microcréditos a corto plazo y tasas preferenciales en zonas con rezago habitacional, y los créditos de contingencia serían cuatro mil 822.</p>
+<p>Y lo que yo mencionaba hace un momento, derivado de la ley del Issste el monto máximo del crédito va a incrementar en un 56 por ciento. Y esto radica principalmente a que hoy, hasta antes de la reforma, la persona trabajadora solamente podía acceder a su crédito tomando en cuenta el salario básico y derivado de la reforma podemos ya ahora, a elección de la persona trabajadora, utilizar su salario básico, más las compensaciones a las que tenga derecho; entonces, estaríamos pasado de, como yo decía, un millón 300 mil pesos, es el máximo este año, a dos millones 69 mil. Entonces, eso nos va a poder ayudar a que puedan acceder a mejores viviendas o les alcance el dinero para realmente poder comprar algo.</p>
+<p>El programa de crédito también toma en cuenta el costo de la oferta de la vivienda registrada a nivel nacional. Hemos desarrollado un modelo paramétrico que también toma en cuenta la demografía del país, los costos de las viviendas, entonces podemos tener un esquema diferenciado y pensamos que con los nuevos montos se podrá poder acceder hasta al 97.5 de la oferta de vivienda que existe hoy en día.</p>
+<p>Hablando ahora en relación a Sonora, y hemos venido también trabajando de manera coordinada con el gobierno del estado, hemos firmado dos convenios muy importantes:</p>
+<p>El primero tiene que ver con el Instituto de Catastro y Registro, el Icreson, donde se logra la condonación de pago de escrituras, contratos, cancelación de reservas de dominio respecto a lotes con destino habitacional y de interés social. Eso creo que ayuda mucho a la gente que también ya terminó de pagar, se les puede dar más fácil su carta de liberación con menores costos.</p>
+<p>Y el segundo tiene que ver con la Comisión de Vivienda, en el cual Sonora, al igual que algunos otros estados de la República tienen una situación particular, las personas trabajadoras del Estado cotizan al Issste local, al Isssteson; entonces, sí van generando una subcuenta de vivienda, pero realmente no hay un programa de financiamiento de vivienda, como lo tiene el Fovissste. Entonces este convenio da la posibilidad de que los trabajadores del Estado ahora empiecen a cotizar a Fovissste nacional y estamos en el proceso de ver cómo se puede migrar la subcuenta de vivienda acumulada al Fovissste para que puedan acceder a un crédito de manera más pronta.</p>
+<p>Y tomando en cuenta… Digo, hace un poco… Estamos a punto de cumplir dos años al frente de Fovissste y la instrucción del señor presidente fue muy clara: hay que volver a poner al centro de las decisiones del Fovissste a los derechohabientes, a los acreditados. Y parte de esta acción es el poder acercarnos a la derechohabiencia y estamos por abrir dos oficinas nuevas de Fovissste, una en Moctezuma y en una Cajeme. Entonces, es importante, no es el único estado con el que hemos abierto, digo, estamos por abrir, tenemos con Baja California Sur, con Tabasco, con Campeche y estamos por firmar también convenios con Oaxaca, con Quintana Roo y con Yucatán. Entonces, creo que eso también va a ser muy importante de acercarnos a la derechohabiencia.</p>
+<p>Muchas gracias.</p>
+<p><strong>CARLOS MARTÍNEZ VELÁZQUEZ, DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT):</strong> Con su permiso, presidente. Buenos días a todos los compañeros.</p>
+<p>Informar sobre las acciones del Infonavit. Se ofrecen créditos directos sin intermediarios para resolver las distintas necesidades de las personas. Parte de lo que nos pidió el presidente fue diversificar el Infonavit, hacerlo más flexible y por eso tenemos una gama de créditos que permiten a las personas atender su necesidad de vivienda.</p>
+<p>Recordarles, porque se trató en este espacio en otro momento, que a partir del 1º de enero de 2024 las personas trabajadoras independientes se podrán inscribir de forma voluntaria al Infonavit, cosa que no se podía hasta la reciente reforma que se publicó la semana pasada en el <em>Diario Oficial de la Federación</em>.</p>
+<p>Se han otorgado en esta administración 2.3 millones de créditos en todas sus modalidades y se han generado una derrama económica para beneficio de los mexicanos de 1.1 billones de pesos.</p>
+<p>Se tienen también, para aquellos créditos que se otorgaron antes de esta administración, que eran impagables y que era una queja constante de los trabajadores, se han hecho distintos programas para acabar con esas deudas, acabar con los desalojos y privilegiar los programas de apoyo a la vivienda.</p>
+<p>Se han reestructurado en esta administración cerca de 4.8 millones de créditos que han tenido beneficio por 172 mil millones de pesos. Y aquí recordarles a las personas que todavía tengan un crédito de los que se sacaron antes de dos mil 15, que están en salarios mínimos, que lo conviertan a pesos para que deje de aumentar ese crédito.</p>
+<p>Finalmente, presidente, en el caso de Sonora se han otorgado a la fecha 12 mil 550 créditos este año, pero además estamos trabajando con el gobierno del estado para actualizar o crear los planes de desarrollo urbano municipal en Cananea, Cajeme y Bacadéhuachi.</p>
+<p>También se hizo un pacto por la vivienda con la iniciativa privada y los sindicatos. Se tienen proyectados para este año dos mil 600 viviendas nuevas en los municipios de Hermosillo, Cananea, Agua Prieta y San Luis Río Colorado, y también se trabaja con los municipios para que se den facilidades fiscales al desarrollo de la vivienda asequible.</p>
+<p>Y esto sería todo. Bueno, en la que sigue están nuestros datos de contacto, estamos atentos a cualquier demanda del trabajador.</p>
+<p>Muchas gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues ya cumplimos con el compañero. ¿No vino ahora? Pero ya lo atendimos.</p>
+<p>Es que ayer fue a la izquierda, hoy vamos a la derecha. Ya parezco centro yo, ya me están contagiando los moderados. ¿A dónde fue ayer? Ah, entonces empezamos acá.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente.</p>
+<p>Zeltzin Juárez, de <em>Sin Línea Mx</em>.</p>
+<p>Presidente, el día de ayer se desató polémica en redes sociales por la detención del doctor Alfredo Jalife por una denuncia interpuesta en la fiscalía de Nuevo León por difamación por la exsecretaria de Economía, Tatiana Clouthier. Nada más preguntarle su opinión al respecto. Y tengo otro planteamiento.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues ya lo más importante es que se liberó a Jalife. Estuvimos pendientes, hasta en la noche, para que se procurara su libertad.</p>
+<p>Tiene que ver con un estado, tiene que ver con la fiscalía estatal o procuraduría de Nuevo León, pero tiene que ver también con un derecho constitucional, con el artículo 7º, la libertad de las ideas, y eso también nos atañe, si no de manera directa o no nos corresponde a nosotros resolverlo, sí tenemos que garantizar la libre manifestación de las ideas, que no haya censura. Puede haber excesos, pero no debe de limitarse la libertad; podemos no estar de acuerdo con lo que se expresa, pero debemos de garantizar el derecho a manifestarnos libremente. Eso es lo que puedo decir. Ya pasó, cada quien que haga sus conclusiones.</p>
+<p>Yo estimo a los dos que estaban o está en este asunto, a Tatiana la quiero muchísimo, mucho, mucho, mucho, y a Jalife también. Y espero que me comprendan las partes. Y pues tenemos que ser respetuosos de las libertades.</p>
+<p>Imagínense si yo presento denuncia por todo lo que me inventan, por todos los ataques. Claro cada quien tiene su criterio y hay que respetarlo. Hay quienes dicen: ‘A mí me lo compruebas; si no, te denuncio’. Y hay que respetar también ese criterio.</p>
+<p>Pero, bueno, ya sucedió lo que pasó y ya afortunadamente ya pasó. Lo que pasó, pasó.</p>
+<p><strong>INTERLOCUTORA:</strong> Muy bien. Gracias, presidente.</p>
+<p>También, por otro lado, hace dos meses le cerraron al municipio de Oaxaca de Juárez el lugar en el que depositaban un promedio de 500 toneladas diarias de basura. Esto obligó a que las autoridades municipales tomaran medidas emergentes para evitar una crisis sanitaria. Entre una de estas medidas fue separar lo orgánico de lo inorgánico. Con lo orgánico se está haciendo composta; pero con lo inorgánico, que es muchísimo, están compactándolo y enviándolo a una cementera, a un destino fuera del estado de Oaxaca, esto le ha costado al municipio más de 400 millones de pesos, lo están solventando con recursos propios, pero ya están llegando a un punto crítico.</p>
+<p>Presidente, preguntarle, si el gobierno federal implementará un plan financiero para apoyar al municipio de Oaxaca de Juárez con este tema de la basura. S opinión sobre este tema.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues sí, nosotros apoyamos a los gobiernos estatales y en especial al gobierno de Oaxaca. Vamos a ver en qué podemos ayudar, siempre lo hacemos, Oaxaca es de los estados que más apoyos ha recibido de la federación, porque les corresponde y porque son muchos municipios, es el quinto o sexto estado en territorio en el país, eso a veces no se conoce. Yo creo que quinto. ¿En territorio Oaxaca es quinto o sexto?</p>
+<p><strong>INTERVENCIÓN:</strong> Quinto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Quinto, y tiene bastantes necesidades en todas sus regiones. Y estamos ayudando y lo vamos a seguir haciendo.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Usted se compromete a ayudar al municipio con este tema, específicamente de la basura?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, nada más que nos hagan el planteamiento.</p>
+<p>Ahora, por ejemplo, estamos ayudando para que todos los niños de Oaxaca, todos, tengan sus uniformes, creo que dos o tres, porque hasta uno de deporte. Es una inversión como de 400 millones; nos va a llevar mucho tiempo porque son muchísimos los estudiantes, pero ya hicimos el compromiso y se les van a entregar todos los uniformes. Ese es un apoyo al gobierno de Oaxaca, desde luego a las familias. Y así vamos a seguir ayudando.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+<p><strong>PREGUNTA:</strong> Gracias, presidente.</p>
+<p>Sandra Aguilera, de <em>Grupo Larsa Comunicaciones</em>.</p>
+<p>Presidente, antes que nada, quiero darle las gracias a usted y al gobernador de Veracruz por hacerme hecho favor de recibir. Ya me dieron las noticias acerca de la escuela, de la Universidad del Conde, que he estado tratando constantemente. Gracias, Jesús, por haber gestionado esta cita con el gobernador.</p>
+<p>Y, bueno, me dijeron que realmente ya cerraron, bueno, ya les quitaron dos RVOE, que ahorita una de las escuelas no tiene a ningún estudiante, y la otra escuela ya no puede aceptar a ningún estudiante.</p>
+<p>Les llevé 50 carpetas de investigación, bueno, números de carpeta de investigación de todo el país, donde los médicos que han salido de esas maestrías han matado a las personas. Y me dijeron con esas denuncias lo que van a hacer es dárselas al Poder Judicial para que no les puedan dar el amparo que solicitaron para tener el tercer RVOE, que es con el que podrían entregar las cédulas profesionales. Entonces, bueno, quedamos en eso.</p>
+<p>Ya les entregué las carpetas de investigación y todo va a avanzando. Esperemos que el Poder Judicial se dé cuenta de que están haciendo daño estos maestros en esteticista. Y ahorita estamos esperando en el Senado que aprueben la ley de que solamente pueden operar los cirujanos plásticos, que ya está en proceso, me dijeron que esta semana o la próxima semana la votaban.</p>
+<p>Por otro lado, presidente, quería decirle que se han acercado a mí empresarios que estuvieron con Walmart —sabemos que usted tiene muy buena relación con los directivos de Walmart—que hace cinco años eran proveedores de Walmart; sin embargo, hubo… Bueno, dentro de los requisitos que tenían era darles a los compradores una cantidad de dinero.</p>
+<p>Entonces, pues ellos cumplían con lo que tenían que dar. Sin embargo, llegaron los directivos de Walmart Estados Unidos, se dieron cuenta y despidieron a estos compradores. Sin embargo, también a los proveedores los quitaron y hay muchas empresas mexicanas que no están siendo contratadas por Walmart, sino ocupan empresas de Estados Unidos o de otros lugares. Y, bueno, me hacen la solicitud que si usted les pudiera pedir que los tomen en cuenta nuevamente porque es una empresa muy grande dónde ellos pueden reactivar su economía.</p>
+<p>Eso es respecto a Walmart, presidente.</p>
+<p>Y, por otro lado, presidente, estuve en la FIL en Guadalajara donde, bueno, hubo muchas conferencias y muchas presentaciones de libros. Y estuvimos en…. Bueno, iba a haber una presentación de un libro que se llama <em>El amo de Jalisco,</em> de Ricardo Ravelo; sin embargo, la cancelaron porque el gobernador no lo permitió, también prohibieron la venta de esos libros. Esto se llevó a cabo y, bueno, ahorita no está a la venta en ningún lado. Entonces, bueno, me pedían eso, hablando de la libre expresión, que no pudieron presentarlo. Y usted ha recibido también o han escrito libros en su contra y no ha pasado nada, porque usted sí permite la libre expresión. Y, bueno, esa es una parte, que le mandan decir que gracias.</p>
+<p>Y estuve también en el <em>stand</em> de Cuba, de Cuba, de Venezuela, porque fue muy grande, muy internacional, donde le dan las gracias a usted porque ha permitido que se expresen y que la cultura de todos los países pueda estar presente y que en pocos países se puede hacer, sobre todo en un país como es el de Cuba.</p>
+<p>Y le mandaron un libro, presidente. Dicen que ven las mañaneras en Cuba, que usted es muy querido allá y me dijeron que si se lo podía dar personalmente para que lo vieran todos los cubanos. ¿Me lo permite? Gracias, presidente. Habla de Fidel; de hecho, quien lo escribe es uno de los escoltas de Fidel Castro. Entonces, pues, bueno, aquí está el libro. Gracias, presidente. Y le mandan una notita.</p>
+<p>Muchas gracias, presidente. Y, bueno, eso es todo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Vamos a ver qué hacemos con los proveedores, lo de Walmart, que nos entregues la información con Jesús y a ver si les ayudamos, a ver de qué se trata, si no fue muy grave el caso o fueron ellos utilizados. Y no deben de ser marginados. Entonces, lo vemos.</p>
+<p>Muy bien.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente.</p>
+<p>Carlos Domínguez, de <em>Nación 14</em>.</p>
+<p>El mes pasado, en noviembre, se llevó a cabo en Tampico, Tamaulipas, la 29º Asamblea Plenaria de la Conferencia Nacional de Secretarios y Secretarias de Seguridad Pública. En esta asamblea, la titular de la Secretaría de Seguridad y Protección Ciudadana, Rosa Icela Rodríguez, destacó los avances en materia de seguridad, que desde la llegada del doctor Américo Villarreal han disminuido en el estado.</p>
+<p>Señor presidente, preguntarle si puede ahondar un poco más en cuáles fueron estos delitos que disminuyeron, que han disminuido en la entidad en estos 12 meses de la administración del doctor Américo Villarreal, y su opinión sobre a qué se deben estas disminuciones significativas que destacó la titular de la Secretaría de Seguridad Ciudadana, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues sólo viendo la información de Tamaulipas. Si pueden poner, a ver, lo de Tamaulipas en homicidios, en robos, para ver qué dicen los datos.</p>
+<p><strong>INTERLOCUTOR:</strong> Desde su perspectiva, presidente, ¿ha habido mejoras en seguridad en el estado?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No tengo información así a detalle. Sí percibo, pues, que está mejor en materia de seguridad Tamaulipas, porque todos los días vemos los reportes, nosotros recibimos el parte de lo que sucede.</p>
+<p>Te puedo decir que ayer una juez le dio un amparo al exgobernador.</p>
+<p><strong>INTERLOCUTOR:</strong> Cabeza de Vaca.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí. O sea, es nuestro trabajo.</p>
+<p>Ya les voy a invitar de nuevo a las reuniones de seguridad para que antes de irnos conozcan, porque es muy interesante el trabajo diario que se hace en materia de seguridad.</p>
+<p>Así está Tamaulipas, aquí está. Ese de homicidios por 100 mil habitantes, esta es la media, 119 homicidios por cada 100 mil, y Tamaulipas tiene 71, o sea, está bajo.</p>
+<p>No sé qué otra información tengas. O sea, sí hay una disminución, nada más que habría que ver cómo está en el último año, a ver si tienen.</p>
+<p>También homicidio, porque esto es al mes de octubre. Sí hay mejoras.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Hasta julio, pero, de todos modos, marca la tendencia.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, esta es la tendencia. Sí hay, miren, aunque aquí es a julio.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS: </strong>Hasta abril.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> A abril. Pues sí hay una tendencia a la baja. Se tiene hasta abril, se debe tener actualizado, pero sí es evidente que hay una disminución en delitos.</p>
+<p>Y siempre me guío en homicidio doloso y en robo de vehículo, que son delitos que no tienen cifra negra o es muy poca la cifra negra, están más apegados a lo que sucede. Y robo de vehículo, lo mismo.</p>
+<p>Pero, además, yo creo que la gente en Tamaulipas, bueno, es una obviedad porque lo sabe, y lo sabe, y lo sabe: Américo Villarreal es un hombre íntegro, honesto, una gente de bien y eso ayuda mucho, mucho, mucho.</p>
+<p><strong>PREGUNTA: </strong>¿Y qué opina del amparo a Francisco García Cabeza de Vaca?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues es el asunto de los jueces.</p>
+<p>Ayer también hubo otro amparo, imagínense, que se habían prohibido los vapeadores y ayer ya quitaron el amparo, y el argumento o excusa es que se afecta la libertad de comercio. Ponen por encima el mercantilismo de la salud del pueblo, de los jóvenes. Pero, bueno, vamos a continuar atendiendo todo esto.</p>
+<p><strong>INTERLOCUTOR:</strong> Presidente, regresando a la pregunta pasada, ¿descartaría usted que Tamaulipas continúe siendo un estado violento como en administraciones pasadas?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Yo creo que vamos a seguir avanzando para reducir la incidencia delictiva en Tamaulipas y en todo el país.</p>
+<p>Por ejemplo, en la frontera ya hay más presencia de la Secretaría de la Defensa y de la Guardia Nacional. Ha ayudado mucho la creación de la Guardia Nacional, ya son cerca de 130 mil elementos, muy cerca o alrededor de 400 cuarteles ahí en Nuevo Laredo, ya se terminó una instalación militar que va a servir también para resguardo de la aduana que se está construyendo, porque ahí van a estar las oficinas centrales de la aduana de México. Entonces, es un complejo que se está construyendo y ya hay una vigilancia mayor, mejor, en toda la zona fronteriza y vamos a seguir avanzando, y este es el resultado.</p>
+<p>Ahí está, miren, la tendencia. Es Tamaulipas, hasta octubre, es una disminución considerable en homicidio. Entonces sí se va a seguir avanzando.</p>
+<p>Y el gobernador está pendiente, porque asisten los gobernadores y gobernadoras todas las mañanas a las reuniones de seguridad. Así como hacemos nosotros aquí la reunión de 6:00 a 7:00 de la mañana, ellos también se reúnen, no a esa hora porque también esperan que nosotros terminemos, si hay alguna indicación en especial, pero hay gobernadoras, gobernadores.</p>
+<p>Un día vamos a presentar aquí la asistencia de gobernadoras y gobernadores a las reuniones diarias. Hay unos que casi tienen el 100 por ciento y hay unos que están <em>a la cola del venado</em>, que mandan representante. La reunión se hace en todos lados, pero hay reuniones en donde sí está la gobernadora, si está el gobernador, y un caso es Tamaulipas.</p>
+<p>Y les digo hace cuatro o cinco días —a ver si conseguimos la información— se llevó a cabo un decomiso de armas en Tamaulipas, pero de explosivos. Y de inmediato él mostró su preocupación, por que sí se hizo el decomiso, pero son cosas que preocupan. ¿Para qué se iba a utilizar ese armamento, esos artefactos peligrosos? Y él fue el que le dio atención. A ver si lo tenemos. Y a ver qué día, si fue como hace una semana.</p>
+<p>Entonces, sí está pendiente. Y todos, ¿eh?, todos ayudan, hasta los que no llegan ayudan también, porque va el secretario de gobierno, va el secretario de Seguridad, y ellos están pendientes.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Cuándo visita Tamaulipas, presidente, nuevamente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Es probable que vaya a la inauguración de esta zona militar de Nuevo Laredo.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Cuándo sería?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Este año. Tengo pensado nada más… El 15 inauguramos el tren, el 16 tengo que estar en Monterrey ya para la inauguración completa de todo el acueducto del ‘Cuchillo II’ y de ahí quiero ir a Nuevo Laredo a la inauguración de este batallón, de estas instalaciones nuevas, ir, supervisar el avance de las obras.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Sería el 17?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> El 17, ya sea el mismo 16 en la tarde o el 17.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> Son los decomisos</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Un fusil Barrett calibre 50.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS: </strong>Este en Abasolo y Soto la Marina.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, pero es otro, de explosivos. A ver si lo tienen por ahí. Bueno, es parte, pero incluso creo que fue posterior al 2 A ver. Esto, sí, explosivos, granadas.</p>
+<p>Siete armas largas, esto, sí, el 28, y él ha estado pendiente. Blindaje artesanal, tienen sus automotrices. Pero ahí estamos. Entonces, sí puedo contestar eso, de que él está pendiente. Y así ayudan mucho los gobernadores, las gobernadoras.</p>
+<p>Recuerden que una cosa es el fuero federal y otra el fuero común. Entonces, la mayoría de delitos tienen que ver con el fuero común, tiene que ver con los estados, pero al ciudadano no le interesa quién es el responsable, a quién le corresponde, lo que quiere es que haya seguridad; entonces, tenemos que unirnos sea fuero común, sea fuero federal, y ayudar, cooperar.</p>
+<p>Por eso también celebro que ahora se va a presentar una iniciativa, incluso ya aceptada por todos los grupos parlamentarios, para que se permita que la Guardia Nacional pueda seguir cumpliendo con sus funciones con apego o acompañamiento de la Secretaría de la Defensa.</p>
+<p>Porque ya habían sacado una resolución para que la Guardia Nacional no se vinculara a la Secretaría de la Defensa, sino que fuese como lo era antes la Policía Federal, que dependiera de Gobernación o de Seguridad Pública, y eso no ayuda, porque es una institución que se está creando, que está funcionando, que está actuando con profesionalismo, con disciplina, está haciendo muy buen trabajo, pero en los cuarteles, en los territorios, en los caminos. ¿Han escuchado ustedes de mordidas de la Policía de Caminos? Ya eso ya no se da.</p>
+<p>Y además aprovecho también para decirlo, a ver, que la gente denuncie, pero yo no tengo ya denuncias y estoy constantemente hablando con la gente, hablo con traileros, ando en la carretera, ¿por qué? Porque ya está la Guardia Nacional y tiene que ver con la Secretaría de la Defensa.</p>
+<p>Ahora, hoy me informaba la Secretaría de Gobernación que se está llegando a un acuerdo en el congreso para que se permita a la Guardia Nacional seguir operando junto con la Secretaría de la Defensa para que se mantenga la disciplina, para que haya profesionalismo y marchen las cosas.</p>
+<p>Ahora que pasó esta tragedia lamentable en Guanajuato vino el gobernador y le dijo a la secretaria de Seguridad Pública que su interés es que sigamos trabajando juntos en materia de seguridad, y lo vamos a hacer, lo tenemos que hacer. Podemos tener diferencias de otro tipo, pero es la seguridad de la gente.</p>
+<p>Y una de las cosas que expresó es que él está a favor de que la Guardia Nacional se mantenga apoyada, dependiendo de la Secretaría de la Defensa. Eso lo expresa porque los gobernadores saben que a ellos les toca enfrentar los problemas, ellos están allá en los estados y no es lo mismo, con todo respeto, estar haciendo política o politiquería que tener una responsabilidad.</p>
+<p>Ahora que lamentablemente se presenta lo del huracán en Acapulco, ¿qué puede hacer la policía municipal, la policía estatal ante una tragedia de esas dimensiones si no es con el apoyo? Hay 26 mil elementos de Marina, de Defensa, de la Guardia Nacional cuidando a la gente en Acapulco y que se abran los negocios, las tiendas, las gasolinerías, los bancos, todo, que regrese a la normalidad con seguridad; pero hay más de 10 mil elementos de la Guardia Nacional en Acapulco y se van a quedar ahí.</p>
+<p>Entonces, decir: ‘Se está militarizando el país’. Pues no, lo que se está haciendo es garantizar la seguridad pública, que es un derecho fundamental de la gente, vivir libres de temores y que se cuente con elementos de las Fuerzas Armadas que tienen profesionalismo y que ayudan. Ahí están repartiendo enseres y repartiendo comida.</p>
+<p>Ahí están los marinos, ahora, con buzos y con equipos, dragas, recuperando embarcaciones. Se hundieron más de 300 embarcaciones en Acapulco y ahí están sacándolas porque… Con familiares de desaparecidos. Ahí está la Marina ayudando.</p>
+<p>Entonces, sí se va avanzando y es un trabajo conjunto, todos los gobiernos.</p>
+<p>Bueno, les ponía el ejemplo, hablaba yo de Guanajuato, el gobernador, estamos ayudando en todo lo que podamos, todo, porque es nuestra responsabilidad.</p>
+<p><strong>INTERLOCUTOR:</strong> Presidente, cambiando de tema, me gustaría preguntarle, señor presidente, cuál es su opinión sobre el nombramiento de Mario Delgado Carrillo como el coordinador general de la precampaña de la coordinadora nacional, Claudia Sheinbaum.</p>
+<p>Y cuál es su opinión también sobre cómo ha trabajado al frente de Morena desde que llegó hasta el momento, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No opino de eso, ya no, ya les dije.</p>
+<p><strong>INTERLOCUTOR:</strong> Fueron muy cuestionados otros nombramientos, pero este sí es más importante.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya les dije que yo ya entregué el bastón y ya no quiero seguir hablando de quien conduce el movimiento porque no soy objetivo.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Pero considera que ha sido buena su gestión al frente de Morena de Mario Delgado?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No me quiero meter en eso, ya no quiero hablar, no quiero que utilicen como pretexto que estoy yo aquí apoyando. Además, no soy objetivo, quiero mucho a la coordinadora, a la de la coordinadora de maestros.</p>
+<p>Adelante, usted.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente, funcionarios.</p>
+<p>Diana Benítez, del periódico <em>El Financiero</em>.</p>
+<p>Presidente, preguntarle por esta suspensión que emite ya el ministro Javier Laynez para que no se suspendan los fideicomisos del Poder Judicial. Ayer la secretaria de Gobernación hace un llamado a que reconsiderara esta decisión.</p>
+<p>Pero también preguntarle: ¿la secretaria de Gobernación realmente logró un diálogo con la ministra Norma Piña más allá de estos oficios que nos mostraron, que había la apertura para hablar sobre estos fideicomisos que fueran donados para los damnificados de Acapulco?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues está muy activo el ministro Laynez, porque fue el que intervino en lo de Nuevo León, estuvo de guardia; intervino en esto de los fideicomisos para que no devuelvan el dinero los integrantes del Poder Judicial y también intervino ayer en lo de los vapeadores, o sea, está bateando arriba de 300.</p>
+<p>Lo de los fideicomisos, yo lo dije al principio: celebré que la presidenta, la señora licenciada Piña, haya tomado la iniciativa de informarnos que podían utilizarse esos recursos para los damnificados de Acapulco, lo celebré; pero, al mismo tiempo, empecé a notar que había inconformidad por lo que había decidido.</p>
+<p>Y a los pocos días un amparo y luego otro. Y ahora ya un ministro deja sin efecto lo que había planteado la presidenta originalmente. Me envió un oficio, está por escrito, incluso hasta los representantes del congreso se sumaron y estaban de acuerdo.</p>
+<p>¿Qué pasó? ¿Por qué cambiaron de parecer?</p>
+<p>Pues sólo hay dos explicaciones. O pueden haber más, pero yo sólo tengo dos:</p>
+<p>Una, que ella sintió que era lo correcto destinar esos 15 mil millones, que no les afectan en lo laboral, que no dejan sin salarios, sin prestaciones a los trabajadores, que eso hay que aclararlo porque es un fondo ahí para garantizar privilegios que tienen que ver con sueldos elevadísimos y con otras prestaciones.</p>
+<p>Bueno, pues creo que ella pensó que era un momento de decir que ese recurso, que ya el congreso, la Cámara de Diputados, que tiene facultades, decide que se devuelva a la tesorería, pues ella plantea: ‘Estoy de acuerdo y que se etiquete para que se ayude a los damnificados de Acapulco’. Hasta ahí iban bien las cosas. Entonces, les decía yo que son dos cosas:</p>
+<p>O ella simuló y nada más fue salir al paso, y al mismo tiempo alentó lo de los amparos. O sea, el doble discurso, la doble moral, la hipocresía.</p>
+<p>O lo otro es que fue sometida a fuertes presiones de los mandamás, porque una cosa son los cargos formales y otra cosa es el poder real.</p>
+<p>Antes en México, hasta hace poco, había quienes se sentían los dueños de México, los dueños de México, porque eran los que mandaban en el Poder Legislativo, en el Poder Judicial, desde luego en Hacienda, en el Ejecutivo, eran los jefes, tan es así… Y esto para los jóvenes, que no voy a dejar de insistir en que revisen todas las reformas que se hicieron a la Constitución en el periodo en que dominaban México estos oligarcas, que revisen todas las reformas a la Constitución y van a encontrar que todas las reformas que se hicieron a la Constitución fueron para legalizar el saqueo, el robo, en beneficio de una minoría. No hay una sola reforma en 36 años en beneficio de la mayoría del pueblo, todas fueron para beneficiar al grupo de oligarcas que dominaba, mandaba en México.</p>
+<p>Entonces, pueden estar formalmente poderes, se puede hablar que los diputados, los senadores, son los representantes del pueblo, pero eso no es cierto.</p>
+<p><strong>INTERVENCIÓN:</strong> ¿Entonces, ya se lo esperaba, presidente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No. Me sorprendió, porque sí creí. Bueno, aquí hasta lo dije al día siguiente, felicité la decisión de la presidenta, pero luego empezaron con amparos y ahora termina con Laynez ya descaradamente diciendo ‘no’.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Nunca se logró mayor comunicación con la ministra Piña más allá de estos oficios? Si hubo una reunión.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, la secretaria, sí, la secretaria de Gobernación, pero ya no volvieron a hacer ningún planteamiento.</p>
+<p><strong>INTERLOCUTORA:</strong> De cualquier manera, ¿no afecta esto al apoyo que se va a dar para Acapulco? O sea, ¿no se dependía de este dinero?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, porque nosotros tenemos recursos.</p>
+<p>Ayer estuve en Acapulco. Ya vamos bastante avanzados en el plan de reconstrucción, ya estamos a punto de terminar de limpiar todo Acapulco, ya está prácticamente restablecido el sistema eléctrico.</p>
+<p>Hemos entregado diariamente despensas, canastas básicas; se siguen haciendo miles de raciones de alimentos, no falta el agua, empezamos el día 29 a entregar los apoyos a todos los damnificados para la limpieza, el arreglo y la preparación para la etapa que viene, que es la de reconstrucción de sus viviendas y ya terminamos hoy.</p>
+<p>A ver si no nos mandó Ariadna el informe. Digo, ayer habló del avance, pero a ver si lo tenemos por escrito. Y hoy se termina de entregar apoyos, hoy o mañana, creo que hoy, a 250 mil hogares.</p>
+<p>Ya también vamos a empezar mañana o el sábado a entregar ya los apoyos para la compra de materiales y el pago de maestros albañiles a las personas. Se van a entregar en dos partes: mañana o pasado empezamos a entregar la mitad, espero que terminemos como para el 23 de diciembre; y la otra mitad inicia entonces el 23 con los que les entregó primero para ver si terminamos el 31 los 250 mil.</p>
+<p>Y ya llevamos también bastante avance en la compra de los electrodomésticos, de los enseres. Todavía está allá, en China, Alicia Bárcena. Ahora tengo que hablar con ella porque ya es de noche allá, ¿no?, pero nos comunicamos. Pero ya se están cerrando contratos.</p>
+<p>Miren, hasta ayer, 214 mil viviendas y mil 758 millones entregados de manera directa. Y a ver si no dice cuándo terminan creo que terminan hoy. Porque sí, sí, ya tienen 214, hoy van a llegar a los 250; si no, mañana.</p>
+<p>Entonces, terminando empiezan a entregar ya la mitad del apoyo a las familias. Ahora fueron ocho mil pesos, pero va… Pregúntale a… En promedio van a ser cómo 35 o 40 mil pesos lo que sigue, se va a entregar en dos partes.</p>
+<p>Ya se hicieron también las guías de autoconstrucción. Nos ayudaron los ingenieros, arquitectos. Hay brigadas técnicas.</p>
+<p>Desde luego, mi abrazo fraterno a todos los servidores de la nación, porque no sólo son los de Guerrero, están de todo el país trabajando allá en situaciones difíciles, que son los que están visitando los hogares y ayudando en la asesoría para la construcción.</p>
+<p>Y hay algo que quiero aprovechar para decirle a los acapulqueños: hicimos un censo, ya les expliqué, por eso hablamos de 250, 270 mil viviendas afectadas y nos encontramos que sólo la mitad tiene escrituras, fíjense, pero tienen posesión, viven ahí desde hace muchísimo tiempo. Entonces, tomamos ayer la decisión de que a todos les voy a entregar un certificado en mi carácter de titular del Ejecutivo, de presidente de México.</p>
+<p>Una vez que terminen… Ojalá lo hagan pronto. Sí pueden, ¿eh?, porque van a tener los recursos. Tengo que agradecer a los distribuidores de materiales de construcción, nos están ayudando mucho los dirigentes empresariales, porque ya hay bodegas, ya hay centros de distribución de materiales, no están abusando con los precios, ya hay vidrio suficiente, que no había, y otros materiales.</p>
+<p>Entonces, si terminan sus casas pronto, ahí va su certificado. Estoy buscando legalmente cómo hacerle. Pero pues si ya llevan 20, 30 años, 40 años, viviendo tienen ya el derecho de posesión, ya es una cuestión de trámite. Y si a eso le sumamos que el presidente les va a entregar un certificado, pues ya les va a dar tiempo para que hagan su escritura y que no los molesten.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Habría un mínimo de años de estar residiendo ahí para otorgarle el permiso? ¿Se establecería un piso de años?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Lo ideal sería que se apuren para que lo más pronto posible. O sea, se entrega la primera ministración ya a partir del sábado o domingo. ¿Ya tienen los datos? A ver, ahí está.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> De 35 a 60 mil pesos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> De 35 y 60. Y son, la primera exhibición, 50 por ciento. Ah, 9 de diciembre, aquí está, que es sábado, ¿no? Empiezan igual con la letra del apellido, como se hizo en la primera entrega. Entonces, se va a iniciar con la mitad.</p>
+<p>Y la segunda empieza… Sí, es la primera del 9 al 18 y la segunda del 20 al 31. Y si terminan el 31, en los primeros días de enero, tienen su certificado. Y es un esfuerzo, pero es gente muy luchona, muy trabajadora, y están trabajando toda la familia.</p>
+<p>Y ya tenemos como un 26 por ciento, 28 por ciento de escuelas en donde hay clases y vamos a trabajar para rehabilitarlas todas, son más de 300, son de las prioridades que tenemos.</p>
+<p>Voy el próximo miércoles y voy a ir en 15 días, también en miércoles. Pero ese día vamos a hacer allá la conferencia, vamos a hacer la reunión de seguridad y la conferencia en Acapulco, sí, el 20, para que lo tengan presente.</p>
+<p><strong>INTERLOCUTORA:</strong> Presidente, en un segundo tema, ayer Dante Delgado, líder de Movimiento Ciudadano, pues anunció que se termina con este bloque de contención que se había hecho con la oposición en el Congreso. ¿Cómo observa esta actitud de Movimiento Ciudadano? Esto daría los votos, por ejemplo, para que Bertha Alcalde pueda ser nombrada como ministra.</p>
+<p>Y si abriría la posibilidad para que usted adelante las reformas constitucionales que tiene pendiente, o se mantiene en la idea de esperar a que se renueve el Congreso para enviarlas, si es que se tiene mayoría solo con la bancada de Morena</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, yo respeto las decisiones, ¿no?, que se tomen en los partidos.</p>
+<p>Nosotros tenemos ya un plan para que las iniciativas que voy a enviar se presenten en el mes de febrero, las vamos a presentar.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Las tres, la Judicial, la de la Guardia Nacional y la electoral?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí. Puede ser que la de la Guardia antes, pero la judicial, el plan integral para que se puedan elegir, que el pueblo elija a los jueces, a los magistrados, a los ministros, toda la reforma al Poder Judicial, eso en febrero.</p>
+<p>Y, también, antes de irnos, en ese periodo voy a enviar el que se eleve a rango constitucional el derecho de los discapacitados, porque no está. O sea, tenemos el derecho constitucional de adultos mayores; eso sí está en la Constitución; está en la Constitución lo del derecho de los estudiantes de familias pobres a recibir una beca para el estudio, el derecho a la salud, a la gratuidad en la salud, pero nos falta lo del derecho de discapacidad, o sea, que la pensión que estamos entregando se convierta en un derecho. Ya se está haciendo, ya en la mayoría de los estados es universal, nada más hay que dejarlo elevado a rango constitucional para que esté quien esté no lo puedan quitar.</p>
+<p>Y quiero también incluir un añadido para la rehabilitación, porque, lo hemos dicho en otras ocasiones, es importante la pensión para discapacitados en recursos, en dinero, pero hace falta la rehabilitación, porque hay muchas discapacidades leves que se convierten en grave porque no se atienden por falta de dinero y por falta también de atención médica especializada.</p>
+<p>Por eso, tenemos este acuerdo con los centros de rehabilitación del Teletón, se dan unas becas para que niñas, niños, puedan asistir a estos centros, eso es muy importante, porque no hay los suficientes y se puede que una niña, un niño con una discapacidad menor se corrija completamente. Si no tiene atención, al contrario, se agrava y se vuelve discapacidad permanente por la falta de apoyo, por la pobreza y por la falta de especialidad. Porque imagínense cuánto le cuesta a una familia humilde llevar a sus niños a terapias.</p>
+<p>Entonces, eso también lo queremos dejar como derecho constitucional.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿La de la Guardia y la electoral serían también para febrero?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, la electoral también para febrero, sí.</p>
+<p>Y sólo lo de la Guardia quiero ver qué va a suceder en estos días, porque a lo mejor nos da tiempo para la reforma constitucional. O sea, que no sea tan urgente. Es que a partir de enero ya se ordena que se separe la Guardia Nacional de la Secretaría de la Defensa y eso nos va a generar muchos problemas.</p>
+<p>Entonces, ahora se logró un acuerdo porque prevaleció la sensatez, que a veces… Porque la gente está ofuscada, ¿no?, molesta, no entra en razón, pero afortunadamente ahora hay este acuerdo de incluso todos los legisladores, según me informan, que haya un mecanismo para que siga la Guardia Nacional con los apoyos de la Secretaría de la Defensa.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿El PAN también está de acuerdo, presidente? Decían que había consenso.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Parece que sí. Digo, ojalá; si no, ya el corrido lo dirá.</p>
+<p><strong>INTERLOCUTORA:</strong> Finalmente, presidente, nada más, si nos confirma la hora en la que se reunirá con el Consejo Mexicano de Negocios, en dónde será el encuentro. ¿Y qué mensaje lleva a los empresarios? Por favor</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues nos vamos a reunir hoy. Hoy tengo reunión con la señora Yanet, que es la tesorera del gobierno de Estados Unidos, una señora con mucho prestigio y muy importante, como se comprenderá. Y llevamos muy buena relación con el gobierno de Estados Unidos y vamos a tratar algunos temas.</p>
+<p>Y también hoy es el consejo de empresarios, la asociación de… Consejo Nacional de Negocios.</p>
+<p><strong>INTERVENCIÓN:</strong> Consejo Mexicano.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Consejo Mexicano de Negocios, donde están empresarios muy importantes de México, es como una cúpula empresarial, y me invitan, vamos a tener una comida de trabajo.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿En dónde será?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Creo… No sé, pero…</p>
+<p><strong>INTERVENCIÓN:</strong> (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, si siempre, siempre, aquí por la Alameda., como las 2:30, a esa hora comemos, ¿no? Todos.</p>
+<p>Hay una anécdota, hay una anécdota muy buena que se las cuento, también para los jóvenes: uno de los mejores intelectuales historiadores de México fue don Daniel Cosío Villegas. Sería aquí largo, ¿no?, hablar de su vida académica y la manera cómo aportó mucho para la comprensión de la historia de México. Tiene 10 tomos cada uno sobre la historia moderna de México, tres sobre economía, tres sobre política, dos sobre relaciones internacionales y dos, creo, sobre la vida social de México. Le llevó como 30 años la investigación, y un equipo de lo mejor, los investigadores. Son libros que yo recomiendo, comprenden todo lo que fue la República Restaurada desde el término de la guerra de intervención francesa, el primer gobierno de la República Restaurada de Juárez y también el gobierno del presidente Lerdo, 10 años.</p>
+<p>Y luego, todo el porfiriato, que es la parte fundacional del sistema político de México porque, como lo hemos dicho aquí varias veces, ni siquiera ese vendaval que fue la Revolución mexicana pudo arrancar de raíz el porfiriato; se avanzó mucho en lo social, pero en lo político no, no hubo democracia y se establecieron o se trasladaron las mismas prácticas del porfiriato al periodo posrevolucionario. Claro, nada que ver en lo social, lo social sí, el porfiriato era esclavitud.</p>
+<p>En la Revolución se avanza mucho porque se garantizan las ocho horas de trabajo, el salario mínimo, prestaciones, eso es la Revolución, el derecho de los campesinos a la tierra; con Porfirio Díaz era reprimir a los dueños de la tierra, exterminarlos, a los mayas, a los mayos, a los yaquis, para quitarles sus tierras.</p>
+<p>Bueno, pues don Daniel hace toda esa investigación con mucha gente y también escribía ensayos. Tiene un ensayo, también que se los recomiendo mucho, que escribió en los años 40, que se llama <em>La crisis de México</em>, desde entonces, 1940. Además, ese no es así, voluminoso, ese se lee relativamente rápido. Es buenísimo ese ensayo, extraordinario.</p>
+<p>Y tiene otras cosas. Como se confrontó con el presidente Echeverría, tiene también ensayos sobre ese entonces. Y buscando la conciliación se organizó una comida, me platican, de don Daniel con Echeverría, y don Daniel estaba acostumbrado a comer a la una de la tarde, antes en los pueblos se comía a esa hora, una, dos, pero no era a las tres, eso ya es nuevo, en los pueblos era a la una, una y media, porque también tenían que descansarse en el trópico, tenía que haber siesta.</p>
+<p>Se partía el día en dos, por eso rendía. Se levantaba la gente muy temprano, entonces ya con el calor pues ya no se podía ni trabajar en el campo ni en ninguna parte. Entonces, ya era comer temprano y la siesta y después de la siesta ya hasta la noche-tarde. Se partía el día. Era muy sabio, se descansaba bien. Todo eso pues ya cambió.</p>
+<p>El caso es que dijo Echeverría que iba a llegar a las tres de la tarde y don Daniel dijo: ‘Pues yo estoy acostumbrado a comer a la una. Me va a perdonar el presidente, pero no lo voy a esperar’. Son costumbres. Entonces, ya cuando llegó el presidente pues ya había comido. Era gente que tenía la arrogancia de sentirse libres, muy independientes.</p>
+<p>Así quisiéramos ahora a los intelectuales, libres, libres, libres, y además con mucho trabajo de investigación. Es que ya no hay investigaciones, de esas de don Daniel ya no hay, muy pocas; las ciencias sociales están muy apagadas. Yo espero que vayan renaciendo, y ya está sucediendo, porque hicieron mucho daño, como todo. Con la política neoliberal cooptaron a los intelectuales, se volvieron negociantes los intelectuales, se volvieron ricos, y cuando un hombre se entrega —o una mujer— por entero a la mentira pierde hasta la imaginación y el talento. El que se corrompe, ya se le va la lucidez. por eso no hay que corromperse. A ustedes, que les gusta el periodismo y que escriben y son muy buenos… Aquí estoy viendo a muy buenos periodistas, aquí, fíjense, aquí están dos —ya les voy a hacer la barba ahorita; como no hay <em>chayote</em>, bueno, pues cuando menos barba, ¿no?—: la que presentó la investigación de <em>Contralínea</em>, digo, de la transparencia, y el compañero Serrano, ¿no?</p>
+<p><strong>INTERVENCIÓN:</strong> Guillermo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Guillermo. Tú también trabajaste, ¿no?, pero es otro medio, sí, perdón, sí, pero trabajaron los dos.</p>
+<p><strong>INTERVENCIÓN:</strong> Sí, somos aliados.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, pero aparte.</p>
+<p><strong>INTERVENCIÓN:</strong> Sí, sí, sí.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Si, los dos, ese es un trabajo importantísimo de investigación, porque es desenmascarar, o sea, cómo quiénes se hacen cargo de la transparencia, ¿no? Solicitan ustedes que les entreguen información y no la otorgan, la reservan, la niegan. Entonces, ustedes hacen la investigación, la consiguen —es apasionante, también, ¿eh?, es extraordinario eso—, consiguen la información y se dan cuenta, llegan a demostrar que las tarjetas de crédito, ¿no?...</p>
+<p><strong>INTERVENCIÓN:</strong> American Express.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> American Express, no cualquiera, American Express, de puro machuchón, las usaban para ir a los bares.</p>
+<p><strong>INTERVENCIÓN:</strong> Para ir a los teibols</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, pero no me gusta decir a mí eso. A los bares, y todo con cargo al presupuesto, a costillas del erario, sí, con dinero del pueblo, los encargados de la transparencia.</p>
+<p>¿Qué tiene que ver la transparencia?</p>
+<p>Pues mucho, es el manejo honesto de los recursos, y miren el ejemplo que dan ellos.</p>
+<p>Pero ustedes no trabajan en los medios convencionales. No, ¿verdad?</p>
+<p><strong>INTERVENCIÓN:</strong> Somos libres.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues es lo nuevo, es lo nuevo, es lo que se está dando a conocer, que es buenísimo, todas estas investigaciones. Y realmente hay mucho trabajo de investigación y hay que seguirlo haciendo, que la vida pública sea cada vez más pública.</p>
+<p>En el combate a la corrupción lo mejor es prevenir, lo peor es que el corrupto no pierda ni siquiera su respetabilidad y que se vea como algo normal, eso es lo peor. Entonces, no es el ministerio público, el juez, no, es que si eres corrupto no eres aceptado. No me vengas a presumir de que tienes mansiones y que tienes departamentos en Miami o en Nueva York que obtuviste mediante la corrupción, no quiero hablar mucho contigo; de lejitos, no me vayas a robar la cartera.</p>
+<p>Pero antes, no, se ponían hasta de ejemplo, ‘apúrate, estudia, para que cuando seas grande seas como don fulano’, y todo eso ha hecho muchísimo daño, bueno, tanto que por eso la monstruosa desigualdad que existe, ¿no?, porque unos cuantos se quedan con lo que pertenece a todos.</p>
+<p>La corrupción es lo que más ha dañado a México, es la causa principal de la desigualdad económica y social, es el mal que más aqueja a la nación, el que más daña, y no había conciencia de eso porque ya nos habían manejado que los problemas eran de otro tipo. Llegaban a decir que el problema era la educación, la calidad de la enseñanza, por eso tanta preocupación por la prueba PISA.</p>
+<p>Que el problema de México era que no se pagaba impuestos, o que no pagaban impuestos los vendedores ambulantes y así una retahíla de inventos. Claro, todo eso es problema, pero el principal era la corrupción, ese era el principal problema. Por eso el enojo ahora de muchos, ¿no?, pero hay que seguir adelante.</p>
+<p>Te quedas para mañana.</p>
+<p><strong>INTERVENCIÓN:</strong> Vengo de Puebla.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Está cerquita Puebla. Que viva Puebla.</p>
+<p>Vámonos a desayunar.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

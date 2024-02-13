@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>09.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/09-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=162727' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F09-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F09-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2stwa-f-243658299-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":152,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c3f6de","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":61162,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726636","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==4TN+mSoMNApQBknjESJPZShyHGxMXnkM6bAq7m/YbKDjzbaEglDZcweN6kjfesFIqj1x5t5sGn0a/bvj0L22x2S9CLoKY1N2CZM5ae5ssWLQijqJdJtnNfxYRsIeFMj8qinNmwX/L47rk7MUCY2xEFal7pq0zKZlZocx1zbki7kP6frPcgJa7FOSnSyD89oWuGxg4mjKOYPiEj8W+xtfNjojhaMRQYQLloMByjRarOignp8Pk1XnpX7Ue77YueZKiEmyfgd4azI64yQclYbc7NGDW9/ZCm+KoxcHS1NGKmjc5ldE3kPvKmwAe/kMbJ+SKnbNfGhARcF5Z71t9bERbsOZ7OxfpJyBg9dBq7qyFQFjZiqACRbikAniXjbckS7j+80dVbQjJeW0I5B6OQbliM3voDm2M4osd5HCb3744iw=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-162727 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba93681904d" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>09.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 09.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-162727" class="post-162727 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/06/2023-06-09-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/06/2023-06-09-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05-745x450.jpg" alt="09.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">09.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/6i5Vii9BWrXGmlJaOmecfj?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Buenos días. Ánimo, ánimo.</p>
+<p>Bueno, no hay tema a exponer, de modo que vámonos a preguntas y respuestas. Quedó un compañero, uno.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente. Muchas gracias. Julio Omar Gómez. Buenos días a todos.</p>
+<p>Presidente, nos hicieron llegar aquí, al medio, 87 ejidatarios expropiados del ejido Santiago Zacatula, del poblado del mismo nombre, municipio de la Unión Guerrero. También le solicitan el apoyo, pues le hacen un llamado de auxilio urgente para que no se consuma otro acto más de despojo de los que han venido dando a lo largo y ancho del país al amparo del Poder Judicial.</p>
+<p>El predio denominado es Isla de la Palma, perteneciente al ejido Santiago Zacatula, del poblado del mismo nombre, y habían expropiado 645 hectáreas en 1982, en tiempos de los padres que ahora los denunciantes son los hijos. En la Isla de la Palma no se ha construido una sola empresa u obra o desarrollo desde el 82 y relatan que tuvieron la posesión desde el año 2008, que es cuando empieza el conflicto por la propiedad con el gobierno de Michoacán. Esa es una petición que le hacen y con mucho gusto le puedo hacer llegar los datos de las personas que solicitan acá.</p>
+<p>Presidente, en otro tema, ya dándole seguimiento de empleados aduanales, una de las tareas en las que usted ha puesto especial interés y donde se ha notado la mano de Rafael Marín Mollinedo al frente de la Agencia Nacional de Aduanas, quieren comentarle y preguntarle sobre la llegada de Alex Tonatiuh Márquez Hernández a la primera línea de la ANAM, con muy mala reputación y ruido alrededor de su llegada.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/06/Conferencia-matutina_2023-06-09.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/FBVWKS0E7lg?t=663" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p>Nos han comentado que hay otros dos personajes cercanos a la dirección: Héctor Ruiz Ángel y Alejandro Enrique Arco Romero. Lograron saltarse los requisitos y meter a Márquez en los mandos de la dirección. Empleados de la aduana insisten que del norte del país se han manifestado en ese desacuerdo con esas personas porque están llegando con una clara actitud de dominar y tener el control aduanal, precisamente contra lo que usted está luchando, que es la corrupción, donde incluso el administrador de Reynosa, Felipe Martínez Roque, se jacta que como grupo han llegado desde Reynosa para controlar el contrabando.</p>
+<p>Y queda claro que Marín Mollinedo quiere cumplir con su encomienda, hay escritos en los que piden el cambio de ciertos subadministradores para tener orden en el contrabando, pero también en la agencia se preguntan por qué Tonatiuh, Héctor y Felipe tienen control, junto con el general Ramiro Gómez Contreras, quien lejos de disminuir el contrabando, lo está dejando pasar, presidente, pues son llamados que hacen los propios empleados aduanales.</p>
+<p>Por otra parte, nos hicieron llegar también, señor presidente, que siguen tratando de hacer trampas a los que usualmente se acostumbraban, participando en las licitaciones del IMSS a pesar de estar inhabilitados en Impromed y estar inhabilitada, pero se coordinan con Intermed, ambas empresas están relacionadas entre sí, donde supuestamente tienen el mismo dueño, Fernando Chaín.</p>
+<p>Y realizaron operaciones entre sí por 206 millones en enero-abril de este año, simulan operaciones para transferir esas ganancias entre ellas mismas, muy parecido a las operaciones que hacía Genesis HealthCare, y concursa, cobra al gobierno, pero después ya se transfieren a otra empresa que se llama Falcón, que también, igual, está inhabilitada en el 2023. Ya se han hecho transferencias por 126 millones de pesos por licitaciones que mediante estos engaños siguen participando. Pues aquí estas personas que se sienten ofendidas solicitan una revisión sobre este aparente acto de corrupción, presidente.</p>
+<p>Esos son tres pequeños temas, pero le diré que hay un atraso ahí que tenemos en la edición dando seguimiento a algunas solicitudes, y les voy a decir muy rápido porque aquí tengo las solicitudes que con mucho gusto se lo puedo hacer llegar a Jesús Ramírez por manera digital, si usted gusta. Le voy a decir un poco rapidísimo todos los puntos:</p>
+<p>Hubo un recurso del Conabox que se prometió a Baja California Sur, no llegó, y el presidente de la Comisión de Boxeo solicita saber qué pasó con ese recurso que nunca llegó a los deportistas. Aquí tengo la solicitud, también se la puedo hacer llegar.</p>
+<p>También hay otra demanda en Baja California Sur, nos hacen llegar una carta sobre discriminación laboral, aprovechando que va a estar allá, presidente. Con gusto le paso a Jesús el documento donde le hacen el reconocimiento que los trabajadores de Reformex, su situación laboral y la discriminación total con los no sindicalizados.</p>
+<p>Y una asociación de trabajadores petroleros jubilados de Poza Rica, Veracruz, fueron defraudados por una caja de ahorro y piden su intervención, presidente, ya que es un problema tan añejo y afecta a varias familias veracruzanas, cientos.</p>
+<p>Y, pues, bueno, igual aquí tengo otra vez otra solicitud donde el Valle de Guadalupe pues no ha tenido el abasto del agua y en Ensenada, y los pobladores le solicitan un pozo profundo para el abasto de cientos de familias, aquí tengo también la solicitud que le hacen llegar.</p>
+<p>Y sobre el conflicto de trabajadores de la Cámara de Senadores que le había planteado en la última ocasión del sindicato del Senado y contra la magistrada Bertha Orozco, fueron recibidos muy bien por la secretaria del Trabajo, pero no es la encargada, sino la Secretaría Gobernación a través del Tribunal Federal de Conciliación y Arbitraje. Ahí sí le solicitaría que nos ayudara para tener esa cita a los trabajadores del sindicato de la Cámara de Senadores para poder tener esa cita con la dependencia correspondiente.</p>
+<p>Y ya, por último, el tema que le expuse sobre el faro viejo, el emblema de Cabo San Lucas, pues fueron muy bien atendidos por el director Diego Prieto, pero nos comentó que pertenece al Inbal, por lo que se mandó oficio, pero no se ha realizado algún contacto con el instituto, por lo que también se requiere dar seguimiento a este asunto de la privatización de un inmueble de la nación. Entonces, también ojalá nos pueda echar la mano. Yo sé que son muchos detalles, presidente, se los quise decir a detalle, pero aquí están todas las solicitudes.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, muy bien, lo vemos todo. Te pones de acuerdo con Jesús y que nos ayude Jesús con las distintas dependencias.</p>
+<p>Y hay cosas que planteas sobre los pleitos que existen en algunas aduanas, que ya tenemos nosotros noticias, o sea, que es lo que tú estás señalando y se está investigando y se va a actuar, vamos a seguir viendo todo eso.</p>
+<p>Y adelante, en todo lo que podamos ayudar a la gente. Ustedes son gestores también de las demandas de la gente, tienen la posibilidad de representar a muchos que quieren atención o están presentando denuncias o no son tomados en cuenta. Entonces, déjanos todo esto y lo vamos a ir viendo.</p>
+<p>Vamos acá, vámonos a la segunda, exactamente. Es que ya siempre… A ver, díganme una cosa: se sortean dos, ¿verdad?, primera y segunda. Bueno, vamos, las dos compañeras de la segunda y luego ustedes dos, y luego dos de la segunda.</p>
+<p><strong>INTERVENCIÓN:</strong> Señor presidente, yo vengo de la zona maya, de…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, está bien. Y luego ella, sí. Va, de acuerdo.</p>
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Rubí Bobadilla, del <em>Informador</em> en Jalisco.</p>
+<p>Preguntarle, bueno, que el problema de las desapariciones afecta gravemente a todo el país. Jalisco se encuentra liderando este número de personas desaparecidas a nivel nacional. En Jalisco tenemos este problema en el cual además se criminaliza a las víctimas y pues, bueno, después aparecen los cuerpos en fosas clandestinas, donde también tenemos una grave crisis. En este sentido tenemos una alta impunidad también, en el estado, donde la impunidad supera el 99 por ciento, tanto en homicidios como en desapariciones.</p>
+<p>Me gustaría preguntarle si usted ya habló con el presidente en esta temática precisamente. ¿Cuáles serían las indicaciones para el estado de Jalisco? ¿Qué sigue de pendientes en este tema?</p>
+<p>Además de que el gobernador Enrique Alfaro dice que existe un doble registro de desapariciones, porque en Jalisco tienen unos datos y el Registro Nacional de Personas Desaparecidas tiene otros datos más, debido a un desorden que tiene la Comisión Nacional de Búsqueda. ¿Qué hay en este tema, en primer lugar, presidente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, es muy lamentable la desaparición, y luego encontrar a las víctimas en fosas clandestinas, esto último que sucedió en Jalisco, que tiene que ver con denuncias que ya se habían presentado y, como tú dices, independientemente de a lo que se dedicaban quienes perdieron la vida, esto no puede permitirse, aceptarse, el que se aplique justicia, ¿no?, de parte de delincuentes, eso no se puede permitir.</p>
+<p>Y ya se están haciendo investigaciones, hemos estado atentos a este caso y a otros en lo que corresponde a Jalisco, trabajando en coordinación con el gobierno del estado, y también, tomando en cuenta algunas recomendaciones del gobierno de Estados Unidos, sobre todo en este asunto.</p>
+<p>Acerca de los desaparecidos en el país, se está haciendo ahora un censo nuevo para tener plena certeza de cuantos desaparecidos ha realmente. Nos están ayudando los gobiernos estatales, las fiscalías de los estados y está participando la Subsecretaría de Gobernación y también la Secretaría de Seguridad y de Protección Ciudadana para tener todos los elementos y un censo confiable, porque sí falta actualización, hay casos en donde se reporta una desaparición y se encuentra a la persona, pero no se actualiza el padrón.</p>
+<p>Y qué bueno que exista la persona, pero tenemos que saber muy bien, con exactitud, empezar por ahí, y se consideró que era necesario, que se está haciendo, yo pienso que en un mes ya tendremos un padrón y se les va a informar aquí, vamos a darlo a conocer, de todo el trabajo realizado, de todo el censo que se está haciendo en el país, y esto va a ayudar mucho para saber qué estados tienen más desaparecidos, desde cuándo y qué se está haciendo para encontrarlos, toda la búsqueda y trabajar junto con familiares y con víctimas.</p>
+<p><strong>INTERLOCUTORA:</strong> Presidente, en este mismo sentido, ya que usted lo comenta, que ha estado en contacto ya también con el gobierno de Estados Unidos, no sé si fue a partir de que dio a conocer este documento en abril pasado o si ya estaban trabajando desde antes para identificar este tipo de sitios clandestinos que no solamente operan principalmente en Jalisco, Nayarit y Quintana Roo, sino también en otras partes de la república. Usted, con tan buena relación que tiene, por ejemplo, con Ken Salazar, ¿sí se está actuando?, ¿sí van contra estos sitios?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, hay abierta toda una investigación al respecto.</p>
+<p><strong>INTERLOCUTORA:</strong> Perfecto, presidente.</p>
+<p>En mi siguiente pregunta, su opinión respecto de estos estados que están endeudando a sus entidades, a sus ciudadanos, como sabemos, Enrique Alfaro inició la administración con alrededor de una deuda de 17 mil millones de pesos y ahorita va superior a los 34 mil millones de pesos, esto en el sentido de que estaría buscando estas negociaciones para poder, no tanto como separarse del tema de los impuestos, pero sí quisiera un esquema el independiente para poder organizar sus recursos. ¿Esto tiene lógica cuando endeudas a un estado y quieres como separarte del sistema financiero que se tiene?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, llevamos buena relación con todos los gobiernos estatales, con los gobernadores. En el caso de Jalisco es buena la coordinación que se tiene.</p>
+<p>No conozco la situación de deuda. La recomendación es que no se contrate deuda para que no se deje en situación de quiebra a los estados, las finanzas públicas de los estados, lo que pasaba antes, que no había límite y crecían y crecían las deudas, lo que sucedió en Coahuila y en otros estados donde hubo mucho endeudamiento, incluso auspiciado por Hacienda, por la federación, ´porque les hablaban a los estados, ya he comentado eso de las llamadas asociaciones públicas-privadas.</p>
+<p>Había un grupo de contratistas privilegiados con influencias, los cuñados de Salinas de Gortari, y otros, de medios de información, entonces desde Hacienda les hablaban a los gobernadores: ‘Oye, que te hace falta una clínica; nosotros la autorizamos, nada más que es un convenio público privado y es con esta empresa’.</p>
+<p>Entonces se construye el hospital, nada más que los costos elevadísimos, todavía hay que estar pagando mes con mes, aunque parezca increíble. Hay hospitales como el de Zumpango, el de Ixtapaluca, en el Estado de México, en donde el gobierno del Estado de México tiene que destinar hasta 200 millones de pesos al año, por 20 años.</p>
+<p>¿Por qué resultan tan onerosos esos hospitales?</p>
+<p>Porque le aumentan en los costos de construcción, pero luego también le aumentan en los intereses, las tasas de interés elevadísimas que se pactan y por eso un hospital, que puede costar mil 500 millones de pesos, si se hace con presupuesto público, termina costando ocho, 10 mil millones de pesos. Ese era el mecanismo. Pero no sólo eran hospitales, eran carreteras, eran reclusorios, gasoductos, de todo, y esto llevaba al endeudamiento porque cuando los de Hacienda aprobaban esto era con cargo a las participaciones federales de los estados.</p>
+<p>Entonces, para pagar se hacían los descuentos en Hacienda para pagarle a las empresas, entonces se quedaban sin dinero los gobiernos y tenían que recurrir a deuda y a más deuda, entonces, eso ya no existe, eso ya no se permite ese tipo de contratos leoninos, pero llevamos muy buena relación con el gobierno de Jalisco.</p>
+<p>Son opiniones, cada quien tiene sus estrategias. Y lo que nosotros estamos recomendando es que haya austeridad en todos los gobiernos. Ahí tengo para firma y que se publique la reforma en donde los gobiernos estatales no pueden ser limitados en sus gastos de publicidad, y estoy pensando si la firmo, si firmo la reforma para publicarla, porque hay muchos gobiernos que destinan demasiado presupuesto público a la publicidad.</p>
+<p><strong>INTERVENCIÓN :</strong> (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, vi el proyecto de publicación y no lo quise firmar, dije: Lo voy a pensar, quiero hablar sobre este asunto con el secretario de Gobernación, el secretario de Finanzas, porque no es un asunto nuestro, de la federación, me refiero a que tenga que ver con el gasto de publicidad del gobierno federal, también estoy consciente que los gobiernos estatales son autónomos, son soberanos, todo eso lo quiero tomar en cuenta, pero que yo publique una reforma en donde no hay límites para el gasto en publicidad… Porque también eso lleva al endeudamiento de los gobiernos estatales, porque es mucho dinero el que se destina al gasto de publicidad, mucho, mucho dinero, hay estados en donde puede pasar de mil millones y cuando hay elecciones, en vísperas, hacen su agosto, tienen el control de todos los medios, no hay cuestionamiento en los estados a los gobernadores porque tienen convenios de publicidad con todos. Pero, ¿cuánto cuesta eso?</p>
+<p>No estoy diciendo que desaparezca el financiamiento para la publicidad, pero que tengan un límite. Ya tocaste un buen tema, fíjate.</p>
+<p><strong>INTERLOCUTORA:</strong> En la reforma nos podría usted adelantar cuál sería el tope o más o menos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no, no, lo que quiero es revisar lo que se autorizó en el congreso y, pues no quiero caer en una contradicción de que estamos hablando de austeridad republicana, que no puede haber gobierno rico con pueblo pobre, que no puede haber gasto superfluo, que no puede haber gastos onerosos, que, como decía Díaz Mirón, nadie tiene derecho a los superfluo mientras existan seres humanos que carecen de lo indispensable.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Vamos con ustedes dos. Ah, no, la compañera y ustedes dos después, y ahorita vamos a la derecha, digo, a la izquierda de ustedes.</p>
+<p><strong>PREGUNTA:</strong> Presidente, yo…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya, ya, ya te escuché.</p>
+<p><strong>PREGUNTA:</strong> Muy buenos días, señor presidente.</p>
+<p>Janet Galindo, de <em>Grupo Transmedia La Chispa Campeche, Tabasco, Yucatán, Quintana Roo, Petrolera, Estado de México, Ciudad de México.</em></p>
+<p>Señor presidente, usted ha estado tocando constantemente —bueno, y hemos visto— de hecho, ayer se tocó el tema del rescate arqueológico donde ha habido grandes avances; sin embargo, no nada más ha sido a lo largo del Tren Maya donde se ha tenido, si ha habido rescate.</p>
+<p>Pero hay un tema que se ha quedado pausado, nos había ya comentado algo sobre el rescate del penacho de Moctezuma. ¿Qué es lo que ha pasado? ¿Cómo va ese proceso? Porque muchos lo tomaron esto como una burla; sin embargo, hemos visto que, a través de su administración, o sea, este tema de este rescate ha sido y va en serio. ¿Cómo este tema? ¿Cómo va este proceso?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues es un tema histórico, el mismo Maximiliano de Austria quiso traer el penacho, y estaba creo que su hermano de monarca, y no se lo permitieron. Y esa ha sido la historia, una actitud muy prepotente del gobierno de Austria.</p>
+<p>En los últimos tiempos han argumentado o pretextado que no se puede mover porque se destruye. Es algo que no tiene sustento, consideramos nosotros. La verdad es que no lo quieren entregar. Y como suele pasar en estos casos, no sólo son los gobiernos que se sienten dueños de lo que no les pertenece, sino también asociaciones de expertos, especialistas, de estos bienes culturales de otros países.</p>
+<p>Entonces, se intentó ahora con la conmemoración de los 500 años de la toma de Tenochtitlán, se intentó el que nos mandaran el penacho para exhibición durante un tiempo, le envié una carta al presidente, fue incluso Beatriz, mi esposa, habló con él, pero me cuenta que estaba rodeado de quienes se oponen.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Lo aconsejaban?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, y que el señor leyó la carta y luego Beatriz le expuso. Y volteó a ver a una señora, que era la más representativa del grupo, y la señora movía la cabeza y entonces al final le dijo Beatriz: ‘Bueno, ¿van a cooperar o no?, para saber’. Y el señor volteó a ver a la experta o la custodia principal del penacho y dijo que no. Entonces, Beatriz le dijo:</p>
+<p>—¿Cuál es la respuesta?</p>
+<p>—No.</p>
+<p>—Ah, pues, ya no tiene caso seguir hablando.</p>
+<p>Entonces, luego me ofreció que nos mandaban para la exposición otros objetos y demás, y le dimos las gracias.</p>
+<p>Pero ese es un tema que debemos de mantener, esa demanda, y hay que recuperar todo lo que se robaron, todo lo que sustrajeron de México, en este caso y en otros.</p>
+<p>Hay países como Italia, en donde nos ayudan mucho en el rescate de piezas arqueológicas, van a las subastas y, si no hay documentos y se considera que son piezas robadas de México, si no hay justificación, ellos las decomisan, los carabineros tienen una sección con ese propósito. Por eso les entregamos la condecoración del Águila Azteca, porque nos han devuelto muchísimas piezas arqueológicas.</p>
+<p>Francia tiene una actitud distinta, no cooperan.</p>
+<p>Estados Unidos está empezando a cooperar, nos acaban de mandar una pieza olmeca muy importante, pero vamos a continuar.</p>
+<p>De España, también, están enviando, sobre todo coleccionistas privados que están ayudando en esta campaña de rescate que se está haciendo a nivel nacional.</p>
+<p>Yo agradezco a los embajadores, cónsules, a servidores públicos del INAH, de Relaciones Exteriores y todos estamos ayudando; bueno, la Secretaría de Cultura para recuperar lo más que se pueda de nuestro patrimonio, esto es la explicación.</p>
+<p>Si lo consideras, te doy copia de la carta.</p>
+<p><strong>INTERLOCUTORA:</strong> Gracias, muy amable. De hecho, bueno, no, no quita el dedo del renglón, no se quita, ¿verdad?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no.</p>
+<p><strong>INTERLOCUTORA:</strong> Okey, gracias.</p>
+<p>Y ayer usted tuvo una reunión con Del Mazo. No sé si nos pudiera comentar qué trascendió. ¿Tocaron temas importantes en esta reunión?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No me reuní con Alfredo del Mazo ayer.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Es <em>fake</em> entonces esa foto que circuló?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Me reuní hace como unos 15 días con él. Y sí nos reunimos con frecuencia porque evaluamos juntos obras como la del Tren Toluca a la Ciudad de México, todo lo que tiene que ver con las vialidades al aeropuerto ‘Felipe Ángeles’, estamos trabajando de manera coordinada lo del transporte de Chalco a Santa Martha, los trolebuses que se van a establecer para mejorar el transporte de toda esa región. Son programas conjuntos, nos reunimos como cada mes.</p>
+<p><strong>INTERVENCIÓN:</strong> Es que ayer salió esa foto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Ayer salió? No, con el que estuve ayer fue con Ricardo Monreal.</p>
+<p><strong>INTERLOCUTORA:</strong> Con Ricardo Monreal, con el senador.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, con él estuve y fuimos también a una comida con la Asociación Mexicana de Negocios, eso sí.</p>
+<p>¿Sacaron esa foto, entonces?</p>
+<p><strong>INTERLOCUTORA:</strong> Sí, sí, ayer.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no, es que tienen mucha imaginación.</p>
+<p><strong>INTERLOCUTORA:</strong> Sí, como que estaban preparando algo.</p>
+<p>Señor presidente, y rápidamente, en mi última participación le comenté sobre una carta que le había mandado el doctor Carlos Rafael García Ortiz —él es tabasqueño— con respecto a cómo se encontraban algunos ductos en hospitales en el sureste.</p>
+<p>Él le mandó un compendio de fotos que me pidieron entregárselo. Si se los hago llegar a través de Jesús, por favor. Aquí vienen todas las fotos, que él quisiera ver si usted personalmente los pudiera revisar.</p>
+<p>Es cuanto. Muchísimas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> A ver, los dos compañeros. Te vas a que quedar, vamos a irnos acá, al otro extremo, a lo mejor llegamos a algún acuerdo.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, compañeras y compañeros; buenos días, señor presidente.</p>
+<p>Antes que nada, pues agradezco que por fin me haya dado nuevamente la palabra. Francamente cumplo seis meses sin poder participar, estoy aquí asistiendo una vez a la semana desde hace seis meses, pero, pues gracias que nuevamente me da la oportunidad de hablar.</p>
+<p>Presidente, antes que nada, le quiero…. Son tres denuncias que le traigo:</p>
+<p>Una es de una ciudadana de la Ciudad de México, que nos ha pedido hacerle saber a usted de las violaciones que ha sufrido a sus derechos humanos por parte del Instituto Mexicano del Seguro Social. En <em>Puntos Suspensivos </em>nos dimos a la tarea no dimos a la tarea de investigar su caso y resulta que se trata de la inadecuada aplicación de la ley, que no sólo es la ley del Seguro Social de 1973, sino la ley de 1997, la ley del Issste, la ley de Pemex, entre otras más.</p>
+<p>Me explico. El artículo 155 de la Ley del Seguro Social de 1973 señala, y cito textualmente: ‘El derecho al goce de la pensión de viudez comenzará desde el día del fallecimiento del asegurado o pensionado, y cesará con la muerte del beneficiario o cuando la viuda o concubina contrajera en matrimonio o se encontraran en concubinato’.</p>
+<p>El argumento que da el IMSS respecto a dicho artículo es que se busca cubrir las necesidades por la pérdida de unos de los contribuyentes al gasto familiar. Al casarse de nuevo, dicha carencia desaparece porque el aporte económico le corresponde a la nueva pareja de la viuda.</p>
+<p>Señor presidente, en el tiempo en que se legislaron estas leyes no se protegían los derechos de las mujeres como se hace hoy en día. Si ponemos atención, la ley habla de viuda y/o concubina, y no de viudo o concubino, siendo el artículo discriminatorio.</p>
+<p>Debo decirle que la Suprema Corte de Justicia ya se ha pronunciado al respecto sobre este tipo de casos y señala que dichos artículos transgreden las garantías de igualdad a la no discriminación y de seguridad social, por lo que no existe justificación constitucional para que una persona que tiene derecho a recibir una pensión por viudez se le restrinja el derecho a percibirla por el hecho de que contraiga nuevo matrimonio, pues ello contraviene al principio de igualdad contenido en el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, así como el de protección a la institución de la familia consagrado en el artículo 4º y la garantía de seguridad social, y el principio de la previsión social contenidos en el artículo 123, apartado B fracción 11 inciso A.</p>
+<p>En el caso que nos ocupa la ciudadana contaba con una pensión por viudez desde 1995; tiempo después, se volvió a casar. A unos años, el IMSS detectó que estaba asegurada por su segundo esposo, por lo que le canceló la pensión por viudez que recibía, requiriéndole la devolución de más de 800 mil pesos por haberlos cobrado inadecuadamente; de lo contrario, darán vista al Ministerio Público, es decir, de un derecho social que recibía ahora es señalada como una delincuente.</p>
+<p>Lamentablemente para la señora su segundo esposo falleció a finales del año pasado. Al tratar de tramitar su segunda pensión no sólo se la negaron, sino que el funcionario que la atendió, de la subdelegación 10 Churubusco, le preguntó si estaba coleccionando pensiones.</p>
+<p>En <em>Puntos Suspensivos</em> decidimos traer este tema con usted porque la señora es una más de muchas mujeres en el país que han sido restringidas de sus derechos y violentadas hasta verbalmente por funcionarios insensibles.</p>
+<p>La pregunta en concreto, señor presidente, es: ¿qué postura tomará la Cuarta Transformación en la aplicación de dichos artículos violatorios de derechos humanos, tomando en cuenta la llegada de la ministra Norma Lucía Piña Hernández como presidenta de la Suprema Corte de Justicia, que al parecer está más interesada en proteger los intereses de delincuentes que los derechos de la propia ciudadanía?</p>
+<p>Esto como primera denuncia, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, en ese caso nos entregas la petición.</p>
+<p><strong>INTERLOCUTOR:</strong> La información.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, la solicitud de atención y vamos a pedirle a Zoé Robledo que nos informe y que le informe a la señora y a ti. Es un asunto estructural en dos sentidos:</p>
+<p>Primero, si se hace ese cambio a la legislación, aunque sea contradictorio, violatorio de derechos, si un funcionario no cumple es castigado con una pena por no estar cumpliendo con la ley, en el caso de que sea una ley injusta, pero el funcionario tiene que aplicarla, cuando menos notificar de que en este caso la señora cobró indebidamente, porque, si no, en él recae la responsabilidad.</p>
+<p>El problema de fondo es que estas leyes son completamente injustas, esto tiene que ver con las reformas llamadas estructurales que se llevaron a cabo durante el periodo neoliberal en contra de los trabajadores.</p>
+<p>Ya lo he dicho muchas veces, y ojalá y alguien me contradiga porque hasta ahora nuestros opositores no replican: todas las reformas a la Constitución que se hicieron —lo vuelvo a decir— en el periodo neoliberal, fueron para perjudicar al pueblo de México y para beneficiar a una minoría rapaz, todas, en 30 años, y todas fueron votadas por legisladores del PRI y del PAN, desde el Fobaproa pasando por estas reformas al derecho de pensiones.</p>
+<p>Esto que hizo Zedillo, que es gravísimo, no sólo por lo que estas señalando, sino porque cuando empiecen a recibir sus jubilaciones los trabajadores, a partir de esa reforma de 1997, van a obtener el 40, cuando mucho 50 por ciento de su sueldo. Un daño tremendo. Entonces, sí tenemos que hacer algo, todas, todas, todas las reformas. Dije Fobaproa, pasando por este tipo de reformas, las energéticas, todas, todas, todas. Por eso llama la atención que quieran regresar a seguir haciendo reformas en contra del pueblo y en beneficio de una minoría.</p>
+<p>En este caso estamos trabajando, ya hicimos una reforma a esa ley, pero no es suficiente, porque sí aceptó, y fue una propuesta de ellos, el sector privado, consciente de que era una gran injusticia, incrementar su pago de cuotas para que el trabajador reciba más, pero ese pago de cuotas lo van a hacer, de acuerdo a la reforma, de manera gradual y va a tener efectos hasta el 2030. Sí fue importante, hay un incremento.</p>
+<p>Nosotros también establecimos de que se bajara el costo de intermediación, porque las afores cobraban mucho por el manejo de las pensiones, sus costos de administración de ese fondo eran mayores que en otros países del mundo y se redujo el costo por el manejo de las pensiones, pero no es suficiente; esto va a ayudar a que tengan un poco más, pero no se repara el daño del todo.</p>
+<p>Estamos haciendo un análisis para ver si podemos, antes de terminar, enviar una iniciativa para atender el tema de las pensiones, que es algo que va a afectar, sobre todo en el mediano y largo plazo. Porque esta reforma es de 1997 y va a llevar tiempo, ya está empezando a sentirse, pero va a sentirse más hacia adelante.</p>
+<p>Y lo mismo con la reforma al Issste, esa se hizo con Calderón y la maestra Elba Esther, y lo mismo, hay que buscar la forma, aunque esa va a tener efectos más largos. De todas maneras, hay que buscar la forma de atenderlo.</p>
+<p>Entonces, nos dejas la solicitud.</p>
+<p><strong>INTERLOCUTOR:</strong> Con Jesús, ¿verdad?, pasar la información.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias, señor presidente. Y una disculpa, no me presenté. Héctor Tlatempa, de la cooperativa<em> Puntos Suspensivos</em>.</p>
+<p>Y, bueno, en la siguiente denuncia, señor presidente, es con respecto a una tragedia que está viviendo una familia aquí también en la Ciudad de México, ya que en diciembre del año pasado el joven Emmanuel Rubén Ruiz Martínez, de 26 años, fue atropellado por el Metrobús aproximadamente a las 2:17 horas, esto en la alcaldía Tlalpan; lamentablemente, minutos después el joven perdió la vida.</p>
+<p>Cabe mencionar que Emmanuel Ruiz el día de su accidente se encontraba en horas de trabajo. De hecho, era la hora de su comida cuando el gerente de la sucursal de la tienda Elektra Tláhuac lo mandó a recoger unos celulares a unos domicilios de la zona, fue entonces que sucedió el lamentable accidente.</p>
+<p>El caso es que, desde diciembre a la fecha, las autoridades como el Ministerio Público, la Fiscalía de Justicia de la Ciudad de México, las autoridades locales no han dado información concreta y precisa de qué fue lo que sucedió, tampoco han presentado videos de las cámaras de la sucursal ni tampoco del Metrobús, aunque la familia las ha solicitado desde el primer momento. Sin embargo, ya se determinó un supuesto peritaje en donde el resultado fue que el joven se suicidó.</p>
+<p>Señor presidente, la señora Yazmín Karina Ruiz, hermana de Emmanuel, le pide de favor su intervención para que se haga justicia, ya que ni la empresa en este caso…. Él estaba en una empresa que se llama Xioami, una empresa china que vende celulares, y el joven trabajaba para esta empresa, pero estaba en la sucursal de Elektra, ahí el gerente es el que lo manda a hacer este trabajo. Bueno, pues ni Elektra, ni el Metrobús, ni la empresa Xioami, ni el gobierno de la ciudad, en este caso, se han responsables de la muerte del joven Emmanuel Rubén Ruiz Martínez, en este caso por lo menos para darles la información precisa de lo que es lo que sucedió, y la familia está esperando que haya justicia.</p>
+<p>Desde esa fecha, es el día que hasta ahora le han cerrado las puertas, le han dicho: ‘El joven se suicidó y ya no hay nada más qué hacer’. No sé si pudiera usted intervenir para esta justicia, gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, vamos a pedirle la intervención a la jefa de gobierno para que intervenga la procuradora de la Ciudad de México, la fiscal Ernestina Godoy y que reciba a la familia y que se les informe y se les ayude.</p>
+<p><strong>INTERLOCUTOR:</strong> Muy bien, presidente, gracias.</p>
+<p>Y, por último —perdón compañeros. Desde hace seis meses que no participaba, y estos son casos desde el año pasado— señor presidente, le traigo también el caso de un extrabajador de Pemex que fue despedido injustamente, incluso este caso ahorita que se lo mencione ya le va a traer, lo va a recordar muy bien. Es de un extrabajador despedido injustamente hace ya 25 años y que sigue hasta el día de hoy luchando para que se le escuche y se haga justicia, se trata del señor Leoncio Salinas, quien por lo menos en ya cuatro ocasiones ha podido acercarse a usted para exponerle su caso, la tercera ocasión ocurrió el sábado 1º de octubre del 2022 en una de sus giras por Salina Cruz, Oaxaca.</p>
+<p>Este ejemplo que le voy a dar es lo que ha sucedido durante las cuatro ocasiones que usted ha dado una instrucción al señor Leoncio para que se dirija hacia otros funcionarios y esto que le voy a describir es lo que le ha pasado en las cuatro ocasiones.</p>
+<p>Ahí el señor Leoncio pudo platicar con usted y exponerle su situación, después de escucharlo con atención dio la instrucción a un asistente de nombre Jimena, posteriormente guía y acompaña hasta el ingeniero Octavio Oropeza y se compromete en atender este caso y encontrar una solución favorable para el señor Leoncio, entonces instruyó a un asistente para que le entregara los datos a un señor que se llama Marcos Herrerías.</p>
+<p>El lunes 3 de octubre vía telefónica el señor Alberto Pérez se comunica con el señor Leoncio y le manifiesta que por conducto del señor Marcos Herrerías él atendería todo lo relacionado a su caso, le comentó la posibilidad de reinstalarlo y más adelante incluso, la posibilidad, si él lo deseaba, de poderse jubilar. Quedó en comunicarse en los próximos días de esa semana, que le tendrían una respuesta seguramente favorable.</p>
+<p>El 7 de octubre el señor Leoncio recibe un oficio de Pemex, en donde anteriores actuaciones y en diferentes sexenios le negaban nuevamente la solución favorable a su caso.</p>
+<p>El 9 de marzo del presente año le vuelve a enviar el mismo oficio negativo a resolver su caso, incluyendo en el mismo el agravante sesgo de falta de humanismo, al mencionarle y reiterarle irracionalmente hasta de manera secuencial todos los oficios que, como en serie, le han enviado antes, que son lo mismo, respecto a esa su falta negativa.</p>
+<p>Apenas el pasado 28 de mayo, nuevamente el señor Leoncio tuvo la oportunidad de acercarse a usted en su visita por Salina Cruz, Oaxaca. Ahí le hizo saber que desde más de siete meses que usted le pidió al ingeniero Octavio Romero Oropeza atender este caso y hasta ahora el señor Leoncio sigue esperando una solución favorable.</p>
+<p>Usted llamó al gobernador Salomón Jara y le preguntó que si podía ayudar en el caso del señor Leoncio. El gobernador respondió que sí y usted dijo que iba a estar al pendiente de este caso. Lo citaron el lunes pasado a las 5:00 de la mañana en palacio de gobierno de Oaxaca, lo atendieron y escucharon los asistentes del gobernador, pero al final le comentaron que ese asunto no le competía al gobernador.</p>
+<p>Señor presidente, es claro y notorio el deterioro del señor Leoncio Salinas por exigir y luchar porque se le haga justicia, en cuanto todos los daños y perjuicios que han causado a él y a su familia. Por ejemplo, su hijo, a raíz de este descuido, ya ha sufrido, ha intentado quitarse dos veces la vida, está llevando también un tratamiento sicológico para poder salir adelante. Todo esto implica también gastos extras para el señor Leoncio. Él ha estado ya endeudado por miles de pesos en el banco tratando de salir adelante.</p>
+<p>Es importante también saber que fue boletinado en Pemex para que no fuera contratado en ninguna empresa, entonces el señor ha tenido que buscar otras maneras para tener recursos desde hace 25 años, que en febrero de este año los cumplió.</p>
+<p>Entonces, él ha buscado desde hace ya… Desde que inició este gobierno, él encontró, por lo menos, esta luz, este aliento de decir encontrar la posibilidad de que en su gobierno fuera, primero, escuchado, y segundo, revisado todo con detenimiento, porque hay muchas cosas, supuestas pruebas que le fincaron, que le plantaron, y que no hay manera de comprobarlas, y él tiene todo muy bien documentado.</p>
+<p>Hizo dos huelgas de hambre. El obispo también ahí de la comunidad lo apoyó, hizo en su momento un comunicado llamando al gobierno de ese momento para que se atendiera.</p>
+<p>Pudo hablar con el sacerdote Solalinde para que también lo apoyara, Solalinde también trató de intervenir con la secretaria de Energía, Rocío Nahle; Rocío Nahle nunca pudo. Usted, de hecho, le había pedido a un asistente que lo contactara a Leoncio con Rocío Nahle; Rocío Nahle nunca lo recibió, ni lo atendió.</p>
+<p>Es decir, son por lo menos tres funcionarios que usted ha pedido que pudieran recibirlo, que lo atiendan; y si acaso lo han escuchado, pero hasta ahorita, hasta el día de hoy, no ha recibido ni siquiera la atención y que revisen los papeles para que se den cuenta que es una injusticia, es por eso que traemos esta denuncia para ver si usted puede intervenir, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, vamos a pedirle a Octavio Romero que atienda este caso y que, buscando hacer justicia, trate de resolverlo. Sin embargo, si no le asiste la razón a Leoncio, lo que hay que hacer es explicarle, argumentarle por qué no. Y ya que se defina este asunto, que se busque hacer justicia.</p>
+<p>Pero si no hay razón y se caería en una violación legal por hacer una excepción, pues no, pero que se le explique, que se le atienda, y sea pronto. O sea, lo va a atender en una semana a más tardar el director de Pemex y ya para entonces el director de Pemex va a tener todos los elementos y va a escuchar también a Leoncio. Y que lleve sus documentos, y una vez que se entrevisten y lo escuche, que a los tres días a más tardar le dé una respuesta en un sentido o en otro.</p>
+<p>Y Leoncio y todos los ciudadanos debemos saber que sólo somos administradores del dinero del pueblo y que tenemos que cuidar el presupuesto. El presupuesto no es del gobierno, es del pueblo, entonces no es dilapidar el dinero del pueblo, hay que cuidarlo.</p>
+<p>Por eso no aceptamos chantajes de quienes nos hacen movimientos para pararnos las obras del Tren Maya o en el istmo, y que quieren dinero, como era antes, que había organizaciones que lucraban con los movimientos. Se iba a hacer una obra y sacaban, y sacaban, y sacaban muchísimo dinero, para permitir que se construyera la obra, para que se liberara el derecho de vía.</p>
+<p>Y como robaban los de arriba y robaban los de en medio, pues todo estaba permitido, era la robadera en general y por eso no alcanzaba el presupuesto. Y tenían que aumentar el precio de las gasolinas y tenían que aumentar los impuestos, y tenían que endeudar al país, porque todo lo derrochaban, todo era moches, todo era ‘maicear’.</p>
+<p>Cuando estaban construyendo el fallido aeropuerto de lago de Texcoco había un sindicato que controlaba todo, un sindicato de transportistas. Cobraban lo que querían por el material que transportaban, tenían el control de las puertas, bueno, vendían hasta huachicol. Compraban cerros, como se necesitaba muchísimo para llenar o rellenar el lago de Texcoco acabaron con cerros completos. Y ellos los compraban y ellos vendían la grava, y a precios elevadísimos.</p>
+<p>Pues eso ya no se permite. Si es justo, sí, todo lo que sea justo; si es querer sacar provecho de una situación en donde no hay justicia, no, y eso no se le permite a nadie.</p>
+<p>No es como cuando se permitía que no pagaran impuestos las grandes empresas, los corporativos tiene su historia. ¿Saben quién empezó con esas condonaciones de impuestos o esos mecanismos para evadir impuestos en beneficio de las corporaciones? El finado Echeverría.</p>
+<p>Cuando asesinan a don Eugenio Garza Sada, un hombre bueno, estaban muy molestos los empresarios en Monterrey contra Echeverría y para compensarlos y tratar de calmarlos surge un mecanismo fiscal llamado… Ahora me acuerdo.</p>
+<p><strong>INTERVENCIÓN: </strong>Consolidación fiscal.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Consolidación fiscal, lo creó Echeverría.</p>
+<p>¿En qué consiste o en qué consistía lo de la consolidación fiscal?</p>
+<p>En que un corporativo grande tenía una empresa lucrativa que era la que le daba más impuestos, digo, más utilidades, y por la que tenía que pagar impuestos. Entonces, con este mecanismo de consolidación fiscal creaban empresas fantasmas, en donde supuestamente perdían, no tenían utilidades, entonces prorrateaban tanto ingresos como gastos, y resultaba que no había utilidades, y con este mecanismo no pagaban impuestos.</p>
+<p>Lo estableció Echeverría y lo continuaron uno tras otro de los gobiernos, creo que hasta Peña, que lo quitó. Y por eso, aunque les dejó otros mecanismos para evadir impuestos, como la facturación, las llamadas facturación falsa, las factureras que florecieron en ese sexenio —desde antes, pero predominaron en ese sexenio— y les dejó el mecanismo de la condonación de impuestos, que, al final, no pagaban nada, ah, pero como se atrevió a quitarles lo de la consolidación fiscal se sintieron traicionados y empezaron a cuestionar al gobierno de Peña a través de sus medios, el <em>Reforma</em>, que es el boletín de los potentados y de los conservadores, convirtieron a Peña en el payaso de las cachetadas.</p>
+<p>Cuando fui a ver al presidente Peña, que ya era yo presidente electo, la primera plática, me dijo —ya lo conté aquí— que había sido traicionado. Y como yo soy historiador, ¿no?, me interesaba saber y en la siguiente plática pues le pregunté por quién había sido traicionado, por quiénes.</p>
+<p>Pero, bueno, hablando no nada más de un obrero arriba, ya no se permite eso, porque imagínense la gran injusticia de que pagan impuestos los obreros, los campesinos, todos los consumidores, pero no las corporaciones, no pagaban; y si pagaban, les devolvían los impuestos, eran privilegios fiscales que venían de lejos.</p>
+<p>También, un poco de la inconformidad que hay ahora, o en buena medida, de algunos pues es que ya no se permite la evasión fiscal y el que no paguen sus contribuciones. Se hacían operaciones en bolsa, vendían grandes empresas y no pagaban, compraban empresas e igual.</p>
+<p>Pero esto es Leoncio, pero es para todos. Ahora, si es un asunto de justicia, claro, nada humano nos es ajeno.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias.</p>
+<p>Señor presidente, ya nada más por último quería compartirle: el día de ayer en redes sociales Acción Nacional, el Partido Acción Nacional, subió un spot, un spot en donde le dan voz al presidente Vicente Fox hablando acerca de las pensiones. Esto para mí es y para el medio importante que usted lo escuche, porque nos gustaría escuchar su versión. Vicente Fox está dando aquí una versión, cuando la da como verdadera, pero también nos gustaría escuchar la réplica, su versión. Se la pongo, son unos segundos nada más.</p>
+<p><strong>(INICIA AUDIO)</strong></p>
+<p><strong><em>VICENTE FOX QUESADA:</em></strong><em> Que no te engañen. Fue mi gobierno quien comenzó en todo el país el programa de adultos mayores, 70 y Más. La diferencia es que hoy se usa con fines político-electorales.</em></p>
+<p><em>Les quitaron el Seguro Popular, creado en mi gobierno.</em></p>
+<p><em>También fundamos el INAI, para transparentar todos los niveles de gobierno. Y como López Obrador no quiere que sepan toda la corrupción de sus cercanos, lo quiere desaparecer.</em></p>
+<p><em>Y te recuerdo que sí fue un periodo en que vivimos en paz.</em></p>
+<p><em>Queremos un México de todas y de todos. México necesita despertar una vez más. ¡Cambiemos, México!</em></p>
+<p><strong><em>VOZ MUJER:</em></strong><em> PAN.</em></p>
+<p><strong>(FINALIZA AUDIO)</strong></p>
+<p><strong>INTERLOCUTOR:</strong> Gracias, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya lo he dicho, el presidente Fox no ha estado exacto, eso que dice es mentira, es falso. Cuando nosotros iniciamos la pensión para los adultos mayores aquí, en la ciudad, él se opuso. Incluso debe haber hasta grabaciones. A ver, busquen.</p>
+<p>Me acuerdo que llegó a decir que a los adultos mayores había que ponerlos a trabajar, no darles pensión. Nunca han estado a favor de la pensión a los adultos mayores.</p>
+<p>Hace poco —les voy a dar algunos datos— todos los diputados del PAN en la Cámara de Diputados votaron en contra que las pensiones a los adultos mayores se convirtieran en derechos constitucionales, todos los del PAN.</p>
+<p>Voy a decirlo. ¿por qué salió, entonces, la reforma para elevar a rango constitucional la pensión de los adultos mayores? Porque logramos las dos terceras partes con votos del PRI, pero el PAN votó en contra en la Cámara de Diputados, y ustedes lo pueden constatar, cualquiera.</p>
+<p>Luego, ha habido expresiones. Bueno, hasta en campaña, la candidata del PRI y del PAN también se pronunció en contra.</p>
+<p>Y estoy por saber, a lo mejor ahora lo podemos encontrar en las redes, porque el candidato del PRI y del PAN en Coahuila ya al final de la campaña al parecer vi que se denunciaba el que había dicho de que no estaba de acuerdo con la pensión de los adultos mayores. Pero todo esto lo vamos aquí a plantear.</p>
+<p>Pero lo de Fox es una reverenda mentira. A ver ponlo, ponlo. Pero es muy hipócrita, o sea, y el problema es que no está…</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Esto opinaba Fox en 2004.</em></p>
+<p><strong><em>VICENTE FOX QUESADA:</em></strong><em> Prometer pensiones o apoyos a tercera edad es llevar a nuestro país y a nuestra economía a la quiebra.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Más claro?</p>
+<p>Y ahora este caradura… Es que así son. No olviden: la doctrina de la derecha, la verdadera doctrina de la derecha es la hipocresía, como dicen una cosa dicen otra, no hay congruencia.</p>
+<p>A ver si encontramos lo del candidato, porque sí me interesa saber si es cierto o no, el del candidato de Coahuila. Casi al cierre de campaña yo vi que se le cuestionaba por haberse pronunciado en contra de la pensión de los adultos mayores. Y quise buscar después, pero dije: Ya. Además, ya era la veda y no iba yo a meterme a contestar en esos días.</p>
+<p>Pero imagínense qué clase de cinismo. No, me acuerdo muy bien. Les voy a comentar cuando hice campaña en la Ciudad de México para ser jefe de gobierno, fui a todas las colonias y planteé que si llegábamos al gobierno iba a haber una pensión para los adultos mayores, en ese entonces mayores de 70 años.</p>
+<p>Y ganamos, y antes de llegar a la jefatura de gobierno hicimos los censos y en los primeros días del gobierno no terminaba, creo el 2000 o en enero del 2001, empezamos a entregar las tarjetas, y eran unas tarjetas para que la gente fuera a un centro comercial y adquiriera sus mercancías, sobre todo alimentos, los adultos mayores. Y así empezó, y se hizo universal.</p>
+<p>Y, luego, como no teníamos nosotros mayoría en la asamblea, el PRI y el PAN cuando presenté el presupuesto, no sé si 2002 o 2003, me recortaron el presupuesto para las pensiones sosteniendo lo mismo que sostenían en ese entonces, y siguen sosteniendo, los organismos financieros internacionales, que los apoyos tienen que ser focalizados, no universales. Nosotros consideramos estos apoyos como derechos de los ciudadanos.</p>
+<p>Entonces nos bajan el presupuesto para que sólo se entregara a los más pobres, no a todos, que no fuese universal, y así aprobaron el presupuesto.</p>
+<p>¿Saben qué?</p>
+<p>No lo publiqué y dije: No lo acepto, porque tiene que ser universal. Y lucha. La ley establece que cuando no se aprueba un presupuesto se aplica el del año anterior o el año vigente, y estaba yo dispuesto a hacerlo, pero entraron en razón y se modificó y se volvió universal.</p>
+<p>Y ha sido una lucha constante. Cuando nos roban en el 2006 la Presidencia, por quedar bien se hace una propuesta y en el congreso se aprueba un programa que se llamaba 68 y Más o 70 y Más, 70 y Más, que les entregaban creo que 500 pesos o 400, copiando, y además pensando que con eso ya iban a tenernos; también focalizado, no universal.</p>
+<p>Entonces, llegamos al gobierno y cumplimos el compromiso: vamos a aumentar la pensión al doble, va a ser universal, y es lo que hemos venido haciendo. Y ahora, como es un programa muy aceptado, bien visto por la gente, estos oportunistas, conservadores, corruptos, cínicos, ya quieren decir: ‘Fuimos nosotros’.</p>
+<p>Pero, imagínese, Fox diciendo eso, que me consta, me dejo de llamar Andrés Manuel si no es cierto, que él se opuso, por esa mentalidad clasista, neoporfirista. Porque ahora resulta que ayudar a los adultos mayores no es populismo, porque antes me acusaban, ¿no?, de populista.</p>
+<p>Bueno, esto que expresa ‘era un derroche darle pensión a los de la tercera edad’. Había que darle, como le dio, el privilegio a su amigo Roberto Hernández de no pagar impuestos cuando vendió Banamex, eso no es populismo.</p>
+<p><strong>PREGUNTA:</strong> Y le regaló también Punta Pájaros.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Allá en Quintana Roo, pero eso es otro asunto, de Punta Allen. Pero es el colmo, pues.</p>
+<p>¿No encontraste lo de este señor? A ver, a ver.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>MANOLO JIMÉNEZ SALINAS:</em></strong><em> Una acción irresponsable de parte de un gobierno.</em></p>
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Son políticas que implementan, de supuesto bienestar a través de tarjetas o programas sociales. ¿Se contrapone a combatir el trabajo al…?</em></p>
+<p><strong><em>MANOLO JIMÉNEZ SALINAS:</em></strong><em> Y porque jamás, jamás de los jamases un programa social va a suplir lo que representa un empleo para una familia.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong>.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, ese sí es un pensamiento conservador, pero no es directamente en contra de la pensión, así piensan. Acuérdense de lo que decían mucho, para no dar nada a los pobres, decían: ‘No les des pescado, enséñalos a pescar’. Pero, ¿si no hay río, ni hay lagunas, ni hay mares, ni hay peces?</p>
+<p>Claro, lo mejor es que se garantice el empleo, que haya buenos salarios y que la gente, por sí misma, pueda tener ingresos para satisfacer sus necesidades de educación, de salud y otras, eso es lo ideal; pero en una sociedad como la nuestra, con tanta pobreza y además sin que se crearan empleos, sin que el salario alcanzara, ¿cómo no iba a cumplir el Estado su responsabilidad social?, ¿cómo no hacer valer el derecho a la pensión, que desde hace muchísimos años se aplica en países europeos?</p>
+<p>Porque siempre también de manera muy hipócrita, ¿no?, queriendo copiar lo que se hacía en el extranjero, pero lo malo, no lo bueno. El Estado de bienestar que se estableció en Europa y que garantiza la seguridad de la persona desde que nace hasta que muere, desde la cuna hasta la tumba, ah, eso no, eso es populismo.</p>
+<p>‘Enséñalo a pescar, no le des pescado’ y así, con todos esos sofismas, con todas esas mentiras… Ayer recordaba yo otra que no voy a dejar de mencionar, de que no podía aumentar el salario porque había inflación. ¡Cuánto engañaron con eso! Y no aumentaron el salario y tampoco redujeron la inflación.</p>
+<p>Está demostrado que, si se aumenta el salario, no necesariamente aumenta la inflación, porque el componente del salario en los costos lamentablemente es bajo, no impacta en la producción. Claro, hay que tener cuidado, no se puede recuperar todo lo que perdió el salario mínimo en el periodo neoliberal, en 36 años, no se puede recuperar en dos, o tres, o cuatro, o cinco años. Porque, ¿cuánto perdió?, 75 por ciento de su poder adquisitivo, pero sí ya hay que empezar, como lo hemos hecho, a la recuperación del poder adquisitivo del salario.</p>
+<p>Pero, así como esas, muchas mentiras. Esto que hablábamos de los impuestos, ‘el problema es que no están en el padrón del fisco los de la economía informal, no pagan impuestos los vendedores ambulantes, los que se buscan la vida en la calle, los viene-viene, los que acomodan los carros’, que en la época de crisis por el saqueo, si no ha sido por la economía informal y por la migración, por millones de mexicanos que decidieron irse a buscar la vida al otro lado de la frontera, esto hubiese estallado, hubiese estado peor. Que esas fueron como dos válvulas para quitar presión: el comercio, la economía informal y la migración.</p>
+<p>Bueno, fíjense la hipocresía. Y nadie sabía, porque los medios de manipulación no informaban, nadie sabía que los bancos, las empresas más famosas no pagaban impuestos, nadie sabía, el pueblo no lo sabía. Un gran engaño.</p>
+<p>Pero así aquí me puedo pasar enlistando cuántas mentiras utilizaron. El último secretario de Hacienda del gobierno del presidente Peña Nieto sostuvo que no afectaba a la gente, al pueblo de México si aumentaba la gasolina porque la mayoría de los mexicanos no tenía automóviles, no tenía carros, entonces no cargaba gasolina y qué le podía importar. Así, secretario de Hacienda, como si el aumento del diésel para el transporte de las mercancías no impactara en el aumento de los precios.</p>
+<p>Si aumenta la gasolina, sube todo. Si nosotros hemos podido controlar la inflación es porque no hemos permitido que aumente la gasolina para ayudar a los consumidores, para cumplir nuestro compromiso y también para control de inflación.</p>
+<p>Pero secretario de Hacienda, eminencia, y para sectores de clase media, aspiracionistas, todas estas personalidades son muy respetadas, muy buenos técnicos.</p>
+<p>Es como Zedillo, pregunten por Zedillo, hasta integrantes de clase media, arriba es como un dios. Pues cómo no, si fue el que los rescató, el que convirtió deudas privadas en deuda pública, el que vendió los ferrocarriles y se fue a trabajar a una empresa ferrocarrilera extranjera como asesor. Esos le aplauden: ‘Son buenísimos, muy buenos técnicos’.</p>
+<p>Y la doctora en Ciencia Política en una universidad del extranjero, Denise Dresser… ¿En dónde se graduó?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> En Harvard.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿En Harvard?, o en algunas de esas. Dice… ¿Cómo fue que le dijo a la maestra?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> ‘Maloliente’.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ‘Maloliente’, sí. Pero tiene muchísimos seguidores, mujeres y hombres. ¿No es la comentarista principal de Carmen Aristegui? Todo un grupo, ¿no?</p>
+<p>¿Dónde se integran?</p>
+<p>En el <em>Reforma</em>. También, pura eminencia, puro doctor, especialista, politólogo, expertos.</p>
+<p>Pero, bueno, es ver todo lo que estás planteando, lo vamos a analizar.</p>
+<p><strong>PREGUNTA:</strong> Gracias, presidente, buenos días.</p>
+<p>Ángel Molina, de <em>ATiempo.Tv</em>, medio digital de Coahuila.</p>
+<p>Hablando precisamente sobre la situación de Coahuila y de Manolo Jiménez, quien es virtual gobernador electo, pues preguntarle principalmente si ha tenido ya alguna especie de acercamiento con Manolo Jiménez después de su victoria el pasado domingo.</p>
+<p>Y también preguntarle: a partir del 2024 habrá sólo dos gobernadores del PRI, que sería Manolo Jiménez y Esteban Villegas, en Durango; entonces, preguntarle cómo sería la relación del gobierno federal para con estos gobiernos estatales del PRI.</p>
+<p>¿Y qué futuro le ve, también, al PRI, presidente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, ya envié un mensaje de felicitación, porque el pueblo, la mayoría de los que participaron en la elección votaron por él. Él es el gobernador, ahora electo, y luego va a ser gobernador constitucional, y necesitamos tener buena coordinación, trabajar juntos, porque no es un asunto partidista, no es un asunto de nuestras maneras dee pensar, que pueden ser distintas, es que tenemos que servirle al pueblo de Coahuila, en este caso, y a todo el pueblo de México, independientemente de quién esté gobernando.</p>
+<p>Siempre he dicho que una cosa es el partido y otra cosa es el gobierno. Partido, como su nombre lo indica, es una parte, una parte; el gobierno representa a todos, el presupuesto que maneja el gobierno es de todo el pueblo.</p>
+<p>Entonces, va a haber buena relación. Tenemos allá obras en proceso importantísimas, como el Agua Saludable para La Laguna, que ese es un compromiso que tenemos, vamos a concluir esa obra que va a beneficiar a la laguna de Coahuila y también a la laguna de Durango.</p>
+<p>Y hemos estado apoyando con programas de Bienestar en los dos estados. En el caso de Durango se está aplicando el programa Sembrando Vida, que ayuda mucho para reforestar y para que la gente tenga trabajo, sobre todo los jóvenes, que no se dediquen a otras actividades, a otras siembras, de drogas.</p>
+<p>Y estamos construyendo caminos en las comunidades más apartadas de Durango y también lo estamos haciendo de manera conjunta con el gobierno del estado.</p>
+<p>Y lo mismo para Coahuila, continúan los programas de Bienestar. Estábamos esperando que pasaran las elecciones para concluir con la entrega de apoyos; ya pasaron las elecciones y ahora van a estarse entregando las becas, todo lo que está pendiente. Pero no hay ningún problema.</p>
+<p><strong>INTERLOCUTOR:</strong> Presidente, ¿y habría la posibilidad tal vez de que el sistema de salud de Coahuila se incorpore también al IMSS-Bienestar?, ¿se plantearía esta posibilidad?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Va a depender del gobernador, de los gobernadores. Es que hay algunos que no quieren, y hay algunos que no quieren, porque hay tres —desde mi punto de vista— factores:</p>
+<p>Uno, es que no se quieren desprender del manejo del programa de salud, es decir, ¿cómo se cómo se va a federalizar si ya se había descentralizado? Lo cierto es que se descentralizó y no funcionó, no funcionó, porque eso del Seguro Popular ni era seguro ni era popular. Entonces ahora se está federalizando, pero no quieren algunos desprenderse.</p>
+<p>Lo segundo es que consideran que ellos pueden ofrecer los servicios médicos. Y sí, puede darse el caso. Hasta ahora no conozco ningún caso en donde en un estado funcionen bien los servicios de salud y que además no cobren, que sea gratuito, porque en todos, por esa mentalidad de enseñar a pescar…</p>
+<p>O la otra que mencionaba, de que todos deben… Es otra concepción válida. Lo que le decía una pareja de padres a sus hijas: ‘Van a seguir viviendo aquí en la casa, pero necesitan aportar 300 dólares mensuales; si no, ahuequen el ala, porque todo cuesta, porque tienen que aprender que todo cuesta’.</p>
+<p>Es una concepción que no la compartimos muchos, sobre todo, en México, en nuestras familias, aquí decimos: ‘Vamos a haber cómo le hacemos, le echamos más agua a los frijoles, pero no te vayas’. No es así de que ‘si no aportas, búscale’, porque eso produce muchos problemas, eso es abandono, eso es desprecio, eso es desatención a los jóvenes, que se sienten vacíos, que no son apapachados lo suficiente y que requieren de mucho amor.</p>
+<p>Bueno, esa concepción predomina también.</p>
+<p>Y en el caso de la salud dicen: ‘No, tiene que haber cuota de recuperación’ Si funciona, no habría problema, pero no funciona.</p>
+<p>Entonces, uno es que no se quieren desprender, otro es que quieren ellos asumir el reto, pero cobrando, no gratuito.</p>
+<p>Y lo tercero, que eso es lo más grave, es que algunos no quieren porque tenemos nosotros la obligación de entregarles sus fondos si no aceptan y entonces, al entregarles el dinero, ellos ya compran la medicina, ya pagan los servicios a los trabajadores de la salud, tienen que mejorar los hospitales, y en todo eso antes sin duda había chanchullo.</p>
+<p>Entonces, los que se dedican a vender medicinas, políticos corruptos, que todavía los hay ahí, pues tienen compromisos con los gobernadores, con algunos, políticos y dueños de distribuidoras, y entonces dicen: ‘No quiero el IMSS-Bienestar’.</p>
+<p>Pero afortunadamente la mayoría sí está aceptando. Por ejemplo, en el caso de Durango, el gobernador es médico, yo no lo sabía, Esteban, y fuimos a una gira y hablamos del tema. Primero propuso que sólo una parte y le dijimos: No, todo; si no, manéjalo tú. Y aceptó y Durango ya está en el IMSS-Bienestar, o sea, está por iniciar el IMSS-Bienestar.</p>
+<p>Y ahí hay muchos edificios que se hicieron, instalaciones, hospitales vamos a decir, en la época de la corrupción, que son esos hospitales a los que hice referencia que desde Hacienda les recomendaban que le dieran el contrato a un dueño de medios de información para hacer un hospital. Hicieron un hospital en Gómez Palacio, allá en La Laguna, enorme, cobraron muchísimo, pero sin usarlo porque no terminaron de equiparlo, y sobre todo sin personal. Entonces, ahora ese hospital del IMSS-Bienestar imagínense a cuántas personas sin seguridad social va a atender.</p>
+<p>En Durango capital lo mismo, hospitales. Ahí también en Durango, capital, un reclusorio enorme, sin uso. Elefantes blancos, con mucho dinero gastado. En el caso de Durango, hospitales en donde, de cuatro pisos, ocupados dos, subutilizados. Entonces, todo eso lo estamos corrigiendo.</p>
+<p>Y en el caso del gobernador de Durango hay disposición y vamos hacia adelante, juntos, y lo vamos a apoyar porque es apoyar al pueblo de Durango. Y lo mismo en el caso de Coahuila.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias, presidente.</p>
+<p>Dándole seguimiento al tema de Altos Hornos de México, pues el impacto que esta empresa tiene para los habitantes de Monclova, el alcalde Mario Dávila ha manifestado en los últimos días cierta preocupación ante esta crisis debido a la importancia que tiene Altos Hornos en Monclova. Incluso ha planteado la posibilidad de venir a las mañaneras, de tal vez buscarlo, presidente, de que se reúna con usted para que puedan platicar sobre esta situación.</p>
+<p>¿Usted sabe algo al respecto? ¿Estaría abierto a la posibilidad?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, estamos buscando la forma de que se rescate esta empresa, muy mal manejada, también lo mismo, con mucha corrupción, mucha complicidad entre los dueños de la empresa, con políticos. Bueno, desde que se privatizó Altos Hornos, Salinas entregó esa empresa a sus allegados y no se sabe a cambio de qué, porque se habla incluso de acciones de políticos en esa empresa, acciones de esas anónimas.</p>
+<p>Lo que es un hecho es que los directivos hacían jugosos negocios con el gobierno. Imagínense la operación que significó comprarle a esa empresa una planta de fertilizantes en Coatzacoalcos, que, de acuerdo al avalúo, creo que costaba 300 millones de dólares. Tenía más de 10 años parada, ya casi convertida en chatarra, y el avalúo bastante favorable, pero 300 millones de dólares, y creo que pagaron, terminaron pagando más de 500 millones de dólares, y todavía para echarla a andar destinaron otros 500 millones de dólares.</p>
+<p>¿Cómo se hacen estas transas?</p>
+<p>Pues al más alto nivel, ¿no? Es la influenza que tenía este grupo en el gobierno, en los gobiernos anteriores, desde Salinas era mucha y por eso mala administración.</p>
+<p>Pero ¿cómo lo compensaban?, tenían ahí, creo que cinco aviones, helicópteros, una flotilla de aviones y se los prestaban a los políticos corruptos. Este señor Moreira usaba esos aviones; no el primer gobernador, sino el segundo. ¿Cómo se llama el segundo?</p>
+<p><strong>INTERVENCIÓN:</strong> Rubén.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Rubén. Tengo las pruebas, porque la empresa presentaba eso como gastos, como viáticos. Y no solo ese político, otros. Imagínense, pagarles viáticos a los políticos con cargo a una empresa, pues iba destinada al fracaso.</p>
+<p>Sin embargo, estamos conscientes de que dependen muchos trabajadores de esa fuente de trabajo, de esa empresa, y no queremos que se cierre en definitiva.</p>
+<p>Costó mucho, porque también el señor o los directivos no querían, a pesar de que habían llevado la empresa a la quiebra, no querían soltarla.</p>
+<p>Las deudas al SAT y a Pemex y a la Comisión Federal de Electricidad, no sé, pero deben de ascender como a tres o cinco mil millones de pesos, entre otras cosas.</p>
+<p>Entonces, ¿qué le planteé al secretario de Hacienda?</p>
+<p>Le dije: No podemos nosotros rescatar, porque no podemos usar el dinero del pueblo para estar rescatando estas empresas de corruptos, pero sí hay que pensar en los trabajadores. Entonces, si se encuentran empresas, inversionistas serios, responsables, porque no todos los empresarios son traficantes de influencias… Bueno, en el sentido estricto hay muchos que no son empresarios, son traficantes de influencias.</p>
+<p>El empresario invierte, trabaja, corre riesgos, actúa de conformidad con la ley, es necesario; el problema de México es que muchos no son empresarios, los que se hicieron muy ricos antes eran puros traficantes de influencias.</p>
+<p>Yo les hablaba de que cuando privatizaron los bancos uno dijo: ‘Y yo que había soñado con robarme un banco y ahora me lo entregan a mí, ahora sí que para mí solito’, sin ninguna experiencia, nada, nada, nada, porque tenía agarraderas, tenía influencia y se convirtió en banquero.</p>
+<p>Entonces, bueno, si se encuentran empresarios serios, responsables, podemos nosotros ayudar. ¿Cómo? Reestructurando esa deuda que tiene la empresa con el gobierno, con Infonavit, con el Seguro, con el SAT, ya dije con Pemex, con la Comisión Federal de Electricidad. Podemos reestructurar, dar plazos, pero tiene que ser una nueva empresa, con nuevos inversionistas, con gente responsable, y los nuevos inversionistas tienen que invertir, aportar dinero fresco porque, si no, no se levanta, está caída por completo la empresa.</p>
+<p>Entonces, esa es la instrucción que tiene el secretario de Hacienda. Y ya hay algunas propuestas de gente seria, inversionistas.</p>
+<p>Y ojalá y los que quebraron la empresa en un acto de responsabilidad, que siempre se va a agradecer, en vez de estar poniendo obstáculos, ayuden.</p>
+<p>Además, ya con lo que tienen les alcanza para vivir a ellos y a dos generaciones sin preocupaciones. No se trata de que se quedaron sin nada, no. Son empresas quebradas, empresarios ricos; bancos quebrados, banqueros ricos.</p>
+<p><strong>PREGUNTA:</strong> ¿Cuándo estima que tendrían que invertir estos nuevos inversionistas?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No sabemos, eso lo está analizando Hacienda, o sea, yo no tengo el dato, yo di la instrucción pensando en los trabajadores, pero puse esas condiciones.</p>
+<p><strong>PREGUNTA:</strong> ¿De cuánto es la deuda de Altos Hornos con el gobierno? ¿Cuántos millones?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues debe ser como de tres a cinco mil millones.</p>
+<p>Mira, vamos a hacer un acuerdo. ¿No puedes venir el lunes? O sea, tú.</p>
+<p><strong>PREGUNTA:</strong> ¿Yo, señor?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>INTERLOCUTOR:</strong> (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ya lo sé, pero es que, ¿sabes?, me tengo que ir, sale el vuelo.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿El lunes?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>INTERLOCUTOR:</strong> El lunes vendría, entonces.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p>Me voy rápido; si no, no llego, y no me espera el avión.</p>
+<p><strong>PREGUNTA:</strong> Había quedado yo también, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ándale, pues, tú también, tú también, tres. Ya, ya, ya.</p>
+<p><strong>PREGUNTA:</strong> Un mensaje a Gustavo Petro, presidente. ¿Qué opina sobre la situación en política que está a travesando en Colombia en estos momentos?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Sobre?</p>
+<p><strong>INTERLOCUTOR:</strong> Sobre el presidente Petro.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Qué está pasando?</p>
+<p><strong>INTERLOCUTOR:</strong> Sobre las manifestaciones que ha habido con respaldo a su gobierno.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, yo lo apoyo, es un gran presidente Gustavo Petro, un gran presidente de Colombia, hermano de México. Es una bendición para Colombia el que haya llegado un presidente como Gustavo Petro, después de muchos años de padecer malos gobiernos. Entonces, todo mi apoyo al presidente de Colombia.</p>
+<p>Igual, todo mi apoyo al presidente Lula; al presidente Luis Arce, de Bolivia; al presidente Boric de Chile.</p>
+<p><strong>PREGUNTA:</strong> Alberto Fernández.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Desde luego, ese es mi hermano, Alberto Fernández. Están atravesando por una situación difícil cuyo origen no tiene que ver con él, no tiene que ver con su gobierno.</p>
+<p>¿Qué fue lo que sucedió en Argentina? ¿Por qué es tan profunda la crisis en Argentina?</p>
+<p>Porque, en complicidad con organismos financieros internacionales, el gobierno del señor Macri endeudó a Argentina, pero sin límite.</p>
+<p>Por razones políticas, el gobierno de Estados Unidos ayudó para que los organismos internacionales, el Fondo Monetario Internacional, entregara dinero en exceso al gobierno de Macri, porque él quería reelegirse, y era amigo del gobierno de Estados Unidos. Entonces, ahí tienen la culpa los dos: el que recibió y el que entregó, a sabiendas de que era un exceso.</p>
+<p>Entonces dejan una deuda enorme, inmanejable. Llega Alberto, no lo ayudan a hacer una buena reestructura, un buen acuerdo, se mantiene la deuda y se agrava la situación económica. Y ahora muchos echándole la culpa a Alberto, cuando el origen es el que les acabo de comentar.</p>
+<p>Ahora resulta que el Fondo Monetario Internacional no da la cara, no existe, desapareció, y los políticos que ordenaron endeudar a Argentina tampoco, y Macri tampoco.</p>
+<p>Como en Argentina —al igual que México, pero yo en abono a México, a los medios de información de México, allá está peor, estamos mejor aquí— tienen el control los conservadores de Argentina de todos los medios, una cosa impresionante…. Si aquí nos quejamos, no, no, no, aquí hay profesionalismo, pluralidad, están democratizados los medios, muy cerca del pueblo, muy distante del poder, o sea, esta es una prensa libre en comparación.</p>
+<p>Porque siempre nada más vemos lo que nos sucede aquí. No, lamentable lo que está sucediendo en medios en Chile, en Argentina, en cualquier otra parte, en Estados Unidos, los medios en Europa, un control tremendo, y mucha manipulación, mucha, mucha manipulación.</p>
+<p>Por eso van socavando a los gobiernos democráticos populares hasta que los destruyen políticamente. Es un embate mediático, es lo que más les funciona a los conservadores corruptos, es la estrategia más usual para socavar, para destruir un gobierno popular.</p>
+<p>Ya me voy; si no, no llego.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

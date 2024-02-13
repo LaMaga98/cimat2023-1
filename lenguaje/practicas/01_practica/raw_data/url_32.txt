@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>28.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/28-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=168907' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F28-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F28-12-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sqhq-f-8fbcd850f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":25,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1b93142","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":34905,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726415","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==QIZp9D/jnySSXhgGswn33t7irxJqrD69AfuB+F/xiB/6IIDgEMUQfiV9DibtIQMzrBeRFOo6IxBE0xEgXUyCTIjRS2lP0RmVnTz1VIsLN3AxqSXkcYeFMSl3+DrKoqWymg5Q7oQD/H/yBAyyyEL5e1q7vzVmPt14kB3jNGcdfmmcAqK/pg/dgCRHcYSW3YpiRWWTYW+d+DEqI1kks8Tjk4nELm0qbzwJA7dqo31dEdA1kDeqfPeiGLffuv8m1GL0H0QbWF4gCAwBJ8Z2lXMhhhFzRPhoNTIQwjkNx5J3q1lige0l4+IHpgoS6YBC7OHCsQbRhI0DJHut2wY1PCjXkAONVmkE+jH+Gni4yMuxMxKR+FU9OLlX8LqWYFq5/3RwFC0i2nGlNBcHLRmu6v4VLTnMVvgWfrvhQ5M5hIf9xDE=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-168907 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba928b23f6b" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>28.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 28.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-168907" class="post-168907 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-28-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/12/2023-12-28-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05-745x450.jpg" alt="28.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">28.12.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/3ejLMuTS3tPysFFoyMyA2V?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Buenos días. Está muy bien el clima, ¿no? Ánimo.</p>
+<p>Bueno, vamos a dedicar el día de hoy a contestar preguntas. Nada más tenemos como información el que vamos a estar en Acapulco por la tarde. Se va avanzando en la reconstrucción. Ya se están terminando de entregar los apoyos para la reparación de las viviendas, de los pequeños locales comerciales; se han apoyado hasta ahora a alrededor de 270 mil hogares, 270 mil familias han recibido ya sus apoyos.</p>
+<p>Ya estamos por terminar de entregar todos los recursos que corresponden a quienes fueron afectados por el huracán con daños en sus viviendas y también a quienes perdieron o se les afectaron sus locales, sus pequeños negocios; llegamos entregados hasta ayer cerca de 12 mil millones de pesos de manera directa, un promedio de 40, 45 mil pesos. Y la gente está comprando sus materiales de construcción, pagando a los maestros albañiles, y todos trabajando para tener en buen estado sus casas, sus hogares. Y hoy vamos para allá.</p>
+<p>Desde luego, se siguen entregando despensas, siguen funcionando las cocinas, se sigue ayudando y se va a seguir apoyando siempre a todos los afectados de Coyuca y de Acapulco.</p>
+<p>Decirle a la gente de Acapulco, de Coyuca, que los felicitamos mucho porque, aun enfrentando esa desgracia, están participando, trabajando, rehabilitando sus hogares con mucho entusiasmo. Le he pedido a la secretaria de Bienestar, a Ariadna Montiel, que nos envíe algunas fotos —a ver si nos está escuchando— de cómo está la gente trabajando, mejorando sus hogares.</p>
+<p>Entonces, vamos bien, vamos avanzando.</p>
+<p>Bueno, comenzamos por acá.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/12/Conferencia-matutina_2023-12-28.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/XRedPKJNgYQ" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Tzeltzin Juárez, de SinLineaMX.</p>
+<p>Saber sobre los acuerdos a los que llegaron ayer en su reunión con los funcionarios de Estados Unidos en materia de seguridad y economía. Y saber si se habló de la caravana migrante que está actualmente ahí en Chiapas; se habla aproximadamente de ocho mil migrantes.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Bueno, fue muy buena la reunión con el secretario Blinken, con el secretario Mayorkas, con la asesora para asuntos de seguridad del presidente Biden, la señora Elizabeth. Hablamos del tema económico, de las inversiones en México, en la frontera. Ya somos los principales socios comerciales en el mundo, México y Estados Unidos, ellos son nuestros principales socios y también nosotros, en términos comerciales.</p>
+<p>Y cada vez hay movimiento en la frontera, en los puentes, y por eso tenemos que estar atentos para que no se cierren los pasos, se llegó a ese acuerdo. Ya se están abriendo los pasos para el ferrocarril y los puentes fronterizos; normalizar la situación. Se avanzó en eso.</p>
+<p>También, hablamos sobre la atención a las causas que originan la migración, el apoyo a países en donde por necesidad la gente tiene que abandonar sus pueblos en busca de trabajo.</p>
+<p>Se informó de cómo nuestro país sigue ayudando con programas como Sembrando Vida, el programa de Jóvenes Construyendo el Futuro y otras acciones que estamos llevando a cabo en países del Caribe y de Centroamérica, y ellos están también haciendo lo propio, eso nos informaron.</p>
+<p>Y continúa el programa de dar becas de trabajo, visas temporales para trabajo mediante una solicitud, se abrió un canal con ese propósito. A veces se rebasa el procedimiento que se tiene establecido. Han permitido el ingreso en promedio de 30 mil migrantes por mes; sin embargo, son rebasados porque también hay muchas necesidades en los países de América Latina y del Caribe, hay pobreza y la gente busca mejores condiciones de vida y de trabajo con la migración.</p>
+<p>Adicionalmente, hay también un asunto político por esta temporada de elecciones en Estados Unidos y se alienta la migración, se desinforma. Hay también los traficantes de personas, quienes se dedican a eso y que organizan caravanas para llegar a Estados Unidos, muchas veces no informando adecuadamente a la gente, y tenemos que seguir nosotros cuidando a los migrantes, evitando que corran peligro, evitando los riesgos. Y de todo eso se habló el día de ayer.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Sobre fentanilo, adicciones?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Casi no, casi no, fue más que nada cooperación para el desarrollo y migración, fueron los temas, pero en muy buenos términos. Como lo expresé ayer, ahora más que nunca es indispensable una política de buena vecindad con Estados Unidos, porque ya son muchos los paisanos mexicanos que viven, que trabajan en Estados Unidos, 40 millones.</p>
+<p>También, es muy amplia nuestra frontera, más de tres mil kilómetros de frontera. Hablaba yo del intercambio económico-comercial, somos principal socio económico-comercial de Estados Unidos. Tiene mucho movimiento la frontera de mercancías, de personas. Y están llegando también nuevas inversiones a México de todo el mundo y de Estados Unidos.</p>
+<p>Entonces, la relación con nuestros vecinos es fundamental, la tenemos que cuidar y tenemos, al mismo tiempo, que cuidar también a los migrantes, que no haya abusos, secuestros, que no haya accidentes en el traslado.</p>
+<p><strong>INTERLOCUTORA:</strong> De esta caravana migrante, de estos ocho mil migrantes que están en Chiapas, se hablaba de que buscan cruzar la frontera hacia Estados Unidos, pero que también muchos deciden quedarse aquí a trabajar en México. ¿Aquí se les va a brindar algún apoyo, también de estos permisos de trabajo?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, en el caso de esta caravana ya se han ido quedando en el sureste. Porque hablas de ocho mil, ¿no?; el informe de hoy —que a ver si nos lo dan a conocer, el informe—, creo que ya es de mil 500.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Mil 500?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Lo que hoy, hace un momento me informaron, a ver si tenemos ahí el dato de la Secretaría de Seguridad, a ver si hay información. Ahí está: mil 582. Claro que se dividen y muchos continúan por su cuenta, pero así en el bloque… Ya ven que salieron unas fotos hace como dos días, de muchos.</p>
+<p><strong>INTERLOCUTORA:</strong> Presidente, otra pregunta, sobre la gran farmacia que está por inaugurarse.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Mañana.</p>
+<p><strong>INTERLOCUTORA:</strong> Mañana. ¿Cómo va este sistema de abastecimiento para surtir esta gran farmacia? Se hablaba de que todavía no se contaba con todos los medicamentos en su totalidad.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pues ya se tienen todos los medicamentos que se requieren. Si en un centro de salud, en un hospital no hay un medicamento o se surte una receta, pero faltan, de tres, falta uno, para eso es esta farmacia.</p>
+<p>Con el propósito de que se tenga toda la información de los medicamentos que hay en las distintas bodegas o en hospitales, en almacenes de hospitales, en las farmacias de los centros de salud, de las clínicas; puede ser que falte un medicamento y esté en un estado o cerca de donde falte, y desde esta farmacia central se va a tener todo el control general. Si no hay en ese estado, de inmediato ese medicamento va a llegar; de inmediato, estamos de 24 a 48 horas para que le llegue al centro de salud, al hospital. Entonces, mañana vamos a tener ya terminada la farmacia.</p>
+<p>Al mismo tiempo, estas bodegas de Huehuetoca que se adquirieron van a servir para almacenar medicamentos, que no falten los medicamentos.</p>
+<p>Yo sé que nuestros adversarios están pendientes y quisieran que no esté la farmacia, pero sí va a estar para mañana. Les invito, después de la conferencia. Así va a ser, ¿verdad, Jesús? Vamos a ir a cortar el listón.</p>
+<p>Y se va a tener un sistema de comunicación y, como todo, vamos a ir normalizando el servicio.</p>
+<p>Va a llegar el día, no pasado el tiempo, sino pronto, muy pronto, que el Tren Maya va a llegar puntual, va a salir y va a llegar puntual; y el Tren del Istmo, lo mismo; y Mexicana, los vuelos, igual, porque vamos hacia allá.</p>
+<p>Es que, si no inauguramos en dos años y medio el aeropuerto ‘Felipe Ángeles’, pues imagínense, se nos satura el aeropuerto de la Ciudad de México. Teníamos que inaugurarlo a sabiendas de que nos iban a cuestionar mucho, de que no iba a haber tráfico aéreo. Pasó el tiempo, y ya el aeropuerto ‘Felipe Ángeles’ está funcionando muy bien, ya es el aeropuerto que mueve más carga en todo el país. Llevó su tiempo. Antes decían: ‘No te pares por ahí porque espantan, no hay nadie’; ya no es así.</p>
+<p>Ahora que vinieron el señor Blinken, Mayorkas, Elizabeth, que les agradecemos mucho, en especial al presidente Biden, porque los invitamos y vinieron, se reunieron con nosotros para tratar estos temas de manera directa por la importancia que tiene para las dos naciones, de que no tengamos ninguna dificultad en el tránsito de personas y de mercancías, pues ¿a dónde llegaron? Al aeropuerto ‘Felipe Ángeles’, ahí aterrizaron y de ahí despegaron.</p>
+<p>¿Y qué decían?</p>
+<p>Pues que no iba a funcionar el aeropuerto. Todo lleva su tiempo.</p>
+<p>Es lo de la refinería, lo mismo. Pues una refinería, cuando menos un año de pruebas. La última refinería que se hizo, y lo pueden ustedes constatar, fue la refinería de Salina Cruz en 1982, casi al inicio del periodo neoliberal, y ya no se hizo ni una más. Bueno, pues tardó un año, una vez inaugurada, para que empezara a procesar petróleo, a refinar petróleo. Entonces, todo esto es así.</p>
+<p>Claro que yo entiendo a nuestros adversarios de los medios, al Reforma, y a El Universal, y a nuestros adversarios, que no son nuestros enemigos, pero que ellos andan buscando por todos lados. Lo que vimos ayer del Reforma, del señor que falleció esperando a un familiar, y es ocho columnas. Ya es mucho el sensacionalismo, es como el Alarma!, con todo respeto al Alarma!</p>
+<p>Ayer, en vez de celebrar de que se recupera la línea, emblema de la aviación de México, Mexicana de Aviación, ocho columnas,crítica: que va a quedar mal el que va a reventar aviones; pero si todavía no iniciamos y ya sus expertos están pronosticando que nos va a ir mal.</p>
+<p>Hace como un año, menos, el Reforma también así, a ocho columnas: ‘Nos vamos a quedar sin luz’. Y no, ahí vamos poco a poco.</p>
+<p>Y es muy importante que se tome en cuenta que todas estas obras, todos estos planes, siempre son de mediano y de largo plazo, y nosotros estamos procurando hacerlos en un sexenio.</p>
+<p>Un tren como el Maya, en cualquier lugar del mundo, no hay en ninguna parte del mundo en que se haya construido un tren en cinco años como el Tren Maya, en ninguna parte.</p>
+<p>No hay en ningún país del mundo en donde se haya hecho un aeropuerto en un año cinco meses, como el de Tulum, y eso no lo ven, cuando deberían de reconocer que los trabajadores de la construcción de México son excepcionales, la ingeniería civil de México, las empresas, nuestro país está a la vanguardia en el mundo.</p>
+<p>Pero como ya no hay contrato de publicidad, sobre todo no hay contratos de obras de las empresas de medios de información, pues ya no son medios de información, sino son medios de manipulación, porque están enojados, porque antes se servían con la cuchara grande y eran los dueños de los medios de información, todos empresarios. No escriben ni siquiera una carta a los Reyes Magos, no saben de eso, no saben de periodismo, ninguno de ellos, de los más famosos, no son periodistas, son empresarios.</p>
+<p>Y tampoco tienen un compromiso con los lectores, no les importan los ciudadanos, no ven la información como una práctica a la libertad, ni informan, ni orientan ni mucho menos concientizan; ellos están en sus negocios. Pero esto no sólo es en México, es lamentablemente en todo el mundo.</p>
+<p>¿Qué es lo que decía Kapuscinski, uno de los mejores periodistas del mundo?</p>
+<p>‘Cuando la información se convirtió en negocio, la verdad pasó a segundo plano’, palabras más, palabras menos.</p>
+<p>Pero, afortunadamente, también se mantienen las libertades en nuestro país, no va a haber censura a nadie. Y vamos a terminar el gobierno de esa forma, sin censurar, sin perseguir a nadie, lo que hacían antes, lo que hicieron con Gutiérrez Vivó, lo que hicieron con Carmen Aristegui, con todos los que no estaban alineados.</p>
+<p><strong>INTERLOCUTORA: </strong>Presidente, ya por último: ¿será posible que hoy al finalizar la conferencia mis compañeros que faltamos de tomar una foto con usted podríamos tomarla?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí, nos la tomamos.</p>
+<p>Incluso, quiero ofrecerle públicamente una disculpa al compañero que me entregó el dominó, que quiere jugar dominó.</p>
+<p><strong>INTERVENCIÓN</strong>: Carlos Pozos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Carlos Pozos, porque se malinterpretó. Entonces, ofrecerles una disculpa. Él es una gente muy decente, que de ninguna manera lo puedo yo ofender, siempre se ha portado muy bien, lo estimo.</p>
+<p>Me quedé pensando, porque le tuve que contestar de esa forma porque en realidad yo me voy a retirar y no va a ser una simulación, me voy a jubilar y ya no voy a participar en nada. Y si recibo a un amigo, tengo que recibir a otro y a otro, y tengo como algunos millones de amigos, entonces no voy a poder estar haciendo mis trabajos. Pero él es una persona de primera, de buenos sentimientos, bien intencionado, y le mando un abrazo porque no vino hoy.</p>
+<p>A ver, nada más las fotos. Ah, miren, esto es lo que está pasando. Es que se les pidió si podían, de manera respetuosa, cuando se les entregó un primer pago, una primera cantidad de lo que por derecho les corresponde porque son ciudadanos, y esto que están recibiendo es dinero de presupuesto, que es dinero de todo el pueblo, de ellos, se les pidió que para el segundo pago, la segunda entrega de recursos, llevaran fotos de cómo iban en sus trabajos. Y, entonces, ya todos llevando sus fotos del avance que llevan.</p>
+<p>Al principio se malinterpretó, porque hablamos de autoconstrucción y se pensó que la gente iba a hacer sola, sin apoyo, sus trabajos de construcción, rehabilitación o ampliación de vivienda. Y la autoconstrucción consiste en que, bueno, se recibe el apoyo económico, la asesoría técnica, pero la gente, que tiene mucha experiencia y que conoce quiénes son maestros albañiles, los contrata y con ellos va haciendo sus casas. Así se han construido la mayoría de las casas de México, la gente ha hecho sus casas, y esto me da mucho gusto.</p>
+<p>Y vamos hoy a Acapulco para evaluar en general todo lo que se está haciendo.</p>
+<p><strong>PREGUNTA:</strong> Presidente, sólo precisar, ¿cuándo entra en operación la megafarmacia?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Mañana mismo.</p>
+<p><strong>INTERLOCUTOR: </strong>O sea, ¿mañana ya tendrá medicinas y empezará a funcionar?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí, sí, sí. Es que están apostando a que no van a haber medicinas y que va a estar vacía, y esa va a ser la nota, ¿no?. Mejor que la nota sea que ya está la farmacia y que todos los mexicanos tienen garantizado el derecho a la salud, lo que está establecido en la Constitución, en el artículo 4º, el derecho del pueblo a la salud, y esto implica atención médica y medicamentos gratuitos, todos los medicamentos.</p>
+<p>Pero no estamos empezando ahora, ya llevamos tiempo que no se cobran los medicamentos, hay muchos hospitales en México,públicos, en donde no hay cajas registradoras, se cerraron, incluso hay hospitales de especialidades en donde no se cobra, nada más que esto no se sabe; la gente sí, que va a un hospital y no le cobran, como era antes, o que nada más les daban la receta.</p>
+<p><strong>INTERLOCUTOR</strong>: ¿Y ya se sabe a qué hospitales o a qué estados llegarán los primeros envíos?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong>Dependiendo de quién lo necesite, porque ya hay un buen abasto de medicamentos en hospitales.</p>
+<p>Aquí vemos —a ver si pones la lámina—, todos los martes, cada 15 días, cada 15 días los martes se informa sobre el abasto de medicamentos en el programa de IMSS-Bienestar. Entonces, ya en muchos estados donde está el programa IMSS-Bienestar en centros de salud y en hospitales ya se tiene el abasto de medicamentos.</p>
+<p>Esto, por ejemplo: en 23 estados del IMSS-Bienestar, un 97 por ciento de abasto, 23 estados. Esto es lo que hemos hecho porque tenemos el compromiso de, antes de terminar nuestro mandato, dejar un sistema de salud pública eficaz, de calidad, el mejor del mundo, aunque no les guste a los fachos, con todo respeto. Entonces, así vamos.</p>
+<p>Sólo en la contratación de médicos… A ver si tenemos la de contratación de médicos. Ah, no, aquí está, sí: de 70 mil 285 especialistas, así es, ¿verdad?, a 83 mil, más de 13 mil médicos especialistas. Y en médicos generales, de 34 mil a 44 mil.</p>
+<p>Pero ¿cómo le quito el enojo a Loret, que está vinculado con una empresa que distribuía medicamentos? ¿O a políticos que se dedicaban a eso, a vender medicamentos y a distribuir medicamentos? Pues sólo les ofrezco disculpas. ¿De qué otra manera puedo consolarlos?</p>
+<p><strong>PREGUNTA:</strong> Presidente, ¿ya tiene resuelta, digamos la logística, la operación de la megafarmacia, cómo resolver el tema del traslado de medicamentos?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>INTERLOCUTORA</strong>: ¿Qué dependencias federales van a participar?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Una, Birmex, esa es la empresa.</p>
+<p><strong>INTERLOCUTORA:</strong> ¿Es en aeronave?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, va a tener todo el apoyo de las Fuerzas Armada con aeronaves de la Fuerza Aérea, transporte terrestre y también aéreo.</p>
+<p>Mañana, antes de ir a cortar el listón, le voy a pedir a los responsables del sector Salud, que venga el secretario de Salud, que venga el director del Seguro, del Issste y los responsables de operar la farmacia, que les expliquen, porque muchas veces no todos van a los actos o no se difunde, y aquí temprano sí la gente se entera más. Entonces, que se dé toda la información, toda, acerca de la farmacia.</p>
+<p>Compramos almacenes ya construidos de un centro comercial,como 40 mil metros cuadrados, es como cuatro Zócalos techados, no sólo para la farmacia, sino para tener todos los medicamentos, y eso va a funcionar cada vez mejor, y gratuitos.</p>
+<p>Y de una vez le digo a los adversarios que, si entregar medicamentos gratuitos a los pobres es ser populista, que me apunten en la lista. Porque deben ellos también entender que somos distintos.</p>
+<p>¿Cuándo voy a convencer yo a Sarmiento de que era importante que volviera a volar Mexicana? Él puso ayer. Porque su referente, su inspiración ahora, por ejemplo, es Milei; pues cada quien tiene su manera de pensar, sus ideas, sus creencias y hay que respetarlo.</p>
+<p>Entonces, ayer puso… A ver si buscas un tuit en donde habla de que un gobierno en Argentina creó una línea aérea y ahora Milei ya la está vendiendo, la está privatizando. Pues sí, porque ese es el pensamiento neoliberal. Pero, con todo respeto, al señor Sarmiento, yo no pienso igual que él y él no piensa igual que yo, somos distintos, pero eso es la democracia.</p>
+<p>Él tiene un pensamiento que yo considero conservador, a favor siempre de las privatizaciones; para él el Estado no debería de existir o sólo existir cuando se le necesitara para rescatar a instituciones financieras en quiebra, para subsidiar a los potentados, para que los potentados no pagaran impuestos; él no está de acuerdo de que el Estado cumpla con su función social de garantizar el derecho del pueblo al trabajo, a un salario digno, el derecho del pueblo a la salud, el derecho del pueblo a la educación. Somos distintos.</p>
+<p>Pero nosotros no engañamos, esto lo dijimos durante años y la gente votó por este cambio. Y da la casualidad también que la gente está contenta, que nos está apoyando, que traemos como 70 por ciento de aceptación; y en algunos lugares, más.</p>
+<p>Pero es esto:</p>
+<p>‘La peronista Cristina Fernández estatizó aerolíneas argentinas en 2008. Entre 2009 y el primer semestre de 2023 el gobierno le inyectó siete mil 433 millones de dólares para subsidiar sus pérdidas, por eso Javier Milei ya anunció su venta.’</p>
+<p>Yo le diría a Sergio: ¿Por qué no haces un reportaje de cuánto dejaron de pagar las empresas en las que trabajas y a las que respaldas en el periodo neoliberal cuando se les condonaban los impuestos? Pagaban impuestos todos los mexicanos, menos las empresas que, con todo respeto, Sergio Sarmiento defiende.</p>
+<p>Pero somos distintos, pero eso es la democracia. Imagínense si todos pensáramos de la misma manera, lo aburrido que sería la vida. Sólo porque hoy es Día de los Inocentes y podríamos pensar igual, hoy nada más, inocentes palomitas.</p>
+<p><strong>PREGUNTA: </strong>Buenos días, presidente.</p>
+<p>Diego Elías Cedillo, del Sistema Informativo de Tabasco, diario Presente.</p>
+<p>Señor presidente, nada más, ahondando un poco en el tema que ocurrió el día de ayer, que fue bastante polémico derivado a raíz de la llamada de su homólogo estadounidense, el presidente Biden, se dio esta reunión en un periodo de tiempo muy corto, menos de siete días, conocer puntualmente, presidente, si el secretario de Estado, Blinken, le hizo alguna petición en lo particular al Gobierno de México.</p>
+<p>Y también, presidente, conocer si pudieron ahondar en el tema de la reunión que se va a llevar a cabo en enero en Canadá, como usted lo había comentado, en febrero, tanto con el presidente Bidencomo con el primer ministro de Canadá, Justin Trudeau. Y en caso de que no se haya comentado en este encuentro, conocer si la secretaria de Relaciones Exteriores, Bárcena, ya le haya brindado mayor información al respecto.</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Bueno, todo esto inicia porque él pide, el presidente Biden, hablar conmigo, preocupado por la situación de la frontera porque se llegó a un número de migrantes que no se había visto, creo que 10 mil, 12 mil diarios en la frontera norte, y esto llevó a que se cerraran aduanas y los pasos fronterizos, el ferrocarril, en algunos sitios, en algunos estados fronterizos. Y, desde luego, pues esto afecta el comercio y produce mucha intranquilidad, y también es usado políticamente por los opositores. Entonces, me habló para decirme que teníamos que buscar juntos la solución —como siempre lo hemos hecho, hemos trabajado de manera coordinada—, y que le preocupaba lo que estaba sucediendo.</p>
+<p>Entonces, yo le propuse que vinieran los secretarios de Estado, el secretario Blinken, el secretario Mayorkas, la señora Elizabeth, son los tres más importantes en estos casos y en otros, y que de manera directa tratáramos los asuntos.</p>
+<p>Habíamos quedado, incluso, creo que platicamos como el día 20 y le propuse que el 23 o el 27, y él aceptó porque es muy buena la relación con el presidente Biden. Y él es muy respetuoso de nosotros, de México, nada de amenazas de sanciones a México. Él entiende de que es un fenómeno que tiene que ver con la pobreza de la gente, de países, que es un problema social y que no se resuelve nada más con medidas coercitivas.</p>
+<p>Siempre voy a estar subrayando dos cosas del presidente Bidenmuy favorables:</p>
+<p>Una, que es el primer presidente que abre un camino para que de manera legal puedan migrantes llegar a Estados Unidos, es el primero. Porque ahora hay un sistema en donde se hace una solicitud y, si se cumple con ciertos requisitos, pueden entrar a Estados Unidos, estamos hablando de 30 mil mensuales, en este año más de 300 mil que han logrado alcanzar estas visas de trabajo temporales.</p>
+<p>Y lo segundo, que es muy bueno, que es el primer presidente, y aquí incluyo demócratas y republicanos, el primero que no hace muro, que no está pensando en eso, porque eso es publicidad, eso no resuelve el problema, es propaganda, realmente. Y todos han hecho muro como manda, todos, desde hace, no sé, 30 años, unos más, otros menos, pero todos han hecho, sean demócratas o sean republicanos, para quedar bien ahí, y el presidente Biden no ha optado por eso, porque realmente pues no se resuelve el problema con los muros.</p>
+<p>Además, llevan 30 años haciendo muros. Imagínense una frontera de tres 180 kilómetros. ¿Cuándo van a terminar de hacer el muro? Llevan como mil 200 kilómetros aproximadamente. ¿Cuánto les falta?</p>
+<p>Entonces, quedamos en reunirnos y por eso llegaron los funcionarios ayer.</p>
+<p>Les voy a poner unas gráficas de cómo estaba la situación en la frontera y cómo está ahora. A ver si pueden de favor ponernos las gráficas. ¿Qué, no pueden hacer Jesús y el equipo? Y casi no nos vemos, nos vemos más aquí, ¿verdad?, y en las reuniones de gabinete, pero nos entendemos.</p>
+<p>Sí, pero, así estaba. Pero, a ver, hay una… Esta es por nacionalidad, miren los incrementos, 21 de diciembre. Pero hay una… No está. O sí está, pero no tiene mucha afluencia.</p>
+<p><strong>INTERVENCIÓN</strong>: ¿De los mexicanos?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Tenemos también la de los mexicanos, ahorita la vemos. Esto es básicamente de donde hay más.</p>
+<p>Luisa María te puede enviar las de ayer.</p>
+<p><strong>INTERVENCIÓN:</strong> Decía la secretaria de Relaciones que van a ser cada mes las reuniones.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, vamos a tener reuniones periódicas. Se formaron ya los equipos. Se va a ir a Washington, nosotros vamos a ir a Washington; yo no, pero sí el Gabinete de Seguridad y los responsables: la secretaria de Relaciones, la secretaria de Seguridad, el secretario de Defensa, Marina, la secretaria de Gobernación, por lo que tiene que ver con migración, y ellos van a estar también con nosotros, va a haber un intercambio constante.</p>
+<p><strong>INTERVENCIÓN:</strong> Quedaron que también se iban a reunir con gente de Sudamérica. ¿Estas reuniones van a ser en México?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> En algunos casos vamos a buscar. Estamos esperando que se dé la toma de posesión del presidente Arévalo, Bernardo Arévalo, que va a ser el día 14<strong>.</strong></p>
+<p><strong>INTERVENCIÓN: ¿</strong>Va a ir?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Estoy en eso, estoy en eso. La verdad, me da mucho gusto que ya se esté normalizando la situación en Guatemala. Ya recibí la invitación para asistir.</p>
+<p>Esto: llegaron a haber 12 mil diarios en la frontera norte. La llamada fue como el 20. Y ya ha habido una disminución. Claro, es porque faltaba personal para hacer los trámites en Estados Unidos, también en México, porque son muchos, y también por las fiestas de fin de año, que baja.</p>
+<p>Por ejemplo, les voy a dar un informe bueno. ¿Por qué no pones los homicidios de ayer, o sea, los…?</p>
+<p><strong>INTERVENCIÓN: </strong>(Inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Déjenme, ¿no?, que yo… Porque esto no lo va a ver en El Universal, ni en el Reforma.</p>
+<p>Pero miren, ayer 47 homicidios, 17 estados sin homicidios, es de los días más bajos en todo el año. Porque traemos un promedio de 85 y hemos bajado 20 por ciento desde que llegamos, los homicidios, pero el promedio es 85, pero ayer 47. Y todos estos días, afortunadamente, muy pocos homicidios.</p>
+<p>Es cuando la realidad y la percepción no se concilian, porque la percepción tiene que ver con los incendios en Tabasco. Ya ven eso, ¿no? Todavía ayer veía yo a alguien que decía que me estaban engañando o que yo estaba mintiendo en lo de Tabasco, porque el despliegue fue…</p>
+<p><strong>INTERLOCUTOR:</strong> Presidente, nada más, si me permite, lo del encuentro en enero, en febrero, con sus homólogos de Norteamérica, ¿tiene mayor información al respecto sobre cuándo se va a llevar a cabo?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Vamos a tener comunicación.</p>
+<p><strong>INTERLOCUTOR: </strong>¿Sigue confirmado?</p>
+<p>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, sí. Es que debemos de estar en comunicación permanente. Es muy buena la relación con todos los gobiernos de Centroamérica, del Caribe, y nos ayudamos, hemos logrado acuerdos con Guatemala, con Honduras, con Cuba, con Venezuela, con El Salvador, estamos trabajando de manera coordinada con Programas para el Bienestar y hay una actitud de parte de ellos de cooperación, de apoyo, de respeto, con todos.</p>
+<p>Nuestros hermanos de Belice, es una relación muy fraterna la que tenemos con el gobierno de Belice. Ahora con el Tren Maya se están estrechando más las relaciones. Mucha gente de Belice, eso no se sabe mucho, llega a hacer sus compras a Chetumal los fines de semana, pasan, hay una comunicación permanente. Y muchos ciudadanos de Belice tienen como origen la península de Yucatán. Hay una relación estrecha, de hermandad.</p>
+<p><strong>INTERLOCUTOR: </strong>Gracias, presidente.</p>
+<p>Quiero ahondar en un tema que siempre es una preocupación para todas y todos los mexicanos en Año Nuevo, que este aumento a impuestos. Se habla de un aumento al IEPS del 4.32 por ciento. Preguntarle, presidente, si su gobierno va a tener un aumento de impuestos mayor a la inflación este año.</p>
+<p>Y a la par, preguntarle si van a continuar los subsidios, por ejemplo, en el tema de la gasolina, si va a continuar la política del Pacic para mantener una estabilidad en los precios de la canasta básica.</p>
+<p>¿Cómo va a ser esta política económica en el sexto año de su gobierno, presidente?</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Es la misma política: no va a haber aumentos de impuestos en términos reales, no hay aumentos en el precio de las gasolinas, del diésel, de la luz. Vamos a continuar con el programa antiinflacionario.</p>
+<p>Ya se restableció el mecanismo que se acordó con las tiendas departamentales para que se mantengan los precios de la canasta básica de 24 productos sin aumentos. Es muy interesante que cuando empieza a aumentar a inflación este año, por la guerra de Ucrania —desde el año pasado— y Rusia, llevamos a cabo este acuerdo y se fijó como precio de los 24 productos de la canasta básica mil 39 pesos por 24 productos. Y si vemos los precios actuales, están abajo. Eso lo tenemos que agradecer a los que participan en este programa, a las cadenas comerciales de Chedraui, Walmart, Soriana y otras que no recuerdo.</p>
+<p>Pero a ver si pones lo del lunes, si tenemos, para que vean. Esto nos ha ayudado mucho y el tener también el control del precio de las gasolinas.</p>
+<p>¿Saben qué dijo un secretario de Hacienda en el gobierno anterior? Una eminencia, muy famoso, porque es concuño de Carlos Salinas y llegó a ser secretario de Hacienda en el sexenio pasado. Aumentaban el precio de las gasolinas y él llegó a declarar que eso no afectaba porque la mayoría de la gente no tenía carros, no tenía vehículos. Secretario de Hacienda.</p>
+<p>Aspe, hace 30 años, llegó a decir que no importaba fomentar la actividad productiva del campo en México porque en un mundo globalizado lo que se necesitara se podía comprar en el extranjero. A partir de ahí dejaron de apoyar la producción en el campo.</p>
+<p>En ese entonces también otro, creo que el que habló de política industrial, Serra Puche, se aventó otra frase célebre: sostuvo que la mejor política industrial era la que no existía. Y hubo otra, pero esa no la voy a decir, sobre la corrupción, pero esa no.</p>
+<p>No, pero a ver si tenemos los precios. Este es el comportamiento en general de la canasta de productos, pero esta es a lo que me refiero. Lo que se pactó fue mil 39, y este es el más alto, por ejemplo, Ley está abajo, mil 22; pero aquí en Chedraui, en Cuernavaca, Morelos, 763, de mil 39 a 763.</p>
+<p>Pasa otra. Aquí está, lo mismo, vamos a poner ahora a Soriana, 966, es de los altos, pero abajo de mil 39. Y acá, Soriana, 834, en Morelia, la canasta.</p>
+<p>Y dicen: ‘Sí, pero es que son productos o mercancías o alimentos básicos, que son ganchos’. Sí, pero es lo que más consume la gente: es el arroz, es el frijol, es el aceite, es la azúcar, la carne de pollo. Entonces, eso ayuda mucho y yo tengo que agradecerlo porque han cumplido.</p>
+<p>Y tenemos que cuidar que no haya cuesta de enero, como era antes; que no haya aumento de precios, que no haya inflación porque, si no, se afecta el ingreso. Podemos estar aumentando el salario, pero si hay inflación, pues se pierde poder de compra, poder adquisitivo, que era lo que pasaba antes. Fue… Olvídense de las frases célebres, de las canalladas que hicieron estos neoliberales que aspiran a regresar, que yo también quiero que regresen, pero lo que se robaron.</p>
+<p>Pon lo del salario mínimo, de favor. Imagínense que los aumentos al salario en 30 años siempre fueron por abajo de la inflación, siempre por abajo de la inflación, por eso en el periodo neoliberal el salario perdió más del 70 por ciento de su poder adquisitivo. Ese es el modelo que defiende Sarmiento, y tiene todo su derecho, porque ni modo que él se inconformara cuando estaba esta política. Miren el salario durante el periodo neoliberal.</p>
+<p>Y Zuckermann, que me dice que él es neoliberal, pues está en su derecho, es libre, pero yo no, yo no. Y así como él y como Sarmiento hay millones, y así como estoy pensando yo hay también millones, y lo importante es que podamos convivir porque esa es la democracia, no es pensamiento único, es pluralidad. Pero, cómo voy a estar de acuerdo con esto.</p>
+<p>Pero, además, encima, con una gran mentira, porque repetían que, si aumentaban el salario, se iba a incrementar la inflación, iba a haber más inflación, durante muchísimo tiempo, como otras mentiras: de que no había recaudación suficiente porque no pagaban impuestos los de la economía informal, los vendedores ambulantes, y que ese era el principal problema, cuando el principal problema era que los de arriba, los potentados, las grandes corporaciones empresariales, los bancos, no pagaban impuestos o se los condonaban. Pero ¡a cuántos engañaron así!</p>
+<p>Todavía hay quienes, con ese pensamiento conservador, profesionales, hasta columnistas, maestros, investigadores de clase media, todavía hay quienes dicen: ‘Nosotros, los que pagamos impuestos’. ¿No escuchan eso?</p>
+<p>Bueno, ahora con lo de Mexicana: ‘¡Cómo van a usar nuestros impuestos para eso!, ¡Nosotros, que somos los que pagamos impuestos!’, porque, según esa mentalidad, el pueblo no paga impuesto. No, todos pagamos impuestos, hasta el campesino, el más pobre, paga un impuesto. Incluso, para que quede claro, paga más impuesto un obrero, proporcionalmente, que un empresario; se recauda más de impuesto sobre la renta de los trabajadores que lo que pagan de impuesto sobre la renta los empresarios.</p>
+<p>Pero fueron lavándonos el cerebro poco a poco y cuesta mucho trabajo el convencer, porque no fue poco tiempo, fueron 36 años de predominio de ese pensamiento. El porfiriato fueron 34 años, y quedó la idea de que Porfirio era muy buen gobernante, y fíjense que fue el gobierno que más endeudó al país en la historia, hasta los edificios que se hicieron para celebrar el centenario se hicieron con crédito.</p>
+<p>Fue el gobierno que llevó a la práctica por primera vez un rescate como el Fobaproa, se rescataron a los ferrocarriles que estaban en manos de empresas extranjeras y se convirtió en deuda pública todo lo que se les pagó a las compañías extranjeras dueñas de los ferrocarriles. Pero esto ni modo que se supiera. Además, si hubiese sido un buen gobierno, no hubiese habido una revolución. Y siguen pensando así.</p>
+<p>Pero fueron 34 años; esto fue, esta pesadilla tardó 36 años, entonces va a llevar su tiempo, poco a poco se tiene que ir aclarando las cosas.</p>
+<p>Y tampoco estar obcecado en que cambien, y mucho menos pelearnos, ni siquiera enojarnos. Si Sarmiento sostiene estas cosas, pues está en su derecho, nada más que qué se van a poner a discutir; mucho menos en familia.</p>
+<p>Ahora la cena de fin de año, que se reúne la familia y que empiezan las discusiones, no hablemos de política, nada, nada, nada, no nos metamos en eso. ‘¡Es que se está destruyendo el país!’. No, no, no hablemos de eso; no, no, nos metamos en eso. No tocar ese tema y no pelearnos.</p>
+<p>Y ya, si están muy, muy, muy tercos, muy necios porque quieren pleito, porque están muy enojados, ya nada más decirle: Siga usted su camino, siga usted su camino.</p>
+<p>Una vez fueron a ver los diputados traidores de la legislatura cuando Madero era presidente, fueron a convencer de que renunciara. Bueno, vinieron aquí, a Palacio, y los escuchó Madero. Pero fíjense lo ofensivo, ¿no?, todos los traidores, que cuando se van, ya que:</p>
+<p>- Señores, ¿ya terminaron?</p>
+<p>-Sí, presidente —se quedan así—sí, presidente. Y piensan que Madero les va a dar la mano.</p>
+<p>Se puso así: ‘Que les vaya bien’.</p>
+<p>Entonces, no pelearnos, sino, nada más, entender que somos distintos, diferentes.</p>
+<p><strong>INTERLOCUTOR: </strong>Concluyendo, presidente, si me permite: en el marco de la penúltima conferencia de prensa del 2023, conocer cuáles van a ser sus 12 deseos para el Año Nuevo, para el 2024, o los deseos que usted tiene en general para el próximo año.</p>
+<p>Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Es que esos no se dicen, ¿no es así? Es una pestañita y se agarra…</p>
+<p><strong>PREGUNTA</strong>: Un propósito, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Un propósito: la verdad, que la gente sea muy feliz, que nuestro pueblo siga siendo muy feliz, que no se sufra, que nadie se enferme, que no haya pleitos, esto que siga pasando, que no haya agresiones, que vivamos en paz, que el año que viene en lo económico sea como el actual.</p>
+<p>¿Qué deseo?</p>
+<p>Pues que tengamos la misma tasa de crecimiento de este año, que se sigan creando empleos.</p>
+<p>Hoy dio el Inegi información sobre empleo, y la tasa de desempleo en México es de las más bajas del mundo, eso lo celebro mucho y lo deseo para el año próximo, que haya trabajo, que se tengan los ingresos en las familias para satisfacer las necesidades básicas, que no haya crisis de consumo, que se siga reduciendo la inseguridad, que haya cada vez más paz, más tranquilidad.</p>
+<p>Que en las elecciones se deje en libertad a los ciudadanos; que haya elecciones limpias, libres; que sea el pueblo el que decida, elija; que no haya trampas, que no haya fraude. Eso es lo que deseo.</p>
+<p><strong>PREGUNTA</strong>: ¿Ha sido este el mejor año de su gobierno, señor presidente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Sí, este es uno de los mejores años. Es que pasamos dos muy difíciles, los de la pandemia, esos fueron muy duros, muy difíciles. Afortunadamente, el primero año ya habíamos iniciado con nuestros planes.</p>
+<p>Nos ayuda mucho el que desde los primeros días comenzamos a poner en marcha todo el plan de desarrollo: desde que entramos empezamos a rehabilitar las refinerías, a construir la nueva refinería.</p>
+<p>Empezamos con el proyecto del Tren Maya, lo del aeropuerto.</p>
+<p>Desde que entramos empezamos a fortalecer toda la política de desarrollo social. Yo creo que desde principios del 19 ya los adultos mayores estaban recibiendo el doble de pensión.</p>
+<p>Ya habíamos iniciado los programas Sembrando Vida.</p>
+<p>De modo que como todo el 19 fue inicio de programas, la pandemia nos agarró con los programas en marcha y lo que hicimos fue reforzarlos, eso nos ayudó mucho. Porque ya teníamos los Créditos a la Palabra, ya teníamos los apoyos para pequeños negocios;cuando la pandemia, otorgamos tres millones de créditos abajo, todo eso nos ayudó mucho.</p>
+<p>Teníamos fondos suficientes. Fuimos de los primeros que compramos vacunas; en cinco meses vacunamos a todos los adultos mayores del país con una primera dosis, en cinco meses.</p>
+<p>Bueno, en el primer año, en el 19, ya había yo visitado 80 hospitales del IMSS-Bienestar, de modo que cuando llega la pandemia ya sabíamos qué estaba pasando en el sector Salud, qué se tenía que hacer, cómo reforzar la atención médica.</p>
+<p>Fueron años muy difíciles el 20, el 21; el 22 empezaron a mejorar las cosas y este ha sido muy bueno.</p>
+<p>Ya el 22 fue mejor año; tan es así, que la encuesta del Inegi sobre pobreza, sobre ingresos en familias, la levantaron en julio del 22 y ya en esa encuesta ya se refleja, aún con la pandemia, una disminución de la pobreza en México.</p>
+<p>Y este año mucho mejor, mucho, mucho mejor en empleo, en inversión extranjera, en reservas del Banco de México, en utilidades en la bolsa. Repito lo que se dice en Tabasco y en Veracruz, un dicho choco-jarocho, que cuando la milpa se da bien alcanza hasta para el pájaro.</p>
+<p>El año pasado fue el año en que más utilidades obtuvieron los bancos, pero este año va a ser récord, va a ser mayor la utilidad. Todavía no salen los datos, pero apuesto a que van a ser mejores las utilidades.</p>
+<p>Entonces, le fue bien a la gente con menos ingresos y también a los negocios, a las empresas les fue bien.</p>
+<p>Y miren lo del peso, ayer estaba… A ver cómo está ahora, exacto, a 17. Miren eso. ¿Cuándo se había visto eso? Y es por lo mismo, porque el país es muy atractivo para la inversión. ¿Cuándo se había visto?</p>
+<p>Yo creo que nunca, nunca en el México independiente, en el México prehispánico sí, pero el México independiente nunca se había visto de que el sureste creciera más que el norte. Nunca. Un fenómeno.</p>
+<p>Y esto ¿qué es lo que afianza como criterio?</p>
+<p>La importancia de la inversión pública. En el periodo neoliberal… Y en esto no coincidimos con nuestro amigo Sarmiento porque él no cree en la inversión pública, él cree en la inversión privada, y yo sostengo que es muy importante la inversión pública, como la inversión privada y como la inversión extranjera, y que hay que echar a andar los tres motores de la economía al mismo tiempo: el sector público, el sector privado y el sector social.</p>
+<p>¿Qué hacemos sin los trabajadores? ¿Por qué México es una potencia en el concierto de las naciones?</p>
+<p>Por la capacidad excepcional de sus trabajadores. Los trabajadores mexicanos son de los mejores del mundo.</p>
+<p>Porque también se piensa que en una empresa lo que cuenta es el capital y no el trabajo. No, es lo mismo. Para no discutir, pero ¿qué se hace sin el trabajo de los obreros? Y eso lo tiene nuestro país; eso es, como dirían los técnicos, un insumo fundamental, es la esencia, sí, por eso la inversión pública es muy importante.</p>
+<p>¿Por qué? Y esto es para los que están estudiando economía.</p>
+<p>Si están altas las tasas de interés, se supone de que no se promueven créditos o no se solicitan o no se otorgan créditos cuando están altas las tasas de interés, y por lo mismo no hay inversión.</p>
+<p>¿Por qué sigue habiendo crecimiento, si están altas las tasas de interés?</p>
+<p>Por la inversión pública y por la inversión extranjera. Entonces, es combinar, no, es decir: ‘Todo al mercado, que desaparezca el Estado’. No, es Estado y mercado, y que el Estado cumpla con su responsabilidad social.</p>
+<p>¿Cómo es que, si uno se enferma, tiene uno que ver cómo se alivia, cómo se cura? ¿Y si no hay recursos, entonces no se va a uno a atender, no va uno a curarse? ¿Qué, no el Estado tiene la responsabilidad de garantizar el derecho a la salud? ¿Qué, no el Estado tiene la obligación de garantizar la seguridad del ser humano desde que nace hasta que muere, desde la cuna hasta la tumba?</p>
+<p>Entonces, ¿la salud es un privilegio o es un derecho? La educación, ¿es un privilegio o es un derecho?</p>
+<p>Entonces, ¿quién se tiene que hacer cargo? El Estado.</p>
+<p>Cómo, a ver, se diluye el Estado, no existe el Estado, todo es el mercado. Si te enfermas, pagas; si quieres estudiar, pagas, porque si no tienes no te curas ni estudias. Eso no puede ser. El fin último de un Estado, de un gobierno, es lograr la felicidad del pueblo.</p>
+<p>Y sí la libertad, desde luego, garantizar la libertad en todo, pero el Estado no puede incumplir su responsabilidad social, y esas son las diferencias que tenemos con algunos escritores, analistas; pero no es un asunto de pleito irreconciliable, no, es sencillamente: pensamos distinto. Y qué bueno, ¿no?, imagínense lo aburrido que sería la vida si todos pensáramos igual.</p>
+<p>Vámonos a desayunar.</p>
+<p>Me acaban de mandar un chocolate de Comalcalco, de la perla de la Chontalpa, un chocolate que me lo hacen con molinillo. Y me mandaron también pan, el pan de Durango, de la capital de Durango, que es un pan... Bueno, yo creo que en todo México el pan, me estoy acordando ahora del de Xico, por ejemplo; me acuerdo hasta del pan de burro.</p>
+<p>Hay un pan en Sinaloa, que ese no lo puedo decir como le llaman. Pan de señora, pues.</p>
+<p>La panetela de allá, de Emiliano Zapata, que antes se llamaba Montecristo. Y la galleta de agua de Campeche.</p>
+<p>No, no, no, los panes. Entonces, vamos al pan con el chocolate.</p>
+<p>Y vamos a la foto ya, vénganse aquí.</p>
+<p><strong>PREGUNTA:</strong> ¿Hablaron con los estadounidenses de las deportaciones, presidente? ¿Siguen suspendidas las deportaciones de los migrantes?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, hablamos de eso y ellos están haciendo trámites. Lo que pasa, que son muchos, fueron muchos, y llegó el momento en que el personal de migración de Estados Unidos y también el nuestro quedaron rebasados. Es que no se trata de nada más: a ver, detuvieron a migrantes de aquel lado de la frontera y los llevan a un aeropuerto, los suben a un avión y los regresan, no, es un trámite que se tiene que hacer de conformidad con la normatividad existente, lleva tiempo.</p>
+<p>En el caso de nosotros, por ejemplo, para llevar a cabo estos rescates y hablar con los gobiernos que van a recibir, si quieren los migrantes regresar, primero los gobiernos tienen que aceptar recibirlos, primero.</p>
+<p>Segundo, pues tienen que estar de acuerdo los migrantes.</p>
+<p>Tercero, se tienen que cumplir ciertas normas, se tienen que juntar de una sola nacionalidad. Hay un plazo de 36 horas.</p>
+<p>Luego, en qué aviones</p>
+<p><strong>PREGUNTA:</strong> ¿En México siguen suspendidos los retornos asistidos por falta de presupuesto, por ajustes tributarios?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, no, eso se aclaró, de que nunca ha habido ninguna limitación, no, son otras circunstancias. Es que llegaron muchos, como no se había visto en mucho tiempo, muchos, muchos, pero ya se está restableciendo, se está normalizando toda la situación.</p>
+<p>También, por ejemplo, hay contratos con los camiones, con el ADO, que es una muy buena línea de transporte, pero no hay autobuses suficientes; está el contrato, pero ellos no pueden porque en esta temporada pues hay, ¿cómo se llaman?, corridas extras. Sí, ¿no?</p>
+<p>Y lo mismo en el caso de los aviones, eso es lo que…</p>
+<p><strong>PREGUNTA</strong>: Esa noticia corrió como reguero de pólvora, que no había presupuesto.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Sí.</p>
+<p>Muchas felicidades. De todas maneras, nos vemos mañana aquí.</p>
+<p><strong>(FOTOGRAFÍA CON REPORTERAS Y REPORTEROS)</strong></p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

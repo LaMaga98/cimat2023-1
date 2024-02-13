@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>08.03.19 Versión estenográfica. Conmemoración del Día Internacional de la Mujer &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/version-estenografica-conmemoracion-del-dia-internacional-de-la-mujer/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=116825' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conmemoracion-del-dia-internacional-de-la-mujer%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conmemoracion-del-dia-internacional-de-la-mujer%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2t7wa-f-fc020f1ba-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"25e1540","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":16581,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706729452","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==lgwu14SyOvFacb/FvE/WmzSyxcsDavfxUE1hWrcQt9B4ijUt88CEIAMByBigjgxmHCprQypO5svSmwkrLc0XSPQhjv+6cKheiaKArIuyUPt5J16WWu33w0jSq82j6CJPqGDz5tl4T3V9RP8TRPTo+lTRv2a+pidOmg6vJaJANTzC5aHLrdlmh8vcwQ6P7QNpSic5oej7mwl3vEC6kKDgktRkMFqGKVeVbrFAFxd5tOxGPzJuqohDorz9wRmuZQLBqaw8LM4q5yAdaaTSbR5odjZ5r2QV/4APECHmLo8aXErPGl6w2mTFFrFr4D6JBbzSUFLcJFAi+IaxReQqWzrp3O183x00lGzXb5qeVJqN/tyc4+RgQjERMlxbPTzqLwkuLEhSlKAx+fT0GAXwu6ffAa5dQS20Bw0m36TpyJ3NRlk=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-116825 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9e67950dc" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>08.03.19 Versión estenográfica. Conmemoración del Día Internacional de la Mujer</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 08.03.19 Versión estenográfica. Conmemoración del Día Internacional de la Mujer 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-116825" class="post-116825 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-8-de-marzo tag-8m tag-amlo tag-amlo-hoy tag-andres-manuel tag-andres-manuel-lopez-obrador tag-conferencia tag-conferencia-amlo tag-conferencia-de-amlo tag-conferencia-de-amlo-hoy tag-conferencia-de-prensa tag-conferencia-de-prensa-amlo tag-conferencia-de-prensa-presidente tag-conferencia-matutina tag-conferencia-presidente tag-dia-internacional-de-las-mujeres tag-gasman tag-hoy tag-informe-amlo tag-inmujeres tag-instituto-nacional-de-las-mujeres tag-lopez-obrador tag-nadine-gasman tag-obrador tag-olga-sanchez tag-olga-sanchez-cordero tag-plan-emergente tag-proteccion-a-mujeres tag-refugios tag-refugios-mujeres tag-secretaria-de-gobernacion tag-segob tag-seguridad-mujeres">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/03/08-03-2019-FOTO-02-DIA-INTERNACIONAL-DE-LA-MUJER.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/03/08-03-2019-FOTO-02-DIA-INTERNACIONAL-DE-LA-MUJER-745x450.jpg" alt="08.03.19 Versión estenográfica. Conmemoración del Día Internacional de la Mujer" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">08.03.19 Versión estenográfica. Conmemoración del Día Internacional de la Mujer</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><span style="font-size: 10pt;"><em>2019, Año del Caudillo del Sur, Emiliano Zapata</em></span></p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Para darnos un mensaje de bienvenida, cedo la palabra a la presidenta del Instituto Nacional de las Mujeres, doctora Nadine Gasman Zylberman.</p>
+<p style="text-align: justify;"><strong>NADINE GASMAN ZYLBERMAN:</strong> Buenos días a todas.</p>
+<p style="text-align: justify;">Es realmente muy emocionante estar en el patio del Palacio Nacional con más de 500 mujeres y hombres celebrando el 8 de marzo.</p>
+<p style="text-align: justify;">Licenciado Andrés Manuel López Obrador, presidente constitucional de los Estados Unidos Mexicanos; doctor Olga Sánchez Cordero Dávila, secretaria de Gobernación; senadora Martha Lucía Mícher Camarena, presidenta de la Comisión para la Igualdad de Género del Senado de la República.</p>
+
+<figure class="wp-block-audio"><audio src="https://lopezobrador.org.mx/wp-content/uploads/2019/03/El-reconocimiento-de-los-derechos-humanos-de-las-mujeres-es-la-base-de-un-est...-1.mp3" controls="controls"></audio></figure>
+<p><a href="https://www.facebook.com/lopezobrador.org.mx/videos/372209103627108/">https://www.facebook.com/lopezobrador.org.mx/videos/372209103627108/</a></p>
+
+<p style="text-align: justify;">Diputada Wendy Briceño Zuloaga, presidenta de la Comisión de Igualdad de Género de la Cámara de Diputados; y diputadas -con toda y porras venimos- y a través de ellas, a todas las que están en el presídium. Y especialmente un saludo muy grande a todas y todos los que están aquí.</p>
+<p style="text-align: justify;">El 8 de marzo es una fecha emblemática en la historia de la lucha de las mujeres por nuestros derechos. Fue institucionaliza en 1975 por Naciones Unidas para recordar la deuda de los estados civilizados de todo el mundo con la igualdad de derechos, de oportunidades, beneficios en el desarrollo y con la paridad en las decisiones políticas.</p>
+<p style="text-align: justify;">Hoy en nuestro país, como en todo el mundo, conmemoramos este día y aprovechamos para hacer un balance de los logros y los desafíos. Este es un día para celebrar y para recordar. Celebramos que estamos de pie mostrando que podemos, que sabemos, que queremos participar y que hacemos aportes valiosos a nuestras familias, comunidades y al país.</p>
+<p style="text-align: justify;">Celebramos que vivimos en un Estado de Derecho y que gracias a ellos somos iguales ante la ley. Que las familias deben facilitar la educación de las niñas en igualdad de condiciones que los niños, que tenemos derecho a una vida libre de violencia, a la seguridad, la integridad, la paz y la salud.</p>
+<p style="text-align: justify;">Que podemos trabajar y recibir un salario, que somos libres de decidir qué hacer con nuestros ingresos, que tenemos derechos a una movilidad libre y segura sin tener que pedir permiso a nadie.</p>
+<p style="text-align: justify;">Que hemos conquistado de manera creciente la autonomía y que participamos cada vez más en las decisiones y cargos públicos.</p>
+<p style="text-align: justify;">Es también un día de conmemoración; es decir, de hacer memoria colectiva recordando los obstáculos que hemos tenido que vencer para llegar hasta aquí.</p>
+<p style="text-align: justify;">Rendimos homenaje a las generaciones de niñas, jóvenes y adultas que tuvieron que enfrentarse a las barreras que el patriarcado ha sembrado en todos los rincones del planeta.</p>
+<p style="text-align: justify;">Recordamos las luchas, las batallas y los fracasos. Recordamos a las madres de una patria que ha sido también forjada y construida por mujeres, que están representadas en el logro que hoy nos convoca, me refiero a Sor Juana, a Leona Vicario, a Carmen Serdán, Josefa Ortiz y Elvia Carrillo Puerto; pero son muchas más, muchas más. Son nuestra matria y hoy les rendimos homenaje.</p>
+<p style="text-align: justify;">En este día nos acompañan mujeres que de distintas trincheras están participando activamente en la transformación del país. Por ello saludo con mucho afecto a las legisladoras que nos honran con su presencia y que por primera vez conforman una legislatura con paridad de género. Se merecen un aplauso, sin duda.</p>
+<p style="text-align: justify;">Saludo igualmente a las titulares de distintas áreas del Ejecutivo que integran un gabinete con amplia participación de mujeres en cargos de alta responsabilidad pública. Nos merecemos un aplauso, claro.</p>
+<p style="text-align: justify;">Por primera vez en la historia tenemos paridad en el Ejecutivo y en el Legislativo y eso tiene que hacer que México cambie rápidamente.</p>
+<p style="text-align: justify;">Es una gran satisfacción contar con la presencia de Rosalba Velázquez Trigueros, Felícitas Martínez Solano, indígenas que están abriendo camino para la transformación del país.</p>
+<p style="text-align: justify;">Sería una larga lista nombrar a las miles de trabajadoras, profesionistas, feministas, académicas, artistas, periodistas, científicas y defensoras de los derechos humanos que en sus tareas diarias y con firmeza y determinación están transformando el conocimiento, la vida en las colonias, en los pueblos y en las organizaciones a favor de la igualdad y la no discriminación.</p>
+<p style="text-align: justify;">Las niñas también cuentan y su reivindicación en la perspectiva de la igualdad es fundamental.</p>
+<p style="text-align: justify;">Por eso doy también la bienvenida a Ana Regina Flores Mayoral, una niña cuyos sueños y anhelos desafían el futuro. Ver este potencial aquí reunido es alentador.</p>
+<p style="text-align: justify;">Hoy las mujeres contamos con una base de derechos exigibles ante la ley. La participación económica de las mujeres mexicanas casi se ha triplicado a lo largo de los últimos 45 años.</p>
+<p style="text-align: justify;">En el medio rural, sólo tres de cada 10 tienen un trabajo remunerado; sin embargo, producen más de 50 por ciento de los alimentos.</p>
+<p style="text-align: justify;">En las ciudades, cuatro de cada 10 mujeres son población ocupada y encabezan como jefas económicas del 26 por ciento de los hogares.</p>
+<p style="text-align: justify;">En la educación, integramos poco más de la mitad de la matrícula básica, media y superior.</p>
+<p style="text-align: justify;">En la participación política, gracias a las normativas de paridad, México está entre los cuatro países del mundo con mayor representación de mujeres en los congresos.</p>
+<p style="text-align: justify;">Sin embargo, seguimos enfrentado la discriminación laboral, despidos por embarazo, salarios menores por trabajos del mismo valor que los hombres, siendo aún las responsables casi exclusivas de las cargas del trabajo doméstico y de cuidados no remunerado.</p>
+<p style="text-align: justify;">Necesitamos afrontar las desigualdades que viven las mujeres desde su infancia. Es indispensable realizar esfuerzos reales y sostenidos para erradicar el embarazo infantil y adolescente porque es inadmisible que en tan solo tres años tengamos cerca de 30 mil nacimientos de niñas. Una dolorosa realidad que ocurre como causa de la violencia sexual.</p>
+<p style="text-align: justify;">Nuestra aportación invisible y no remunerada en los hogares en razón de servicios domésticos y de cuidados equivale al 23 por ciento del PIB nacional en 2017. No es poca cosa.</p>
+<p style="text-align: justify;">Veinticinco de cada 100 mexicanas tienen las mejores credenciales educativas; sin embargo, la discriminación de género en el trabajo no las deja crecer y llegar a los puestos más altos de la jerarquía.</p>
+<p style="text-align: justify;">La paradoja de la desigualdad de género nos dice que tanto las más instruidas como las que carecen aún de la formación básica comparten la misma brecha salarial: 50 por ciento menos remuneración que los varones con la misma formación.</p>
+<p style="text-align: justify;">Señor presidente.</p>
+<p style="text-align: justify;">Amigas y amigos:</p>
+<p style="text-align: justify;">La discriminación está en el origen de la desigualdad entre mujeres y hombres, aunque, sin duda, su rostro más extremo es la violencia que se manifiesta como un <em>continuum,</em> que va de los espacios privados a los públicos, cercando la libertad y los derechos de las mujeres.</p>
+<p style="text-align: justify;">Para reducir esta pandemia social, que afecta de diversa forma a cuatro de cada 10 mujeres mexicana, hemos integrado un plan de acciones emergentes que se desarrollará con autoridades federales, estatales y municipales en 16 municipios de alta incidencia de feminicidio y zonas prioritarias de la estrategia de seguridad.</p>
+<p style="text-align: justify;">La transformación que queremos no será posible sin incorporar la erradicación de la violencia contra las mujeres y las niñas en la estrategia de pacificación.</p>
+<p style="text-align: justify;">Porque estamos convencidas de que la violencia no es compatible con la democracia y con la igualdad.</p>
+<p style="text-align: justify;">También debemos mencionar aquí que el bienestar de las familias, el desarrollo de la niñez y la juventud, la atención a las personas mayores, no será alcanzado sin una política de cuidados que libere el tiempo de las mujeres y promueva modelos de maternidad y paternidad corresponsables y diversos.</p>
+<p style="text-align: justify;">Definitivamente los principios de igualdad, no discriminación, respeto a la diversidad y a la corresponsabilidad deben ser parte de la discusión sobre los valores que abonen a la cohesión y a la recuperación del tejido social.</p>
+<p style="text-align: justify;">Señor presidente.</p>
+<p style="text-align: justify;">Compartimos su visión de poner mayores esfuerzos en atender y apoyar a las mujeres mexicanas de las comunidades más alejadas, o sea, incorporando los programas prioritarios como Becas de Bienestar, Jóvenes Construyendo Futuro, Becas Benito Juárez, Tandas para el Bienestar, Sembrando Vidas y todos los demás a las mujeres que están en situación especialmente vulnerable: las mujeres rurales, indígenas, afro mexicanas, las adultas mayores, las jóvenes, las mujeres que viven con alguna discapacidad y a las migrantes.</p>
+<p style="text-align: justify;">Y por eso es muy importante que los recursos presupuestarios destinados para la igualdad entre mujeres y hombres se aplique correctamente, con eficacia y eficiencia, con transparencia y rendición de cuentas.</p>
+<p style="text-align: justify;">Mi mensaje hoy es que no podemos retroceder en los logros que hemos conseguido las mujeres; tenemos que seguir hacia adelante con claridad de miras, para que ninguna niña o mujer mexicana se quede atrás, tal como nos comprometimos con la Agenda 2023 para el Desarrollo Sostenible y sus 17 objetivos.</p>
+<p style="text-align: justify;">Tenemos que construir un acuerdo por la igualdad entre hombres y mujeres. Se lo debemos a millones de mujeres que luchan por sus derechos en todo México.</p>
+<p style="text-align: justify;">Si las mujeres no están en el centro de las políticas no es desarrollo sostenible.</p>
+<p style="text-align: justify;">Alcanzar la igualdad requiere, no sólo de imaginación, dedicación, alianzas y recursos, sino de una enorme voluntad política para cambiar nuestra realidad y de un claro compromiso social para impulsar leyes, políticas y medidas para avanzar en la agenda nacional.</p>
+<p style="text-align: justify;">Quiero expresar mi respeto y reconocimiento al presidente Andrés Manuel López Obrador por su apertura al diálogo y escucha, para tomar medidas concretas para la inclusión de niñas y las mujeres en todos los ámbitos de la vida en condiciones de igualdad con los hombres.</p>
+<p style="text-align: justify;">A todas ustedes, mujeres aliadas con, por y para la igualdad para todas y todos, comprometámonos individual y colectivamente, no sólo en esta conmemoración, sino todos los días a hacer todo lo posible para promover, proteger y garantizar los derechos de las mujeres, para lograr una profunda transformación en donde impere la civilidad, el respeto, la igualdad, la inclusión y la paz en nuestro país.</p>
+<p style="text-align: justify;">Señor presidente.</p>
+<p style="text-align: justify;">Desde el Instituto Nacional de las Mujeres, que tengo el honor de dirigir y frente a todas estas mujeres que significan el pasado, el presente y el futuro de nuestro país, trabajaremos junto con usted con decisión y convicción para lograr el país más seguro, igualitario y justo que todas las niñas y mujeres mexicanas merecemos.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Toca el turno en el uso de la palabra a la senadora Martha Lucía Mícher Camarena, presidenta de la Comisión de Igualdad de Género de la honorable Cámara de Senadoras y Senadores.</p>
+<p style="text-align: justify;"><strong>MARTHA LUCÍA MÍCHER:</strong> Buenos días.</p>
+<p style="text-align: justify;">Señor presidente de la República de los Estados Unidos Mexicanos</p>
+<p style="text-align: justify;">Compañeras, amigas, colegas, compañeras de lucha, compañeras de lucha, compañeras de ruta, secretaria de Gobernación, presidenta del Instituto Nacional de las Mujeres, mujeres guerras. Compañeras todas.</p>
+<p style="text-align: justify;">Señor presidente:</p>
+<p style="text-align: justify;">Usted nos convocó el 1º de julio a transformar esta patria y aquí estamos, aquí estamos.</p>
+<p style="text-align: justify;">Cuente con nosotras, tomadas de la mano con usted, con este gabinete paritario, con mujeres con conciencia de género, con hombres en el gabinete aliados de la lucha de las mujeres y de sus derechos.</p>
+<p style="text-align: justify;">Cuente con nosotras, porque somos las ‘insistencialistas’, porque no vamos a quitar el dedo del renglón para trabajar con usted siempre, siempre de la mano, porque nosotras también queremos transformar este país, como usted, contra la corrupción, también queremos combatir la impunidad, también queremos combatir la falta de acceso a los servicios de salud, de bienestar, a los que renunció el régimen pasado.</p>
+<p style="text-align: justify;">De eso no tenemos duda.</p>
+<p style="text-align: justify;">Y no tenga usted nunca duda, porque, así como estamos, así, diversas, diferentes, morenas, heterosexuales, homosexuales, casadas, solteras, divorciadas, indígenas, mestizas, trabajadoras, empresarias, niñas, viudas, todas, así de diversas cerramos filas porque queremos una patria como la que nos merecemos y como a la que usted nos ha convocado.</p>
+<p style="text-align: justify;">Estamos encantadas.</p>
+<p style="text-align: justify;">Si a mí me hubieran dicho un día que iba a hablar en el Palacio Nacional frente a ustedes y frente a usted no lo habría creído jamás, no lo habría creído jamás.</p>
+<p style="text-align: justify;">Por eso esta es una oportunidad histórica; México nunca ha tenido esta oportunidad tan histórica de transformar la vida de las mujeres y de las niñas, nunca hubiéramos pensado que el 1º de julio llegaba con esta Cuarta Transformación, una cuarta transformación en nuestras vidas.</p>
+<p style="text-align: justify;">Por eso me encanta que tengamos este gabinete paritario y que tengamos en el país que las niñas son la mitad de la niñez, que la mitad de las jóvenes somos mujeres, que la mitad de las mujeres adultas somos mujeres, que la mitad de este país y de este mundo somos mujeres. Y por eso nos hemos transformado precisamente en guerreras ‘insistencialistas’<em>.</em></p>
+<p style="text-align: justify;">Yo le quiero decir, señor presidente, que desde la secretaría de gobierno, con una secretaria de Gobernación feminista y aliada de las mujeres, tenemos mucho avance.</p>
+<p style="text-align: justify;">Pero además me siento muy orgullosa de decirlo, pero también ha sido una denuncia que hemos hechos, presencia de mujer no garantiza conciencia de género y yo sí puedo decir que en este gabinete paritario, que en este congreso paritario en la Cámara de Diputados, que en este congreso paritario en la Cámara de Senadores y Senadoras podríamos decir que la conciencia de género sentó sus reales.</p>
+<p style="text-align: justify;">Vamos a cambiar la vida de las mujeres con usted, señor presidente, con nuestra presidenta del Instituto Nacional.</p>
+<p style="text-align: justify;">Quiero decirles también que usted ya es parte de la historia, pero usted va a pasar a la historia también como el gran transformador, no sólo de las conciencias, sino de la vida de las mujeres, del trabajo de las mujeres, reconociendo la doble, la múltiple jornada a la que estamos siendo obligadas a ejercer.</p>
+<p style="text-align: justify;">Todavía nos falta mucho por avanzar. Por eso hablamos de tres igualdades:</p>
+<p style="text-align: justify;">De la igualdad de la ley. Ya tenemos muchas leyes, vamos a reformarlas, vamos a revisarlas, pero vamos a pasar de la igualdad de la ley, a la igualdad sustantiva.</p>
+<p style="text-align: justify;">Necesitamos que las circunstancias alrededor de las mujeres se modifiquen.</p>
+<p style="text-align: justify;">¿Qué quiere decir eso?</p>
+<p style="text-align: justify;">Una policía, como lo ha dicho nuestro secretario Durazo, especializada en derechos humanos y con perspectiva de género. Una ministerio público que no se burle de nosotras, pero acompañada de una sociedad civil que llega a las tres de la mañana, que paga un taxi para representar a una mujer y que ahí está también acompañando al gobierno y a la procuraduría de justicia o a la fiscalía para la defensa de estas mujeres. Así tiene que ser.</p>
+<p style="text-align: justify;">Pero también hay que reconocer que estas mujeres estamos comprometidas con México y con la matria. Hace unos días presentó la secretaria de Gobernación, junto con Nadine, el plan emergente. Eso es el qué.</p>
+<p style="text-align: justify;">Ahora todas debemos sumarnos a los cómos. Todas tenemos que estar cerrando filas para que no haya una mujer más víctima de violencias en este país. Vamos a revisar las leyes para la igualdad formal, para la igualdad sustantiva y para alcanzar la igualdad de resultados.</p>
+<p style="text-align: justify;">Vamos por nuestras tres autonomías: por la física, que nadie toque nuestro cuerpo sin nuestro consentimiento, que nadie se atreva a agredirnos. Yo sé y conozco cómo es el presidente de la República, jamás he escuchado un comentario misógino de su parte. Lo puedo decir abierta y total y francamente.</p>
+<p style="text-align: justify;">Me encanta saber que no tenemos en él un hombre que se burla de nosotras. Me encanta saber que él está y es aliado de nosotras. Y también me encanta saber que es consciente, que el Estado renunció a su responsabilidad, y que entiendo y comparto que debe ser el Estado el responsable de respetar, proteger y garantizar sin hacer a un lado la experticia y el trabajo de grandes mujeres, de grandes académicas, de grandes profesionistas que han acompañado al gobierno.</p>
+<p style="text-align: justify;">Así es que vamos a caminar juntas, gabinete, sociedad civil, Ejecutivo, Legislativo, Judicial, porque no vamos a permitir ni techos de cristal ni pisos resbalosos ni escaleras rotas para que nosotras, hoy 8 de marzo y todos los que vienen, sigamos diciéndole al mundo, a este país, a cada comunidad y a cada barrio, que tenemos derecho a tener derechos.</p>
+<p style="text-align: justify;">Y como decían las hermanas Miraval, Patria, Minerva y María Teresa, cuando las querían agredir, la gente se acercaba a ellas y les decía -a esas mujeres que fueron asesinadas por el señor Leónidas Trujillo, por un dictador desgraciado que atentó contra su vida- ellas se llamaban ‘Mariposas’; y cuando la gente las reconocía -porque se fueron a la guerrilla a defenderse- la gente les decía: ‘Larga vida a las mariposas’.</p>
+<p style="text-align: justify;">Y yo le digo a usted, señor presidente, con todas nosotras, que queremos seguir teniendo larga vida para todas las mariposas.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> A continuación, solicitamos a la niña Ana Regina Flores Mayoral, nos comparta sus palabras.</p>
+<p style="text-align: justify;"><strong>ANA REGINA FLORES MAYORAL:</strong> Estimadas personas que nos acompañan el día de hoy:</p>
+<p style="text-align: justify;">Nos honran con su presencia.</p>
+<p style="text-align: justify;">Además de saludarles, aprovecho la oportunidad para agradecer al licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos; a la doctora Claudia Sheinbaum Pardo, jefa de gobierno de la Ciudad de México; y a las autoridades presentes por considerarme para ser partícipe en este encuentro Mujeres Transformando México, realizado en el marco de la conmemoración del Día Internacional de la Mujer.</p>
+<p style="text-align: justify;">Mi nombre es Ana Regina Flores Mayoral. Soy alumna del tercer grado grupo B de la Escuela Secundaria Número 120, Rosario Castellanos, del turno vespertino.</p>
+<p style="text-align: justify;">Me llena de orgullo y satisfacción el estar aquí con ustedes, expresando mi opinión sobre la participación de las mujeres en la vida pública de nuestra nación, porque formamos parte de la sociedad.</p>
+<p style="text-align: justify;">Me voy a tomar unos minutos para hablar de un tema de gran importancia en la actualidad, no solamente a nivel nacional sino mundial: La construcción de un futuro para niñas y adolescentes con un proyecto de vida libre de violencia y con oportunidades enfocadas en la equidad de género.</p>
+<p style="text-align: justify;">La población a la que pertenezco es un pilar fundamental para transformar la vida de nuestro país y seguiremos buscando espacios para que se garantice nuestro derecho a ser tomadas en cuenta para participar en las decisiones de nuestro país como una forma de expresión en áreas como la económica, política social y tecnológica.</p>
+<p style="text-align: justify;">Somos jóvenes, tenemos inquietudes, nos gusta la tecnología digital, también nos fascina divertirnos y queremos vivir en un país seguro y tranquilo.</p>
+<p style="text-align: justify;">Como toda historia, existen obstáculos en la construcción de este futuro, del que les hablo; por ejemplo, nuestra preparación académica sería más enriquecedora si contáramos con las oportunidades y recursos para lograrlo; es decir, que todas las escuelas contaran con el apoyo para realizar múltiples actividades.</p>
+<p style="text-align: justify;">Sería genial que fueran al aire libre, como encuentros deportivos y talleres de lectura, que existan espacios libres de violencia y trabajar entre todas las personas que formamos esta gran comunidad para ser generadores del cambio.</p>
+<p style="text-align: justify;">Estoy convencida que la familia es el núcleo básico para que nuestro país avance. En cada mujer, abuela, madre, hermana, tía existe una historia qué rescatar, una vida que sirve de ejemplo, motivación y fortaleza que hace posible creer en un país mejor.</p>
+<p style="text-align: justify;">Si me preguntan acerca de qué futuro imagino. El contar con el apoyo del DIF de la Ciudad de México me permite creer que un proyecto de vida libre de violencia es posible.</p>
+<p style="text-align: justify;">Puedo tener la tranquilidad de que no estamos solas. Caminamos de la mano en un país en el que somos parte de la solución si cada una de nosotras generamos pequeñas acciones. Es ahí donde está el cambio.</p>
+<p style="text-align: justify;">Y como nos dijeron el pasado lunes en el programa Lunes por la Educación, no hay mayor fuerza que la que tenemos nosotras las jóvenes de este país. Así que no hay pretexto.</p>
+<p style="text-align: justify;">Gracias por su atención.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Ahora escuchemos el mensaje de la diputada Wendy Briseño Zuloaga, presidenta de la Comisión de Igualdad de Género de la Honorable Cámara de Diputados y Diputadas.</p>
+<p style="text-align: justify;"><strong>WENDY BRISEÑO ZULOAGA:</strong> Muy buenos días.</p>
+<p style="text-align: justify;">Muy buenos días a todas, muy buenos días a todos.</p>
+<p style="text-align: justify;">Señor presidente de la República, licenciado Andrés Manuel López Obrador; a las autoridades que nos acompañan: la doctora Olga Sánchez Cordero, nuestra secretaria de Gobernación; a la presidenta de Inmujeres, la doctora Nadine Gasman; a nuestra presidenta de la Comisión de Igualdad del Senado de la República, a Malú Mícher; a Belén Sanz Luque, gran aliada desde ONU-Mujeres.</p>
+<p style="text-align: justify;">A todas las mujeres que están aquí en este presídium, impresionantes todas.</p>
+<p style="text-align: justify;">Me ha tocado estar en una mesa previamente en el desayuno y platicando, y conociendo de cerca y ampliando muchos horizontes en los que tenemos, por cierto, que trabajar en la Cámara para ampliar toda la agenda legislativa.</p>
+<p style="text-align: justify;">Saludarlas a todas, a todos ustedes, funcionarias, funcionarios públicos, secretarias, secretarios de Estado.</p>
+<p style="text-align: justify;">A mis compañeras legisladoras, mis compañeras diputadas. Un gusto, un honor que estén aquí también las senadoras.</p>
+<p style="text-align: justify;">A todas y a todos ustedes.</p>
+<p style="text-align: justify;">Decirles en este día histórico, histórico por muchas razones, este 8 de marzo de cara a una profunda transformación de México como ya lo hemos venido diciendo, como lo decía la senadora Malú Mícher.</p>
+<p style="text-align: justify;">En mi caso, decirles que soy una mujer que cree en la revolución de conciencias también, una diputada que se asume desde la conciencia feminista y que se asume como de la Cuarta Transformación de México, convencida de estar del lado correcto de la historia.</p>
+<p style="text-align: justify;">Y hoy es un gusto, presidente, secretaria, a todas, dialogar con ustedes, como siempre lo ha sido presidente Andrés Manuel, de cara a los grandes y urgentes problemas de la nación que usted siempre ha puesto sobre la mesa con esa urgencia para atender.</p>
+<p style="text-align: justify;">Como usted sabe y lo ha señalado en cada pueblo, en cada comunidad de México, durante distintas administraciones en nuestro país el Estado fue omiso y cómplice de dinámicas de corrupción, mismas que alentaron los abusos e impunidad contra la ciudadanía, pero de forma más lacerante y perniciosa contra las mujeres.</p>
+<p style="text-align: justify;">Esa mitad de la población, poco más de la población que somos y que hemos vivido con más dureza la discriminación, porque pese a que nuestra Constitución nos garantiza la igualdad, las diferencias se han traducido en discriminaciones históricas y hoy estamos de cara a la gran oportunidad de transformarlas profundamente.</p>
+<p style="text-align: justify;">Sumidos estos gobiernos, estas administraciones, en un doble discurso, aparentaron el respaldo de los derechos humanos internacionales a favor de las mujeres, mientras que sus políticas neoliberales fomentaron las desigualdades económicas y sociales que recrudecieron las violencias que hoy vivimos, la violencia contra nosotras.</p>
+<p style="text-align: justify;">Hoy me siendo confiada de que podemos articular un trabajo importante entre la sociedad aquí presente y muy bien representada, los órdenes de gobierno y los poderes de la unión.</p>
+<p style="text-align: justify;">Hoy podemos, entre todas, entre todos, saldar las deudas históricas hacia las mujeres. Celebramos que desde el gabinete federal paritario haya mujeres destacadas en las más altas responsabilidades.</p>
+<p style="text-align: justify;">Se está haciendo una diferencia; y en ese sentido, como legisladoras nos tocará avanzar también en una gran agenda y estar de la mano en el tema de la rendición de cuentas.</p>
+<p style="text-align: justify;">Hoy como nunca también el Poder Judicial tiene la oportunidad de actuar con progresividad. Es sustancial que no se retroceda en la impartición de justicia, ni en los derechos que tanto nos ha costado conquistar, hablando además y haciendo, honrando a todas nuestras antecesoras históricamente, recordándolas hoy.</p>
+<p style="text-align: justify;">Hoy, señor presidente:</p>
+<p style="text-align: justify;">Hacemos un llamado amplio, sabemos que tenemos su respaldo, para que una vez más -como lo hemos hecho con usted por muchos años, como muchas mujeres lo han hecho de la mano- caminemos juntas, juntos, hacia el cambio profundo que necesitamos, que mujeres y hombres vivamos en igualdad; es un tema de justicia social.</p>
+<p style="text-align: justify;">Ahora nos toca a nosotras hacer esta gran convocatoria junto con usted, a transitar hacia el momento histórico para garantizar los derechos de las niñas, las adolescentes, de todas las mujeres mexicanas.</p>
+<p style="text-align: justify;">Señor presidente, Andrés Manuel.</p>
+<p style="text-align: justify;">Queremos avanzar en temas sustanciales, como la igualdad salarial y laboral, la no criminalización de las mujeres por decidir sobre nuestro cuerpo, la eliminación del matrimonio infantil, el reconocimiento de los cuidados, la prohibición del trabajo infantil, la erradicación de la violencia, el feminicidio y la violencia política en razón de género.</p>
+<p style="text-align: justify;">Estamos de la mano para trabajar en ello, sabemos que compartimos esta gran responsabilidad histórica con usted, haciendo cada quien lo que nos toca en esta gran revolución de justicia social.</p>
+<p style="text-align: justify;">Para esto hemos llegado al poder, estamos de la mano y estamos listas.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> A continuación, escucharemos el testimonio de Rosalba Velázquez Trigueros, ciudadana de un sector popular urbano.</p>
+<p style="text-align: justify;"><strong>ROSALBA VELÁZQUEZ TRIGUEROS:</strong> Mujeres como mi abuela Leova Méndez Zarco, nos decía. ‘Al suave olor de la mazorca desgranada, todo se arregla dialogando, porque lo que no se pudo solucionar ya la Revolución lo hizo’.</p>
+<p style="text-align: justify;">Buenos días, señor presidente constitucional de los Estados Unidos Mexicanos, licenciado Andrés Manuel López Obrador; distinguidas personalidades del presídium; mujeres y hombres que nos acompañan en este acto.</p>
+<p style="text-align: justify;">Es para mí un honor y gusto saludarles para dirigirme a ustedes en este día de conmemoración y reconocimiento a la lucha histórica y cotidiana de todas las mujeres; mujeres que, como ustedes y yo, día con día salimos a luchar por el sustento familiar y personal, salimos casi sin descanso por la prevalencia de una vida digna, por el bienestar comunitario, familiar, laboral e individual.</p>
+<p style="text-align: justify;">Sabemos que es un legado y un panorama difícil de abordar; sin embargo, hoy tenemos una luz que se nos presenta en el camino. Confiamos en que la conducción de su gobierno nos permitirá vencer estos obstáculos que ahora nos frenan en nuestro avance.</p>
+<p style="text-align: justify;">Como mujeres actuantes de esta sociedad y de esta Cuarta Transformación, en donde la procuración de justicia se asuma brindando la seguridad y el bienestar de las mujeres para que nosotras, nuestras hermanas, madres, hijas, esposas, amigas, abuelas, nietas, tías, primas, sobrinas, cuñadas, colegas del trabajo, familiares, en fin, todas las mujeres podamos transitar libremente y sin temor por las calles, utilizando transportes que nos brinden la certeza de retorno y vivir tranquilamente en nuestras casas.</p>
+<p style="text-align: justify;">Es una tarea complicada y de largo alcance; sin embargo, tenemos la certeza que requerimos de un compromiso de corresponsabilidad.</p>
+<p style="text-align: justify;">¿A qué me refiero?</p>
+<p style="text-align: justify;">Las mujeres necesitamos comprometernos y participar en nuestra sociedad, con disposición al cambio, informarnos de una manera certera y objetiva mediante la educación, cultura y atenta lectura.</p>
+<p style="text-align: justify;">Somos más de la mitad de la población y es momento de recordar nuestra participación, por demás valiosa en nuestro proceso histórico, como ha sido en el Movimiento de Independencia, en la Independencia de México, con Josefa Ortiz de Domínguez y Leona Vicario.</p>
+<p style="text-align: justify;">En la etapa de Reforma tenemos el ejemplo de Juana Catalina Romero, mujer oaxaqueña, empresaria, política y diplomática, que apoyó con sus recursos al ejército durante la intervención francesa y propició la instauración de escuelas públicas en el Istmo de Tehuantepec.</p>
+<p style="text-align: justify;">Y en la Revolución Mexicana podemos destacar a muchas mujeres, como Dolores Jiménez Muro, quien redactó el prólogo al Plan de Ayala; Carmen Vélez, ‘la Generala’, quien comandó a más de 300 hombres en Tlaxcala.</p>
+<p style="text-align: justify;">Las mujeres ilustres periodistas, como Laureana Wright González, Juana Belén Gutiérrez, ambas impulsoras de la no reelección.</p>
+<p style="text-align: justify;">La lucha por los derechos políticos, sociales y culturales de las mujeres en México van de la mano con el movimiento revolucionario de 1910, que es cuando se manifiesta públicamente la idea del sufragio efectivo, que se consiguió años después y que inició en los clubes feministas a finales del siglo XIX.</p>
+<p style="text-align: justify;">Estas mujeres, únicas en la historia de México, nos han dado la pauta para que hoy, 2019, podamos contar con la paridad de género en el ámbito político. En la Cámara de Diputados, con un 48.2 por ciento de los escaños los ocupan las mujeres, y 51.8 por ciento los hombres; y en la Cámara de Senadores, con un 49.2 por ciento mujeres y 50.8 hombres. Paridad vista también en su gabinete, señor presidente.</p>
+<p style="text-align: justify;">Aplaudimos también el apoyo a la recién creada Secretaría de las Mujeres de la Ciudad de México, por la doctora Claudia Sheinbaum Pardo.</p>
+<p style="text-align: justify;">El balance del desarrollo de las mujeres nos indica avances, pero es urgente terminar con el flagelo de una sociedad patriarcal que nos arroja acoso laboral y callejero, salarios desiguales a trabajos iguales entre hombres y mujeres.</p>
+<p style="text-align: justify;">Las mujeres afortunadamente ya incursionamos en la esfera pública; sin embargo, se requiere que los hombres se inserten en el ámbito de lo privado, favorecer su inserción al trabajo doméstico y en múltiples cuidados de hijos, hijas, mujeres adultas, enfermas y con discapacidad que hoy recae en promedio en un 70 por ciento en nosotras y 30 por ciento en los hombres; pero quienes ya lo hacen sirva este espacio para reconocérselos.</p>
+<p style="text-align: justify;">Los hombres disponen de un tiempo libre del 35 por ciento, mientras que en las mujeres se reduce al 10.3 por ciento, según datos de la Encuesta Nacional sobre Uso del Tiempo, emitidos por Inegi en 2014 y retomados por Lucía Pérez Fragoso en el libro <em>El descuido de los cuidados</em>.</p>
+<p style="text-align: justify;">La intervención de las mujeres en la Cuarta Transformación es fundamental. Y retomo las palabras de la doctora en antropología, Marcela Lagarde, referente a que el feminismo se encuentra en el ámbito público individual y en las formas de consciencia y cotidianidad para buscar el bienestar de las mujeres.</p>
+<p style="text-align: justify;">Laureana Wright buscó el bien común social mediante la emancipación de las mujeres y ésta mediante la educación, que fuera para ella la panacea, lo que las libraría de depender de los hombres y someterse a la misoginia.</p>
+<p style="text-align: justify;">Isabel Allende dice: ‘Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente y optimismo desafiante para encarar el futuro’.</p>
+<p style="text-align: justify;">La educación como base de cambio, así como mujeres que desde la sierra, desierto, a lo largo y ancho de este país convergen en quienes aún tenemos principios y valores por los cuales creemos en este México justo.</p>
+<p style="text-align: justify;">Le agradecemos su atenta escucha y su disposición para caminar con las mujeres de este querido México, con la certeza que con su gobierno avanzaremos conjuntamente en la Cuarta Transformación.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Escuchemos el mensaje de la secretaria de Gobernación, doctora Olga Sánchez Cordero.</p>
+<p style="text-align: justify;"><strong>OLGA SÁNCHEZ CORDERO:</strong> Muy buenos días a todas, a todos ustedes.</p>
+<p style="text-align: justify;">Señor licenciado Andrés Manuel López Obrador, presidente constitucional de los Estados Unidos Mexicanos; queridas amigas, mujeres, niñas, compañeras todas; querida jefa de gobierno, queridas representantes del Poder Legislativo, aquí están diputadas y senadoras.</p>
+<p style="text-align: justify;">Tuvimos la oportunidad de escuchar a nuestra representante de la Comisión de Género en el Senado y en la Cámara de Diputados, Malú y Wendy; a nuestra ministra de la Suprema Corte de Justicia, muchas gracias Norma Lucía Piña, por estar aquí con nosotros.</p>
+<p style="text-align: justify;">A mis compañeras de gabinete, a mis compañeros de gabinete aquí presentes. Muchas gracias, general secretario; muchas gracias, almirante; muchas gracias secretario de Seguridad; gracias a nuestro secretario de Comunicaciones y Transportes, al consejero jurídico y a todos los que nos acompañan.</p>
+<p style="text-align: justify;">Gracias también a las consejeras sociales y consultivas del Instituto Nacional de las Mujeres que con su apoyo decidido obtuvimos la designación de nuestra presidenta del Instituto Nacional de las Mujeres y seguiremos trabajando con ustedes en todos los temas tan importantes del instituto.</p>
+<p style="text-align: justify;">Me emociona estar aquí, como dice y acaba de mencionar nuestra querida Malú Mícher, tampoco soñé en estar en este Patio Central de Palacio Nacional ante el señor presidente de la República.</p>
+<p style="text-align: justify;">Me emociona también y ver el reflejo en sus rostros de todas, de todos ustedes en el largo camino que hemos recorrido para lograr el reconocimiento a nuestros derechos básicos.</p>
+<p style="text-align: justify;">El derecho a sufragio no lo soñó mi abuela y mi madre apenas, fue una realidad para ella el derecho a la educación, el derecho al trabajo, el derecho a tener salarios iguales a los hombres, el derecho a la maternidad libre.</p>
+<p style="text-align: justify;">Es innegable que las mujeres gozamos hoy de condiciones de igualdad que no contaron nuestras abuelas o que eran impensables hace apenas unos años, pero sí quiero compartirles que, aunque nuestras abuelas no gozaron de estos derechos, a mí en lo personal mi abuela selló mi vida en los derechos de las mujeres.</p>
+<p style="text-align: justify;">Es necesario permanentemente reconocer que todas ustedes han hecho contribuciones extraordinarias todos los días; sin embargo, pese a esto, los retos siguen siendo enormes.</p>
+<p style="text-align: justify;">En México, lo decía yo el otro día, el 66 por ciento de las mujeres sufre de violencia en el ámbito familiar, laboral y en su ámbito cercano. Y los datos de feminicidio son preocupantes.</p>
+<p style="text-align: justify;">Nos enfrentamos a una realidad en la que las mujeres somos en muchas ocasiones presionadas para renunciar a nuestros derechos básicos, de ver obstaculizada nuestra inserción en la vida económica, política, social y cultural del país.</p>
+<p style="text-align: justify;">Aunque en nuestra sociedad persisten amplios sectores que se niegan a comprender nuestra lucha para defender nuestros derechos, no debemos claudicar en incorporar la perspectiva femenina y dirigir los esfuerzos para alcanzar una sociedad con una paridad 50-50.</p>
+<p style="text-align: justify;">Me siento muy honrada en acompañar a nuestro presidente en la Cuarta Transformación de la República, porque ha cumplido su palabra y por primera vez en la historia de nuestro país tenemos un gabinete en donde el 50 por ciento de las secretarías son ocupadas por mujeres.</p>
+<p style="text-align: justify;">En lo personal, señor presidente, le agradezco la confianza y la distinción de haber sido designada al frente de la Secretaría de Gobernación y ser la primera mujer encargada de la política interior de nuestro país.</p>
+<p style="text-align: justify;">Es de reconocer que diversas áreas de la vida pública de México han transitado hacia mejores condiciones de igualdad, de paridad y de equidad para las mujeres y niñas.</p>
+<p style="text-align: justify;">Estas condiciones obedecen en casi su totalidad a la decisión y perseverancia de todas ustedes, de todas nosotras y de los hombres comprometidos, como usted, señor presidente, con nosotras.</p>
+<p style="text-align: justify;">Estos logros, en esta, la vida pública de México, también conllevan una enorme responsabilidad para todas nosotras, que aprovechando las conquistas de mujeres que nos precedieron, tenemos la obligación de seguir trabajando para abrir nuevos espacios y reducir las brechas.</p>
+<p style="text-align: justify;">No queremos ser las primeras y las únicas, sino las primeras de muchas mujeres que lleguen a las secretarías y a ocupar los puestos de decisión en este país.</p>
+<p style="text-align: justify;">Vamos a continuar trabajando con pasión, con solidaridad y justicia, para que en el futuro la defensa para ampliar nuestras libertades sea una realidad.</p>
+<p style="text-align: justify;">En los derechos reproductivos, en el derecho a participar en la política y en otros campos de la vida profesional; pero además de los derechos tenemos que seguir luchando por los derechos de tercera y cuarta generación, como el derecho de gozar de un medio ambiente sano o el derecho al libre flujo de información en el ciberespacio como nos acaba de decir la niña que nos antecedió en el uso de la palabra.</p>
+<p style="text-align: justify;">Para que exista paz y progreso, debe permitirse la plena participación de nosotras; nosotras solidarias, nosotras trabajadoras, expresemos libremente nuestras esperanzas y nuestras ideas.</p>
+<p style="text-align: justify;">Compartamos nuestra propia voz. Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Escuchemos el testimonio de Felícitas Martínez Solano, ciudadana de uno de los pueblos originarios del país.</p>
+<p style="text-align: justify;"><strong>FELÍCITAS MARTÍNEZ SOLANO: </strong>Buenos días, señor presidente; buenos días, señoras y señores que se encuentran en este evento.</p>
+<p style="text-align: justify;">La verdad, hemos escuchado una gran diversidad de voces, de autoridades mujeres. Y también nosotras, las mujeres de los pueblos indígenas de México, también venimos a decir, a expresar nuestro dolor que sentimos día con día, que luchamos en nuestro territorio, la defensa de nuestros recursos.</p>
+<p style="text-align: justify;">Por años hemos conservado esos derechos, pero también ha costado la vida. La tierra se ama y se defiende. Nosotras las mujeres siempre la vamos a defender y siempre vamos a estar en la defensa de nuestro territorio; pero también la parte de nuestro territorio, también nuestro cuerpo que tenemos, que también hay que defenderlo día con día.</p>
+<p style="text-align: justify;">Pero también quiero decirles que hemos abierto brecha en este país, pero también en nuestras comunidades, en nuestros pueblos, con nuestras autoridades.</p>
+<p style="text-align: justify;">También decir que en Guerrero es el primer lugar que estamos en el tema de violencia de género; también que pongan ojos ahí, porque también hay un gran…todas sufrimos violencia, no hay nadie que aquí se escape del tipo de violencia que vivimos, institucional, laboral, todos.</p>
+<p style="text-align: justify;">Pero también quiero decir que somos mujeres combativas, que día a día luchamos y que también hemos…también queremos también decir, porque aquí hay diputadas y senadoras, un presupuesto digno en la instancia que trabaja por las mujeres.</p>
+<p style="text-align: justify;">Pero también quiero decirle también; sin nosotras las mujeres, como actoras políticas del cambio de nuestro país, no alcanzaremos la Cuarta Transformación.</p>
+<p style="text-align: justify;">Porque a mí me pidieron que fuera muy corta, porque sé que también todas tenemos actividades, porque el señor presidente tiene una actividad.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>MODERADORA:</strong> Es momento de escuchar el mensaje del presidente constitucional de los Estados Unidos Mexicanos, presidente Andrés Manuel López Obrador.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Amigas, también amigos presentes.</p>
+<p style="text-align: justify;">Celebro estar en este día, importante, histórico, con ustedes, las representantes de las mujeres de México, con este grupo de mujeres que representa a millones de mujeres de nuestro país, de todas las clases sociales, de todas las corrientes del pensamiento, del campo, de la ciudad.</p>
+<p style="text-align: justify;">Es muy importante este día porque la lucha de las mujeres es la lucha de los hombres y es la lucha por la justicia y la igualdad.</p>
+<p style="text-align: justify;">Como todos sabemos, se logró el día 1º de julio del año pasado un cambio importante que va más allá de un cambio de gobierno, se trata de un cambio de régimen, por eso hablamos de la Cuarta Transformación de la vida pública de México.</p>
+<p style="text-align: justify;">No es más de lo mismo, es como el Movimiento de Independencia, como el Movimiento de Reforma, como la Revolución, iniciada en 1910. Eso es lo que significa esta Cuarta Transformación.</p>
+<p style="text-align: justify;">Y nosotros tenemos la dicha enorme de haber logrado este cambio sin violencia. Pero, como lo he dicho en otras ocasiones, a pesar de que se trata de un movimiento pacífico es al mismo tiempo un movimiento profundo, radical, porque estamos dispuestos, hombres y mujeres, a arrancar de raíz el régimen corrupto de injusticias y de privilegios.</p>
+<p style="text-align: justify;">Por eso estamos viviendo un momento histórico, interesante, tenemos esa dicha enorme, nos tocó a nosotros llevar a cabo esta transformación, que la llevamos a cabo entre todos y desde abajo, hombres y mujeres.</p>
+<p style="text-align: justify;">Y no sólo los que consumamos el triunfo o nos tocó triunfar el día 1º de julio, no olvidar que esta lucha dejó en el camino o participaron, para lograr esto que ahora tenemos con orgullo, participaron muchas mujeres, muchos hombres, que se nos adelantaron; no surgió este movimiento de la noche a la mañana, esto es un proceso que viene de tiempo atrás.</p>
+<p style="text-align: justify;">Pero muy importante el que se haya conseguido esta posibilidad de transformar la vida pública de México. Lo hicimos entre todos, repito, mujeres y hombres.</p>
+<p style="text-align: justify;">Y ahora que se triunfó tenemos que seguir adelante juntos, mujeres y hombres, con el propósito de convertir en realidad todos nuestros sueños, que podamos llevar a la práctica las acciones para terminar la obra de transformación que necesita nuestro país.</p>
+<p style="text-align: justify;">Fue muy importante el sumar voluntades. Se triunfó porque se logró convencer a muchos de la importancia de cambiar al régimen, el modelo, la política neoliberal, que llevaba mucho la idea de la simulación. Era un modelo político caracterizado por la falsedad.</p>
+<p style="text-align: justify;">Entonces, para mantener al régimen opresor se empezaron a hablar de las nuevas políticas públicas. Aquí me gustó mucho lo que dijo la compañera representante de las diputadas. Y se polarizó mucho, se fraccionó, se convirtió la política en un asunto gremial. Y era el Movimiento Feminista y es el Movimiento de Equidad de Género y el Movimiento para la Defensa de los Derechos Humanos y el Movimiento Obrero y el Movimiento Campesino y así todos los movimientos. Y esto permitía que se mantuviese el régimen autoritario, porque cada quien se ocupaba de su movimiento.</p>
+<p style="text-align: justify;">Nos ensimismábamos en nuestras causas, veíamos el árbol, pero no el bosque. Esto es importante, este es un buen debate que hay que abrir, porque teníamos -esa es mi visión- que cambiar al régimen, unirnos todos, todas las causas para cambiar al régimen.</p>
+<p style="text-align: justify;">¿Por qué la violación de los derechos humanos? Por el régimen autoritario y corrupto.</p>
+<p style="text-align: justify;">¿Por qué la discriminación? Por el régimen autoritario y corrupto.</p>
+<p style="text-align: justify;">¿Por qué la exclusión? Por lo mismo.</p>
+<p style="text-align: justify;">¿Qué es, al final de cuentas, el conservadurismo?</p>
+<p style="text-align: justify;">Es mantener el statu quo. Por eso no se quería cambiar al régimen. Se avanzaba mucho en el discurso del análisis de la realidad, pero no se apostaba a transformar la realidad.</p>
+<p style="text-align: justify;">Muchos sí, otros no. Había cofraternidad en la causa específica, pero cuando se trataba de enfrentar a los opresores, a la mafia del poder, ahí ya era otra cosa.</p>
+<p style="text-align: justify;">El gran cambio, entre otras importantes consideraciones, fue el que se logró la unidad de todas las causas. Y yo espero que esto continúe así, que sigamos juntos independientemente de que pertenecemos a una causa en particular, que no dejemos de ver lo que nos conviene e importa y beneficia a todas y a todos.</p>
+<p style="text-align: justify;">Por ejemplo, en la interpretación sobre la pobreza, el abandono, la marginación, la discriminación, yo siento que lo que más ha dañado en nuestro país -a lo mejor en otras partes es distinto- ha sido el predominio de la corrupción. Para mí ese es el principal problema de México.</p>
+<p style="text-align: justify;">Creo que nada ha dañado más a México que la deshonestidad de los gobernantes y creo que esa es la causa principal de la desigualdad social y de la desigualdad económica.</p>
+<p style="text-align: justify;">Entonces, si discutimos sobre este tema, si hay debate y llegamos a la conclusión de que necesitamos acabar con la corrupción, limpiar de corrupción al país, desterrar la corrupción, porque de esa manera vamos a tener más recursos para el bienestar, para ayudar a la gente y de esta manera, poniendo por delante la honestidad, vamos a tener una sociedad mejor.</p>
+<p style="text-align: justify;">Entonces, vamos a darle a ese propósito la prioridad que se necesita; y luego o al mismo tiempo, el derecho de las mujeres y el derecho a la libre expresión de las ideas y el derecho al bienestar, el derecho a vivir y ser feliz en un país como el nuestro, pero que analicemos la importancia que tiene el acabar con la corrupción.</p>
+<p style="text-align: justify;">Miren, ahora que hemos emprendido la lucha contra la corrupción, a mí me llena de satisfacción poder decir que se están destinando fondos al bienestar de hombres y de mujeres como nunca se había hecho en la historia del país. Pero les voy a poner ejemplos, porque, si no, me quedo en la abstracción, en lo teórico.</p>
+<p style="text-align: justify;">¿Cuándo se había entregado tanto apoyo a las mujeres mayores como ahora?</p>
+<p style="text-align: justify;">Nunca. Son más las mujeres que los hombres. Bueno, ya se entregaron los apoyos, las pensiones de enero y febrero a adultos mayores, mujeres y hombres.</p>
+<p style="text-align: justify;">¿Saben que fueron más las mujeres que recibieron este apoyo, porque es más la población de mujeres que los hombres?</p>
+<p style="text-align: justify;">¿Cuántas mujeres adultas mayores? Cuatro millones.</p>
+<p style="text-align: justify;">A ver, el año pasado, ¿recibieron apoyos cuatro millones de mujeres adultas? No, no, si acaso la mitad; y además el año pasado, hasta diciembre, la pensión era mil 160 pesos, ahora son dos mil 550 pesos, el doble.</p>
+<p style="text-align: justify;">¿Y eso por qué? Porque se están liberando fondos para el desarrollo por no permitir la corrupción.</p>
+<p style="text-align: justify;">¿Cuánto significa el Programa de Apoyo a Adultos Mayores, en general? Ciento 20 mil millones de pesos.</p>
+<p style="text-align: justify;">Otro ejemplo: Todos los estudiantes de preparatoria tienen beca, todos, cuatro millones. Estaba platicando con Malú, y en este nivel de escolaridad también son más las adolescentes que los hombres; y todos, sus becas.</p>
+<p style="text-align: justify;">Entonces, sí se puede avanzar mucho si se acaba con un régimen corrupto. Alcanza el presupuesto para apoyar a mujeres y apoyar a hombres.</p>
+<p style="text-align: justify;">Tenemos un programa -esto no es lo más importante, pero sí muy significativo- un programa que se llama Tandas para el Bienestar. Es un millón de créditos, pequeños créditos que no recibía la gente porque los bancos no dan crédito al pueblo, la gente humilde, la gente pobre depende de la usura y del agio, tasas de interés hasta del cien por ciento.</p>
+<p style="text-align: justify;">Entonces ahora son pequeños créditos sin intereses a la palabra, para un millón de beneficiarios; la mayoría mujeres.</p>
+<p style="text-align: justify;">Entonces les voy a decir algo: Porque -entre otras cosas, eso recomendado hasta por los banqueros, hasta por los tecnócratas, hasta por los mercantilistas- si van a dar créditos, entréguenlos a las mujeres. Porque son más responsables.</p>
+<p style="text-align: justify;">Las mujeres, siempre lo he dicho, es más decidida, más trabajadora, más honrada que el hombre. Es fundamental para la vida pública del país y que se tenga también en cuenta que nosotros nunca vamos a tolerar una injusticia, ni en contra de un hombre ni en contra de una mujer; y que vamos a estar siempre luchando por la igualdad, siempre vamos a estar luchando por la igualdad de mujeres y de hombres.</p>
+<p style="text-align: justify;">No podemos, muchas veces como se quisiera, pronunciarnos de manera contundente por alguna causa, algún tema, algún asunto, no lo podemos hacer porque éste es un movimiento democrático, no lo olvidemos.</p>
+<p style="text-align: justify;">Y nosotros representamos a todos los ciudadanos, a todas y a todos los ciudadanos, de todas las corrientes del pensamiento, de todas las religiones, a mujeres creyentes y no creyentes, a todas y a todos.</p>
+<p style="text-align: justify;">Y por eso siempre, cuando se tiene que decidir sobre un tema polémico decimos: Vamos a la consulta, a la democracia, para no imponer nada. Nada por la fuerza, todo por la razón y el derecho.</p>
+<p style="text-align: justify;">Y ser respetuoso de las libertades. Nunca nosotros vamos a afectar las libertades de nadie, vamos siempre a ser muy respetuosos de las mujeres y de los hombres, y más que en el discurso, en los hechos.</p>
+<p style="text-align: justify;">Decía el General Mújica: ‘Hechos, no palabras’.</p>
+<p style="text-align: justify;">Nosotros estamos cumpliendo, fuimos los primeros en resolver que íbamos a tener un gobierno de mujeres y de hombres, y estoy muy contento porque se integró un gabinete con mujeres, con hombres y es un equipo de trabajo.</p>
+<p style="text-align: justify;">Y no es nuevo. Cuando fui jefe de gobierno, hace como unos 15 años o 18, eran más las mujeres que los hombres del gabinete; o sea, no es un asunto de ahora, es de siempre, tengo un profundo respeto a las mujeres.</p>
+<p style="text-align: justify;">Y la transformación la vamos a hacer juntos, vamos a caminar siempre juntos, mujeres y hombres. Y todo nuestro reconocimiento a las mujeres.</p>
+<p style="text-align: justify;">Además, no es un asunto de otorgar derechos. Las libertades no se imploran, se conquistan.</p>
+<p style="text-align: justify;">Y ustedes ya saben lo que tienen que hacer; es más, tienen muchísimo más fuerza, sí, sí, tienen más decisión, más fuerza que cualquier otra organización.</p>
+<p style="text-align: justify;">Entonces, adelante, y este Palacio es de todo el pueblo y es de todas las mujeres.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: center;">+++++</p>
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

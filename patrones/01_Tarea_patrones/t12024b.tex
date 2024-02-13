@@ -1,0 +1,105 @@
+\documentclass[12pt]{book}   
+\usepackage{graphics}
+\usepackage{spaccent}  
+\usepackage[spanish]{babel} 
+\usepackage{fancybox, calc}
+\newcommand {\?}{?`}  
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\A}{\mathbb{A}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\U}{\mathbb{U}}
+\newcommand{\M}{\mathbb{M}}
+\newcommand{\J}{\mathbb{J}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\X}{\mathbb{X}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\I}{\mathbb{I}}
+
+\begin{document}
+\specialaccent \mbox{} 
+\begin{center}
+{\Large \bf Tarea 1 (B) Reconocimiento de Patrones} \mbox{} \vspace{0.5cm} \\
+\end{center}
+
+
+
+
+\begin{enumerate}
+
+\item (no hay que entregar nada) A aquellos que se sienten aun no muy familiarizados con an\'alisis de datos,
+recomiendo leer la parte del libro {\tt Applied Multivariate Analysis}  sobre  un an\'alisis de PCA de los datos de (otro) heptatlon  a partir de pag. 78 (pag.  92 en el pdf). \\
+Nota: en el libro se usa {\tt prcomp} y no {\tt princomp}. Ambos calculan PCA; la diferencia es m\'as bien en el m\'etodo n\'umerico subyacente que se usa:  {\tt prcomp()} usa SVD y {\tt princomp()} usa la matriz de covarianza.
+En general se considera  que desde punto num\'erico {\tt prcomp()} es mejor pero es m\'as dificil sacar las proyecciones y scores. Si \verb|objeto<- prcomp()|, entonces  \verb|objeto$rotation[,1]|  es el equivalente a lo que da loadings[,1] con  {\tt princomp()} (en Python por default se va por SVD).
+
+
+
+
+\item (usaremos  este resultado en la siguiente clase)\\
+Sea $\{x_i\}$ un conjunto de $n$ vectores $d$ dimensional.  Definimos las matrices  $n \times n$  $[\K_{i,j}]$ con $\K_{i,j}= \langle x_i, x_j \rangle$ y $\D^2$ la matriz de distancias al cuadrada correspondiente: $\D^2_{i,j}=||x_i-x_j||^2$
+
+Verifica la identidad:
+\[ \D^2 = c 1^t + 1 c^t -2 \X\X^t , \]
+con $1$ un vector de unos de longitud $n$ y $c$ el vector de longitud $n$ con elementos $( \K_{i,i})_{i=1}^n$
+
+Hint: escribe primero $||x_i-x_j||^2$   en t\'erminos de productos puntos.
+
+\item
+Acerca de la demostraci\'on de la maximizaci\'on del cociente de Rayleigh ($\max_l \frac{l^tCov(X)l}{l^t l}$):
+Haz unos peque\~nos cambios necesarios para demostrar que el segundo vector propio de $Cov(X)$ es la soluci\'on del problema de maximizar el cociente bajo la restricci\'on adicional de ser ortogonal al primer vector propio.  
+(por si sirve: aqu\'i una grabaci\'on vieja de la demostraci\'on en tiempos de la pandemia {\tt https://www.youtube.com/watch?v=8TBpSUXcDww })
+
+
+
+
+\item
+Considera los datos {\it oef2.data}. Se trata de los promedios mensuales de la temperatura (en Celsius) en 35 estaciones canadienses de monitoreo. El inter'es es
+comparar las estaciones entre s'i en base de sus curvas de temperatura.
+Consideramos  las 12 mediciones por estaci'on como las entradas de un vector (v.a.) $X$
+
+
+
+\begin{enumerate}
+\item
+Busca algunas visualizaciones informativos de los datos.
+\item 
+Calcula los componentes principales.
+\item 
+Aprovechando que las columnas hacen referencia a meses consecutivos, tiene sentido dibujar cada componente principal como una gr\'afica. Por ejemplo graficar $\{(i,{l_1}_i)\}$ y $\{(i,{l_2}_i)\}$ con $i$ de 1 a 12 y $l_1$ y $l_2$ el primer y segundo componente principal. \\
+
+
+
+\? Qu\'e interpretaci\' on das al primer y segundo componente?
+
+
+
+\end{enumerate}
+
+
+Para leer los datos en {\cal R}
+\begin{verbatim}
+temp <- matrix(scan("oef2.data"), 35, 12, byrow=T)
+
+nombresestaciones <-   c("St. John_s",    "Charlottetown", "Halifax" ,
+                  "Sydney",        "Yarmouth",      "Fredericton",
+                  "Arvida",        "Montreal",      "Quebec City",
+                  "Schefferville", "Sherbrooke",    "Kapuskasing",
+                  "London",        "Ottawa",        "Thunder Bay",
+                  "Toronto",       "Churchill",     "The Pas",
+                  "Winnipeg",      "Prince Albert", "Regina",
+                  "Beaverlodge",   "Calgary",       "Edmonton",
+                  "Kamloops",      "Prince George", "Prince Rupert",
+                  "Vancouver",     "Victoria",      "Dawson",
+                  "Whitehorse",    "Frobisher Bay", "Inuvik",
+                  "Resolute",      "Yellowknife")
+
+rownames(temp)<-nombresestaciones
+
+\end{verbatim} \mbox{} \\
+
+
+
+
+\end{enumerate}
+
+
+\end{document}

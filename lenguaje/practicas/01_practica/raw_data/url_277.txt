@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>17.02.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/17-02-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=159287' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-02-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-02-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2svuq-f-8bee648bd-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":25,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1caf716","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":28351,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726761","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==/Lkcs4CJ3ReGUkcgycj6ZlzhM1dOlscTUz7/i3qzvHVGRAl4V9CClG5PkrNpxxLu2uz1uRnECfT5n4GU1ntwl+NidETuLR5jdfXUtRwKH8YjxXv+9lHGPKCrf2IYvyz8zyKls8DpT6jtQgIb+xcr6VqxObxJbNTmjR6hZNWhgHUCOq4d6UTiNy6kPNVe4Iw6/IyGxXTT+XEXb5bQjbhbqDPKo8Kng4MEnKHxzsdU0rLTw/US5wJd64krSvDtwipQuwMukjFcSyTj9gQkI+N1D3l+dwgZlXCYk+ATshx4HO0Bnxiis2G6sx45LXm2m37h8OD71kRb7hl+qJvuhKn4+he6En0KNdhDvxexr8udC4JUcafnBxo1P0cEHYrqjsE5tMo6TWMO9Q2mXZxSfS7XG1kGP5ij4aB4tFYETJlcH/E=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-159287 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba93e5594cf" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>17.02.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 17.02.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-159287" class="post-159287 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/02/2023-02-17-Conferencia-de-prensa-matutina-Sonora-Foto-05.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/02/2023-02-17-Conferencia-de-prensa-matutina-Sonora-Foto-05-745x450.jpg" alt="17.02.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">17.02.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Buenos días. Ánimo.</p>
+<p>Bueno, nos da mucho gusto estar aquí en Hermosillo, acompañando a Alfonso Durazo, gobernador del estado de Sonora. Desde ayer estamos en Sonora, aquí en Hermosillo llevamos a cabo algunas actividades y hoy emprendemos una gira, terminando esta conferencia:</p>
+<p>Vamos a Peñasco, vamos a inaugurar allá una primera etapa de la planta de generación de energía solar. Es algo muy importante, es una muy buena noticia. Esa planta, cuando esté totalmente terminada, va a ser la más grande en generación de energía eléctrica mediante la utilización solar en toda América Latina. Entonces, vamos a estar en Peñasco.</p>
+<p>Por la tarde vamos a Nogales, a todo el trabajo que se está llevando a cabo en la zona fronteriza de Sonora y de otros estados de la República.</p>
+<p>Mañana vamos a inaugurar un camino en Bavispe, vamos también a tratar el tema del litio y la ampliación de la carretera Chihuahua-Guaymas.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/02/Conferencia-matutina-17-02-2023.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/9T3-ESUWjDE?t=1345" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>El domingo vamos a estar en los pueblos yaquis y ya regresamos, domingo 19 de febrero, que se conmemora un aniversario más de la creación del Ejército Mexicano. Vamos a llegar a Santa Lucía, al aeropuerto de Santa Lucía, ‘Felipe Ángeles’, y en ese lugar se va a llevar a cabo el homenaje, la ceremonia al Ejército Mexicano.</p>
+<p>Ese es el plan que tenemos. De modo que vamos a estar aquí mucho tiempo, en Sonora, y vamos a seguir visitando este gran estado de la República, en donde pues tenemos el apoyo, la colaboración, estamos trabajando de manera conjunta con el gobernador Alfonso Durazo, que es un profesional, una gente honesta, una gente responsable. Es nuestro amigo, nuestro compañero, con quien nos entendemos muy bien y por eso estamos uniendo esfuerzos, voluntades, recursos.</p>
+<p>La inversión para Sonora, del gobierno federal, es considerable, tanto de programas para el Bienestar como en obras de infraestructura. Creo que no se había destinado tanto dinero del gobierno federal a Sonora como ahora en distintos proyectos.</p>
+<p>Ya me extendí en la introducción y ahora le damos la palabra al gobernador; luego, el general Sandoval va a informar sobre la situación de seguridad en el estado.</p>
+<p><strong>ALFONSO DURAZO MONTAÑO, GOBERNADOR DE SONORA:</strong> Gracias, presidente. Con su permiso. Buenos días.</p>
+<p>Jóvenes, me da muchísimo gusto que nos acompañen el día de hoy, primeramente, para agradecer y recibir con el cariño, con el reconocimiento, con la gratitud de siempre a nuestro queridísimo señor presidente.</p>
+<p>Recibir al secretario de Gobernación y reiterarle que nos sentimos siempre muy a gusto con usted, estimado secretario.</p>
+<p>A las, los compañeros de gabinete del presidente López Obrador.</p>
+<p>Recordar que esta es la visita número 24 que hace el presidente aquí a Sonora. En cada visita hay testimonio de una palabra empeñada, pero también de hechos que acreditan el cumplimiento de cada de uno de los compromisos que ha hecho el presidente con las y los sonorenses.</p>
+<p>En esta gira número 24 la agenda es nutrida y pudiera decir que también es excepcional. Hemos dicho en cada visita, y parece que nos acostumbramos a calificar cada una de las visitas de histórica, y esta no será la excepción.</p>
+<p>El presidente ya adelantó algunas de las actividades que se realizarán durante estos días, pero yo quisiera resaltar o reiterar algunas cosas:</p>
+<p>Primeramente, el día de ayer tuvimos un evento relacionado con Banco del Bienestar. Están ya construidos 20, están en construcción un número para llegar a 68 sucursales nuevas de Banco del Bienestar, más cinco que ya existían de Bansefi, tendremos en nuestro estado 73 sucursales de Bienestar.</p>
+<p>No voy a detallar las poblaciones en las que estas sucursales se encuentran ubicadas, pero sí diré que la gran mayoría de ellas se encuentran en municipios que en su vida pensaron que tendrían servicios financieros como los que van a ofrecer Banco del Bienestar. Son poblaciones a las que ningún gobernante, ya no digamos un presidente de la República, había volteado a verlas.</p>
+<p>El día de hoy tuvimos la reunión del Gabinete de Seguridad, ahí obviamente se presentaron los desafíos que tenemos todavía pendientes en materia de seguridad, pero también se reconocieron los avances que hemos logrado; el más importante de ellos, una reducción de 10 por ciento en homicidios dolosos. Debo reconocer aquí la colaboración del Ejército, de la Marina y de la Guardia Nacional de manera muy particular su participación en la mesa estatal de seguridad y su disposición extraordinaria, que nos permite una coordinación óptima y una estrecha colaboración, y podría decir que la mesa estatal de seguridad de Sonora es una mesa de excepción.</p>
+<p>Vamos a visitar en un rato más, como mencionaba el presidente, el parque fotovoltaico de Sonora. Es una instalación de vanguardia a nivel internacional, marcará un antes y un después en la generación de energía eléctrica a partir de la energía solar, no sólo en Sonora, sino a nivel nacional.</p>
+<p>El presidente fue muy cuestionado, recuerdo, hace un año, dos años, por el supuesto abandono que tenía respecto a la generación de energías limpias, pero quiero recordar, presidente, que el 2012, en su acto de cierre de Ciudad Obregón usted anunció que convertiría al estado de Sonora en el modelo estratégico para generación de energías limpias durante su gobierno.</p>
+<p>Por eso hablo de una palabra empeñada y de un compromiso cumplido, porque esta planta de energía solar representa ya el primer paso del Plan Sonora de Energía Sostenible que pondrá a nuestro estado y a nuestro país a la vanguardia de la lucha contra el cambio climático, del impulso por la descarbonización de la economía y por supuesto nos pondrá al frente de la transición energética a nivel mundial.</p>
+<p>En Nogales se hablará sobre la modernización de la frontera en general, pero yo quisiera destacar que también se aprovechará para revisar el avance en la modernización de cinco puntos fronterizos de nuestro estado, particularmente San Luis Río Colorado, Sonoyta, Nogales, Naco y Agua Prieta. El objetivo de esta modernización, junto con otras obras en el estado, es precisamente eficientar el intercambio comercial México-Estados Unidos a través del estado de Sonora.</p>
+<p>Y de manera muy particular, revisaremos los avances que se tienen en este momento para reubicación de las vías del ferrocarril, que en este momento parten en dos a la ciudad de Nogales.</p>
+<p>De ahí, pasaremos a la inauguración de la carretera Agua Prieta-Bavispe. Quisiera destacar particularmente para los compañeros, las, los compañeros de prensa de México, que esta carretera se viene gestionando desde 1933, hay una petición al gobernador Rodolfo Elías Calles y una negativa del propio gobernador respecto a esa petición, y el tesorero del estado corresponde también, responde la misma negativa, pero aporta 500 pesos, presidente, para el fondo que se requería en aquel momento para la construcción de la carretera.</p>
+<p>En Bacadéhuachi será una visita histórica. El presidente, como sabemos, ha tomado la decisión de conservar el litio como patrimonio de todas y todos los mexicanos, es la más grande reserva de litio en el país e integrará a nuestro estado a la economía sonorense a los beneficios de las nuevas tecnologías.</p>
+<p>Y particularmente hay que reconocer al presidente que ha impuesto como condición a cualquier empresa que busque la asociación con Litio Mx para la aprobación, el aprovechamiento de estos materiales que deberán establecer su cadena de producción aquí en nuestro estado. Y esa sola decisión convierte esa visita a Bacadéhuachi en un hecho histórico.</p>
+<p>Finalmente, estaremos en Tecoripa, puerto de Guaymas. Adelantarle, presidente, que le entregaremos muy buenas cuentas sobre los avances en los 13 frentes que en este momento tenemos abiertos y particularmente los avances en la modernización de la carretera Guaymas-Chihuahua, que modificará el traslado de mercancías del estado de Chihuahua, particularmente hacia los países de la cuenca del Pacífico.</p>
+<p>Y el domingo estaremos en la región con la etnia yaqui para presentar los avances del Plan de Justicia Yaqui, que condensa precisamente los compromisos del gobierno ante rezagos históricos de este pueblo originario.</p>
+<p>Finalmente, decirle, presidente, que, si amor con amor se paga, las y los sonorenses reconocemos en usted a un líder social al que seguimos y apoyamos con total compromiso. El 70 por ciento de las y los sonorenses reconocen el éxito, el valor de su gestión. Creo yo que, quisiera yo fuera el 100 por ciento de las y los sonorenses, pero a estas alturas de la vida la unanimidad es sospechosa, así es que nos quedamos con ese 70 por ciento que nos llena de compromiso.</p>
+<p>Reitero que el estado de Sonora, el gobierno de Sonora trabajará con todo empeño para convertir a este estado en un pilar fundamental de la Cuarta Transformación.</p>
+<p>Gracias, presidente.</p>
+<p><strong>LUIS CRESENCIO SANDOVAL GONZÁLEZ, SECRETARIO DE LA DEFENSA NACIONAL:</strong> Con permiso, señor presidente. Muy buenos días.</p>
+<p>Vamos a informar sobre la situación de seguridad aquí en el estado de Sonora. En Sonora, un estado con 2.9 millones de habitantes, el 18 lugar a nivel nacional, con el segundo lugar a nivel nacional en cuanto a kilómetros cuadrados, 179 mil 354; concentra su población, 1.6 millones de habitantes en tres municipios, Hermosillo, Cajeme y Nogales, es el 56 por ciento de su población.</p>
+<p>En cuanto a la incidencia delictiva aquí en el estado, tenemos lo que es homicidio doloso con un séptimo lugar, hacia a la alza; igual hacia a la alza al robo a transporte, con 20 lugar; el robo a casa habitación también, 23 lugar, a la alza; la extorsión también a la alza, en el 25 lugar; y a la baja, con una tendencia a la baja el robo de vehículo, 19 lugar; el secuestro y la trata de personas. Vamos a ver cada uno de estos.</p>
+<p>En homicidios dolosos, en diciembre tuvieron 164 eventos. Diciembre es el mes en donde tenemos la información completa de conformidad a lo que proporciona el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública. Entonces, son 164, la tendencia se marca hacia a la alza, tiene el séptimo lugar a nivel nacional, pero aquí hacer mención que en comparación del 21 y el 22, la tendencia de ese homicidio se marca hacia la baja.</p>
+<p>El robo de vehículos, 182 eventos en diciembre, con un 19 lugar a nivel nacional, también la tendencia se marca hacia la baja.</p>
+<p>El siguiente delito, el robo al transporte, solamente hubo un evento delictivo de esta naturaleza, ocupa el 20 lugar. Aunque su tendencia es hacia a la alza, es los estados con menor número de este tipo de robos.</p>
+<p>El robo a casa habitación, 78 eventos en diciembre, también se marca una tendencia hacia a la alza, pero ocupa el 23 lugar también, un estado con poco delitos de esta naturaleza.</p>
+<p>El secuestro, en diciembre no tuvieron presente este delito, tiene el 24… La que sigue, por favor. El secuestro, 24 lugar, no hubo un diciembre, también su tendencia es hacia a la baja.</p>
+<p>La que sigue, por favor. La extorsión, 25 lugar a nivel nacional, cuatro eventos en diciembre, su tendencia es hacia la alza, pero también, igual que en otros delitos, pues son pocos en comparación con los demás estados.</p>
+<p>Trata de personas, no hubo este delito en diciembre, tiene el 32 lugar a nivel nacional, tendencia hacia la baja.</p>
+<p>Total de delitos de impacto, reunidos todos estos delitos, tiene mil 306 eventos delictivos en diciembre, la tendencia que se identifica es hacia la alza, tiene el 21 lugar, pero, igual que en otros delitos que les mostré, comparando el 21 con el comportamiento del 22 la tendencia es hacia la baja, aquí es el trabajo que se realiza por todas las entidades que se encargan en el ámbito de la seguridad pública.</p>
+<p>En cuanto a homicidios dolosos por entidad federativa en lo que va de la presente administración y hasta el mes de diciembre, el estado tiene un séptimo lugar a nivel nacional con cinco mil 504 homicidios, siendo la media nacional de tres mil 604 homicidios.</p>
+<p>Y estos homicidios dolosos por cada 100 mil habitantes, permanece el estado en séptimo lugar con 187, siendo la media de 99.</p>
+<p>En cuanto a los municipios con mayor índice delictivo en lo que corresponde a homicidios dolosos, a robo de vehículos y narcomenudeo, están cuatro estados que corresponden al 75 por ciento de lo que es el total de eventos delictivos en el estado. Lo que es Hermosillo, Cajeme, San Luis Río Colorado y Guaymas, ahí está concentrado el delito, pero, como vamos a ver en la siguiente lámina, la policía, las instancias de seguridad pública están también ahí con una presencia importante en estos municipios.</p>
+<p>Aquí tenemos las fuerzas de seguridad pública, se tienen en el estado cinco mil 203 elementos operativos trabajando en lo que es el territorio, pero concentrados, como ya lo cité en los municipios donde hay mayor incidencia, está Hermosillo, Cajeme, Nogales, Navojoa, San Luis Río Colorado, ahí se encuentran desplegados, generando condiciones de seguridad para los ciudadanos.</p>
+<p>También se tienen dos mil 520 cámaras instaladas en el sistema C5, que coadyuvan en las acciones que se realizan en el ámbito de la seguridad.</p>
+<p>En cuanto a fuerzas de seguridad federales, se tiene un total operativo de siete mil 871 elementos; de ellos dos mil 647 son de la Guardia Nacional, 964 de Marina y cuatro mil 260 del Ejército y Fuerza Aérea, sumados con las fuerzas estatales y municipales se tiene un total de personal operativo de 13 mil 74 elementos.</p>
+<p>Sonora está dividido en nueve coordinaciones regionales de la Guardia Nacional y tiene su coordinación estatal. En estas nueve coordinaciones es donde trabaja Guardia Nacional, fuerzas federales y fuerzas de seguridad estatales y municipales. Las coordinaciones son en Cajeme, Guaymas, Navojoa, Hermosillo, Moctezuma, Ures, Bavispe, Caborca y Puerto Peñasco.</p>
+<p>En cuanto a construcciones de las compañías de Guardia Nacional, donde está el personal de la Guardia para efectuar sus despliegues y tener la presencia territorial que se ha estado buscando dentro de la estrategia, tenemos que en el 19 se construyó una instalación en Cajeme.</p>
+<p>En el 20 fueron cinco compañías: Nogales, Bavispe, Moctezuma, Hermosillo, Pitiquito.</p>
+<p>En el 2021 fueron tres más: Navojoa, Bácum y Guaymas.</p>
+<p>Las que corresponde al 22, son ocho, ya se concluyó una en Guaymas, las otras están en proceso, cuatro están… no, cinco están en proceso de construcción, que es Yécora, Hermosillo, dos, y San Luis Río Colorado, dos más; y Empalme y Bacadéhuachi estamos ya próximos a iniciar las construcciones, nos hacía falta el terreno, pero con el apoyo del gobierno del estado ya podemos empezar la construcción.</p>
+<p>Para este año está considerada una instalación en Puerto Peñasco, que también ya estamos en proceso de la obtención del terreno para iniciar próximamente la construcción.</p>
+<p>Adicional a estas construcciones, el Ejército le cedió dos instalaciones a la Guardia Nacional para que tengamos, a final del 2023, 20 instalaciones donde estarán las compañías de Guardia Nacional desplegadas cubriendo el territorio del estado de Sonora y generando condiciones de seguridad.</p>
+<p>En cuanto a la asignación de recursos federales y estatales en materia de seguridad pública, dentro del Fondo de Aportaciones para la Seguridad Pública se reciben 384.6 millones de pesos, y en lo que es el Fortalecimiento de Municipios y Demarcaciones Territoriales dos mil 618 millones de pesos.</p>
+<p>Los aseguramientos en el estado, en lo que va de la administración tenemos números importantes: 64 mil 564 kilógramos de marihuana, dos mil 99 kilógramos de cocaína, 228 kilógramos de heroína, 114 kilógramos de goma de opio, 36 mil 773 kilógramos de metanfetaminas, mil 222 kilógramos de fentanilo, 8.5 millones de pastillas de fentanilo, cinco laboratorios, seis mil 18 detenidos, cuatro mil 380 vehículos terrestres asegurados, al igual que seis embarcaciones y 22 aeronaves, cuatro mil 558 armas de fuego, 7.1 millones de cartuchos, 51 mil 361 cargadores, 243 granadas, 29.4 millones de pesos asegurados a la delincuencia organizada, al igual que 4.9 millones de dólares y 23.1 millones de litros de combustible recuperado.</p>
+<p>En cuanto a la búsqueda y rescate, aquí en el estado ha habido 611 eventos, en los que han participado 371 elementos del Ejército, de la Fuerza Aérea, de Marina y de Guardia Nacional, asistiendo a 197 personas.</p>
+<p>En cuanto a inteligencia aérea, se han detectado 71 alertamientos aéreos, alertamientos que inicialmente se identifica un vuelo ilícito de alguna aeronave; de ahí, se pone en ejecución el Sistema Integral de Vigilancia Aérea para poder identificar, dar seguimiento y comprobar el estatus de la aeronave. En 15 eventos, en 15 de estos alertamientos hemos tenidos resultados positivos con todo este sistema que se pone en ejecución.</p>
+<p>Y aquí tenemos los resultados: 408 kilógramos de marihuana asegurada, 167 kilógramos de cocaína, 124 de heroína, 2.98 kilógramos de goma de opio, tres mil 417 kilógramos de metanfetaminas, 210 kilógramos de fentanilo y 2.4 millones de pastillas de fentanilo, logrando la detención de cinco personas, asegurando 14 vehículos terrestres, cinco aeronaves, seis armas de fuego aseguradas, dos mil 778 cartuchos, 95 cargadores, se han asegurado también 35 mil pesos en moneda nacional y se han recuperado 455 litros de combustible.</p>
+<p>En cuanto a la aplicación del Plan DN-III, Plan Marina, Plan de la Guardia Nacional aquí en Sonora, en lo que va de la administración se han atendido 604 eventos y que han beneficiado a 48 mil 381 personas, habiendo participado 16 mil 786 efectivos del Ejército, con mil 746 vehículos y dos aeronaves, cuatro mil 30 efectivos de la Guardia Nacional con 401 vehículos, dos mil 864 efectivos de Marina con 100 vehículos y dos aeronaves, atendiendo 371 heladas, 92 incendios forestales, 62 lluvias severas, 36 accidentes vehiculares, 21 incendios urbanos, nueve accidentes ferroviarios, cuatro derrames de sustancias químicas, tres explosiones de gas LP, dos accidentes aéreos, dos derrumbes, rescate de personas y los efectos de un huracán.</p>
+<p>Esta es la participación del personal de las Fuerzas Armadas y Guardia Nacional en la asistencia a desastres.</p>
+<p>Es todo, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Vamos a ver lo del juicio a García Luna.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Este jueves 16 de febrero en la Corte del Distrito Este de Brooklyn, Nueva York, el juicio contra Genaro García Luna entró en su etapa de deliberación. Los 12 miembros del jurado, seis hombres y seis mujeres cuya identidad se mantiene anónima, así como seis suplentes que no tienen voto en la decisión final, recibieron instrucciones del juez Brian Cogan sobre la forma en que deberán analizar la evidencia y decidir sobre la culpabilidad o inocencia del exsecretario de Seguridad Pública de Felipe Calderón.</em></p>
+<p><em>García Luna, señalado por sus nexos con organizaciones como el cártel de Sinaloa y la organización de los Beltrán Leyva, enfrenta cinco cargos y seis agravantes por liderar una organización criminal, conspiración para el tráfico de cocaína y por falso testimonio ante la oficina de ciudadanía e inmigración cuando solicitó su naturalización como estadounidense. </em></p>
+<p><em>Respecto al cargo de conspiración, el juez les dijo que primero deben analizar y decidir si existió o no la conspiración. Únicamente si consideran que esa conspiración existió, entonces deben valorar si García Luna se salió o no de la misma al dejar su cargo en 2012, como argumenta la defensa.</em></p>
+<p><em>Segundo, deben analizar si García Luna tomó una acción lo suficientemente clara y contundente para salir de la conspiración.</em></p>
+<p><em>Cogan enfatizó que el hecho de haberse separado de su empleo no basta para considerar que el acusado abandonó su conspiración y señaló que, a diferencia del tema de culpabilidad que debe probar la fiscalía, el hecho de salir o no de la conspiración le corresponde probar a la defensa.</em></p>
+<p><em>El juez Cogan indicó al jurado que no debe considerar en su decisión cualquier simpatía que tengan por las partes, ni dejarse influenciar por sentimientos que pudieran tener sobre el género o etnicidad del acusado, insistió que se debe mantener la presunción de inocencia y que el jurado debe decidir más allá de cualquier duda razonable.</em></p>
+<p><em>Cogan pidió al jurado evaluar la evidencia aplicando su razonamiento y sentido común, evitar la especulación y mantenerse apegados a la evidencia, incluidos los testimonios bajo juramento.</em></p>
+<p><em>Respecto al proceso de deliberación, el jurado debe estar en una sala llamada Cuarto del Jurado. En dicho cuarto, en el que están prohibidos los celulares, el jurado tiene acceso a toda la evidencia del caso.</em></p>
+<p><em>Tras las instrucciones del juez, el jurado comenzó sus deliberaciones, las cuales continuarán hoy viernes y, en caso de extenderse, se retomarán el próximo martes, ya que el lunes es día festivo en Estados Unidos.</em></p>
+<p><em>El jurado no tiene un tiempo determinado para llegar a una decisión y en cualquier momento puede solicitar la evidencia que requiera, ya sea completa o fragmentos específicos de los testimonios.</em></p>
+<p><em>Por la tarde, el jurado envió tres notas al juez Cogan solicitando porciones de testimonios y otras cosas relacionadas con el caso. No se dieron los detalles sobre exactamente qué testimonio se solicitó en las notas del jurado, pero, según los números de páginas de las transcripciones, parecen estar relacionados con el testimonio de ‘el Grande’ e Israel Ávila; igualmente, pidieron las transcripciones de los alegatos de apertura y cierre de la defensa y la fiscalía, pero el juez dijo que esas no son pruebas, por lo que el jurado no puede tener copias.</em></p>
+<p><em>Una vez que el jurado tenga el veredicto, le avisará al juez y este pedirá al jurado que corroboré si la decisión fue unánime; después, se le entregará la hoja del veredicto al juez, quien procederá a leerla.</em></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien. Hace como dos días dijimos que los medios en el país no estaban difundiendo suficientemente lo del caso de García Luna; es más, que por eso habíamos tomado nosotros la decisión de informar aquí en la mañanera, porque había una especie de ocultamiento de este juicio. Y hablé incluso de que le habían dado más tiempo en <em>Televisa</em> al caso de Layda Sansores que al de García Luna, y ayer o antier contestó <em>Televisa</em> diciendo que no era cierto, de que le habían dado como cuatro horas al caso de García Luna y sólo una hora al caso de Layda Sansores.</p>
+<p>Vamos a ver cuál es la información que nosotros tenemos, el otro dato. Esto es lo que yo sostuve y esto es lo que contestaron en <em>Televisa</em>. ¿No tienen el video? Sí. Ahí está, cuatro horas 42 minutos juicio García Luna, un minuto en el caso de Layda. ¿Lo tienes?</p>
+<p>El otro día veía yo de que sacaron unos videos de funcionarios supuestamente vinculados a Layda en <em>Televisa</em>, que luego se aclaró que estaban recibiendo ese dinero cuando trabajaban con el que es ahora presidente del PRI, pero se le aventaron en <em>Televisa</em> a Layda fuerte con esos videos. Y mandé hacer un análisis de cuánto tiempo dedicó <em>Televisa</em> a esos videos y cuánto tiempo dedicó a informar sobre Genero García Luna, y fue más el tiempo dedicado a los videos de Layda, a partir de que los dieron a conocer, comparado con el tiempo a García Luna.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>ENRIQUE ACEVEDO:</em></strong><em> El presidente tiene razón, el juicio contra Genaro García Luna en Nueva York es un tema importantísimo y lo que se ha dado a conocer en ese proceso muestra el poder corruptor del crimen organizado en nuestro país. Por eso, le quiero compartir el tiempo que le hemos dedicado a cubrirlo, comparado con la nota a la que también se refirió el presidente López Obrador.</em></p>
+<p><em>La semana pasada la proporción fue de cuatro a uno, es decir, cuatro horas dedicadas al juicio de García Luna por una hora a los videos en Campeche.</em></p>
+<p><strong><em>VOZ HOMBRE:</em></strong><em> El análisis que mencionó el presidente el pasado 14 de febrero se refiere específicamente al nuevo espacio de noticias de Televisa llamado Noticiero En Punto con Enrique Acevedo, y revela que este espacio ha dedicado más tiempo a cubrir la nota de los videos de Campeche que al juicio contra García Luna, en Nueva York.</em></p>
+<p><em>Entre el lunes 6 de febrero, cuando se dan a conocer los videos de Campeche, hasta el lunes 13 de febrero el Noticiero En Punto dedicó 14 minutos y 45 segundos a los videos de Campeche, contra 11 minutos y cinco segundos a notas relacionadas con el juicio de García Luna.</em></p>
+<p><em>De acuerdo con datos de N+, el noticiero En Punto es visto en promedio por ocho millones de personas cada noche y representa más del doble que su competidor más cercano, por lo que es considerado el noticiero estelar.</em></p>
+<p><em>Durante los días mencionados, todas estas personas recibieron más información del tema de Campeche que del juicio contra García Luna.</em></p>
+<p><em>El lunes 6 de febrero se le dedicaron cinco minutos y 27 segundos del noticiero a los videos de Campeche contra dos minutos y 30 segundos de cobertura sobre el juicio contra García Luna.</em></p>
+<p><em>El martes 7 de febrero se le dedicaron cuatro minutos y 35 segundos del noticiero a los videos de Campeche contra tres minutos y siete segundos de cobertura sobre el juicio contra García Luna.</em></p>
+<p><em>El miércoles 8 de febrero se le dedicaron cuatro minutos y 16 segundos del noticiero a los videos de Campeche, contra sólo 22 segundos de cobertura sobre el juicio contra García Luna.</em></p>
+<p><em>El jueves 9 de febrero se le dedicaron 27 segundos del noticiero a los videos de Campeche, contra dos minutos y 53 segundos de cobertura sobre el juicio contra García Luna.</em></p>
+<p><em>El viernes 10 de febrero no se dio cobertura en el noticiero a ninguno de los dos temas.</em></p>
+<p><em>El lunes 13 de febrero sólo se le dio cobertura al juicio contra García Luna por dos minutos y 13 segundos del noticiero.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Así está. Eso es en todo, ¿no?, todo <em>Televisa</em>.</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA: </strong>No, ese es solamente en el canal, el noticiero del <em>Canal de las Estrellas</em>.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Las estrellas. No, pues es muy importante Layda en <em>el</em> <em>Canal de las Estrellas</em>.</p>
+<p>Nada más aclararlo, porque tenemos que estar informando y es un buen debate que conviene a todos. Antes pontificaban, no se podía replicar, era lo que decían los medios, ¿no?, y ya. Ahora afortunadamente en <em>Televisa</em> y en todos los medios hay una actitud de apertura y se acepta la réplica, y eso es lo que estamos ejerciendo.</p>
+<p>Muy bien, adelante. Vamos Sonora y luego el resto del país.</p>
+<p><strong>PREGUNTA:</strong> Buenos días, señor presidente.</p>
+<p>Demian Duarte, del <em>Sonora Power</em>.</p>
+<p>Como sabe, usted siempre es muy bienvenido a nuestro estado, más en este momento. Mire, ayer estuvimos en un evento, que creo que es muy trascendente, denominado la Cumbre Sonora. Este evento subrayó un hecho que yo he insistido en publicar y publicitar al máximo nivel que permiten mis audiencias, que es ‘el momento de Sonora’, es una metáfora que habla justamente de lo que estamos viendo, que está ocurriendo en nuestro estado.</p>
+<p>Y mire, la reflexión es que mucho de esto se lo debemos a usted, esa es la verdad. Sonora ha visto una transformación importante desde que usted llegó al gobierno. Usted nos ha apoyado, nos ha respaldado, ha impulsado este Plan Sonora, por ejemplo; que hoy sabemos que va a Puerto Peñasco, que estará el día de mañana en Bavispe con el tema de energía solar, el asunto del litio.</p>
+<p>Sonora, como usted lo sabe, es un gran estado, somos el segundo estado más grande, tenemos la disponibilidad de enormes recursos naturales, tenemos mar, tenemos frontera, una ubicación estratégica, y los sonorenses desde siempre hemos creído que nos corresponde un lugar estelar en el desarrollo del país a partir justamente de todas estas condiciones.</p>
+<p>Así que, lo primero, yo siempre digo que es de gente educada ser agradecidos; entonces, yo agradecerle, de veras, de manera muy sincera y muy clara todo lo que ha hecho por nuestro estado, señor presidente.</p>
+<p>Dentro de la gira mi reflexión también es que hay un acto muy importante y es el acto del domingo en particular. Señor presidente, bueno, sabemos los alcances del Plan de Justicia Yaqui. Hace poco allá en Palacio yo le hacía ver el tema de la Universidad del Pueblo Yaqui, que es un asunto que creo que es de los más trascedentes y del que poco se ha hablado; el tema del distrito de riego 018 también es muy importante.</p>
+<p>Entonces, señor presidente, pedirle que nos explique, desde su punto de vista por supuesto, la visión que se tiene en términos de lo que es el impulso a la nación yaqui, justamente con los elementos que se le están dotando, y qué expectativa se puede tener a futuro del desarrollo de este pueblo originario.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, considero que es un plan especial para la cultura yaqui. Se está atendiendo a todos los grupos originarios del país, la preferencia se le está dando a los indígenas, que lamentablemente son los más pobres de México y es la verdad más íntima del país. En todo México se está atendiendo a las comunidades indígenas de manera especial, pero en el caso de los pueblos yaquis considero que es mayor el apoyo, porque el plan de justicia a los pueblos yaquis es integral.</p>
+<p>En todos los casos los programas de Bienestar están dirigidos a los más pobres, puedo decirles que en las comunidades indígenas es donde más apoyo se recibe de parte del gobierno federal, pero en el caso de los pueblos yaquis, además de los programas de Bienestar, se están llevando a cabo otras acciones muy importantes:</p>
+<p>Se está devolviéndole la tierra que les quitaron después de la resolución presidencial del general Lázaro Cárdenas, los dotaron una superficie y con el paso del tiempo fueron perdiendo terrenos de su propiedad. Y ya logramos devolverles 30 mil hectáreas, ya se les entregaron, fue un proceso de restitución de esas tierras.</p>
+<p>Además, también tienen permisos desde la época del general Cárdenas para el uso del agua, y nunca se les habían reconocido esos derechos; al contrario, se les quitaba el agua. Entonces, ahora, primero, se está haciendo un acueducto porque no tenían agua ni siquiera su consumo doméstico en los pueblos, entonces se está haciendo un acueducto para que no les falte el agua.</p>
+<p>Y también se está construyendo un distrito de riego para todos los pueblos yaquis. Estamos hablando, en el caso del acueducto y el distrito de riego, de una inversión de más de 10 mil millones de pesos.</p>
+<p>Lo mismo, se están construyendo viviendas, se están construyendo escuelas, se están arreglando las calles, se están haciendo caminos, la universidad de los pueblos yaquis. Es un programa integral.</p>
+<p>Entonces, nos sentimos muy satisfechos porque es un acto de justicia en toda la extensión de la palabra.</p>
+<p>No hay que olvidar nunca. Se dice con frecuencia: ‘Ni perdón ni olvido’. Yo digo: Perdón, sí, olvido, no. Los yaquis fueron reprimidos como ningún grupo indígena, como ninguna población en México, los querían desaparecer, fue una guerra de exterminio la que padecieron durante el gobierno autoritario, dictatorial de Porfirio Díaz para quitarles sus tierras y quitarles el agua.</p>
+<p>Mandaron a los militares más represores del porfiriato a enfrentar a los yaquis, se habla de que fueron asesinados 15 mil yaquis en esa guerra. El gobierno federal compró armamento especial para esa guerra, Todos los generales más famosos por su actitud autoritaria estuvieron, participaron en esa guerra. Miles de yaquis deportados al sureste, a trabajar como esclavos.</p>
+<p>Una gran injusticia y nosotros tenemos que reivindicar a las comunidades que padecieron de esa gran represión de manera injusta y es lo que se está haciendo.</p>
+<p>Hay, además, en toda esta actitud de desprecio hacia las comunidades, hacia los pueblos indígenas, un sentimiento o un pensamiento racista, que incluso se mantiene hasta nuestros días, no ha desaparecido por completo el pensamiento porfirista, se sigue pensando de que si los indígenas son pobres es porque no trabajan, se sigue pensando que son indolentes, que así les gusta vivir, que el abandono en que están es por culpa de ellos.</p>
+<p>Cuando Porfirio Díaz, ¿saben qué argumentaba para despojar a los yaquis y a otros pueblos indígenas de sus tierras?, argumentaba que ellos no eran los dueños de las tierras y que se sentían los dueños de las tierras, cuando históricamente ellos son los que han vivido siempre en estos territorios; entonces, que había que despojarlos, quitarles la tierra para entregarla a propietarios prósperos, emprendedores, porque de eso dependía el progreso de la nación. Y de ahí las grandes injusticias que se cometieron en Sonora y en todo el país.</p>
+<p>Entonces, estamos trabajando con los yaquis, con los seris, guarijíos, de Sonora, y los mayos. Y vamos a seguir apoyando a todos, pero dándole preferencia a quien más lo necesita, y esto al mismo tiempo que se están llevando a cabo inversiones muy importantes para el desarrollo futuro de Sonora.</p>
+<p>Es un gran estado con muchos recursos naturales, pues nada más la extensión territorial de Sonora es la segunda entidad federativa con más extensión territorial en el país, pero además tiene 500 kilómetros de frontera con Estados Unidos.</p>
+<p>Tiene Sonora la posibilidad de generar, como hoy va a quedar de manifiesto, energía limpia, renovable. Ya se está definiendo hacia adelante que todos los carros que se van a utilizar en Estados Unidos, que se van a adquirir en Estados Unidos, van a ser eléctricos, ellos se están poniendo como fecha el 2030. Hay que reconvertir toda la industria automotriz y eso va a requerir de energías limpias y va a requerir de un mineral estratégico que tiene Sonora, que es el litio, para la construcción de baterías.</p>
+<p>Entonces, Sonora tiene todo ese potencial que vamos a desarrollar en lo que hemos llamado el Plan Sonora, que es una propuesta del gobernador Alfonso Durazo.</p>
+<p>Además, tomen en cuenta que hace menos de un año el gobierno de Estados Unidos decidió invertir en Arizona para la elaboración de chips, de semiconductores, muchísimo dinero con ese propósito, porque están pensando en no depender de Asia para el uso de estos chips, que escasearon cuando la pandemia, por eso no se podía comprar un refrigerador, una estufa, entregaban estos electrodomésticos a los seis meses de haberlos pedido, solicitado y tomaron una decisión en el gobierno de decir: ‘Vamos a ser independientes’ y esa planta la están instalando en Arizona y en los límites con Sonora.</p>
+<p>Entonces, son los chips, los semiconductores, es el litio, son las baterías, es la industria automotriz, la industria de autopartes, la energía renovable, todo eso es lo que se quiere aprovechar con el Plan Sonora y significa inversiones. Ya se inició con esta planta en Peñasco para energía solar, pero se puede replicar en cinco sitios de Sonora.</p>
+<p>Hoy empieza a producirse energía y preguntaba yo: ¿Cuánto?, porque no quiero ir a prender una planta, a oprimir un botón y que no signifique nada, y me dicen que ya a partir de hoy. Lo que voy a hacer, de oprimir el botón, va a significar electricidad para 60 mil hogares, y es apenas el inicio, eso se puede replicar.</p>
+<p>Lo del litio, lo mismo, o sea, vamos a hacer valer la ley de nacionalización de este mineral estratégico para beneficio de Sonora, para que se establezcan las plantas de creación de baterías y de industria automotriz en Sonora, y haya empleos en Sonora y se aprovechen estos recursos naturales de Sonora, que no se lleven los recursos naturales de Sonora a otros países, sino que se aprovechen y que se den facilidades para que todas las plantas que quieran establecerse, instalarse en Sonora, tengan esa facilidad y eso garantice el desarrollo futuro de Sonora.</p>
+<p>Ya nos va a tocar a nosotros verlo, yo termino en 18, 19 meses, Alfonso sí tiene más tiempo, pero no hay que estar pensando en el corto plazo, ahora sí que no hay que estar pensando en la próxima elección, sino en las próximas generaciones, en lo que vamos a poder a heredar a las nuevas generaciones.</p>
+<p>En suma, yo calculo que el gobierno federal este año y el próximo va a destinar a Sonora alrededor de 50 mil millones de pesos en obras de infraestructura, que tiene que ver con caminos, el puerto de Guaymas, estas obras del sector eléctrico, todo lo que tiene que ver con aduanas y muchas otras cosas, como 50 mil millones de pesos de inversión para Sonora.</p>
+<p><strong>INTERLOCUTOR:</strong> Sí, que toma forma el asunto del ‘momento de Sonora’, señor presidente.</p>
+<p>Alrededor del tema del agua, ya que habla usted del tema del Distrito 018 que se está creando para los pueblos yaquis, he recibido un par de situaciones ahí. Justamente enseguida del distrito de riego está San Ignacio Río Muerto. Me contactó un grupo de ejidatarios precaristas, me dicen ellos, campesinos, que tienen problemas porque no han logrado acceder a un número de registro como usuarios de cualquiera de los distritos de riego que están ahí en la zona, está el del río Yaqui, está el de los yaquis, y no han logrado tener el número de registro.</p>
+<p>Me dicen ellos que la Conagua por alguna razón extraordinaria no se los da. Me pidieron ellos, como son campesinos muy pobres, que si tenía la ocasión de platicarle se lo pudiera comentar, porque necesitan su ayuda, me dicen que no tienen manera de hacer sus cultivos ni de sostenerlos.</p>
+<p>También en el tema del agua los usuarios del distrito de riego del río Mátape me insisten en que Conagua no ha iniciado con las obras y procesos que se habían comprometido para, en todo caso, tener el control de potenciales avenidas y piden de manera reiterada su intervención para darle seguimiento al tema.</p>
+<p>Le quiero también plantear un asunto de seguridad. Hace poquito se habló aquí de que en Sonora se redujo un 10 por ciento la incidencia del homicidio doloso, y es cierto, tenemos la estadística a nivel estatal. Lamentablemente como Sonora es un estado tan grande tenemos regiones diversas. Por ejemplo, el caso de Guaymas sigue siendo un problema, tenemos en Guaymas, Empalme, un aumento del 48 por ciento de incidencia de homicidio doloso. En Cajeme ha bajado alrededor del 15 por ciento; sin embargo, sigue siendo un foco rojo importante. Afortunadamente Hermosillo está tranquilo, pero Caborca, San Luis Río Colorado también.</p>
+<p>Los alcaldes de estos municipios, y alguna ocasión lo comenté aquí con la secretaria Rosa Icela Rodríguez, han insistido en que haya algún fondo justamente para equipamiento, vi con atención que aquí al gobernador le dieron 387 millones de pesos de un fondo justamente de asignaciones para los estados, pero los municipios que son la primera autoridad respondiente insisten en que ellos también necesitan apoyo y además que ya existen los recursos.</p>
+<p>Creo que usted me dijo, secretaria, que era un asunto que pasaba por el Congreso básicamente, que si lo aprobaban, ya estaba listo y, bueno, no ha quedado, es el reporte.</p>
+<p>Y, bueno, aprovecho ya, por último, para preguntarle por los fondos del Repuve. Se sabe que se va a acabar el plan ahora para el 31 de marzo, al menos es lo que dice el decreto, pero lo que me dicen también, de vuelta a los alcaldes, es que ya no volvieron a recibir las provisiones, es decir, tienen lo que es octubre, noviembre y diciembre que no se les ha entregado el recurso captado; entonces, obviamente andan con la idea de terminar los procesos de bacheo y reparación de las calles.</p>
+<p>Muchas gracias, señor presidente, y bienvenido de vuelta a Sonora.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí, mire, en el tema de seguridad es muy importante que se conozca, lo acaba de informar el general, lo de la construcción y el número de elementos de la Guardia Nacional que se tienen en Sonora, o sea, es de los estados más atendidos.</p>
+<p>Hay ya más de dos mil elementos de la Guardia Nacional en Sonora, y se están construyendo cuarteles. A ver si ponemos la gráfica del general sobre cuarteles y elementos de la Guardia Nacional.</p>
+<p>Estamos ayudando al gobierno del estado porque Alfonso es, para decirlo con más claridad, es mi representante, además de que es el gobernador de Sonora, lo eligieron para gobernar Sonora, y es un gobernador libre, independiente, soberano de Sonora, es mi representante, si se puede hablar de eso, si existe ese cargo. Entonces, estamos trabajando de manera conjunta.</p>
+<p>Pero miren cuántas instalaciones se han construido de la Guardia Nacional. Pero independientemente de las instalaciones, que van a ser en total al final 20 cuando terminemos a finales del año o el año próximo… ¿Por qué no pones lo del número de elementos? Una anterior, esa.</p>
+<p>Miren, nada más el Ejército tiene cuatro mil 260 elementos en Sonora, operativos; tiene más, pero es personal administrativo básicamente; la Secretaría de Marina, 964; la Guardia Nacional, dos mil 647; en total, elementos del gobierno federal, siete mil 871; policías municipales, estatales, cinco mil 23.</p>
+<p>O sea, sí estamos dándole una atención especial a Sonora, porque le tenemos toda la confianza y además lo requiere la población por los problemas de inseguridad y de violencia.</p>
+<p>Hoy me quedé callado porque respeto mucho a Alfonso, pero habló de que van a destinar más recursos para la contratación, y lo están haciendo, de policías, la formación, la capacitación y de instalaciones, que mencionó Alfonso de que por falta de instalaciones para la policía estatal tienen que hospedarse en hoteles, como lo hacía la innombrable Policía Federal, que era lamentable que nunca construyeron un cuartel, y tomaban los hoteles y luego se iban sin pagar, un desastre eso.</p>
+<p>Bueno, entonces yo me quedé pensando y ahora se lo digo, porque mi pecho no es bodega, decirle: No destines esos recursos con ese propósito, mejor te ayudamos más creando más instalaciones y también con más elementos de la Guardia.</p>
+<p>Tiene, entre otras cosas, una ventaja, que es muy importante: los policías municipales, por muy buenos que sean, que los hay, muy buenos, están muy presionados, muy asediados, porque hay viven sus familias, en los municipios, los conocen, y es plata o plomo, entonces es para ellos una situación muy difícil.</p>
+<p>Un elemento de la Guardia Nacional casi no es conocido, porque además hay un mecanismo que tiene la Secretaría de la Defensa, la Guardia Nacional, de rotación. Entonces, tiene mayor eficacia en cuanto a esto.</p>
+<p>Desde luego, tienen que haber policías municipales, tienen que haber policías estatales, profesionales, pero en algunos estados en donde hay más presencia de la delincuencia organizada lo mejor es fortalecer la Guardia Nacional y aprovechar la reforma a la Constitución que nos permitió que ahora las Fuerzas Armadas, tanto la Secretaría de Marina como la Defensa, puedan ayudar en tareas de seguridad pública.</p>
+<p>Bueno, esto lo quería dejar de manifiesto.</p>
+<p>Pero también hay una lámina, que no sé si se presentó ahora, sobre lo que destina la federación que por derecho le corresponde a estados y municipios, son fondos de seguridad. A ver, si la ponen. Esto.</p>
+<p>Lo de abajo, los dos mil 600, es para municipios, que puede ser que no sea suficiente, pero sí hay un fondo con ese propósito; y lo de arriba es para el estado básicamente. Entonces, sí existe un fondo.</p>
+<p>Y acerca de lo de la regularización de los carros de origen extranjero, tiene Alfonso toda la información, incluso sobre esto, si quieres profundizar.</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> El caso de los vehículos, presidente, en el caso de los vehículos, tenemos en este momento 137 mil 800 vehículos registrados: en Hermosillo, 37 mil 702; Nogales, 19 mil; —grosso modo— San Luis Río Colorado, 13; Cajeme, 13 mil; Agua Prieta, 10 mil. Son los que tienen más.</p>
+<p>La Secretaría de Hacienda nos ha asignado 133 millones de pesos, es decir, nos ha cubierto el registro de vehículos hasta el mes de octubre, pero somos un estado que está al 100 con los trámites ante la Secretaría de Hacienda y mes con mes nos hace una asignación.</p>
+<p>De hecho, el lunes tenemos una reunión con presidentes municipales, nos llegó una cantidad importante hace un par de días y el lunes vamos a entregar presencialmente un cheque.</p>
+<p>Pero nos falta todavía noviembre, diciembre y enero. Eso va a ir llegando y conforme llegue, dicho coloquialmente, sin tocar baranda lo transferiremos de inmediato a los municipios, como lo hemos hecho invariablemente, somos un gobierno que no debe un solo quinto, presidente, a los municipios por ningún concepto.</p>
+<p>Aquí en el caso de Sonora, aquí el avance, nos corresponderían hasta este momento 347 millones de pesos 770 mil. En este momento la Secretaría de Hacienda nos ha entregado 139 millones 108 mil pesos. Estos 139 corresponde hasta el mes de octubre, pero está pendiente la otra parte.</p>
+<p>Hemos presentado ya todos los proyectos, han cumplido los municipios y van a ir entregándonos mensualmente este recurso.</p>
+<p>Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien, vamos con…</p>
+<p><strong>PREGUNTA:</strong> Buenos días, señor presidente, gobernador, secretarios, secretaria.</p>
+<p>Diego Elías Cedillo, del <em>Sistema Informativo de Tabasco, Diario Presente</em>.</p>
+<p>Señor presidente, hace unos días la presidenta de Perú, la presidenta interina, la presidenta que actualmente está, vaya, ostentando ese cargo, Dina Boluarte, comentó o urgió, en este caso a usted, al respecto de entregarle la bandera, la presidencia con respecto a la Alianza del Pacífico. Entonces, presidente, preguntarle su opinión al respecto de estas declaraciones de su homóloga peruana.</p>
+<p>Y también, aprovechando el ámbito internacional, si usted me permite, saber qué pasó con el viaje que usted anunció el año pasado a Colombia para tocar el tema de la política de drogas, puntualmente.</p>
+<p>Y saber también si tiene planeado en este ya quinto año de su gobierno visitar países de Latinoamérica.</p>
+<p>Gracias, presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, lo del Alianza del Pacífico estamos buscando la manera de entregar la presidencia. Le correspondía al Perú, pero cuando se iba a llevar cabo la reunión no le permitieron al presidente salir.</p>
+<p>Luego, íbamos nosotros a visitar Perú y lo detuvieron por esto que, yo considero, fue un golpe de Estado técnico, aunque también ha utilizado a la policía, y creo que fue un acto ilegal, arbitrario, antidemocrático, no se respetó la voluntad del pueblo de Perú.</p>
+<p>No se habla mucho de esto por lo mismo, porque hay mucha desinformación convenida, pactada. Cuando no les conviene a los grupos oligárquicos de América Latina y del mundo, los medios tocan al son que les marca la oligarquía, los grupos de intereses creados, por eso ellos deciden que es nota y que no es nota.</p>
+<p>Es gravísimo lo que sucedió en Perú, o sea, la destitución de un presidente, lo meten a la cárcel, no hay fundamentos legales, no respetan la voluntad del pueblo y lo que hay en el fondo es una actitud clasista, racista. Como se trata de un maestro de la sierra, humilde, fue desde el principio acosado.</p>
+<p>Como cinco, seis intentos de destitución, creo que estaba llegando y al mes ya tenía de parte del Congreso, porque no contaba o no cuenta con la mayoría del Congreso, las primeras denuncias de destitución, hasta que lo lograron y lo encarcelaron, con mucha traición también de quienes supuestamente lo ayudaban, al grado de que cuando lo detienen quienes llevan a cabo esa acción son sus propios guardias, era una relación de complicidad, de componendas, una asociación ahí delictuosa, toda una conspiración.</p>
+<p>Entonces, ahí está lo de la presidencia. Le voy a dar instrucciones al secretario de Relaciones Exteriores que les notifique a los miembros del Grupo de Río: ¿qué hacemos?, porque yo no quiero entregarle a un gobierno que considero espurio, que decidan los miembros del Grupo de Río.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Llamaría puntualmente a una votación entre los países para ver qué determinación se toma?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Lo vamos a notificar e informar para ver cuál es la opinión que tienen. Si ellos dicen: ‘Entreguen la presidencia’, pues lo hacemos. Pero sí voy a hacer la consulta, porque además yo no quiero legitimar un golpe de Estado, no lo podemos hacer, eso es contrario a las libertades, es contrario a los derechos humanos y es antidemocrático, con nosotros no cuentan en eso.</p>
+<p><strong>INTERLOCUTOR:</strong> Nada más para precisar el primer cuestionamiento, presidente, saber qué pasó con el viaje a Colombia que se tenía planeado.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah. Tengo pensado hacer un viaje para América del Sur, para visitar algunos países, pero creo que va a ser muy cerca al 50 aniversario del asesinato del presidente Allende, en Chile, que voy a aprovechar para ir a Colombia, a Argentina, a Brasil y a Chile, hasta ahora. Pero esto es en septiembre.</p>
+<p>Tenemos comunicación con el presidente Petro, con Alberto Fernández, de Argentina; es probable que hoy hable por teléfono con el presidente Lula para algunos asuntos que estamos tratando sobre exportación, importación de alimentos, lo que tiene que ver con enfrentar de manera conjunta el fenómeno inflacionario, sobre este tema básicamente.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias, presidente.</p>
+<p>Y en una segunda pregunta, en dos semanas se va a llevar a cabo la marcha en la Ciudad de México en favor del INE, en favor de esta defensa del Instituto Federal Electoral.</p>
+<p>Aunado a esto, presidente, ya en cuestión de semanas, en cuestión de días, también se va a dar la separación del cargo, termina su periodo el consejero presidente Lorenzo Córdova y su compañero, el otro consejero, Ciro Murayama.</p>
+<p>Derivado de esto, presidente, usted bien sabe y se ha manejado mucho en los medios, el proceso que se va a llevar a cabo para elegir a los nuevos consejeros electorales, la insaculación, la famosa tómbola, un sorteo.</p>
+<p>Entonces, presidente, nada más puntualizar y conocer su opinión: ¿cuál es el perfil que deben de tener las y los consejeros electorales que deban ser propuestos a este cargo? Y también, si me permite, saber si usted consideraría prudente que el nuevo consejero presidente podría ser una mujer.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, tienen que ser lo opuesto a los que se van, esto es: que los nuevos tienen que ser demócratas, auténticos, gente honesta, íntegra, con autoridad moral, incorruptibles, eso es lo que yo considero.</p>
+<p>Acerca de la marcha o este movimiento de protesta que tiene como pantalla lo de la ley electoral, lo cierto es que es una manifestación del bloque conservador en contra de nosotros, ese es el fondo, lo demás es la excusa, es el pretexto, es ‘el INE no se toca’, ‘García Luna no se toca’, ‘la corrupción no se toca’, ‘el influyentismo no se toca’, el que quiera que paguen impuestos los que no pagaban no se toca’, todo eso. Ah, ‘la prensa vendida o alquilada no se toca’. Pero es.</p>
+<p>Están en su derecho de manifestarse, y qué bueno, porque así dejan de simular, porque aparentaban ser independientes, progresistas, liberales, y son conservadores rancios y corruptos. Imagínense, Claudio X. González, todos ellos, ahora paladines de la democracia, de la libertad, de la honestidad, cuando fueron los que impulsaron todo el saqueo que se llevó a cabo durante 36 años de periodo neoliberal o neoporfirista; todos los intelectuales orgánicos, medios de información, con honrosas excepciones.</p>
+<p>Y también, una cosa son los dueños de los medios de información, las empresas de la información que utilizan esos medios para fines de lucro, para obtener prebendas, para obtener contratos, para llevar a cabo actos de corrupción, para eso tienen los medios, ni siquiera son importantes como empresas, tienen 10 empresas y una de ellas es como la guardaespaldas, es como el guarura, el que entra en acción si no obtienen prebendas.</p>
+<p>Bueno, pero ese <em>modus operandi</em> no tiene nada que ver con los periodistas, eso es lo que quiero dejar en claro, yo estoy en contra de esas estructuras del poder, no en contra del periodismo.</p>
+<p>Es lo mismo, no estoy en contra de los empresarios, el empresario merece respeto y además es fundamental para el desarrollo del país, invierte, corre riesgos, tiene que juntar el dinero para la nómina, ocupa personas, dependen de él muchas familias; yo estoy en contra de la riqueza mal habida, no de los empresarios, estoy en contra de los que de la noche a la mañana se vuelven inmensamente ricos porque se dedicaron a saquear, a robar el erario.</p>
+<p>Pues es lo mismo en el caso de los periodistas, tienen todo mi respeto, no es con ellos, ellos venden su trabajo, puede que vendan su trabajo, pero no su consciencia y eso me consta, el problema está arriba.</p>
+<p>¿Ustedes creen que los directores de noticias más famosos, los conductores de radio, de televisión, son autónomos? No, no, ellos reciben línea de los de mero arriba: ‘Ya hablé con este político ―así era antes― ya llegamos a un acuerdo, ya hubo un enjuague, me lo tratas bien, ¿eh? Este no ha querido ayudar en la compra de medicinas, no nos ayuda o no nos quiere ayudar dándonos el contrato para la compra de patrullas; entonces, este que sienta el rigor de los medios’, así era.</p>
+<p>Entonces, por eso pienso que todo este movimiento va en contra de lo que estamos llevando a cabo nosotros porque se sienten afectados en sus intereses. Es normal, o sea, desde hace mucho tiempo se habla de la reacción cuando se lleva a cabo un proceso de transformación hay una reacción, por eso es que se habla de los grupos reaccionarios, siempre los ha habido.</p>
+<p>Entonces, se van a manifestar por eso o por cualquier otra cosa, y son libres.</p>
+<p>Y por cierto ya me enteré que fue una diputada de Morena la que propuso lo del aumento de la multa a los que insulten al presidente, y lo hizo sin malas intenciones, pero esa ley, lo que debe de hacerse con esa ley es eliminarla, porque…</p>
+<p><strong>ADÁN AUGUSTO LÓPEZ HERNÁNDEZ, SECRETARIO DE GOBERNACIÓN:</strong> En el 2020 propuso la fracción de Morena que se derogara. Ya la aprobaron los diputados, falta que la aprueben los senadores.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, porque por eso metieron a la cárcel a Madero la primera vez, por insultos a la autoridad; y lo del 68 tuvo también que ver con eso.</p>
+<p>O sea, la vamos a derogar. Y, además, también que se informe que quedó en comisiones, no pasó al pleno. Pero no es una cosa que tenga que ver con nosotros. Claro que no estoy pidiendo que me insulten, ¿no?, pero no vamos nosotros a enjuiciar a nadie por eso, nada, hay derecho a la crítica.</p>
+<p>En el caso del abogado de García Luna, ahí sí, ahí sí estoy analizando la posibilidad de denunciarlo, porque no es contra Andrés Manuel López Obrador, es contra el presidente de México.</p>
+<p>Y, primero, está de por medio la honestidad, es lo que estimo más importante.</p>
+<p>Segundo, no se puede gobernar a México si no se tiene autoridad moral.</p>
+<p>Y tercero, que no podemos ser rehén de ningún grupo de interés creado, de ninguna mafia y menos de extranjeros.</p>
+<p>Entonces, estoy analizando la posibilidad de sí presentar una denuncia por daño moral y que lo que obtengamos se le entregue a las víctimas, familiares de los que perdieron la vida en la guerra contra el narcotráfico. Pero estoy en eso, buscando también un abogado, que tiene que ser de allá y que tiene que ser también honesto, que sea una gente íntegra, para que presente la denuncia en contra del abogado porque actuó de manera tendenciosa, clarísimo. Lo mandaron a eso, a querer mancharnos y vamos a aclarar las cosas sobre eso, vamos al fondo del asunto.</p>
+<p><strong>PREGUNTA:</strong> Buen día, presidente.</p>
+<p>Michelle Rivera, de <em>Radio Fórmula</em>, Sonora.</p>
+<p>Son tres preguntas, si me permite. La primera es justamente sobre el juicio a Genaro García Luna. Ahora queda en unanimidad, 12 personas tomar la decisión si es culpable, si es inocente. ¿Algún mensaje? A lo mejor no tienen celulares, no tienen la forma de comunicarse, pero ¿les enviaría algún mensaje?, ¿les diría algo desde aquí con la oportunidad que tiene usted, la plataforma, las cámaras, los micrófonos a estas 12 personas que van a tomar esta decisión en cuanto al juicio a Genaro García Luna? Eso, por una parte.</p>
+<p>Presidente, en el tema de seguridad, ya lo mencionaba, era importante reiterar que hay más de 13 mil elementos en Sonora cuidando, tratando de garantizar la seguridad; sin embargo, a veces pareciera que en algunos municipios como Guaymas y Empalme la cantidad de elementos tanto de la Guardia Nacional, del Ejército y de la Marina no son suficientes por distintos hechos de violencia, que incluso hoy mismo despertando se están viviendo ahí.</p>
+<p>¿Se buscará algún cambio en la estrategia? A lo mejor no en el incremento de los elementos, pero ¿en la estrategia? Y probablemente… Escuchaba yo de un plan de pacificación en algunas zonas del país. ¿Está dentro de esa estrategia lo que se busca? ¿O cómo se busca trabajar en Sonora?</p>
+<p>Y, por último, comentarle, se viene una obra importante entre México y Estados Unidos, una nueva, una redirección económica con el movimiento de las vías del tren en la frontera. El día de ayer el presidente municipal de Ímuris, una ciudad cerca de Nogales, se manifestaba en contra de que se haga un movimiento de las vías del tren y que cruce estas vías por su municipio, por los alrededores por un daño incluso hasta ecológico que se puede ocasionar en esa zona.</p>
+<p>Presidente, ¿se puede contemplar, a lo mejor, escuchar a la población de Ímuris para hacer un diagnóstico y a lo mejor mover las vías del tren para que no crucen sobre ese municipio o ya está trazado y definido la ruta de esa obra?</p>
+<p>Esas tres preguntas, presidente. Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, aunque no tienen teléfono, yo creo que están informados los ciudadanos que están actuando como jurado. Lo único que yo les diría es que tomaran en cuenta todo lo que debieron haber hecho o la participación que seguramente tuvieron autoridades estadounidenses en este asunto, porque no puede ser posible que no se enteraran si había cooperación.</p>
+<p>Por ejemplo, con García Luna se dio el operativo conocido como Rápido y Furioso, fue algo convenido entre el gobierno de Estados Unidos y el Gobierno de México para meter armas a México, esto lo permitió el gobierno estadounidense. Entonces, que tomen en cuenta eso al momento de resolver que cuando menos haya una recomendación para que se investigue a quienes participaron del gobierno estadounidense en todas estas estas acciones, si sabían, no sabían. Porque es de dominio público que había una relación estrecha con las agencias del gobierno de Estados Unidos, entonces ¿cómo es posible que no aparece nada eso en el caso, no se trata eso? Que se haga una recomendación en ese sentido.</p>
+<p>Y que también se tome en cuenta de que en Estados Unidos se da el consumo de la droga y que el gobierno, con todo respeto, hace muy poco por evitar la demanda o el incremento en el consumo del fentanilo y de otras drogas.</p>
+<p>La pregunta es: ¿qué están haciendo con los jóvenes? ¿qué están haciendo para difundir sobre el daño que ocasionan las drogas? ¿cuánto dinero destina el gobierno de Estados Unidos para campañas en contra de las drogas?, si en los canales de televisión en Estados Unidos, si en las estaciones de radio en Estados Unidos, se está constantemente señalando sobre el daño que ocasionan las drogas. Eso no lo hacen.</p>
+<p>Entonces, ojalá y haya esa recomendación.</p>
+<p>Lo segundo que me preguntas, sobre Guaymas, sobre Obregón, ya se está trabajando, hay atención especial. Si hace falta que haya más elementos, lo vamos a hacer. Estamos avanzando bastante en ese propósito.</p>
+<p>Miren, no es algo espectacular, pero ya no está Sonora entre los cinco estados con más homicidios, o sea, ya está en el lugar siete a nivel nacional, a partir de que hemos estado dando más atención, y yo espero que sigamos avanzando.</p>
+<p>Ayer, por ejemplo, miren, lo que vimos en la mañana, que es lo que nos reportan todos los días, que nos reunimos a 6:00 a 7:00 de la mañana. A ver, si no tienes el número de homicidios de ayer en el país.</p>
+<p>Esto fue lo que sucedió ayer, 41 por ciento los 61 homicidios de ayer en cuatro entidades: Baja California, Guerrero, Chihuahua, Michoacán.</p>
+<p>Me llamó la atención el día de hoy la revisión dos cosas:</p>
+<p>Primero, que Guanajuato trae cuatro, y es de los que siempre está acá. Lo celebro.</p>
+<p>Y Sonora, miren, uno ayer. Ojalá y así se continúe. Esto lo vemos todos los días.</p>
+<p>En el caso de las vías de Nogales, vamos hoy para allá, y nos van a presentar la propuesta. Esta es la situación por décadas, desde que está el ferrocarril en Nogales, desde el porfiriato se hizo ese trazo y el ferrocarril parte la ciudad. No sé si tengan un plano sobre Nogales, sobre la parte.</p>
+<p>Entonces, fue creciendo la población y el ferrocarril ahí. Con el periodo neoliberal privatizaron los ferrocarriles, se acabaron los ferrocarriles de pasajeros y sólo quedaron los ferrocarriles de carga, entonces la aduana está en línea recta en el trazo anterior; ahora lo que se busca es que se haga una desviación para que el ferrocarril no atraviese la ciudad.</p>
+<p>Pero hay uno que me mandó, pero no sé si…</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> Perdón, pero nada más para precisar, la línea amarilla es precisamente la ruta del ferrocarril y ahí se ve claramente cómo parte en dos a la ciudad.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Lo que se busca es una desviación para acá, es un libramiento.</p>
+<p>La aduana está aquí. Originalmente se pensaba que se moviera la aduana para acá, la de Estados Unidos. Incluso ahora que vino el presidente Biden yo le adelanté algo, que quería que nos ayudara para poder mover la aduana del lado de Estados Unidos, porque es facultad exclusiva del presidente de Estados Unidos el cambiar el sitio una aduana, y me dijo que sí, que se hicieran los trámites.</p>
+<p>Pero los ingenieros militares lo que plantean es que, si se hace este desvío, se encuentra con otra línea férrea del lado mexicano, y que ya no habría necesidad de cambiar el lugar de la aduana y se libra la ciudad, es decir, se podría evitar el que pase el tren en medio de la ciudad sólo con el desvío hacia otra línea férrea, eso es lo que vamos a ver el día de hoy.</p>
+<p>Es posible que esto incluya ya terrenos del municipio de Ímuris, pero no hay población, sería hablar con ellos para que autorizaran el derecho de vía. Porque Ímuris no está ahí, o sea, conozco bien Ímuris, está más al interior del estado, entonces, vamos a ver eso.</p>
+<p>De todas maneras, se está trabajando, ya están los ingenieros, y yo creo que ya se debe de estar avanzando también en el derecho de vías.</p>
+<p>Pero ¿tú quieres…?</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> Si me permite.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí.</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> El día de ayer hablé con el presidente municipal. Circuló un trazo de vía falso, falso, que partía en dos a la ciudad. Sería un absurdo que estuviéramos evitando partir en dos a Nogales y que partiéramos en dos a Ímuris. Pero circuló una ruta falsa, no tiene absolutamente nada que ver con el trazo que se está visualizando.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, entonces es eso, es que no tienen qué hacer.</p>
+<p>¿Qué les parece si ya? Hay frío como en Tabasco.</p>
+<p><strong>PREGUNTA: </strong>Ya le dio uso al AIFA, ayer salió del AIFA.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, salí del AIFA porque fuimos a inaugurar. Esta es una muy buena noticia, se inauguró una vía, una autopista de Ecatepec al aeropuerto ‘Felipe Ángeles’. Son 14 kilómetros de seis carriles, tres y tres, tres de ida y tres de regreso, 14 kilómetros; libre, no de cuota.</p>
+<p>Dicen los de comunicaciones que los 14 kilómetros de Ecatepec al ‘Felipe Ángeles’ son nueve minutos, porque es una vía confinada, para 50 mil vehículos diarios, una gran obra, se invirtieron siete mil 500 millones de pesos.</p>
+<p>Entonces, esto ya corta completamente el tiempo de traslado del centro de la Ciudad de México, del Zócalo al aeropuerto, se pueden hacer de 30 a 50 minutos por esta vía corta, moderna, pero es probable que en los medios no hayan sacado nada, lo que deben de haber sacado, aquí está mire, es de que viajé en un avión de la Fuerza Aérea con el general hacia Hermosillo.</p>
+<p>Y salí, en efecto, del aeropuerto ‘Felipe Ángeles’ porque estaba yo ahí y tenía yo que llegar aquí a una reunión del Banco del Bienestar, entonces le pedí el aventón al general y ya me trasladé a Hermosillo.</p>
+<p>Además, quería yo salir del aeropuerto ‘Felipe Ángeles’ porque quería yo comprobar cómo fue que llegó ahí el avión tan grande del presidente Biden, si había o existe un cerro ahí que impide que aterricen los aviones y que despeguen los aviones, y con una torre de control chueca. Entonces, yo dije: Voy ahora a intentarlo, nada más que tengo que ir con los expertos, tengo que ir con los pilotos de la Fuerza Aérea, que ellos ya saben cómo darle la vuelta al cerro, rodear el cerro para no impactarnos con el cerro, y por eso salí.</p>
+<p>Pero llegamos aquí. Fíjense el nivel de algunos medios de información, es una crítica fraterna, respetuosa, cariñosa. Sobre eso me preguntaban, no me preguntaban sobre la inauguración de esto, que es una gran obra, sino: ‘Oiga, ¿salió del AIFA?’</p>
+<p>Seguro que es la noticia, entonces por eso estoy recreando esto del cerro y de la torre ladeada. La verdad es que es un gran aeropuerto, un extraordinario aeropuerto, y esto va a ayudar muchísimo porque acorta.</p>
+<p>Y así como esta vía, estamos construyendo un tren que va del aeropuerto a Lechería, y ahí hay una conexión con un tren que llega a Buenavista, hasta el centro de la ciudad. Se van a hacer también 40, 45 minutos en tren. Vamos a terminar el tren a finales de este año.</p>
+<p>Este lunes en la conferencia todos los que tienen que ver con estas vialidades van a informar, porque esto no se conoce.</p>
+<p>Además, los técnicos hablan de una autopista del Puente de Fierro, del Puente de Fierro de Ecatepec al aeropuerto y no tienen una idea, yo no tenía la idea clara cuál era el trazo. Entonces, ayer que la recorrí es de Ecatepec, del centro de Ecatepec del sitio donde asesinaron al Siervo de la Nación, a José María Morelos, que ahí hay un puente antiguo de fierro y la gente de esa zona sí sabe que es el Puente de Fierro, ¿no?, pero en general, no se conoce.</p>
+<p>Pero la vía nos va a permitir, se sale de la Ciudad de México por Indios Verdes y de inmediato se llega a esta vía, que son 14 kilómetros, sin pagar, no es autopista de cuota. Entonces, fue una muy buena obra que la inauguramos ayer.</p>
+<p>Y también contarles que el aeropuerto ´Felipe Ángeles' es de lo mejor, fue una muy buena decisión, porque si se hubiese hecho el aeropuerto que tenían programado en Texcoco pues estaríamos todavía construyéndolo.</p>
+<p>Tenía un estimado un gasto de 300 mil millones de pesos, y se tenía que haber cerrado el aeropuerto actual y el aeropuerto militar de Santa Lucía, pero lo peor de todo es de que donde quería construir el aeropuerto de Texcoco es la zona más baja, más pantanosa, de más fango, de todo el Valle de México, se hunde de 25 a 30 centímetros por año.</p>
+<p>Tenemos el problema de la Terminal 2 del aeropuerto de la ciudad, que se construyó hace 12, 13, 15 años, y ya tiene hundimientos. Tenemos que estar reforzando ese anexo al aeropuerto de la Ciudad de México, que es una cosa muy baja. Donde se construyó el aeropuerto ‘Felipe Ángeles’, es terreno firme.</p>
+<p>Además, ayer mencionaba algo que es muy importante, la gran Ciudad de México ya nada más tiene posibilidad de crecer hacia el norte, precisamente hacia donde está el Aeropuerto ‘Felipe Ángeles’, hacia Hidalgo, porque ahí es donde se cuenta con terrenos y se cuenta con agua, y es algo también extraordinario.</p>
+<p>¿Por qué se tiene agua en esa zona de Hidalgo?</p>
+<p>Porque se hizo el gran canal del desagüe desde la época de Porfirio Díaz para evitar las inundaciones de la ciudad, para sacar el agua de la ciudad, que acuérdense que Tenochtitlán era un lago, una ciudad en un lago.</p>
+<p>Entonces, se tomó la decisión de hacer ese gran canal del desagüe, lo hizo un constructor inglés, Pearson, que era como el contratista preferido de Porfirio Díaz, fue el que hizo el puerto de Veracruz, el puerto de Coatzacoalcos; era el dueño de la compañía petrolera El Águila.</p>
+<p>Entonces, se hace el gran canal del desagüe, desde luego mucho antes del drenaje profundo, y todas esas aguas van hacia Hidalgo. Y la naturaleza, con el paso del tiempo, hace su trabajo, por filtración limpiando al agua y se fue creando un manto acuífero en Hidalgo, y ahora se cuenta con agua, y se han hecho estudios y es agua buena. Estamos hablando de lo que hizo la naturaleza en 120, 140 años.</p>
+<p>Entonces, la posibilidad de crecimiento de la gran Ciudad de México está hacia el norte. Lo que iban a hacer, de construir el aeropuerto en Texcoco pues era saturar más una zona, la zona oriente de la ciudad, que ya está sobrepoblada, en donde no hay servicios y sobre todo no hay agua. Entonces, fue muy buena decisión la que se tomó.</p>
+<p>Y ahora sí ya nos vamos a ir a desayunar.</p>
+<p>Tú, una compañera. Eres de aquí, ¿verdad?</p>
+<p><strong>PREGUNTA:</strong> Buenos días, presidente.</p>
+<p>Yesicka Ojeda, de <em>El</em> <em>Imparcial</em>.</p>
+<p>Ya explicó ahorita la inversión que hará el gobierno federal en obras en Sonora, pero ¿puede precisar un poquito más los avances de la empresa Litio Mx y la inversión específica que plantea el gobierno federal para aprovechar el litio?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, primero, lo de hoy es emitir un decreto para que todos los estudios geológicos que se han hecho en Sonora y en otras partes del país, en donde se constata que hay litio, todas esas áreas queden reservadas para el uso exclusivo de la nación. El litio ya es un mineral estratégico de la nación y es lo que vamos, primero, a hacer.</p>
+<p>Y ya se está trabajando también con un plan para la extracción, el procesamiento del litio y van a haber inversiones seguramente, ¿no?, hacia el futuro, pero actualmente estamos todavía en lo que tiene que ver con la concesión de las áreas para la explotación del litio.</p>
+<p>Está trabajando Conacyt en investigación y otras instituciones para tener propuestas para la explotación de este mineral.</p>
+<p><strong>INTERLOCUTORA:</strong> Tras el reciente aumento que se autorizó en las tarifas de las casetas de peaje que entra en vigor ahora el 1º de marzo, diversas organizaciones como la Cemic, Canacope, Index, de transportistas también aquí en el estado han manifestado su rechazo, porque señalan que esto va a afectar en la economía y va a tener un impacto pues en todos los gastos que ellos realizan. ¿Le han planteado a usted la situación? ¿O qué les diría a los sonorenses respecto a este caso?</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Mire, es muy importante su pregunta porque, en efecto, en algunos casos hubo incrementos altísimos al pago de peaje en autopistas que están concesionadas. Se corrigió, o sea, el incremento es equivalente a la inflación nada más, 7.8. Es que había autopistas que habían incrementado hasta el 50 por ciento.</p>
+<p>Entonces, si me pregunta, es importante que se sepa que ya la Secretaría de Comunicaciones ya resolvió que el incremento no puede ser más del 7.8, el equivalente a la inflación.</p>
+<p>Esto lo manejaron nuestros adversarios desde la semana pasada, porque sí hubo algunas autopistas, Nayarit, en Sinaloa no sé, aquí en Sonora, y ya se corrigió, ya está resuelto.</p>
+<p>Aprovecho también para recordarle a nuestros adversarios de que cumplimos o que estamos cumpliendo el compromiso de no aumentar el precio de las gasolinas; que ya no hay, como era con ellos, como sucedía con ellos, gasolinazos, porque a veces se les olvida, ya no hay gasolinazos; que no ha aumentado el precio de la gasolina, que al contrario, ha disminuido en términos reales el precio de las gasolinas.</p>
+<p>Recordar que en el caso de Sonora y en las ciudades fronterizas que el precio es menor que en el resto del país, porque tenemos un plan de apoyo a toda la zona fronteriza, pagan menos impuestos, esto es en Impuesto Sobre la Renta y el IVA, y el costo de los combustibles es más bajo.</p>
+<p>Ahora con la crisis que se desató a partir de la guerra de Ucrania y Rusia aumentaron mucho los precios de los combustibles en Estados Unidos y eran más caros los combustibles en Estados Unidos, que en México, venían a cargar gasolina nuestro país de Estados Unidos, porque sostuvimos nosotros los precios, gasolina, diésel, gas y electricidad.</p>
+<p>Pero aún más, esto para los adversarios, para que sean equilibrados en sus planteamientos: ha aumentado el salario mínimo desde que estamos 90 por ciento, en términos reales y en la frontera más del doble. Eso no lo hicieron; al contrario, durante el tiempo que estuvieron ellos, los neoliberales o neoporfirisitas en el gobierno el salario mínimo perdió poder de compra, poder adquisitivo.</p>
+<p>Les voy a poner un ejemplo, antes del periodo neoliberal, a principios de los 80, con un salario mínimo se podían comprar 50 kilos de tortilla; cuando nosotros llegamos al gobierno con un salario mínimo se podían comprar cinco kilos de tortilla. Nada más para tener una idea de lo que significó la política neoliberal. Ahora, a pesar de todo, ya se pueden comprar 10 kilos, de cinco a 10 kilos de tortilla, de cinco cuando llegamos a 10 kilos ahora.</p>
+<p>Entonces, sí vamos avanzando.</p>
+<p>Y esas cámaras pues antes no hablaban, parecían momias los directivos, como algunos medios de comunicación, no criticaban nada, todo era obedecer y callar, quemar incienso a los gobernantes y ahora se han vuelto pero críticos en extremo de todo. Pero esa es la democracia y que viva la libertad.</p>
+<p><strong>INTERLOCUTORA:</strong> La última, de béisbol. Como aficionado, ¿apoya la propuesta de que se le cambie el nombre al estadio Sonora por ‘Fernando Valenzuela’, que lleve su nombre?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ahí si me la puso difícil. Es que se llama ‘Héctor Espino’, ¿no?</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> No, Nuevo Sonora.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ah, no, claro que sí. Fernando es el mejor beisbolista, el mejor pelotero hasta ahora en la historia de México, es lo mejor. Imagínense lo que significa que el Dodgers haya decidido quitar su número, el 34, como un homenaje permanente a este tremendo pitcher, caballo, como se dice en el béisbol. Además, sonorense, gente buena, sencilla, sí, de comunidad indígena, mayo.</p>
+<p>No, no, no, claro que sí. Yo pensaba que se llama ‘Héctor Espino’, porque ahí sí…</p>
+<p><strong>ALFONSO DURAZO MONTAÑO:</strong> Ese es el otro, es el viejo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, porque Héctor Espino, tremendo bate. A ese porque le gustaba mucho la carne de Sonora, de Chihuahua, la carne seca y otras cosas, y no quiso estar ahí en Estados Unidos, pero tenía con qué. Un gran pelotero, bateador.</p>
+<p>Ahora estuve pendiente, porque se quedó en la final Naranjeros con Guasave y aquí perdieron en la final con Guasave y ya se quedó Guasave con Mochis y ganó Mochis. Pero en el caso de Hermosillo tenía un pitcher que joven, un hijo de ‘Chito’ Ríos del pitcher que más ponches logró en la Liga Mexicana; entonces, el hijo estuvo pichando aquí y también muy bien, y ya lo contrataron para Grandes Ligas.</p>
+<p>Y hay que apoyar ahora, porque viene el Campeonato Mundial de Béisbol y la selección de México de béisbol está muy reforzada con muy buenos peloteros, y ojalá y nos vaya bien a México en el Mundial de Béisbol. ¡Ah!, pues se van a jugar algunos juegos aquí cerca en Arizona, no les va a quedar muy lejos para poder ir, creo que en Phoenix. Sí está lejos Phoenix, ¿no?, relativo.</p>
+<p>Pero sí me da mucho gusto que en <em>El Imparcial</em> también le den espacios al béisbol. ¿Sí tienen sección deportiva? Es que yo traigo ahí un reclamo fraterno con las secciones deportivas, sobre todo, en la televisión. No se dan cuenta de… No sé si ahora, pero antes decían: ‘Y ahora —después de los noticieros— vamos a la sección deportiva’, en vez de decir ‘vamos a la sección de futbol’, porque la sección deportiva era puro futbol. Y todos los deportes son importantes, el futbol, importantísimo, pero también el básquet, el béisbol y el atletismo.</p>
+<p>Vamos a ir a Nogales, la tierra de Ana Guevara. Imagínense lo que fue Ana Guevara como atleta, sonorense, de Nogales, y tantas cosas importantes que ha aportado Sonora al deporte nacional.</p>
+<p>Bueno, ahora sí nos vamos ya.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>21.09.19 Versión estenográfica. Diálogo con la comunidad del Hospital Rural Oxkutzcab, Yucatán &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/21-09-19-version-estenografica-dialogo-con-la-comunidad-del-hospital-rural-oxkutzcab-yucatan/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=124518' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F21-09-19-version-estenografica-dialogo-con-la-comunidad-del-hospital-rural-oxkutzcab-yucatan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F21-09-19-version-estenografica-dialogo-con-la-comunidad-del-hospital-rural-oxkutzcab-yucatan%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2tzta-f-c618ea4d5-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":30,"ak.ipv":4,"ak.proto":"h2","ak.rid":"245d37f","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":57793,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706729062","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==flHKbdXARSMcp5SgBv2qqc4xvdpHlOx2fe02EP+l9WSJtU9uRC//eHUoZAH3iy/cSFYpQQqPU4NpC9pG+HooyeSwWhOJlbQCAQq+qPGpaBnEt2ZRHtl1A9DBvLB7sW4t6MGpwoTbASy2Wur1EfE7M3aRgyKu0wTnoX43lbBrNckL9iiOwAtC25bfiCrXVKCjhG+FruZGb8WFd8pV8NLyHtpDrum3y66lUz6fSchu7VntQpU4jsKVQfCHFXY/+/Wx6WEUzNE/aDftP3RYQ5Sw86uPKj8yJfFN6HJdne4XkrnMbuelvcivKgK0CqYA2C9zxDxBZjB/FuhtGpmsNx4sLvOS+TMBi0gr7QbwkgmNyIcOIOL1aUGfGsQ26CSBJPeiteUnj2A4s8Q0NXFxR97K5qfOidEzFLysexjbM6Ewn8c=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-124518 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9ce25c29a" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>21.09.19 Versión estenográfica. Diálogo con la comunidad del Hospital Rural Oxkutzcab, Yucatán</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 21.09.19 Versión estenográfica. Diálogo con la comunidad del Hospital Rural Oxkutzcab, Yucatán 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-124518" class="post-124518 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/09/21-09-19-VE-OXKUTZCAB-YUCATAN.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/09/21-09-19-VE-OXKUTZCAB-YUCATAN-745x450.jpg" alt="21.09.19 Versión estenográfica. Diálogo con la comunidad del Hospital Rural Oxkutzcab, Yucatán" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">21.09.19 Versión estenográfica. Diálogo con la comunidad del Hospital Rural Oxkutzcab, Yucatán</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2019, Año del Caudillo del Sur, Emiliano Zapata</em></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Amigas, amigos de Oxkutzcab:</p>
+<p>Me da mucho gusto estar de nuevo con ustedes.</p>
+<p>Oxkutzcab es un municipio muy importante toda esta región sur del estado de Yucatán. Aquí confluyen, vienen de otros pueblos, de otras comunidades y por eso se decidió construir aquí hace cerca de 40 años este hospital, en ese entonces del programa IMSSS-Coplamar.</p>
+<p>Conozco la historia de este programa, porque hace 40 años yo estaba de director del Instituto Nacional Indigenistas en Tabasco, en mi tierra natal, y era yo también delegado de Coplamar.</p>
+<p>Yo salí de la escuela en 1976. Soy licenciado en Ciencia Política y Administración Pública, y mi primer trabajo fue de director del Instituto Nacional Indigenista en la zona indígena chontal, maya-chontal de Tabasco. Trabajé seis años en las comunidades y me tocó iniciar este programa cuando se crearon las unidades médicas rurales en todo el país y los hospitales como este.</p>
+<p>&nbsp;</p>
+<p><audio src="https://presidente.gob.mx/wp-content/uploads/2019/09/2019-09-21-Diálogo-con-la-comunidad-del-Hospital-Rural-Oxkutzcab-desde-Yucatán.mp3" controls="controls"></audio></p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&amp;version=v4.0"></script></p>
+<div class="fb-video" data-href="https://www.facebook.com/lopezobrador.org.mx/videos/546371096168014/?notif_id=1569001176185881&amp;notif_t=live_video_explicit" data-width="500">
+<blockquote cite="https://www.facebook.com/lopezobrador.org.mx/videos/546371096168014/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/lopezobrador.org.mx/videos/546371096168014/">Diálogo con la comunidad del Hospital Rural Oxkutzcab, desde Yucatán</a></p>
+<p>Diálogo con la comunidad del Hospital Rural Oxkutzcab, desde Yucatán</p>
+<p>Publicado por <a href="https://www.facebook.com/lopezobrador.org.mx/">Andrés Manuel López Obrador</a> en Sábado, 21 de septiembre de 2019</p></blockquote>
+</div>
+<p>Hasta entonces, el Seguro Social solo atendía a derechohabientes, a los que tenían seguridad social, los trabajadores en general y en el caso del campo tenía hospitales en Yucatán, por ejemplo, para los henequeneros, y así en otras partes.</p>
+<p>Pero el programa de atención a población abierta comenzó en 1979, IMSS-Coplamar, luego cambió de nombre IMSS-Solidaridad, IMSS-Progresa, IMSS-Oportunidades, IMSS-Prospera y ahora IMSS-Bienestar, pero es el mismo programa.</p>
+<p>Y estamos aquí para decirles que vamos a mejorar este programa IMSS-Bienestar, y todo el sistema de salud pública del país. Vamos a garantizar el derecho del pueblo a la salud, como vamos a garantizar el derecho del pueblo a la educación. La salud y la educación no son privilegios, son derechos de nuestro pueblo. Y digo esto porque ya no se va a privatizar nada, ya eso se acabó.</p>
+<p>¿Cuál fue el distintivo de estos últimos 36 años de política llamada neoliberal?</p>
+<p>La privatización, el entregar bienes del pueblo o de la nación a particulares. Busquen en el diccionario qué es privatizar y van a encontrar que es convertir lo público en privado. Pues eso ya se acabó, ya no vamos a privatizar nada, porque además quedó demostrado que esa política, en vez de beneficiar al pueblo, lo perjudicó, empobreció a los mexicanos.</p>
+<p>Desde luego que el que tenga para pagar un médico privado, que tenga para ir a una clínica está en su derecho, como también el que tiene para pagar colegiatura y que sus hijos puedan estudiar en una escuela privada, está en su derecho; pero el gobierno está obligado a garantizar tanto la educación como la salud pública, gratuita, de calidad para todos de manera universal.</p>
+<p>Vamos por eso a fortalecer este programa. Estamos recorriendo los hospitales. Son cuatro acciones que van a mejorar y se van a atender de manera especial.</p>
+<p>Primero, que no falten los medicamentos, que podamos garantizar el abasto y la distribución de los medicamentos, no sólo a los hospitales, sino a las unidades médicas y a los centros de salud.</p>
+<p>No deben de faltar los medicamentos, se deben de entregar hasta en las comunidades más apartadas. Así como se distribuye los refrescos, para no hablar de marcas, y así como se distribuyen las Sabritas, ¿por qué no vamos a distribuir las medicinas en todos lados? Claro que sí. Me canso ganso.</p>
+<p>Y que sean todos los medicamentos, porque nos fuimos acostumbrando al llamado cuadro básico, que ni siquiera es básico.</p>
+<p>Y hay una discriminación en el acceso a los medicamentos, porque si es una unidad médica, 120 claves, si es el hospital, 300; si es un hospital del régimen ordinario, 600; si es una clínica, un hospital de tercer nivel hasta mil, mil 200.</p>
+<p>¿Por qué esa diferencia?</p>
+<p>Tienen que garantizarse todos los medicamentos que se necesiten. Ese es el propósito, esa es la meta.</p>
+<p>Y vamos a que haya abasto suficiente. Y no crean ustedes que se va a gastar más o esto implica mucho presupuesto. No, si no hay corrupción, con el mismo presupuesto alcanza y hasta sobra.</p>
+<p>Porque, ¿qué cosa sucedía? había presupuesto, el año pasado se compraron 90 mil millones de pesos en medicinas y en materiales de curación, y no había abasto suficiente. Tres empresas vendían el 70 por ciento de todos los medicamentos al gobierno, tres, que ni siquiera producían los medicamentos, ni siquiera eran laboratorios, distribuidoras. Eso sí, con influencias, con agarraderas, muy vinculados a los poderosos. Pues eso ya se terminó.</p>
+<p>Ahí están todavía queriendo jugar a las vencidas, diciendo que nos vamos a quedar sin medicinas, ahora quisieron boicotear no entregando, no vendiendo la medicina que se necesita para curar a los niños del cáncer y pensaban que nos iban a doblegar.</p>
+<p>¿Qué hicimos?</p>
+<p>Ya se compró la medicina en Francia, ya llegó la medicina que se compró en el extranjero para que no falten los medicamentos; pero no se va el gobierno a dejar chantajear por nadie y se acaba la corrupción. Me canso ganso.</p>
+<p>Por eso les digo, no van a faltar los medicamentos. Y como es, ahora sí que el remedio y el trapito, para que no falten los medicamentos aquí está el responsable, para que lo conozcan bien, cuando no estén llegando los medicamentos sepan quién es el responsable, el doctor Alejandro Calderón Alipi. Párate para que…</p>
+<p>Lo segundo, que no falten enfermeras, médicos, que la plantilla esté completa, que también no es que no haya plazas, hay vacantes, pero no hay especialistas, porque también estos corruptos neoliberales causaron mucho daño con su política de querer privatizar la educación, limitaban la entrada de los que querían ingresar a estudiar medicina u otras carreras, y rechazaban a los jóvenes de las universidades con la mentira, con el pretexto de que no pasaban el examen de admisión, cuando no era cierto que no pasaran el examen de admisión, es que no había cupo, no había espacio, porque no había presupuesto suficiente.</p>
+<p>En la UNAM, si querían estudiar medicina 10 mil, entraban cuando mucho 500.</p>
+<p>¿Cómo le hacían?</p>
+<p>Ciento veinte preguntas y decidían -y eso en la UNAM, que no hay recomendados, en otras universidades eran puros recomendados los que entraban- pero, ¿cómo le hacían en la UNAM de 120 preguntas?</p>
+<p>A ver, van a ingresar, van a pasar los que contesten bien 118 para arriba, 119 y los que no fallen que contesten bien las 120; el que contestaba 117 de las 120 ya no entraba. Entonces, no es que reprobara el examen, es que no había espacio.</p>
+<p>Y ahora estamos pagando las consecuencias, porque no tenemos los médicos ni los especialistas que requiere el país.</p>
+<p>Fíjense ese daño que causaron con esa política propuesta, alentada de manera irresponsable para que se privatizara la educación pensando que así iban a crearse más escuelas, universidades privadas y de esa forma íbamos a tener los profesionistas o profesionales, que es como mejor se debe de decir, profesionales.</p>
+<p>¿Qué sucedió?</p>
+<p>Que se estancó también la matrícula de las escuelas privadas, porque ¿de dónde va a sacar un campesino, una familia de obreros?, ¿cuánto gana el vigilante, la vigilante de este hospital?, cuatro mil pesos mensuales. ¿De dónde saca para pagar la colegiatura para que estudie una hija o un hijo de cuando menos tres mil pesos al mes?</p>
+<p>¿Qué sucedió?</p>
+<p>Dejaron de estudiar muchos, no tenían posibilidad para pagar colegiaturas. Por eso ahora tenemos que resolver ese problema de falta de enfermeras, de médicos, de especialistas y lo vamos a lograr.</p>
+<p>Y vamos a hacer una convocatoria, porque hay muchos médicos que quieren ayudar en la transformación. Hay unos que ya están retirados, jubilados, pero que tienen todavía mucha fortaleza física y mucha experiencia, y quieren ayudar en la transformación de México y se les va a convocar, incluso a los que ya están jubilados para que establezcamos convenios especiales, sigan recibiendo sus apoyos, más compensaciones y que tengamos todos los médicos que necesitamos en el sector salud.</p>
+<p>Vamos a hacer en su momento, ya se lo planteé al doctor Jorge Alcocer, que por cierto es paisano de ustedes, el secretario de Salud, es de Yucatán, aprovecho para decirlo, pero además del Instituto de Nutrición, una eminencia, Premio Nacional de Ciencias es nuestro secretario de Salud. Es para presumir o como se dice ahora, no es para presumir, pero ahí queda eso.</p>
+<p>Ya le planteé al doctor que vamos a hacer primero, tenemos que hacer un diagnóstico, un censo, para ver cuántos médicos nos faltan en todo el sector salud y lo que tenemos que contratar de médicos, en general, de enfermeras, repito, de especialistas.</p>
+<p>Y cuando ya sepamos vamos a lanzar una convocatoria en una mañanera, en esas ruedas de prensa que hacemos todos los días por la mañana vamos a presentar el plan y vamos a convocar a todos los que quieren participar en el programa, cuando menos que nos ayuden en estos cinco años, en este sexenio, como se dice en las universidades, un sabático, pero de seis años para que podamos mejorar la salud.</p>
+<p>Y también con tabuladores diferenciados. Lo que aquí ya anunció Zoé, director del Seguro, Zoé Robledo, de que el que trabaje en Oxkutzcab va a ganar más que el que trabaje Mérida, o que el que trabaje en Cancún, o que el que trabaje en la Ciudad de México.</p>
+<p>Me preocupa mucho que llevamos tres hospitales del IMSS-Bienestar visitados de Yucatán y en los tres no hay pediatra; entonces, tenemos que resolverlo porque no puede ser que no tengamos estos especialistas. Y así está el hospital, imagínense cómo están las unidades médicas y cómo está el sistema de salud en general.</p>
+<p>Entonces, por eso estoy haciendo esta gira, porque que si no, me quedaría atendiendo otras cosas o estaría yo recorriendo el país viendo otras cosas, viendo por ejemplo lo de educación.</p>
+<p>Pero fíjense lo que son las cosas, las paradojas. Se habló mucho del problema educativo, porque se politizó, o sea, se polarizó porque fue parte de las llamas reformas estructurales y hubo hasta campaña en contra de los maestros.</p>
+<p>Bueno, ¿qué puedo yo decir?, que sí está mal el sistema educativo, pero está peor el sistema de salud del país, porque además es de sentido común, de juicio práctico, si un maestro no llega -que deben de llegar, no debe de haber ausentismo, y nada de semanas de martes a jueves, ya se acabó eso, semanas completas, a dar clases- pero en el supuesto de que no lleguen pues lo suple al maestro, a la maestra otro maestro, otras maestra, o se van los niños a la casa con la mamá, con la abuelita, ahí está, no pasa a mayores, aceptando sin conceder que eso sucediera.</p>
+<p>Pero, ¿qué pasa si viene aquí un infartado y no tienen la medicina?</p>
+<p>No alcanza a llegar a Mérida, se queda en el camino, se muere. Entonces, eso o no sirve la ambulancia, porque está en el taller. Por eso tenemos que resolver, primero, que no falten las medicinas.</p>
+<p>Segundo, que no falten los médicos. Aquí está el responsable de que no falten los médicos, enfermeras, es el doctor Alejandro Svárch Pérez, que está aquí.</p>
+<p>Lo tercero, mejorar la infraestructura, todo esto, por ejemplo, lo de Ticul, que dejaron ahí a medias el hospital. Aquí aprovecho también para aclararles que tenemos el compromiso, lo vamos a cumplir, ese hospital se va a terminar.</p>
+<p>Repito, porque esta empresa que tiene esa denuncia en contra del gobierno del estado se está excediendo, tiene tres hospitales así en el país, a medias. Y son muy buenos para demandar al gobierno, nada más les recuerdo que ya no es el mismo gobierno y ya no hay corrupción. Entonces, el dinero del presupuesto, el dinero del pueblo es sagrado.</p>
+<p>Entonces, que no se están confiando, porque están queriendo cobrar por daños supuestamente, cuando ellos fueron los que dejaron en el abandono el hospital; están queriendo ahora que les pague el gobierno del estado 150 millones de pesos. Imagínense. Claro que no estén soñando, eso no.</p>
+<p>Y hay que ponerse de acuerdo para que se reinicie la obra en Ticul y se tenga ese hospital que va a servir también para dar servicio a toda esta región.</p>
+<p>Pero para infraestructura, para cambiar equipos médicos que ya están caducos, ya hay equipos… este hospital tiene ya casi 40 años que ya están para museo, hablando de la ambulancia y de todo, así está en general. Entonces, para eso está el arquitecto Carlos Sánchez Meneses, es el coordinador nacional de Infraestructura, que está aquí con nosotros.</p>
+<p>Y el punto cuatro, estoy haciendo el compromiso, lo voy a cumplir, que vamos a basificar a los trabajadores de la salud, a todos los trabajadores de la salud, no sólo del IMSS-Bienestar a todos, son más de 80 mil que están trabajando como eventuales y llevan muchos años así, por contrato.</p>
+<p>Vamos a garantizarles que tengan sus bases. Vamos a empezar con los que tienen más antigüedad, pero ya vamos a comenzar. Me acaba de informar el responsable, que lo presento, el doctor Víctor Manuel Lamoyi Bocanegra, que es de administración, me acaba de informar que vamos a empezar con ¿cuántos a basificar?, seis mil, sí, primero de 10 años hacia adelante, los que tienen más antigüedad, seis mil se van a basificar ya desde ahora y poco a poco, y antes de que termine el gobierno, basificados los trabajadores de la salud. Ese es el acuerdo.</p>
+<p>Vamos a incrementar el presupuesto de salud en 40 mil millones de pesos para estas cuatro acciones.</p>
+<p>¿Y por qué estamos aquí con ustedes?</p>
+<p>Porque queremos que nos ayuden, nos apoyen, a que cada vez sean mejor el servicio para la gente, que sea trate cada vez mejor a los pacientes, como ustedes lo hacen, y que sigamos adelante. Miren, tenemos la dicha de contar con muy buenos trabajadores de la salud, muy buenos trabajadores de la salud, muy buenos trabajadores de la educación, muy buenos trabajadores electricistas, muy buenos trabajadores petroleros. Con los trabajadores de México es que vamos a lograr el renacimiento de nuestro país, vamos a sacar adelante a México entre todos.</p>
+<p>Porque no es asunto de un solo hombre ni de dos, del presidente, del gobernador, de los servidores públicos, esto es asunto de todos. Nos tienen que ayudar a empujar al elefante porque nos dejaron un elefante echado, reumático, mañoso, que hay que pararlo, hay que ponerlo de pie y empezarlo a empujar.</p>
+<p>¿Me van a ayudar a empujar el elefante?</p>
+<p>Claro que sí, vamos a sacar adelante a nuestro querido México.</p>
+<p>Y aquí en Oxkutzcab les digo que tengan confianza, yo no voy a fallarles. Imagínense cuántos años de lucha para llegar a la Presidencia y hacer lo mismo que hacían los anteriores. No, nosotros no luchamos por cargos, nosotros luchamos por ideales, luchamos por principios, nosotros lo que queremos es hacer historia, la Cuarta Transformación de la vida pública de México.</p>
+<p>Eso es por lo que estamos en este movimiento, ocupando este cargo de presidente, que más que nada es un encargo del pueblo. No podemos, repito, fallar, ya no me pertenezco, tengo la responsabilidad de estar a la altura de ustedes, a la altura de nuestro pueblo y no les voy a defraudar.</p>
+<p>Y no crean que está muy complicado. Me van a seguir saliendo canas, porque ese es un asunto que heredé de mi madre, un asunto biológico, pero estoy tranquilo, estoy seguro de que vamos a sacar a México adelante, se va a convertir nuestro país en una potencia con dimensión social, ya empezó México a tener mejor fama en el mundo y así va a ser.</p>
+<p>Y no está muy complicado.</p>
+<p>¿Saben cuál es la fórmula?</p>
+<p>Sencillo: acabar con la corrupción y con la impunidad. Eso es todo.</p>
+<p>Es que cuando hay corrupción, no alcanza el presupuesto ¿cómo va a alcanzar, si se roban el dinero que es del pueblo?, si hacen una obra que cuesta 100 millones, la cobran en 300.</p>
+<p>Ya tenemos que acabar con esa corrupción y lo estamos haciendo dando el ejemplo de arriba para abajo.</p>
+<p>Ya no hay también los derroches, las extravagancias, los gastos superfluos que había en el gobierno. Ya no hay un gobierno rico y un pueblo pobre. Lo que queremos que es el gobierno sea austero.</p>
+<p>¿Saben que llegaron a cobrar sueldos hasta de 700 mil pesos mensuales? Se rayaban, 700 mil pesos mensuales, y cuando acabamos con eso decían: ‘Es que si no se les paga bien va a haber corrupción’. No, el que cobra 700 mil pesos mensuales habiendo tanta pobreza en el país, sin duda, sin presentar ninguna prueba, sin equivocarnos, es un reverendo ladrón, es un corrupto.</p>
+<p>Imagínense, un servidor público cobrando 700 mil pesos mensuales. Pueden tener esos ingresos y más los que están en el sector privado, pero sector público… ¿qué decía José María Morelos y Pavón?: ‘Yo quiero ser siervo de la nación’. El que quiera hacer dinero que se vaya al sector privado, el quiera servirle al pueblo que trabaje en el gobierno para servir a los mexicanos, para servir al prójimo. Para eso es el gobierno.</p>
+<p>No es ‘Ya me colé, ya tengo el cargo y ahora si voy a aprovechar, porque en el tiempo que yo esté de presidente municipal o de gobernador, o de secretario o de presidente de la República voy a tener ranchos y voy a tener residencias en México, en el extranjero y me voy a dar la gran vida’. Ya eso se acabó.</p>
+<p>¿Saben cuánto tiempo duró que no era delito grave la corrupción?</p>
+<p>Eso el pueblo no lo sabe. Salinas de Gortari modificó el Código Penal, 1994, para que la corrupción no se considerara delito grave. Veinticinco años estuvimos así. El que robaba podía salir bajo fianza. Ya eso se acabó, ahora la corrupción es delito grave, el que se meta a robar va a la cárcel sin derecho a fianza. Se acabó la corrupción.</p>
+<p>Esa es la fórmula, que no haya corrupción, que no haya lujos en el gobierno.</p>
+<p>¿Saben cuántos cuidaban al presidente?</p>
+<p>Ocho mil elementos del Estado Mayor Presidencial. Ya no hay Estado Mayor Presidencial. Antes, si hubiese venido a Oxkutzcab iban a estar los del Estado Mayor Presidencial como un mes antes revisando por qué calle iba yo a entrar. Se instalaban en Mérida para una gira 10 días antes, 15 días antes, cuando eran giras al extranjero hasta un mes antes que llegara el presidente.</p>
+<p>¿Y dónde iban?</p>
+<p>No iban a hoteles de tres o cuatro estrellas. Grandes lujos en todo sentido y venían aquí y llegaba el presidente, ¿cómo llegaba?, pues no venía por carretera, era por helicóptero, en avión a Mérida y de Mérida para acá en helicóptero. Todo cerrado. Así era con los ocho mil elementos del Estado Mayor, bueno, ni Donald Trump está cuidado por ocho mil elementos.</p>
+<p>Ya no existe el Estado Mayor, ya están todos estos esos elementos en la Secretaría de la Defensa, en la Guardia Nacional para cuidar al pueblo. Al presidente lo cuida la gente y el que lucha por la justicia no tiene nada que temer. Pero imagínense cuántos ahorros.</p>
+<p>Y otra cosa. Tenían los altos funcionarios públicos, todos nosotros teníamos posibilidad de tener atención médica privada.</p>
+<p>¿Cuánto costaba mantener ese programa?</p>
+<p>Seis mil millones de pesos. Se hacían los altos funcionarios públicos hasta cirugía plástica, se estiraban a costillas del erario. Ya eso desapareció.</p>
+<p>Tenían cajas de ahorro especial. Si un funcionario público ganaba 200 mil pesos al mes dejaba de ahorro 20 mil, el 10 por ciento; y el gobierno, con el presupuesto público le aportaba otros 20 mil, de modo que en el mes ahorraba 40.</p>
+<p>Cuando se iba a otro cargo o se salía del gobierno, se llevaba todos esos ahorros.</p>
+<p>¿Cuánto costaba cada año mantener esa caja de ahorro especial?</p>
+<p>Cinco mil millones de pesos. Ya eso también ‘chupó Faros’, se acabó.</p>
+<p>Ya no hay aviones. Usaban los aviones, y esto que les estoy diciendo se puede probar, nada más que aquí me voy a llevar todo el día de cómo usaban los aviones para ir de compras, los helicópteros para ir a jugar golf.</p>
+<p>El avión presidencial iba a costar siete mil millones de pesos. Ya todos esos aviones están en venta. Ya todo eso se va a utilizar para beneficio del pueblo.</p>
+<p>Ya se creó un instituto que se llama Instituto para Devolverle al Pueblo lo Robado. ¿Ustedes no escuchaban en la radio, no veían la televisión?: ‘Se decomisaron ranchos, residencias, barcos, yates, aviones, alhajas, dólares’ que les llaman numerarios ¿y dónde quedaba?, no se sabía.</p>
+<p>Ahora todo eso se transparenta y se le devuelve de inmediato a la gente, a las comunidades, a los municipios más pobres del país.</p>
+<p>Por eso también nos alcanza el presupuesto ahora para dar la pensión a los adultos mayores. Ya se está entregando, no mil 160 pesos, dos mil 550 pesos a todos los adultos mayores del país. Y eso se va a mantener todo el gobierno.</p>
+<p>Y lo mismo, pensión para niñas, niños pobres con discapacidad y becas para estudiantes de familias de escasos recursos económicos.</p>
+<p>¿Saben cuánto es el programa de becas?</p>
+<p>Ya este año se están otorgando 10 millones de becas. Es un programa con una inversión de 60 mil millones de pesos.</p>
+<p>Becas para los que estudian preescolar, primaria, secundaria, todos los preparatorianos, todos, aquí en Yucatán y en todo el país su beca, mil 600 pesos bimestrales.</p>
+<p>Los que estudian en la universidad de familias de escasos recursos económicos, dos mil 400 pesos mensuales.</p>
+<p>Y los jóvenes que no estudian ni trabajan que nada más les llamaban ninis, pero nunca hicieron nada por ellos, ahora se les está contratando, se les está dando trabajo, están ganando tres mil 600 pesos, trabajando como aprendices en talleres, en empresas para que no tengan necesidad, para que no sean encampanados, sonsacados, enganchados por las bandas de la delincuencia.</p>
+<p>Tenemos que jalar nosotros a los jóvenes para que no caigan en conductas antisociales. Vamos a atender a los jóvenes, vamos a atender a todo el pueblo.</p>
+<p>Lo mismo a los productores del campo. Lo que era el Procampo va a continuar, ahora es Producción para el Bienestar. Les van a seguir llegando sus apoyos a todos de manera directa, porque esa también es otra característica del nuevo gobierno, ya no se va a entregar nada a organizaciones, todo es con tarjeta, porque si se entrega a intermediarios no llega o llega con moche, con <em>piquete de ojo. </em>Ya eso se terminó, ya todos van a recibir de manera directa los apoyos.</p>
+<p>Aquí en <em>Oxkutzcab se va a llevar a cabo también el programa Sembrando Vida para el campo, es un programa que ya se está aplicando en Yucatán y en todo el sureste, que consiste en darle apoyo a ejidatarios, pequeños propietarios, para que siembren, ya sea la milpa, ya sea árboles maderables, árboles frutales, aquí que se dan los cítricos; y se les está pagando, se les está ayudando con cinco mil pesos mensuales de jornal, para que sus hijos, familiares, tengan ese trabajo.</em></p>
+<p><em>Y no es que tengan que devolver ese dinero, es para que cultiven sus parcelas y tengan trabajo, que no tengan que irse los jóvenes a buscarse la vida a otras partes, que el mexicano, el yucateco pueda trabajar, pueda ser feliz donde nació, donde están sus familiares, donde están sus costumbres, donde están sus culturas. El que se quiera echar a andar, el que se quiera ir, que se vaya por gusto, no por necesidad; que la migración sea opcional, no obligatoria. Por eso les digo, vamos a seguir adelante.</em></p>
+<p><em>Aquí aprovecho -ya termino- para decirles que se va a terminar el camino de Oxkutzcab. El subsecretario de Comunicaciones es e ingeniero Cedric Escalante, que también es de Yucatán, entonces ya me está ahorita viendo que ya me estoy comprometiendo a que termine la obra de mejoramiento del camino acá hasta Oxkutzcab, que ya lo que empezaron que lo terminen y que lo hagan bien, que hagan bien esa obra. Ese es un compromiso.</em></p>
+<p><em>Y para concluir mi intervención, decirles que voy a estar viniendo, porque no va a haber divorcio entre el pueblo y gobierno, voy a estar recorriendo todo Yucatán, ya he venido cinco veces, pero voy a estar muchas veces más. Es gobierno del pueblo, para el pueblo y con el pueblo. Todos vamos a gobernar juntos para sacar adelante a Yucatán, sacar adelante a México; además, a mí me gusta mucho, mucho, mucho estar en Yucatán, por muchas razones.</em></p>
+<p><em>Yo admiro al pueblo de Yucatán por su historia, por su cultura, por mantener sus costumbres, por mantener sus tradiciones, por mantener su lengua, su identidad. El que olvida su pasado es como si no existiera, es la nada. El que no sabe de dónde viene nunca va a saber hacia dónde va. Hay que sentirse orgulloso de nuestras culturas, lo dije el día del Grito, una de las vivas fue: Viva la grandeza cultural México, eso es lo que nos ha salvado siempre.</em></p>
+<p><em>¡Y viva la grandeza cultural de Yucatán!</em></p>
+<p><em>Termino diciendo que me llevo muy bien con el ciudadano gobernador, para que quede eso también muy claro, que se oiga bien y que se oiga lejos, me llevo muy bien con Mauricio Vila, gobernador de Yucatán, estamos trabajando de manera conjunta.</em></p>
+<p><em>Y nos vamos a volver a encontrar en Oxkutzcab, ese es mi compromiso.</em></p>
+<p><em>Un abrazo cariñoso a todas, a todos.</em></p>
+<p><em>Amor con amor se paga.</em></p>
+<p><em>---</em></p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>25.03.19 Versión estenográfica. Conmemoración de los 500 años de la batalla de Centla, Tabasco &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/version-estenografica-conmemoracion-de-los-500-anos-de-la-batalla-de-centla-tabasco/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=116887' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conmemoracion-de-los-500-anos-de-la-batalla-de-centla-tabasco%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-conmemoracion-de-los-500-anos-de-la-batalla-de-centla-tabasco%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2t7ha-f-45557ba12-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":33,"ak.ipv":4,"ak.proto":"h2","ak.rid":"25bf672","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":20898,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706729422","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==5mndJjVJ9k3ub61JIZJYG55HAiNboWECXhmBmLPH+jKSdcFHyRQ8auwZf6buHRnu+k2db1cxPMn0LZFF5KggQ/yqcMtA5PhjIxCUmmGGi3jHEU40kTKrdxYsfSUe7Tjcom0O7lAt/jrcPauF70KDDZ4JAo3Fab9JM2rGfNNKLTcwKeAbQvR2sXlhy/+K4q8oJ1HS2sYZU+0i73XplJruSLWm7MoeKDkSfh5NfmmHJje+V0S0A5ltVlrMPBshtKDTsrazkItoosqjAF/gCiXDeaYkphOdPgmXsDJLL3Zt85N2lzoe0er5ac+riE33dZ5+gG9pAwl30NTZo8g0bHA7Cif6/qEjyMuqobb2O0ILQN1J1301Al4298Rlzvhh22thxB6FfjJaHeiLKD6Ll3FEV/YoSU386NFoRMrHr9vNF9c=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-116887 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9e4a1b79e" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>25.03.19 Versión estenográfica. Conmemoración de los 500 años de la batalla de Centla, Tabasco</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 25.03.19 Versión estenográfica. Conmemoración de los 500 años de la batalla de Centla, Tabasco 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-116887" class="post-116887 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-amlo tag-amlo-hoy tag-andres-manuel tag-andres-manuel-lopez-obrador tag-batalla-de-centla tag-beatriz-gutierrez-mueller tag-centla tag-centla-tabasco tag-conmemoracion tag-doctora-beatriz tag-lopez-obrador tag-tabasco">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/03/25-03-2019-FOTO-05-CONMEMORACION-500-ANIOS-DE-LA-BATALLA-DE-CENTLA-TABASCO.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/03/25-03-2019-FOTO-05-CONMEMORACION-500-ANIOS-DE-LA-BATALLA-DE-CENTLA-TABASCO-745x450.jpg" alt="25.03.19 Versión estenográfica. Conmemoración de los 500 años de la batalla de Centla, Tabasco" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">25.03.19 Versión estenográfica. Conmemoración de los 500 años de la batalla de Centla, Tabasco</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><span style="font-size: 10pt;"><em>2019, Año del Caudillo del Sur, Emiliano Zapata</em></span></p>
+<p style="text-align: justify;"><strong>BEATRIZ GUTIÉRREZ MÜLLER, ESPOSA DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS:</strong> Muy buenas tardes a todas, a todos. Hemos venido aquí a conmemorar este remoto suceso llamado Batalla de Centla y justo aquí, en Frontera, porque de acuerdo con lo que sabemos hoy, por este río habrían desembarcado los españoles y el encuentro con los chontales de Tabasco terminaría en una ofensiva con muchos muertos.</p>
+<p style="text-align: justify;">Estamos pues, conmemorando el quinto centenario de la primera batalla de indígenas mexicanos frente a la armada de Hernán Cortés.</p>
+
+<figure class="wp-block-audio"><audio src="https://lopezobrador.org.mx/wp-content/uploads/2019/03/Conmemoración-de-los-500-años-de-la-batalla-de-Centla-desde-Tabasco.mp3" controls="controls"></audio></figure>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook">
+<div class="wp-block-embed__wrapper"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flopezobrador.org.mx%2Fvideos%2F403647303756150%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+</figure>
+
+<p style="text-align: justify;">Es difícil precisar si este primer enfrentamiento armado ocurrió un 23 o 24 de marzo, pero varios investigadores creen que es muy aproximado en el tiempo que la rendición de los indígenas tabasqueños haya ocurrido el 25 de marzo; es decir, un día como hoy, pero de hace 500 años.</p>
+<p style="text-align: justify;">Lo relevante, sin embargo, no es el día puntual sino la profundidad de este acontecimiento.</p>
+<p style="text-align: justify;">Como es de todos conocido, en 1521 cayó Tenochtitlan y México comenzó un largo periodo colonial de 300 años como virreinato de la Nueva España.</p>
+<p style="text-align: justify;">Para ello, para reflexionar es necesario que tomemos de la mano a la memoria y a quienes nos hablaron de esos hechos para comprender qué pasó, por qué y en qué terminó.</p>
+<p style="text-align: justify;">El antiguo Cintla -escrito con ‘s’ o con ‘z’- era un territorio que estaba bajo el dominio de un cacique, Tabscoob, de ahí que el nombre de este estado haya terminado castellanizado con el que todos le conocemos hoy, Tabasco.</p>
+<p style="text-align: justify;">Cintla o Centla en náhuatl significa ‘Lugar del maíz maduro todavía unido a la mazorca’.</p>
+<p style="text-align: justify;">El dominio maya del señor indígena era fuerte y poderoso en toda la zona también conocida como Potonchán. Todo alrededor del Río Grijalva.</p>
+<p style="text-align: justify;">Por cierto, este nombre del río fue por Juan de Grijalva, quien ya había incursionado de manera previa en el territorio de Tabasco en 1518, siendo repelido por los pueblos originarios.</p>
+<p style="text-align: justify;">Antes, del mismo modo había fracasado en su intento de someter la vecina ciudad de Champotón, Francisco Fernández de Córdoba.</p>
+<p style="text-align: justify;">Para 1519, Hernán Cortés vivía en Cuba a las órdenes de Diego Velázquez, gobernador de la isla. Sin embargo, ya tenía planes de dejar sus tierras de cultivo ahí para navegar más allá del Caribe. Pidió permiso para concretar futuras rutas comerciales, pero cuando advirtiera que podría haber un territorio más allá -y en efecto, estaba nuestra América, la tierra firme- desobedeció a su mando y se adentró a tierras mexicanas con el claro propósito de explorar, poblar y conquistar.</p>
+<p style="text-align: justify;">Llegó a nuestro país por Cozumel y siguió por la costa del Golfo de México hasta llegar a la desembocadura del Río Grijalva, se estima, hacia el 20 de marzo de 1519.</p>
+<p style="text-align: justify;">Por el tamaño de sus bergantines no le fue posible anclar, así que dejó tales navíos e incursionó con su pequeño ejército río arriba, a bordo de barcos ligeros, hasta desembarcar en el sitio denominado Punta de los Palomares, aquí.</p>
+<p style="text-align: justify;">No hay evidencia arqueológica que nos permita ahora determinar en qué específico lugar Cortés y los tabasqueños se vieron cara a cara. Cortés venía de ser repelido por los pobladores de la ciudad de Champotón; así que es muy probable que a la brevedad los de Centla tuviesen noticia de que unos extranjeros intentaban tocar tierra y venían, no en cayucos, sino en barcos que debieron parecerles diferentes y extraordinarios.</p>
+<p style="text-align: justify;">Suponemos que su actitud sería beligerante a decir de la reacción que tuvieron los mayas de entonces.</p>
+<p style="text-align: justify;">De la Batalla de Centla tenemos poca información escrita, porque los testigos que la narraron son un puñado; el principal es Bernal Díaz del Castillo, quien legó para siglos su monumental <em>Historia verdadera de la conquista de la Nueva España</em>.</p>
+<p style="text-align: justify;">Hay también algunas referencias en la conocida como <em>Carta de Veracruz</em> de 1520 y en los memoriales de Andrés de Tapia, Fray Francisco de Aguilar y Bernardino Vázquez de Tapia.</p>
+<p style="text-align: justify;">No testigos, pero sí contemporáneos a los hechos, otros pocos sumados a otros historiadores, cronistas como Antonio de Herrera, Francisco López de Gómara, Jovio y más.</p>
+<p style="text-align: justify;">Pues bien, aquí los hechos que ocurrieron en un resumen.</p>
+<p style="text-align: justify;">Los soldados y ayudantes de Hernán Cortés eran 400, otros dicen que 500, o hasta 570. Al llegar a Centla hacia el 20 o 21 de marzo y al percibir que sus naves no podían anclar por causa de los pantanos, Hernán Cortés envió a Alonso de Ávila con cien soldados para observar y planear una estrategia de ataque desde tierra.</p>
+<p style="text-align: justify;">El traductor del castellano al maya era Gerónimo de Aguilar, quien ya tenía algunos años viviendo en la región y sabía la lengua.</p>
+<p style="text-align: justify;">Luego, la traductora sería Marina o ‘la Malinche’, como van a escuchar.</p>
+<p style="text-align: justify;">Para legalizar el ataque que planeaba, Cortés levantó un acta, encargada al escribano Diego de Godoy, para dar fe de los hechos.</p>
+<p style="text-align: justify;">Esto es importante porque la ley de aquel tiempo, practicada en Europa, era la de la ‘guerra justa’. De manera muy breve les digo que consistía en hacer un llamamiento a la rendición y requerir la paz, o sea, el sometimiento. Si no se subordinaban los rebeldes, se establecía la culpa y así se justificaba una guerra justa con derecho a la indemnización.</p>
+<p style="text-align: justify;">Algunos historiadores afirman que la reacción de los chontales fue inmediata, no le aceptaron nada a Aguilar y se embravecían más y más, amenazando con matar a todos los españoles si se atrevían a bajar de sus naves y atacar a su pueblo.</p>
+<p style="text-align: justify;">Andrés de Tapia y Bernal Díaz, testigos de la armada de Cortés, así lo escribieron.</p>
+<p style="text-align: justify;">Según López de Gómara, estaban afirmados en cinco escuadrones de ocho mil soldados cada uno; según Bernal no eran 24, sino 12 mil guerreros; Francisco de Aguilar llegó a contar incluso 40 mil.</p>
+<p style="text-align: justify;">Así que Cortés decidió esperar y el 23 o 24 atacó la ciudad de Potonchán. La estrategia de guerra de los indígenas, narrada por Antonio de Solís, consistía en pintar su cara y su cuerpo a manera de parecer espantosos y hacer huir a sus adversarios. Si esto no lo lograban, seguían gritos al unísono, sin interrupción, que perturbaban a los enemigos.</p>
+<p style="text-align: justify;">Díaz del Castillo añadió que además de los gritos intimidaban tañendo trompetillas, tocando tambores, caracoles y atabalejos.</p>
+<p style="text-align: justify;">Así que Cortés fue recibido en son de guerra y los mayas no aceptaron a los negociadores de Cortés.</p>
+<p style="text-align: justify;">Como según la ‘guerra justa’ no hubo rendición de manera verbal, el soldado español planeó el ataque.</p>
+<p style="text-align: justify;">Según Antonio de Solís dejó los 13 bergantines en el mar y a través de barcos pequeños de bajeles penetró en medio de los pantanos. Cuentan que tambaleándose en esas aguas perdió un zapato y así guerreó descalzo de un pie.</p>
+<p style="text-align: justify;">Mandó bajar de los barcos grandes unos escudos que resistían las flechas, porque los chontales tenían por arma principal el arco, los dardos y las piedras.</p>
+<p style="text-align: justify;">Comenzó la batalla casi cuerpo a cuerpo. En medio de los pantanos y con aquel ardor beligerante los chontales se aproximaron en sus canoas a los barquitos españoles, las fechas eran lanzadas y los españoles las esquivaban si podían.</p>
+<p style="text-align: justify;">Los españoles tenían en su contra el moverse entre los pantanos y esquivar una gran cantidad de manglares, además de la humedad y el calor tropical; mientras que los indígenas tenían en contra el uso de la pólvora y de las armas que emplearon los españoles, como los falconetes, arcabuces y ballestas, además de las espaldas y los 13 o 15 caballos que habían traído de Cuba.</p>
+<p style="text-align: justify;">Mientras este combate ocurría, Cortés había enviado a Alonso de Ávila a tomar la población que estaba a unos metros.</p>
+<p style="text-align: justify;">Esta ciudad, según Antonio de Solís, se hallaba fortificada y era redonda, la muralla estaba hecha de troncos de árboles robustos fijos en la tierra, pero tan apretados que servían para repeler las flechas en caso de agresión.</p>
+<p style="text-align: justify;">Según Solís, a cada tanto tenían dos a tres garitas o castillejos de manera que estrechaban el paso y servían para controlar las entradas y salidas. Flechas, varas y piedras, tiros de pólvora y cortes de espada en la infantería sólo protegidos por una cota de malla, se producían sin cesar hasta que, según López de Gómara, ya casi derrotados los españoles, apareció un tal Francisco Morla en un caballo rucio picado, y arremetió contra los indígenas.</p>
+<p style="text-align: justify;">Las fuerzas de caballería causaron tal impresión que se arredraron. Recuérdese que muchos españoles, no todos, portaban con su escudo y traje de caballero, una armadura de acero que llegaba a pesar -si estaba completa cubriendo el cuerpo- unos 28 kilogramos.</p>
+<p style="text-align: justify;">Ante aquella simbiosis de caballo con un militar encima de él, jineteándolo, embravecido, muchos chontales huyeron espantados, según López de Gomára, creían que caballo y caballero eran todo en uno, como los antiguos centauros.</p>
+<p style="text-align: justify;">Aquí un fragmento de López de Gómara:</p>
+<p style="text-align: justify;">‘Tornó, entonces, el caballo por tercera vez e hizo huir los indios con daño y miedo y los peones arremetieron asimismo hiriendo y matando. A esta sazón llegó Cortés con los otros compañeros de caballo, harto de rodear y de pasar arroyos y montes que no había otra por todo aquello. Dijeron en lo que habían visto hacer a uno de a caballo, y preguntaron si era de su compañía, y como dijo que no, porque ninguno de ellos había podido venir antes, creyeron que era el Apóstol Santiago, patrón de España’.</p>
+<p style="text-align: justify;">Entonces, dijo Cortés: ‘Adelante compañeros, que Dios es con nosotros y el glorioso San Pedro’.</p>
+<p style="text-align: justify;">Pero Bernal escribió lo siguiente, en contra de la versión de López de Gomora:</p>
+<p style="text-align: justify;">‘Digo que todas nuestras obras y victorias son por mano de nuestro señor Jesucristo y que la batalla había para cada uno de nosotros tantos indios que apuñados de tierra nos cegaran, salvo que la gran misericordia de nuestro señor en todo nos ayudaba. Y pudiera ser que los que dice Gómara fueran los gloriosos apóstoles señor Santiago o señor San Pedro, y yo como pecador no fuese digno de verlo. Lo que yo entonces vi y conocí fue a Francisco de Morla en un caballo castaño y venía juntamente con Cortés’.</p>
+<p style="text-align: justify;">Así las cosas. Andrés de Tapia mencionó al misterioso caballo, pero no conoció a su jinete ni atribuyó la embestida al apóstol Santiago. Tampoco Bernardino Vázquez de Tapia. Los indígenas de América no conocían a los caballos ni a los jinetes.</p>
+<p style="text-align: justify;">Cortés advirtió la eficacia sicológica de animales con sus soldados, escopeteros y ballesteros, y ordenó que los 13 o 15 animales que viajaban con él fuesen echados al frente con sus respetivos caballeros y lanzó el último de los ataques.</p>
+<p style="text-align: justify;">Los mexicanos tampoco conocían la pólvora, y este fue el segundo plan. Según Díaz del Castillo, Cortés mandó poner fuego a una lombarda, un cañón, que estaba cebada y la tronó. La pelota iba zumbando por los montes que como era mediodía y hacía calma llevaba gran ruido y los caciques se espantaron de oírla.</p>
+<p style="text-align: justify;">Poco a poco, ante el horror y estupefacción de aquella imagen de los caballos bramando, y cuando cayó la bala, los chontales perdieron fuerza y los más huyeron. Los muertos del flanco español fueron pocos, dos o tres y unos 70 heridos.</p>
+<p style="text-align: justify;">Del flanco tabasqueño habrían muerto 300 indios o 18, varían cifras, y cientos de heridos. Cortés tomó la ciudad amurallada, y frente a su templo, según Bernal Díaz, desenvainó su espada y dijo: “Tres cuchilladas en señal de posesión de un árbol grande que se dice ceiba”.</p>
+<p style="text-align: justify;">Este árbol estaba en la plaza de aquel gran patio y dijo que si alguna persona lo contradecía, que él lo defendería con su espada y una rodela que tenía embrazada.</p>
+<p style="text-align: justify;">Tras el encuentro armado, hacia el 25 de marzo de 1519, ya conquistado el territorio, la armada de Cortés nombró a esta villa Santa María de la Victoria. Todo parece indicar en la desembocadura del arroyo El Coco y un poco antes de la desembocadura para llegar a Centla.</p>
+<p style="text-align: justify;">Entre los hechos relevantes que ocurrieron ese día que se pactó la rendición está el hecho de que Tabscoob obsequiara a Cortés a 20 nativas entre las cuales estaba Malintzin, Marina en español; una mujer que se convertiría en el tiempo en su traductor del maya al náhuatl, la lengua de los mexicanos y con ella, por cierto, Hernán Cortés tuvo un hijo, Martín, que nació en 1523.</p>
+<p style="text-align: justify;">En la guerra todo es posible, así fue vencido el gobierno de Tabasco.</p>
+<p style="text-align: justify;">En los 29 meses siguientes Cortés seguiría avanzando hacia Tenochtitlan, logrando la adhesión de varias ciudades mayas o nahuas hasta lograr su caída el 14 de agosto de 1521.</p>
+<p style="text-align: justify;">Estamos a las puertas de quinto centenario de este acontecimiento. La derrota de los mexicanos implicó que nuestros ancestros fuesen gobernados por España durante 300 años.</p>
+<p style="text-align: justify;">El 21 de septiembre de 2021, después de un largo periodo colonial, celebraremos ese bicentenario de la Independencia y el surgimiento de la República Mexicana.</p>
+<p style="text-align: justify;">Como pueden ver, recordar es indispensable para el presente.</p>
+<p style="text-align: justify;">La libertad, igualdad y fraternidad no han sido producto de la nada o de ideologías viejas o retardatarias, han sido tres principios que han guiado nuestra vida independiente y también estamos en la antesala de ese gran acontecimiento de 1821 a 2021.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Amigas, amigos, paisanas, paisanos:</p>
+<p style="text-align: justify;">Me da mucho gusto estar de nuevo en mi tierra, en mi agua, en este día histórico.</p>
+<p style="text-align: justify;">Voy a ser breve porque ya Beatriz hizo un buen relato de la Batalla de Cintla, además hay un poco de sol y se dice que breve y bueno, doblemente bueno.</p>
+<p style="text-align: justify;">Empiezo diciéndoles que decidimos aquí, en Centla, dar a conocer que enviamos cartas, tanto al rey de España como al papa Francisco, para invitarlos a que juntos hagamos un relato de lo sucedido desde el inicio de la ocupación de la invasión militar, los tres siglos de Colonia y también los 200 años del México independiente.</p>
+<p style="text-align: justify;">Que se haga una revisión histórica, sobre todo, que se reconozcan los agravios que se cometieron y sufrieron los pueblos originarios; que haga la Corona Española este reconocimiento, y lo mismo la Iglesia católica, porque no se trató solo del encuentro de dos culturas; fue, repito, una invasión y se cometieron actos de autoritarismo, de avasallamiento.</p>
+<p style="text-align: justify;">Se asesinaron miles de personas durante todo este periodo, se impuso una cultura, una civilización sobre otra, al grado de que se construyeron los templos, las iglesias católicas encima de los antiguos templos de los pueblos prehispánicos.</p>
+<p style="text-align: justify;">También se excomulgó a quienes son los padres de nuestra patria, a Hidalgo y a Morelos.</p>
+<p style="text-align: justify;">Todo esto debe narrarse, saberse, se debe de reconocer también con lo que significó el saqueo colonial de nuestros recursos naturales. Pero no es el propósito resucitar estos diferendos, sino ponerlos al descubierto, no mantenerlos en el subsuelo, como algo subterráneo, porque todavía -aunque se niegue- hay heridas abiertas.</p>
+<p style="text-align: justify;">Y es mejor reconocer que hubo abusos y que se cometieron errores: es mejor pedir perdón y, a partir de eso, buscar hermanarnos en la reconciliación histórica.</p>
+<p style="text-align: justify;">Eso es lo que le estamos pidiendo al rey de España, al papa Francisco. Que, en el 2021 que se van a conmemorar 500 años de la toma de Tenochtitlán y 200 años de nuestra Independencia, podamos hacer un acuerdo general a partir del perdón y buscando la reconciliación histórica.</p>
+<p style="text-align: justify;">No podríamos nosotros conmemorar los 500 años sin ponernos al corriente con lo que aconteció y no sólo es que el rey de España y el papa Francisco -que ya lo ha hecho en otros países, lo hizo en Bolivia-: queremos que lo haga también en México.</p>
+<p style="text-align: justify;">No es nada más que ellos pidan perdón. Yo en nombre del Estado mexicano voy también a pedir perdón por los abusos que se cometieron en estos últimos 200 años, sobre todo por la opresión a las comunidades indígenas, a los pueblos originarios.</p>
+<p style="text-align: justify;">Pedir perdón por el exterminio que hubo de los pueblos yaquis durante el porfiriato, pedir perdón por la represión a los pueblos mayas y también pedir perdón, porque tanto en el porfiriato, como en la Revolución, hubo exterminio de la población china que trabajaba en nuestro país: miles de chinos asesinados.</p>
+<p style="text-align: justify;">Todo esto lo vamos a hacer en este año histórico de 2021.</p>
+<p style="text-align: justify;">Y aquí, en Centla, se pone de manifiesto y pronto el consejo para mantener nuestra memoria histórica, para no perder nuestra memoria histórica, va a convocar a un grupo de mexicanos, mujeres y hombres, de todas las expresiones del pensamiento para que vayan preparando esta acción conjunta que queremos llevar a cabo con España y con la Iglesia católica.</p>
+<p style="text-align: justify;">Esto es lo que queríamos manifestar aquí, en Centla. Y por eso estamos con ustedes, paisanas, paisanos.</p>
+<p style="text-align: justify;">Termino este tema para entrar en otro, que tiene que ver con los compromisos de cambio y de transformación para Tabasco y para México.</p>
+<p style="text-align: justify;">Vengo a decirles que vamos a cumplir todos los compromisos, no les vamos a quedar a deber nada a nuestro pueblo.</p>
+<p style="text-align: justify;">Vamos a reactivar la economía aquí, en Tabasco y en el país. Va a haber crecimiento económico y va a haber empleos, va a haber trabajo y bien pagado.</p>
+<p style="text-align: justify;">Ya en este litoral del Golfo ya comenzamos, ya se han firmado alrededor del 80 por ciento de los contratos para exploración y perforación de pozos petroleros, en tierra y en agua someras.</p>
+<p style="text-align: justify;">Aquí enfrente, aquí en este litoral de Tabasco, aquí en Frontera, se van a explotar nuevos yacimientos, nuevos campos, y va a haber trabajo en Frontera y en Tabasco en la industria petrolera.</p>
+<p style="text-align: justify;">Y ya les informo, también se lanzaron las bases para la licitación de la refinería en Dos Bocas, Paraíso, Tabasco.</p>
+<p style="text-align: justify;">En un mes se resuelve sobre el contrato principal de la refinería y yo espero que en dos, tres meses empiecen los trabajos en la refinería, porque tenemos tres años nada más para terminarla.</p>
+<p style="text-align: justify;">Vamos a extraer más petróleo de tierra en las aguas someras del Golfo de México porque necesitamos la materia prima, pero ya no para venderla, para sacarla a venta a otros países; el petróleo ya no se va a exportar, el petróleo crudo se va a refinar en nuestro país y vamos a producir todos los combustibles en México, las gasolinas.</p>
+<p style="text-align: justify;">Ese es el plan. Por eso quise que me acompañaran Octavio Romero Oropeza, director de Pemex; y la secretaria de Energía, Rocío Nahle. Los dos están trabajando de común acuerdo. Octavio tiene como tarea extraer petróleo, nada que un millón 700 mil barriles diarios, no; dos millones 500 mil barriles diarios, esa es la meta.</p>
+<p style="text-align: justify;">Y en el caso de Rocío, lo mismo. Nada que seis refinerías que producen 200 mil barriles, si consumimos 800 barriles de gasolinas diariamente, estamos comprando 600 barriles diarios de gasolinas, eso ya no. Vamos a rehabilitar, a modernizar las seis refinerías para que produzcan más del doble, que ahora están nada más produciendo el 35 por ciento de su capacidad.</p>
+<p style="text-align: justify;">Vamos a que produzcan el 90, el 100 por ciento de su capacidad; 500 mil barriles diarios para que con que la nueva refinería de 300 mil barriles diarios, México sea autosuficiente en gasolinas y no tengamos que comprar este combustible en el extranjero.</p>
+<p style="text-align: justify;">Mientras estas acciones se llevan a cabo, va a haber mucho trabajo en Paraíso, en Frontera, en Tabasco, en el sureste, porque ya llegó el tiempo del sureste que siempre fue olvidado, pero ahora como por bendición, el presidente de México es de estas tierras bajas, es del sureste.</p>
+<p style="text-align: justify;">Algunos a lo mejor no lo saben, no está de más decir, pero aquí en Frontera nació mi madre, nació Manuelita. Por eso me da mucho gusto estar aquí y decirle a toda la gente que vamos a cumplir todos los compromisos.</p>
+<p style="text-align: justify;">Ya empezamos con los adultos mayores, ya no están recibiendo mil 160 pesos, sino dos mil 550 pesos. Ya es el doble de lo que recibían antes. Y va a haber apoyos para todas las niñas y niños con discapacidad.</p>
+<p style="text-align: justify;">Y vamos a entregar becas a estudiantes de primaria, de secundaria. Todos los estudiantes de preparatoria; los que estudian en la universidad van a tener también su beca, dos mil 400 pesos mensuales.</p>
+<p style="text-align: justify;">Y los jóvenes, que se escuche bien, que se oiga lejos, todos los jóvenes van a ser contratados, van a trabajar como aprendices y se les va a pagar tres mil 600 pesos mensuales. Ese es el compromiso y lo vamos a cumplir.</p>
+<p style="text-align: justify;">¿Por qué este Programa de Jóvenes Construyendo el Futuro? Porque es un millón de veces mejor tener a los jóvenes trabajando, estudiando, que tenerlos en la calle. Vamos a atender a los jóvenes. Nunca más se les va a dar la espalda a los jóvenes.</p>
+<p style="text-align: justify;">Va a haber créditos a la palabra para la agricultura, para la ganadería.</p>
+<p style="text-align: justify;">Ya comenzó el programa Sembrando Vida, 150 mil hectáreas de árboles frutales y maderables. Nada más en Tabasco, más de 50 mil empleos permanentes con ese programa para beneficio del campo.</p>
+<p style="text-align: justify;">También aquí les digo ya comenzó, repito, el programa de Crédito Ganadero a la Palabra, pero estamos elaborando un proyecto especial, sobre todo para esta región de Los Ríos.</p>
+<p style="text-align: justify;">Vamos a impulsar una cuenca lechera, porque ya no se puede seguir produciendo la leche en las zonas desérticas, donde no hay agua.</p>
+<p style="text-align: justify;">¿Qué es la leche?</p>
+<p style="text-align: justify;">Fundamentalmente agua. Imagínense estar produciendo leche en La Laguna, por eso se están contaminando los mantos acuíferos en La Laguna con problemas ya hasta de arsénico porque no hay agua; y nosotros tenemos aquí en Usumacinta y tenemos la vocación productiva.</p>
+<p style="text-align: justify;">Vamos a impulsar mucho todo lo que es la ganadería lechera y vamos a producir aquí en Los Ríos la leche que ahora se está importando, se está comprando en el extranjero, se va a producir en esta región del país, Chiapas y Tabasco.</p>
+<p style="text-align: justify;">Ya me estoy picando y no puedo hablar, porque me estoy contradiciendo de que para qué hablar tanto. Nada más decirles paisanas, paisanos, que no les voy a fallar nunca jamás.</p>
+<p style="text-align: justify;">Y no se preocupen sobre el presupuesto. Va a rendir el presupuesto porque ya se acabó la corrupción, ya no se tolera la corrupción, se va a acabar la corrupción y se va a acabar la impunidad para siempre. Me canso ganso.</p>
+<p style="text-align: justify;">No me despido porque nos vamos a seguir encontrando, voy a estar viniendo a Tabasco cada dos, cada tres meses, para evaluar todos los programas.</p>
+<p style="text-align: justify;">Aquí cuento con el apoyo, con el respaldo de Adán Augusto, un extraordinario gobernador de nuestra tierra.</p>
+<p style="text-align: justify;">Muchas gracias a campesinos, a obreros, a comerciantes, a pescadores; muchas gracias a los empresarios que están aquí, acompañándonos.</p>
+<p style="text-align: justify;">Necesitamos la unidad de todo el pueblo para sacar del atraso a Tabasco y sacar del atraso a nuestro querido México.</p>
+<p style="text-align: justify;">¡Que viva Tabasco!</p>
+<p style="text-align: justify;">¡Viva México!</p>
+<p style="text-align: justify;">¡Viva México!</p>
+<p style="text-align: justify;">¡Viva México!</p>
+<p style="text-align: center;">---------</p>
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>14.05.2022 Versión estenográfica. Jornadas de producción para el autoconsumo, desde Boca del Río, Veracruz &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/14-05-2022-version-estenografica-jornadas-de-produccion-para-el-autoconsumo-desde-boca-del-rio-veracruz/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=150712' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F14-05-2022-version-estenografica-jornadas-de-produccion-para-el-autoconsumo-desde-boca-del-rio-veracruz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F14-05-2022-version-estenografica-jornadas-de-produccion-para-el-autoconsumo-desde-boca-del-rio-veracruz%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2s4oa-f-a82847150-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":41,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1e28e56","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":64830,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706727196","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==OtkRtyfTcyEk0ptCie37i8wBSGxIT/9Kdkw5ZPpHhbpFnGC3W5UtNuwW3/izSNz/h45wz8tCpXxybB06p/1FNiwQx1cEHgIElla08D2L9PAkJ06fyddbmUGjuF292wDHQKffcdKudmQiOXIHMVPxsejtmChXVL10Q4bTOSQumAeTfzwTQ5gdRg5G31dE/hVgcBcxMsrjEij/uLrdx+JFyKPijKCWC/zQRU0tNWjFCUM3um93c0N4sXpBzukfj2O32wYgsH2csyCRjSos4d2a7UbQeg7oDLXUTr6RTQntWORtj8FHZl70VHXtYNKpLKmCa7UwtjIaztovbQWBAg35g8sOigkAtDQ+j+/lhqqcsP2z4fnFW46Acll9qffU+8CgBpmYZcZb9y9k9K2+Su/SMVcWMpE9YmEVWLmqqqR+Q/k=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-150712 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9598afe70" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>14.05.2022 Versión estenográfica. Jornadas de producción para el autoconsumo, desde Boca del Río, Veracruz</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 14.05.2022 Versión estenográfica. Jornadas de producción para el autoconsumo, desde Boca del Río, Veracruz 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-150712" class="post-150712 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-andres-manuel-lopez-obrador tag-boca-del-rio tag-jornadas-de-produccion-para-el-autoconsumo tag-lopez-obrador tag-veracruz">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2022/05/14-05-2022-Produccion-Veracruz-Foto-14.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2022/05/14-05-2022-Produccion-Veracruz-Foto-14-745x450.jpg" alt="14.05.2022 Versión estenográfica. Jornadas de producción para el autoconsumo, desde Boca del Río, Veracruz" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">14.05.2022 Versión estenográfica. Jornadas de producción para el autoconsumo, desde Boca del Río, Veracruz</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2022: Año de Ricardo Flores Magón, precursor de la Revolución Mexicana</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Paisanas, paisanos:</p>
+<p>Me da mucho gusto estar aquí, en Veracruz, en compañía del gobernador de Veracruz, Cuitláhuac García Jiménez, nuestro amigo, nuestro hermano, nuestro compañero, y estar con todas y todos ustedes, técnicos, agrónomos, promotores, extensionistas, investigadores del campo, todos los que trabajan en comunidades, en ejidos, en el medio rural, que trabajan con campesinos, con productores, pequeños propietarios, ejidatarios, comuneros. A todos ellos les mandamos un saludo respetuoso desde Veracruz, a todos los campesinos de México.</p>
+<p>El propósito de este encuentro es el que sumemos esfuerzos, voluntades, para hacerle frente a un desafío que se nos presenta, el de la inflación.</p>
+<p>Estamos saliendo de la pandemia que nos causó mucho daño, no sólo en lo material, sino en pérdidas de vidas humanas; nos dolió mucho, y salimos a pesar de los pesares, porque nos unimos todos los mexicanos.</p>
+<p>Ayer decía yo, y lo repetí en Monterrey y en Guadalajara, que gracias a nuestro pueblo, a sus costumbres, a sus tradiciones, podemos enfrentar calamidades. Siempre nuestras culturas nos salvan de momentos difíciles: de inundaciones y de sequías, y de incendios y de temblores, y de esa pandemia que hemos padecido durante mucho tiempo: la corrupción, porque esa peste quería destruir a nuestro país.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2022/05/Jornadas-de-produccion-para-el-autoconsumo-desde-Boca-del-Rio-Veracruz.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/TiTi1faJBmU" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Porque no olvidemos que la corrupción es lo que más daña, lo que más destruye y, sin embargo, por nuestras culturas, por los valores que se conservan de tiempo atrás, que vienen de lejos, de las grandes civilizaciones que florecieron en nuestro territorio, hemos podido salir adelante.</p>
+<p>No han podido corromper, como querían, a México. Acuérdense de cómo decían, que el que no transaba, no avanzaba, y de que la corrupción era parte de la cultura del pueblo de México; y decían: ‘Político pobre, pobre político’; y una vez le preguntaron a un cacique que qué era la moral y dijo que era un árbol que daba moras y que valía para pura… Eso no lo puedo decir.</p>
+<p>Pero quisieron corrompernos a todos haciéndonos creer que vale el que tiene; sin embargo, abajo, en nuestras familias, nuestros pueblos, se mantuvieron otros valores: la honestidad, el hacer el bien sin mirar a quién, el cuidarnos unos a otros, el ser bondadosos, fraternos.</p>
+<p>Ahora viene la pandemia ¿y por qué salimos a pesar de lo terrible que fue? Porque nos cuidamos en nuestras casas, por nuestras familias.</p>
+<p>Siempre he dicho que la familia es la principal institución de seguridad social en nuestro país, no es el Issste, no es el Seguro, no. Es la familia. Aquí estamos unidos.</p>
+<p>Daba yo el ejemplo que cuando empieza la pandemia, donde hay más desgracias es en los asilos de ancianos de los países europeos; pero en México no hay muchos asilos de ancianos, porque nosotros cuidamos a nuestros padres, a nuestros abuelos, los tenemos en nuestras casas.</p>
+<p>Todo eso es cultura, el que estén nuestros hijos viviendo en las casas. Con todo respeto, en otros países van creciendo, llegan a la adolescencia y ya les dicen: ‘Ahuequen el ala, ya búsquenle’. Acá no es así, hasta abusan, se quedan más tiempo, no se quieren ir de la casa. Son costumbres, tradiciones. Eso es cultura y eso nos ha ayudado mucho, siempre, y eso, repito, es lo que impidió el que terminaran de destruir a nuestro país.</p>
+<p>Entonces, así como enfrentamos todos juntos la pandemia, ahora tenemos que enfrentar este nuevo desafío, también externo, porque eso no surgió en nuestro país, sino esto se origina, este nuevo problema, por la intervención, invasión de Rusia a Ucrania y la guerra, y la falla en el manejo de la política.</p>
+<p>Tienen tache los políticos con más influencia de las grandes potencias y de organismos internacionales como la ONU, porque se debió evitar la guerra. Para eso es la política entre otras cosas, para evitar la confrontación, para evitar la guerra; pero no, se cerraron, no hubo dialogo y se afecta a todo el mundo. Lo más doloroso es que pierden la vida inocentes y hay muchos refugiados que tienen que abandonar sus comunidades, que tienen que abandonar sus pueblos.</p>
+<p>Y también se afecta toda la economía mundial y eso trajo ahora la inflación, que es el aumento de todos los precios. Y es un asunto mundial que está afectando, les está afectando mucho, mucho a los europeos, son los que tienen más inflación; pero también afecta en otros continentes y afecta en Estados Unidos y nos afecta a nosotros; en el caso del último reporte en Estados Unidos del mes de abril ellos tienen una inflación de 8.3 por ciento, nosotros tenemos en abril 7.7.</p>
+<p>Es importante que se conozca cómo se conforma este índice inflacionario. Nosotros, porque le atinamos, ya llevamos tiempo hablando de que hay que producir lo que consumimos. Sí se acuerdan de eso ¿no?, que hay que ser autosuficientes, esta es una diferencia con los tecnócratas neoliberales.</p>
+<p>En la época de Salinas, el que era secretario de Hacienda, Pedro Aspe, llegó a decir que no importaba dejar sin apoyo al campo, porque en un mundo globalizado se podía comprar afuera lo que se necesitara; y se les decía que cuál era la política industrial que tenían y decían que la mejor política industrial era la que no existía, entonces se abandonó el fomento a las actividades productivas.</p>
+<p>Y esto mismo se aplicó en la política energética. Exactamente hace 40 años —el periodo neoliberal duró 36 años— dejaron en el abandono la industria petrolera; la última refinería que construyeron fue la refinería de Salina Cruz hace 40 años.</p>
+<p>Y se acabó por completo la industria petroquímica. Éramos de los países con más desarrollo petroquímico en el mundo y todo se convirtió en chatarra. Bueno, por el desarrollo petroquímico llegamos a ser autosuficientes en fertilizantes, no se compraba el fertilizante, todo se producía en el país; pero vendieron las plantas, privatizaron las plantas.</p>
+<p>Nosotros estamos cambiando esa política, decidimos procesar la materia prima, el petróleo crudo en nuestro país, darle valor agregado, no vender sólo el petróleo crudo y comprar las gasolinas. Porque, como lo he dicho muchas veces también, si seguíamos con esa política era como seguir vendiendo naranja y comprar jugo de naranja.</p>
+<p>Decidimos por eso seguir extrayendo petróleo de manera racional, tenemos como propósito no extraer más de dos millones de barriles diarios. Para que tengan una idea, en los tiempos de gobierno de Fox llegaron a extraer tres millones 400 mil barriles diarios y nosotros estamos extrayendo en promedio la mitad, porque tenemos que dejarles a las nuevas generaciones esta riqueza, que es de todos.</p>
+<p>No es no haya petróleo, hemos invertido en exploración y tenemos para sacar el doble de petróleo, pero no vamos a actuar de esa manera, quedándonos nosotros, nuestra generación, gastándonos la herencia de nuestros hijos y de nuestros nietos.</p>
+<p>Pero además nosotros no tenemos un doble discurso, no somos hipócritas, de esos que andan ahí promoviendo el que hay que enfrentar el cambio climático y que ya no hay que seguir utilizando recursos como el petróleo; sin embargo, cada vez están produciendo más. Esa hipocresía no. Nosotros con hechos estamos demostrando que cuidamos el medio ambiente. Les doy algunos datos:</p>
+<p>No vamos a extraer más petróleo que el que se necesite para el consumo interno de México.</p>
+<p>No hemos dado una sola concesión para la extracción minera.</p>
+<p>No se permite el uso del <em>fracking</em> para extraer hidrocarburos, porque estamos cuidando el agua.</p>
+<p>Y no hemos permitido la entrada del maíz transgénico.</p>
+<p>Hechos, no palabras.</p>
+<p>Entonces, esta política nueva significó desde el principio reparar las refinerías, y empezamos a invertir porque estaban a punto de convertirse en chatarra las seis refinerías, abandonadas, estaban produciendo al 35 por ciento de su capacidad.</p>
+<p>Empezamos a invertir, llevamos ya destinados más de 40 mil millones de pesos que se han invertido para cambiar plantas en las seis refinerías y ahora el resultado es que ya estamos importando, estamos comprando menos gasolinas en el extranjero, estamos comprando 45 por ciento menos de gasolinas y esto nos significa que podemos mantener precios justos en la gasolina, la gasolina hoy en México es más barata que en Estados Unidos.</p>
+<p>Y ya también hicimos otras cosas, porque esto es hacia adelante, el año que viene se deja de comprar la gasolina y el diésel en el extranjero.</p>
+<p>Vamos a ser autosuficientes porque compramos una refinería en Texas. Ya ven cómo era la costumbre, venían y aquí nos compraban nuestras plantas; ahora, con todo respeto, no es para festinarlo, es nada más para que tengamos en cuenta que las cosas han cambiado.</p>
+<p>Cuando Salinas, en vez de hacer una refinería en México, la hicieron en Texas con dinero de Pemex, y se asociaron con una petrolera, con Shell, y le dejaron a Shell el 51 por ciento de las acciones y a Pemex el 49 por ciento, y desde entonces pues Pemex no veía utilidades y la dirección, la administración de la refinería estaba a cargo de Shell.</p>
+<p>Cuando viene la crisis de la pandemia, esta empresa petrolera mundial decide vender algunas refinerías. Esta no estaba incluida, porque esta tiene muy buen rendimiento, tiene capacidad para procesar más de 300 mil barriles diarios y con una efectividad de 85 por ciento. Les hablaba yo que las recibimos nosotros, las seis, tenían capacidad operativa del 35 por ciento.</p>
+<p>Entonces, se le mandó a decir a Shell que le comprábamos la refinería, pero no la que estaba vendiendo, sino le comprábamos la que en donde nosotros teníamos el 49 por ciento; aceptaron y compramos esa refinería, que ya es de México, y ya está llegando gasolina de esa refinería a nuestro país.</p>
+<p>Ya saben también que se está por inaugurar la refinería de Dos Bocas, también para procesar más de 300 mil barriles diarios.</p>
+<p>Y estamos haciendo una planta, una coquizadora, para exprimir más el combustóleo, sacarle gasolina y no sólo hacer más rentable esta planta, sino dejar de contaminar.</p>
+<p>Todo esto se está logrando y esto nos permite que ahora con la inflación el sector energético de México sólo está afectado en 0.6 por ciento, porque no hemos aumentado los precios, ni van a aumentar en términos reales los precios de la gasolina, del diésel, de la luz, del gas.</p>
+<p>Como tenemos esto controlado, el impacto es 0.6; de los 7.7 de inflación sólo 0.6 son energéticos.</p>
+<p>Nada más piensen, si dejamos libre, sin el apoyo que le estamos dando para que no paguen impuesto los consumidores de gasolina, si dejamos libre el precio, se va la gasolina a las nubes; y si aumenta la gasolina, ya lo saben ustedes, porque no hace falta ser economista para saber que si aumenta la gasolina sube todo. Sólo los economistas tecnócratas son los únicos que andan despistados y no se dan cuenta de esto, pero el pueblo es sabio, el pueblo está bien avispado, bien despierto.</p>
+<p>Entonces, no vamos a aumentar los precios de los combustibles.</p>
+<p>En Estados Unidos del 8.3 por ciento de inflación, 2.1 es la inflación por energético, están a punto de emitir un decreto porque van a tener que controlar los precios.</p>
+<p>Ahora en la frontera, y lo vamos a seguir permitiendo, nuestros amigos, vecinos de Estados Unidos llegan a cargar a las gasolineras o gasolinerías que están del lado mexicano; y lo vamos a seguir permitiendo porque nosotros no queremos que haya fronteras, nosotros somos partidarios de un mundo sin fronteras, nosotros queremos que haya fraternidad universal.</p>
+<p>Sin embargo, ¿dónde es que tenemos el problema?, en los alimentos, ahí es donde está la diferencia; nosotros tenemos 3.6 por ciento de la inflación por incremento de precios en alimentos y ellos tienen 1.3; ahí nos ganan. En otras mercancías nosotros tenemos un incremento de 3.5 y ellos nos ganan con 4.9 de aumento, pero en alimentos es donde nosotros estamos abajo y necesitamos enfrentar este asunto.</p>
+<p>Ya se está hablando con productores, con comerciantes, los grandes distribuidores de alimentos. Ya se logró que no aumenten los precios de una canasta básica, que se va a poder comprar a un precio justo, ya suscribimos este acuerdo y lo que es maíz, frijol, arroz, azúcar, atún, sardina, 24 productos, alimentos básicos, van a estar con precios justos.</p>
+<p>No voy a usar la palabra, el término de ‘control de precios’, no, porque lo logramos de manera voluntaria, participaron los grandes productores y los grandes distribuidores, las grandes tiendas como Walmart, como Chedraui, como Soriana, ya aceptaron esto y ese paquete, esa canasta de 24 productos básicos no va a aumentar de precio.</p>
+<p>Y se los agradecemos mucho. No les afecta tanto; al contrario, ellos contribuyen. No les afecta mucho porque el que sabe de comercio conoce que hay artículos que les llaman ganchos, que dejan muy poco, pero al ir a una tienda de esas no sólo van a ir a comprar la canasta básica o lo más necesario, de repente compran otro artículo y ahí es donde ellos tienen utilidad.</p>
+<p>Entonces, esa es la práctica comercial y no siempre la gente afortunadamente compra lo básico, también compran otras mercancías, compran la ropa, tienen que comprar el calzado y ahí ya tendrían una utilidad razonable en el comercio.</p>
+<p>Entonces, vamos a llevar a cabo esta política.</p>
+<p>También otra acción es que mientras no tengamos autosuficiencia alimentaria estamos quitando los aranceles, los impuestos, para que el que quiera vender en México alimentos básicos pueda venderlos en el país a precios bajos, sin que tengan que pagar impuestos.</p>
+<p>Acabo de hacer una gira por Centroamérica y por el Caribe, y el primer ministro de Belice se quejaba de que ellos… Aquí están seguramente amigas, amigos de Quintana Roo —sí están, ¿verdad?— Conocen bien esta historia, que de los hermanos vecinos de Belice pues compran todo en Chetumal. Y me decía el primer ministro: ‘Estamos comprando como 500 millones de dólares en México, y México sólo nos compra un millón, no hay equilibrio. ¿Y por qué México sólo nos compra un millón? Ah, porque si queremos venderle ganado, que tenemos, y si queremos venderle maíz, tenemos que pagarles impuestos, tenemos que pagar un arancel’, así se llama. Pues ya di la instrucción que se quiten esos aranceles, entonces esto va a ayudar para que tengamos más oferta, no cerrar nuestra economía, sino abrir para que tengamos lo que se requiere.</p>
+<p>Y lo más importante de todo en la estrategia pues es producir lo que consumimos, en eso estamos de acuerdo. Si no producimos lo que consumimos, siempre vamos a estar dependiendo del extranjero.</p>
+<p>Ahora con la crisis mundial, sólo el flete marítimo ha aumentado 10 veces el traer de Asia y de Europa los productos básicos, las mercancías; 10 veces en transporte. Pues es lógico que lo mejor es producir lo que consumimos.</p>
+<p>Y si nos vamos a escala, lo mejor es, pues empezar por el autoconsumo ¿Qué, no podemos, como lo hacen millones de mexicanos, sobre todo los campesinos, los indígenas, producir el maíz para su autoconsumo?</p>
+<p>Hasta los jornaleros que van al norte pueden estar seis meses trabajando como jornaleros en la agricultura comercial, pero regresan seis meses para sembrar su tierra y tener su maíz, y tener su frijol, ya eso lo saben muy bien ustedes.</p>
+<p>Pues ahora tenemos que reforzar ese sistema de producción de autoconsumo, que podamos sembrar maíz, que podamos sembrar frijol, que podamos sembrar arroz, lo que consumimos.</p>
+<p>¿Y con quién podemos hacer eso?</p>
+<p>Pues desde luego que con los campesinos, mujeres y hombres, porque en el campo trabajan mujeres y hombres.</p>
+<p>Ahora que voy a ir a Puebla, voy a pasar por Esperanza, voy a pasar por Palmar de Bravo, y estoy seguro que, aunque yo pase a las cuatro, cinco de la tarde, ahí están trabajando la tierra hombres, mujeres y hasta niños, toda la familia trabajando la tierra, porque afortunadamente también no se ha logrado el desarraigo, se sigue teniendo mucho amor el campesino a la tierra.</p>
+<p>Si no fuese por ese amor, ya no existirían los campesinos, porque los han tratado tan mal. No sólo es el abandono, como se dice, al campo, no, es el abandono al poblador del campo, y siembran y nunca sacan ni siquiera lo que invierten.</p>
+<p>Entonces, ¿para qué siembran?</p>
+<p>Por el amor que le tienen a la tierra, no sólo por lo que van a obtener.</p>
+<p>Entonces, ahora nosotros tenemos que apoyar a los productores del campo, como lo estamos haciendo desde el principio, pero ahora más todavía.</p>
+<p>Tenemos programas como el Sembrando Vida. Hay que decirles a las sembradoras, a los sembradores, que, si están plantando cítricos o árboles maderables, que ahí vayan intercalando, que ahí se siembre maíz y se siembre frijol, para tener autoconsumo.</p>
+<p>Esa es la orientación que estamos dando. Y lo estoy haciendo aquí con ustedes, porque ustedes trabajan ahí abajo, pero también lo voy a estar repite y repite como disco rayado en las mañaneras. Todos a sembrar. Jornada, campaña de producción para el autoconsumo.</p>
+<p>A sembrar para tener, porque no sólo es el maíz, no, es que, si hay… bueno, si no hay maíz, no hay país; pero también el maíz, es la gallina, es el puerquito, es la economía campesina.</p>
+<p>Hay un ejemplo de economía campesina en Puebla, en Tlaxcala. Por ejemplo, en Tlaxcala tienen muy poca superficie, son parcelas muy pequeñas, pero ahí tienen maíz y producen lo que consumen y un poco hasta para vender, o sea, para el mercado; y en el patio, en el solar ahí están las gallinas, ahí tienen una, tienen dos vacas, ahí están los chivos y todavía adentro de la casa está el telar.</p>
+<p>Fíjense lo que es una economía integrada, economía campesina integrada. Me quito el sombrero para estos productores. En todo México es así. Entonces, lo que tenemos que hacer es decirles: Vamos adelante. ¿En qué ayudamos?</p>
+<p>Nosotros nos vamos a poner de acuerdo para ver qué es lo que más puede ayudar en estos momentos.</p>
+<p>No hacerle como los tecnócratas corruptos, que había una crisis económica y lo primero ‘hay que pedir crédito’, era lo que me estaban planteando cuando la pandemia, que yo endeudara al país; les dije: No.</p>
+<p>Me estaban planteando también que yo decretara que no se pagara impuestos durante seis meses. Imagínense, nos quedamos sin ingresos. ¿Cómo vamos a ayudar a los más necesitados?</p>
+<p>Y eso de pedir crédito, como lo hicieron otros países, pues ahora están padeciendo ellos, nosotros no. Porque no vamos a pedir crédito para darle a los de arriba, como el Fobaproa, que las deudas privadas se convirtieron en deuda pública; ahora fue distinto, ahora fue de abajo para arriba. Nada de que hay que darle a los de arriba porque, así, si se les da a los de arriba llueve fuerte y gotea a los de abajo. ¡Que se vayan al carajo con ese cuento!</p>
+<p>Entonces, si les dejamos a los tecnócratas neoliberales que decidan, no, pues crédito y tractores, y semilla mejorada y fertilizante, etcétera, etcétera, y se queda todo arriba y no hay beneficio.</p>
+<p>Entonces, tenemos que ver en qué se ayuda. Dijimos: Vamos a establecer los Precios de Garantía, por ejemplo. Claro, ahora ya los Precios de Garantía, cuando comenzamos le pagaban al productor de frijol a seis pesos el kilo, establecimos los Precios de Garantía y ahora les pagamos 14 pesos el kilo.</p>
+<p>Ya no nos venden a nosotros los productores porque el frijol ya vale más, pero si quitamos el Precio de Garantía, los 14 pesos, los <em>coyotes</em> van a querer hacer su fiesta, su agosto. No vamos a quitar el Precio de Garantía, lo vamos a mantener en maíz, en frijol, en arroz, en leche, en los básicos.</p>
+<p>Pero no sólo es eso, tenemos, por ejemplo, que pensar en cómo ayudamos ampliando el programa de fertilizantes, buscando también el equilibrio del fertilizante orgánico para no afectar el suelo y también el fertilizante convencional.</p>
+<p>Ya en Guerrero, y lo tenemos probado, lo podemos demostrar, se aumentó al doble la producción, porque en Guerrero todos los productores reciben fertilizante gratuito, todos, en el estado de Guerrero; y ya ampliamos ese programa para Puebla, para Tlaxcala, para Oaxaca, lo va a tener Chiapas en el norte, Zacatecas, Nayarit, pero también lo vamos a aplicar también aquí en Veracruz y Quintana Roo, y Campeche y Tabasco, lo que nos falta.</p>
+<p>Vamos a reforzar la producción de fertilizantes. Nos dejaron unas plantas viejas, hicieron una transa, pues aquí en Veracruz, no mis paisanos veracruzanos, que son muy honestos y derechos, no, sino unos tecnócratas que compraron una de esas plantas que privatizaron desde el gobierno de Salinas, que la habían dejado ahí arrumbada, de repente la compraron en el sexenio pasado y supuestamente valía 300 millones de dólares, supuestamente; estaba parada y la pagaron en 500 millones de dólares. Hay un juicio y ya el responsable está devolviendo 200 millones de dólares, ya devolvió 100 y va a tener que devolver los otros 100 millones de dólares.</p>
+<p>Y esa planta ya está produciendo fertilizante y la vamos a mejorar, la vamos a ampliar.</p>
+<p>Lo mismo hicieron con la compra de otras plantas en Lázaro Cárdenas, Michoacán, y vamos ahora a rehabilitar esas plantas lo más pronto posible para producir el fertilizante y entregar de manera gratuita el fertilizante a los productores, ese es el compromiso que vamos a llevar a la práctica.</p>
+<p>Pero necesitamos del apoyo de todas, de todos ustedes, y por eso esta reunión.</p>
+<p>Yo les pregunto: ¿cómo lo ven?</p>
+<p><strong>VOCES A CORO:</strong> ¡Bien!</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Le vamos a entrar?</p>
+<p><strong>VOCES A CORO: </strong>¡Sí!</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, que levanten la mano los que van a participar.</p>
+<p>Vamos a enfrentar la inflación porque afecta mucho.</p>
+<p>Estamos aumentando como nunca se había hecho en más de 40 años el salario de los trabajadores. En el tiempo que llevamos 70 por ciento de aumento al salario, pero no sirve del todo si hay carestía.</p>
+<p>¿Saben cómo mido yo lo del salario?</p>
+<p>Cuando llegamos… Bueno, hace 40 años, un salario mínimo alcanzaba para comprar 50 kilos de tortilla, 50 kilos de tortilla; cuando llegamos alcanzaba para comprar cinco kilos. Y hemos aumentado 70 por ciento el salario mínimo en términos reales y subimos de cinco a nueve kilos el salario de tortilla, de cinco a nueve.</p>
+<p>Ah, pero ya con la inflación ya se nos cayó a siete kilos. Es nada más para tener una idea del daño que hace la inflación, porque podemos tener más ingresos, pero hay que pagar más por lo que consumimos, es un impuesto terrible que afecta más a los pobres, a la gente humilde.</p>
+<p>El que tiene mucho dinero qué le va a importar si aumenta 10, 15, 20 por ciento lo que consume, pero a una gente de escasos ingresos económicos sí le afecta. Luchar contra la inflación es enfrentar a la pobreza, es garantizar de que el ingreso le rinda más, fortalecer el poder compra de nuestro pueblo, para eso es la lucha contra la inflación.</p>
+<p>Me dio mucho gusto estar con ustedes. Nos vamos a seguir encontrando. Esto también hay que celebrarlo porque, imagínense, nos viene este problema de inflación ¿y cómo le hacemos si no estuviesen ustedes trabajando allá abajo?</p>
+<p>¿Iban a estar ustedes si hubiese ganado otro partido? ¿Hubiesen aplicado estos programas? ¿Estaría el Sembrando Vida? ¿Estarían los Precios de Garantía? ¿Estaría la Producción para el Bienestar? Claro que no.</p>
+<p>Yo dije cuando andamos en la campaña, dije: Quiero que los agrónomos, que ahora —porque no les dan trabajo, están laborando honestamente buscándose la vida como choferes—, quiero que vuelvan a trabajar en su profesión, que vuelvan al campo. Y estamos cumpliendo con técnicos, con agrónomos, con extensionistas.</p>
+<p>Ya ven cuánto critican al Tren Maya los conservadores corruptos.</p>
+<p>¿Saben cuántos arqueólogos están trabajando en el Tren Maya?</p>
+<p>Mil arqueólogos. ¿Cuándo había trabajado tanto arqueólogo en el Tren Maya? ¿Cuántos biólogos cuidando el medio ambiente?</p>
+<p>Entonces, nosotros vamos a seguir impulsando el desarrollo del país, el desarrollo independiente y lo vamos a seguir haciendo con los trabajadores, con los obreros, con los profesionales, con todos los mexicanos.</p>
+<p>¡Que viva México!</p>
+<p>¡Y que viva nuestro pueblo</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

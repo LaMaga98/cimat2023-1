@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>16.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/16-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=162971' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F16-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F16-06-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2stoq-f-62d588de7-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1c3024f","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":15231,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726621","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==RourD2kU3P23wcSoMKcGkzvENNCUNHQ3niqHv6i7EwQ+RmrVzUn1UfQhJDktjmhYH45xN1io13EBZQ04FB7p13lVatEmtt7u7qFRKBTgqBigMVNx0cBGewVnhxmUxq5QHUmrN5xyjMNlhsYP7LdkQb9dmhwnwonn66STp3JvWi+lpv3er5mbbOox6HxQIXYmfbsyD520IJuzJUk4x/xGDgq5A3tMSH2Qjz3oRt+SDPF+Xx9Qx/3DMBl0GqjByewOh5SX3nDwv6nm58sIoThB0c3SFLhIrs0KuQhiblEhK1p/ZBGF5LgN0F4P5XvR5UcWKKPQaufZRpkd6WjHplMta/BBctnDAYz6VkcwcBAYB6MlkM0sJRZ31T/6skQfu22+bPrmNrUanCq5B2M0gFaqE3QtAVoR0VoUWiJMpP91W5E=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-162971 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba935946362" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>16.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 16.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-162971" class="post-162971 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/06/2023-06-16-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/06/2023-06-16-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-01-745x450.jpg" alt="16.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">16.06.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/2OTJClkODSxmIZDLK5F7Gg?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Buenos días-tardes. Ánimo.</p>
+<p>Vamos a informar, termina la semana, y acordamos tratar el asunto de la resolución de un juez en Florida para que continúe el juicio en contra de García Luna, sus socios, que en el tiempo que estuvieron en México, sobre todo en el tiempo que fue secretario y posteriormente, levantaron mucho dinero con contratos que se hicieron con el gobierno federal, dinero público que se estima en alrededor de 650 millones de dólares, y todo ese dinero se invirtió en Florida, en departamentos, en casas, en yates.</p>
+<p>Y por eso se presentó en 2019, 2020, una denuncia y….</p>
+<p><strong>PABLO GÓMEZ ÁLVAREZ, TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA (UIF):</strong> Perdón, 21.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>21, y sus abogados han buscado tirar la denuncia y no han podido, y hace dos días se definió que es procedente lo que se está haciendo por parte del Gobierno de México para rescatar todos esos bienes, reincorporarlos al patrimonio nacional.</p>
+<p>Por eso, Pablo Gómez, titular de la Unidad de Inteligencia Financiera, nos va a informar sobre este caso, y terminando pues vamos a preguntas y respuestas. Entonces, Pablo, tú tienes la palabra.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/06/Conferencia-matutina_2023-06-16.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/zEunLZyrd_Q?t=2173" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>PABLO GÓMEZ ÁLVAREZ</strong>: Gracias, gracias, presidente.</p>
+<p>Siguiendo, entonces, los comentarios que ha habido recientemente, como ustedes saben, y ya lo dicho el presidente hace un momento, el Gobierno de México recurrió a una demanda pidiendo que el dinero —que se lo llevaron cobrando contratos por centenares de millones de dólares— pueda volver y la única forma que tenemos que es yendo a un juzgado y presentando la demanda, que fue lo que se presentó.</p>
+<p>Sin embargo, los defensores de García Luna y de las empresas que movieron para hacer los contratos y llevarse el dinero presentaron un recurso diciendo que la corte de Estados Unidos, de Florida, no tenía capacidad jurídica para llevar ese juicio, y esto hizo que el juicio se suspendiera mientras se resolvía ese incidente en otro tribunal.</p>
+<p>Pues ese otro tribunal ya resolvió y queremos decirles que ya no tienen recurso, es definitivo, ya es inatacable el juicio para la devolución de los recursos de México por parte de esta trama de corrupción. Se va a llevar a cabo, habrá juicio sin duda alguna.</p>
+<p>Viene el momento en el que pues el juez les va a exigir a los demandados que presenten una respuesta a las pretensiones del Gobierno de México. Una vez que esto ocurra, se integra el jurado, se abre propiamente el juicio y viene el veredicto del jurado y la decisión del juez.</p>
+<p>Hay una serie de... Tenemos aquí una lista que sería bueno que pusiéramos, una lista de personas y empresas demandadas en Florida, y la cantidad de dinero ahí está. La lista, bueno, empieza con García Luna y sigue con Linda Cristina Pereyra Gálvez, Mauricio Samuel Weinberg, Sylvia Donna Pinto Weinberg, Johnathan Alexis Weinberg Pinto, Nathan Wancier Taub, José Francisco Niembro González, Martha Virgina Nieto Guerrero de Niembro.</p>
+<p>Y luego, ya empiezan las empresas que como tales, además de sus directivos y sus accionistas, como tales empresas también han sido demandadas porque fueron los instrumentos y los que firmaron los contratos y los que hicieron todo el, el… O se llevaron el dinero:</p>
+<p>Nunvav, Nunvav Technologies, Gull Holding, Glac Security Consulting Technology, Risk Managment. Y esta Glac es propiedad personal de Genaro García Luna y de su esposa. Y estos hicieron varias actividades dentro de la trama corrupta, pero una que destaco mucho, destaca mucho: le cobraron a la Procuraduría General de la Ciudad de México más de 26 millones de un supuesto adeudo que tenían con ellos, pero no hay papeles, nunca hubo adeudo, nunca nada y simplemente llegaron y cobraron y se fueron, así como llegaran a una ventanilla y recibir dinero.</p>
+<p>Esto lo hacían en muchísimos casos, así es como operaba. Esta situación es emblemática, esto que estamos viendo.</p>
+<p>Aquí hay un total de 645 millones 966 mil 199 dólares, multiplíquenlo por 17 y pico. Se están haciendo menos pesos porque ya nos urge rescatar todo lo que se pueda de esos dólares. Y 315 millones 266 mil 667 pesos.</p>
+<p>Esta tabla está dividida en dos partes, y eso requiere un comentario. Del 1 al 5 fueron operaciones hechas durante el periodo de gobierno de Felipe Calderón por un total de 225 millones 212 mil 906 dólares.</p>
+<p>En la segunda parte, en el periodo de gobierno de Enrique Peña Nieto, que fueron 420 millones 753 mil 293 dólares y 315 millones 266 mil 667 pesos.</p>
+<p>Es transexenal esta trama de García Luna, no se quedó en el tiempo en que él fue secretario de Seguridad Pública, siguieron operando con el nuevo gobierno; por lo tanto, la lista de personas involucradas que fue dada aquí en ocasión anterior, aquí mismo, en esta conferencia de prensa, pertenecen a dos gobiernos todos ellos.</p>
+<p>Entonces, también esto es emblemático porque nos habla, nos muestra, es un caso concreto en el que se muestra cómo operaba el sistema de la corrupción durante 60 o 70 años. Creo que me estoy quedando corto, porque esto empezó en los años 50, cuando se formó en el presupuesto nacional el ramo que se llamó después 23, que eran los gastos discrecionales del presidente de la República, en el presupuesto había un gran lugar en donde el presidente repartía de acuerdo con sus decisiones políticas o personales.</p>
+<p>Esa situación se prolongó durante mucho tiempo y fue generando poco a poco una estructura de lo que llamamos el Estado corrupto. No es que en México hubiera corrupción como la puede haber en cualquier parte, nosotros no teníamos ese problema, nunca lo tuvimos, nosotros tuvimos una estructura de Estado corrupto cuando la corrupción se conformó en uno de los principales instrumentos de la gobernanza del país, por eso llegó a todas partes, por eso se extendió.</p>
+<p>El Estado es la corporación de la sociedad que tiene mayor presencia, mayores recursos, mayor injerencia en todas las actividades económicas, sociales, culturales, etcétera. El Estado corrupto se mete a todas partes y tiene que ir incorporando a más y más gente.</p>
+<p>Eso fue lo que nos ocurrió como fenómeno. Siendo la corrupción uno de los principales instrumentos de la gobernación del país, se presentó en la empresa, en la escuela, en todos lados, llegó a todas partes; no solamente era el presupuesto, era también toda la gestión pública la fue víctima de la corrupción como sistema.</p>
+<p>Esto que nos diferencia hace que el problema sea más complejo en México. Este es el primer gobierno que declara, lo declaró desde antes de ser gobierno, que era uno de los fundamentales planteamientos programáticos, que declaró y que ha actuado para desmantelar el estado corrupto.</p>
+<p>Sin embargo, este inmenso problema va a tener que continuar, es importantísimo que continúe, esto que por primera vez tuvimos. Nunca un gobierno se propuso combatir el sistema de la corrupción, nunca, era parte del sistema de la corrupción. Llegó un momento en que Carlos Salinas reorganizó el sistema de la corrupción, no sólo lo elevó, sino también introdujo una serie de elementos organizativos, lo perfeccionaron.</p>
+<p>Este es uno de los países del mundo en donde los neoliberales no solamente entregaron, trasladaron propiedad pública a manos de corporaciones privadas, de individuos, sino que siempre se hizo en esquemas de corrupción.</p>
+<p>Y no en todos los países se hizo igual. Nosotros destacamos, y pregunten por todos lados, entre los economistas y los periodistas, la gente que llevó, que observó el fenómeno de la privatización de recursos públicos y de propiedad pública durante el neoliberalismo y todos coincidirán en que México destaca porque tiene una característica muy propia. No es el único país, también hay otros, no voy a mencionarlos, pero hay muchos en Asia, hay muchísimos que hicieron eso al momento en que se cayó algo: repartieron todo e hicieron grandes millonarios, gigantescos, fortunas. Pero eso ocurrió aquí también y es característica de México.</p>
+<p>Entonces, la lucha contra el Estado corrupto lo podemos ver como un botón de muestra aquí, en esa gráfica. Tomaban el dinero y lo llevaban, le daban la vuelta a través de Barbados, lo tomaban como paraíso de tránsito y llegaba a Florida. Bueno, no es nada raro que García Luna haya escogido Florida para ir a hacer ahí su residencia.</p>
+<p>Este conglomerado empresarial claro que le daba dinero a García Luna. Como nosotros descubrimos unas entregas de 10 millones de dólares, pues ahí está la evidencia para poder reclamar ese dinero y todo lo demás. Eso fue lo que hizo el Gobierno de México.</p>
+<p>Este acontecimiento es algo que nunca había hecho el gobierno, el gobierno. El gobierno mexicano en la historia ha hecho muchas reclamaciones internacionales, muchas, pero un juicio de este tipo, de una trama de corrupción para recuperar el producto de la corrupción, no hay registro, porque esta es una característica nueva que está teniendo ya México, es decir, un aparato público, una dirección del Estado, básicamente el gobierno, que le declara la guerra, por decirlo así… No está bien usado ese término, tendríamos que decirle que se ha declarado la acción permanente, continuada, sistemática, energética, en contra del Estado corrupto para desmantelarlo.</p>
+<p>Esta es una muestra, hay muchísimas otras, en la que por primera vez un gobierno se empeña en el combate a la corrupción como sistema que tanto daño le ha hecho a México y que tanto daño no solamente les ha hecho a las familias, a las personas, a los trabajadores, sino también a la forma de funcionamiento de las instituciones.</p>
+<p>Tenemos una herencia, bueno, ustedes lo viven a diario, como todos. Continuar ese esfuerzo, no detenernos, es una clave. Cualquier traspié nos podía llevar a lo que ya sabemos, que fue y cómo se gestó esta desgracia, le llamamos algunos Estado corrupto; se oye horrible.</p>
+<p>Pues eso es.</p>
+<p>Muchas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Muy bien.</p>
+<p>Vamos a la primera fila, aquí y luego ustedes.</p>
+<p><strong>PREGUNTA:</strong> Gracias. Buenos días, señor presidente; licenciado Pablo Gómez, buenos días; buenos días a todas y a todos.</p>
+<p>Diego Elías Cedillo, del <em>Sistema Informativo de Tabasco, Diario Presente.</em></p>
+<p>Señor presidente, el día de ayer después de su reunión con la representante de Europa, de la comunidad europea, el secretario de Gobernación o el exsecretario de Gobernación, Adán Augusto López Hernández, dio a conocer que le presentó su renuncia.</p>
+<p>En este tenor, señor presidente, preguntarle si ya tiene usted listo el relevo del secretario o el encargado de despacho que va a presidir ahorita desde el Palacio de Cobián.</p>
+<p>Esa sería la pregunta, presidente. Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Ayer, en efecto, me presentó su renuncia el secretario de Gobernación, Adán Augusto López Hernández. No es por ineficiencia o mal desempeño, eso debe de quedar claro; se da esta renuncia en la circunstancia que estamos viviendo, que hay miembros del gabinete que van a participar en procesos, en este caso para ser coordinadores de la transformación de México.</p>
+<p>Aun cuando mi función es otra, la de presidente de la República y gobernar para todos, como venimos de un movimiento yo he venido, sin hacerlo evidente, he venido siendo reconocido como el dirigente de un movimiento de transformación en el que participamos millones de mexicanos desde hace muchos años; algunos que fueron los precursores se nos adelantaron ya varios, mujeres, hombres, y nosotros consumamos el ideal de la transformación de México, y a mí me tocó esa dirección, esa conducción, como uno más de millones de ciudadanos que participaron.</p>
+<p>Pero, bueno, yo ya me voy a retirar, me queda un año tres meses, y la transformación, como aquí Pablo lo acaba de señalar, debe de continuar porque hay que terminar de arrancar de raíz el régimen corrupto de injusticias, de privilegios, hay que consumar por completo la obra de transformación en México y es un proceso que lleva tiempo.</p>
+<p>A mí me tocó, junto con muchos otros, también millones de mexicanos en estos tiempos, sentar las bases, porque creo que hemos avanzado; sin embargo, hay que darle continuidad al proceso, por eso hablamos de continuidad con cambio, y yo tengo que entregar, no sólo en su momento la Presidencia, sino la dirección, la conducción del movimiento de transformación, lo que este movimiento vanguardia que llevó a esta transformación.</p>
+<p>Entonces, yo voy a entregar ya la estafeta para que un hombre, una mujer del movimiento, de acuerdo a un procedimiento que decidieron, sea el que me sustituya como coordinador, como dirigente del movimiento de transformación; entonces, por eso ayer Adán renunció, porque va a buscar ser el sustituto, el relevo, como ya lo hicieron Marcelo Ebrard en su ámbito de competencia, Ricardo Monreal, la jefa de Gobierno que renunció, Claudia Sheinbaum.</p>
+<p>Ese es el proceso. Entonces, no es que estén renunciando por ineficientes; al contrario, están renunciando porque son los mejores dirigentes de nuestro movimiento y son los que pueden llevar a buen puerto esta embarcación, este barco que ya tiene rumbo, ya sabemos muy bien lo que se tiene que seguir haciendo en México; por ejemplo, esto que estamos tratando.</p>
+<p>No dar ni un paso atrás, ni siquiera para tomar impulso, en el combate a la corrupción, desterrar la corrupción del país. Y pues van a quedar estos juicios, espero que se resuelvan antes que terminemos; pero, si no, pues hay que darles continuidad.</p>
+<p>Y muchas otras cosas, porque también fue mucho tiempo de predominio, de lo que hablaba Pablo, de un estado corrupto, 36 años, afectó muchísimo, por eso no se produjo en México sólo una crisis, sino fue un proceso de decadencia, un proceso de degradación progresivo, que no sólo tuvo que ver con la falta de crecimiento económico o de desarrollo, no; tuvo que ver con la crisis de bienestar social, tuvo que ver con la degradación de la política, tuvo que ver con la pérdida de valores culturales, morales, espirituales. Una decadencia.</p>
+<p>Y por eso la única posibilidad de lograr el renacimiento de México estaba en iniciar una transformación profunda, pacífica, pero radical, entendiendo que la palabra ‘radical’ viene de ‘raíz’: arrancar de raíz la corrupción, los privilegios, la impunidad, y eso es lo que ya inició y hay que darle continuidad.</p>
+<p>Y como en todo proceso de transformación, siempre hay grupos que se resisten a los cambios, que reaccionan a los cambios. Por eso la palabra ‘reaccionario’, porque hay quienes no están conformes y quisieran que continuara el régimen corrupto.</p>
+<p>Pueden tratar de simular de que no les gusta cómo hablo, que somos como no sé qué país, que es una dictadura, que no hay libertades, que estaríamos mejor con los que no ganaron, todo, todo, todo; que no somos feministas, que queremos militarizar al país, todo, todo, todo, pero en la esencia lo que quieren es regresar por sus fueros, quieren seguir robando, cuando deberían de dedicarse a otras actividades, a pasear, a divertirse, ¿no?, porque les fue muy bien, pero es mucha el hambre de dinero. No cabe duda que el dinero es la gran tentación, la mamá y el papá del diablo, no tienen llenadera.</p>
+<p>Don Jesús Reyes Heroles, cuestionando a los que argumentaban que debían de gobernar los ricos, porque había esa idea, ¿no?, y todavía en algunos lugares: ‘el más rico del pueblo’, ‘el más rico de un estado’, ‘el más rico en un país’, ‘porque ese ya tiene —esa era el razonamiento—, ya no va a robar si ya tiene’, y don Jesús Reyes Heroles decía que se olvidaban que dinero llama a dinero, o sea que él ya se mete en eso, que sólo le importa lo material, que sólo le importa el dinero, pues es una especie de enajenación, ya sólo es movido por ese interés, va perdiendo valores, que son extraordinarios: el poder contemplar la naturaleza y ver los árboles y los pájaros, disfrutar de las bellezas y dar buenos ejemplos en la familia, hasta llegar a concebir de que es mejor dejarle honestidad de herencia a los hijos, es mejor dejarles pobreza que deshonra.</p>
+<p>Pero eso se va haciendo a un lado, aquí es cuánto tienes, cuánto vales, y como te ven te tratan. Si vas a llegar en un carro, en un Jetta, a si puedes llegar en un Ferrari hay una gran diferencia. Todo ese lujo barato, como decía Facundo Cabral: ‘Pobrecito mi patrón, piensa que el pobre soy yo’, y solamente lo barato se compra con el dinero.</p>
+<p>Por eso nuestro movimiento no sólo busca el bienestar material, busca el bienestar del alma, el fortalecer los valores. Porque además esa es otra lección que no debemos olvidar, han sido las culturas de México, el México profundo, esa gran reserva de valores que se tienen en México lo que nos ha salvado siempre frente a las calamidades, siempre. Es por esos valores culturales, que vienen de lejos, que enfrentamos pandemias y terremotos e inundaciones y malos gobiernos y ahí está México de pie.</p>
+<p>Ayer, que tuvimos la reunión con la presidenta de la Unión Europea, reconociendo la señora Úrsula —que por cierto es una mujer inteligente, de prestigio, agradable— reconociendo la importancia de México en el concierto de las naciones y el interés de Europa porque se firme un tratado económico-comercial con México, pero por nuestro pueblo.</p>
+<p>Cuando les cuento a gobernantes extranjeros que, en la crisis del periodo neoliberal, cuando se agrava, muchos mexicanos se ven en la necesidad de abandonar el país e irse a buscar la vida a Estados Unidos, creció muchísimo la migración en el periodo neoliberal, mucho, mucho, porque no había posibilidad de salir adelante. Había dos caminos:</p>
+<p>Buscarse la vida como se puede en la economía informal, que eso ayudó mucho a que no estallara el país, porque la gente es muy luchona. Por eso el respeto a muchos, millones que se buscan la vida honradamente y que también fueron maltratados, incomprendidos, ninguneados por los corruptos, mientras ellos estaban robando, saqueando al país y dejando sin opciones a muchos, ellos buscando el ingreso diario para mantener a las familias. Eso ayudó.</p>
+<p>Y lo otro, la migración. Ahora más, pero en ese tiempo ¿a qué se quedaban muchos que, arriesgándolo todo, se fueron a buscar algo que mitigara su hambre y su pobreza?</p>
+<p>¿Qué hubiese pasado si se quedaban aquí?</p>
+<p>Pues siempre iba a estar la tentación de tomar el camino de las conductas antisociales, como algunos lo hicieron, afortunadamente pocos, la mayoría decidió irse a trabajar honradamente, a buscarse la vida.</p>
+<p>Entonces, les platico eso y les digo, fíjense lo que son las cosas: los que se fueron porque aquí no había oportunidades, es una especie de exilio económico, social, que fueron al exilio, ahora nos están enviando, este año va a llegar a más de 60 mil millones de dólares de remesas. Ya eso que envían nuestros paisanos a sus familiares es la principal fuente de ingresos del país.</p>
+<p>Entonces, cuando escuchan 60 mil millones de dólares, pues es el tamaño de la economía de muchos países en el mundo, es el producto interno bruto de algunos países.</p>
+<p>Entonces, ¿por qué esa actitud de los mexicanos? Por nuestro pasado cultural.</p>
+<p>Por eso, cuando un licenciado, uno que se graduó de maestro, obtuvo un título de doctor en Derecho, en Economía, y se siente sabiondo y se olvida de lo que es México, pues sí, tiene un buen grado académico, que puede ser hasta equiparable con un título nobiliario, pero la cultura es otra cosa, no es lo mismo educación que cultura.</p>
+<p>Entonces, gracias a eso, por eso debemos de sentirnos muy orgullosos de nuestro pasado, fortalecer nuestra identidad; gracias a eso vamos hacia adelante.</p>
+<p>Entonces, a eso se debe que se están dando estas renuncias, porque se busca darle continuidad a la transformación con cambio, porque pues cada quien tiene, como diría el maestro Cosío Villegas, su estilo personal de gobernar.</p>
+<p>Pero ya se echó a andar esto. Al final, ¿quién va a decidir? El pueblo de México, la gente. Y también en eso estoy muy satisfecho, contento, porque es, repito, admirable el nivel, el grado de consciencia adquirida por la mayoría del pueblo.</p>
+<p>México es de los países con menos analfabetismo político. Así como somos de los países con menos desempleo en el mundo, que es bueno, pero es mejor si se hace acompañar de que México es de los países con menos analfabetismo político, porque está en marcha una revolución de las consciencias, un cambio de mentalidad. Entonces, todo eso me tiene muy contento.</p>
+<p>Claro que hay que seguir trabajando, hoy vamos a hacer una gira para supervisar los avances del Tren Maya que queremos inaugurar en diciembre, ya van a empezar las pruebas en un tramo de Cancún a Valladolid, ya para julio está el primer tren allá y en julio va a estar confinada, terminada, ya la vía principal. Bueno, ahí son dos vías electrificadas, primero vamos a probar manualmente y luego ya se va a automatizar con todo un sistema ferroviario de primer orden.</p>
+<p>Hay que estar ahí porque ya saben también que obra no supervisada pues no avanza, y orden dada no supervisada no sirve para nada, pero todos están trabajando, todas las dependencias, las empresas se están portando muy bien, están cumpliendo en tiempo, en forma, se está trabajando 24 por siete, tres turnos.</p>
+<p>Lamentamos mucho, ¿no?, pues el calor, pero para la construcción ayuda que no llueva. Todo tiene sus <em>asegunes</em>. En el norte, cuando llueve, llueve, llueve mucho, la gente se alegra. Incluso cuando entra un huracán, no causa muchos daños, pero llueve y llueve y llueve, ayuda.</p>
+<p>Acá nosotros, donde estamos construyendo, llueve demasiado, hay huracanes, y si no hubiésemos terminado… Que ya los tenemos prácticamente concluidos todos los terraplenes, estamos hablando de alturas en un terraplén hasta de ocho metros con alcantarillas en las partes bajas, con obras hidráulicas.</p>
+<p>Pero imagínense si no se tienen los mil 554 kilómetros, que es como ir de aquí a Cancún.</p>
+<p>¿Cuánto hay de aquí a Cancún?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA:</strong> ¿En kilómetros?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí</p>
+<p><strong>INTERVENCIÓN:</strong> Mil 200 kilómetros.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Mil 200, entonces no, es como de Morelia a Cancún, de terraplén, solo terraplén. Si eso no se lograba antes de las lluvias, con las lluvias imposible. Pero se aplicaron las empresas, felicidades. Hay empresas extranjeras, pero fundamentalmente son empresas mexicanas las que están trabajando, y los ingenieros militares. Entonces, hoy voy allá a la supervisión.</p>
+<p>Pues así está lo de Adán.</p>
+<p><strong>INTERLOCUTOR:</strong> Nada más preguntar, presidente: ¿ya tiene usted el sucesor?, ¿quién se quedaría como secretario de Gobernación?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, estamos pensando. Es que ha habido mucho trabajo, bastante trabajo. Estamos pensando. Se va a quedar a cargo del despacho, sí, Alejandro Encinas, porque no se puede dejar esa secretaría sin dirección.</p>
+<p><strong>INTERLOCUTOR:</strong> Gracias, señor presidente.</p>
+<p>Quiero retomar un comentario que usted empleó ayer, si me lo permite, este comentario fue que empezó su lucha, empezó el movimiento, empezó toda una lucha de convicciones desde el año de 1988, allá en Tabasco. Usted lo platicó ayer, que lleva 35 años de lucha, contándolos desde hoy hasta ahorita.</p>
+<p>Presidente, preguntarle: ya en esta tercera etapa de su gobierno, tercera etapa concibiéndolo como el inicio, el clímax y ya la consolidación del proyecto o se podría decir la conclusión de su gobierno, preguntarle: ¿cómo calificaría usted las acciones que se han venido dando de inicio a fin?, ¿cómo calificaría usted estos 18 años que usted buscó la Presidencia?, ¿qué se ha concretado de las metas que usted tuvo?, ¿cuáles son los retos pendientes que usted consideraría siguen a futuro, los retos, las próximas pendientes que tendría, presidente?, ¿cuáles son las tareas que le dejaría, en este caso, a quien ocupe la Presidencia de la República?</p>
+<p>Y también, presidente, preguntarle: ¿cómo se siente después de haber ya llegado a la Presidencia tras tantos años de lucha?</p>
+<p>Ayer, si me lo permite, platicaba con compañeros de la fuente presidencial, con uno que otro decano del periodismo, ya en la tarde, y me decían que no va a haber un fenómeno igual como lo es este movimiento de transformación. Y, más que nada, su persona, si me lo permite, cómo en los mítines del 2018 llegaba gente, llegaba gente y llegaba gente.</p>
+<p>Pero, bueno, nosotros que hemos tenido el privilegio de acompañarlo en sus giras, presidente, ellos me platicaban: ‘Es que en la comunidad la gente era la que nos llevaba en las camionetas para poder alcanzar al presidente de la República’, al entonces candidato.</p>
+<p>Entonces, presidente, preguntarle muy puntualmente: ¿cuáles son estos retos pendientes?, ¿cuáles son las metas que ha tenido su gobierno hoy en día? ¿y cómo se siente al respecto, presidente?</p>
+<p>Gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, voy a escribir, no todo, pero sí una parte. El libro este no es autobiográfico, el que estoy escribiendo, ya el último libro, los apuntes finales, tiene que ver más que con la experiencia política, con el propósito que ayude, que contribuya en la formación de jóvenes que quieran dedicarse al noble oficio de la política, porque sí hay lecciones en todo un proceso como el que hemos vivido nosotros, intervienen muchos factores, circunstancias.</p>
+<p>Cuando hablaba que cuando llegamos aquí es porque muchos lucharon antes en el movimiento estudiantil, en el movimiento obrero, el movimiento campesino, en el movimiento por la democracia, precursores de este movimiento; entonces, a nosotros nos toca darle continuidad a ese proceso de lucha. Entonces, es una circunstancia especial.</p>
+<p>También ayuda mucho la suerte. La política, decía Maquiavelo, es virtud, pero también fortuna, también suerte. Es como lo que hablábamos la vez pasada sobre lo racional y lo místico, no todo es racional, no sólo de pan vive el hombre, y por eso hablaba también del bienestar material y del bienestar del alma. Pero la suerte es importante, yo cuento de cómo tuve suerte en momentos difíciles.</p>
+<p>Y yo creo que la lección principal se sintetiza en algunas frases:</p>
+<p>Una —las dos tienen que ver con oaxaqueños— una del gran presidente Benito Juárez, de que con el pueblo, todo; sin el pueblo, nada. Una lección es: no se les vaya a ocurrir despreciar al pueblo, —para los jóvenes— no vayan a estar pensando como los políticos corruptos de que el pueblo no existe, y que la política es asunto de los políticos y que se hace en la élite, en el círculo rojo, controlando medios de información o de manipulación, no. Es el pueblo.</p>
+<p>No lo puedo decir como en la campaña de Clinton, que él decía: ‘La economía’, tampoco lo puedo decir, porque era lo que importaba entonces; ahora es el pueblo, el pueblo, por todo, porque gobernar es servir, porque gobernar es amor al prójimo, porque gobernar es humanismo, porque gobernar es darle más al que tiene menos.</p>
+<p>Pero, también, para transformar se necesita del respaldo del pueblo. Y la gente apoya, pero si ve que el gobierno es de ellos, es su gobierno; si no, por muy bueno que sea el gobernante…</p>
+<p>El caso, por ejemplo, del Apóstol de la Democracia, un hombre bueno, Madero, pensó que sólo bastaba la libertad. Y tenía la posibilidad; no pudo o no quiso hacer la alianza con las bases, con los zapatistas, lo cual le hubiese permitido enfrentar a la reacción del antiguo régimen; no que: no se da esa alianza y se queda en el aire, y cuando lo traicionan… Que lo traicionaron los oligarcas y desde luego los ejecutores fueron los militares más sanguinarios de entonces, que se habían formado reprimiendo a comunidades indígenas, exterminando a yaquis, a mayos, a mayas.</p>
+<p>Porque Huerta había estado reprimiendo a campesinos en Guerrero, obtuvo su grado de militar reprimiendo a los mayas, en lo que ahora es Quintana Roo, en Akumal reprimió a todo el pueblo, hubo asesinatos, quemó el pueblo, y después de eso Porfirio Díaz lo ascendió a general.</p>
+<p>Bueno, cuando se da la traición, que lo detienen aquí, que ya habían asesinado, o ese día, a su hermano de manera cruel… Que eso, por ejemplo, nada más les recomendaría a los jóvenes que lo leyeran una vez, porque es de los actos más abominables de traición que se han cometido en la historia de México, el asesinato a Gustavo A. Madero.</p>
+<p>Cuando lo detienen, él sale al balcón y ‘me están traicionando’, pero la gente ya no lo apoyó. Y había maderistas en el centro, en las esquinas, ‘¡no podemos permitir esa traición!’, arengando, y la gente seguía su camino.</p>
+<p>Después de que cuando llegó triunfante, como cuando regresó Juárez, fueron grandes manifestaciones, dos grandes manifestaciones, el regreso triunfante de Juárez y el regreso triunfante de Madero en 1911, todo cambió ya para el 13.</p>
+<p>Entonces, una lección es no dejar de atender al pueblo.</p>
+<p>Y lo otro tiene que ver también con un oaxaqueño, que su papá fue juarista, Ricardo Flores Magón, que decía: ‘Sólo el pueblo puede salvar al pueblo’.</p>
+<p>Yo les digo a los empresarios, se los acabo de decir hace poco, se los he repetido, y además en muy buen plan, porque afortunadamente ellos van entendiendo que hacía falta la transformación. Y pues algunos se quejan de que hablamos de estos temas y que hablamos de corrupción, y que hablamos de que saquearon con el modelo neoliberal o neoporfirista al país, un saqueo como nunca en la historia con Salinas de Gortari, bueno, él fue el que manejó la partida secreta.</p>
+<p>Ahora veo a un hijo, yo no creo que sea él, y también no tiene que ver, pero en este caso sí, porque ya cuando estaba enfermo Miguel de la Madrid, Carmen Aristegui le hace una entrevista y le confiesa que en el gobierno de Salinas de Gortari se habían robado.</p>
+<p><strong>PABLO GÓMEZ ÁLVAREZ:</strong> Salinas.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> No, eso no lo quiero decir. Bueno.</p>
+<p><strong>PABLO GÓMEZ ÁLVAREZ:</strong> Pero él lo dijo.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Dijo que Salinas se había robado la partida secreta, porque existía una partida secreta, esa partida a la que hace mención Pablo, donde se podía disponer del dinero y no comprobar nada. Como esto que llama la atención que fueron a la procuraduría, ¿no?, sacan dinero y no se sabe a cambio de qué, no hay ningún papel, nada más fueron a sacar el dinero.</p>
+<p>Bueno, y se arma un escándalo por esa declaración, y uno de los hijos —yo creo que no es el que está, otro— junto con un colaborador cercano de Miguel de la Madrid, que había desempeñado el cargo de secretario particular y luego fue secretario de Comunicaciones, Gamboa, van y le sacan una carta al señor, al finado Miguel de la Madrid en donde ofrece disculpa y sostiene que él ya no estaba bien de sus facultades mentales. Entonces, pues todo eso era este régimen.</p>
+<p>Entonces, hablando con empresarios, banqueros, con todos, yo les digo que ya están entendiendo más, muchos están de acuerdo, incluso hay quienes —ya les dije a ustedes en una ocasión— me han ofrecido disculpa porque participaron y dieron dinero cuando la guerra sucia; les digo: Bueno, no les gusta cómo hablo; pero a mí me tocó iniciar este proceso.</p>
+<p>Y también, volviendo al pueblo, si no nos apoyamos en el pueblo, les digo: ¿ustedes nos iban a apoyar?, ¿nos iban a apoyar los medios de información?, ¿nos iban a apoyar los intelectuales orgánicos? No, no. Quien nos está apoyando es la mayoría del pueblo, pero no la cúpula o sus voceros, achichincles, no, pero el pueblo sí.</p>
+<p>Y también lo hablábamos la vez pasada, porque es muy frecuente también, o antes más: ‘El pueblo es malagradecido’. No, no, no, malagradecidos son los de arriba.</p>
+<p>Y cuidado con los políticos, esos son de mentirita. Toda sea lealtad es relativa. Suele pasar que los amigos en política son de mentira y los enemigos de verdad. Por eso, la lealtad es al pueblo, y nos ponemos poner de acuerdo con Pablo y nuestra lealtad tiene que ver con la causa que defendemos. No es una lealtad en lo personal, eso es lambisconería, abyección a veces. No, la lealtad es al pueblo, la lealtad a la patria, la lealtad a los principios.</p>
+<p>Entonces, regresando, lo que decía Ricardo Flores Magón: ‘Sólo el pueblo puede salvar al pueblo’. Pero yo se los planteo así de manera franca, sincera, ellos lo entienden: ¿Nos iban a ayudar quienes estaban sacando raja de la corrupción? No, no.</p>
+<p>Ahora ya se entiende mejor, se comprende mejor, ya no se podía mantener ese régimen corrupto, podrido, no se podía, eso iba al fracaso rotundo; si no se iniciaban los cambios, la transformación, iba a ser desastroso para todos.</p>
+<p>Y resulta que no hay tampoco un empresario —o son excepciones— banqueros, que digan: ‘Hemos perdido dinero, nos ha ido muy mal’. No. Han hecho negocios lícitos y hay obtenido ganancias razonables.</p>
+<p>Y en la clase media, bueno, ¿qué, no pagan menos de luz? ¿Qué, no pagan menos por la gasolina? ¿Qué, no hay más posibilidades de trabajo para profesionistas? ¿Qué, aunque Jorge Ramos diga otra cosa, y Ciro, no hay más seguridad?</p>
+<p>Aquí en la Ciudad de México —y en todos lados, pero aquí en la ciudad— de cinco homicidios diarios, a dos; de 80, 100 carros robados, a 10; una diminución nacional en secuestros del 70 por ciento. Y desde luego que falta mucho, falta muchísimo, pero todo eso es para celebrarlo.</p>
+<p>La estabilidad política. ¿Dónde hay conflicto social así, incontrolable? No.</p>
+<p>Y a los de menos ingresos les ha ido mejor y les va a seguir yendo mejor, porque no puede haber trato igual entre desiguales, hay que darle más al que tiene menos, abajo, abajo, abajo.</p>
+<p>Entonces, me preguntas que si qué me voy a llevar. Le atribuyen a Borges, al gran escritor argentino, José Luis Borges, y parece que lo falsificaron, como aquella carta que le atribuían a Gabriel García Márquez, que no era de él, pero estaba bien escrita, igual le atribuyen de que en una entrevista le preguntaron: ‘Maestro, usted que ha sido brillante, gran literato, cuentista, intelectual de primer orden…’ Que por cierto no le dieron el Premio Nobel. ¿O sí se lo dieron? No, ¿verdad?</p>
+<p><strong>JESÚS RAMÍREZ CUEVAS:</strong> Siempre fue el pendiente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>No, como no se lo dieron a Carpentier y que han cometido algunas injusticias ahí. Y en el caso de Carpentier por la cuestión política ideológica.</p>
+<p>Pero, bueno, le preguntaron: ‘Maestro, usted que ha creado tanto, ¿qué le gustaría llevarse a la tumba? El poema más bello, su mejor cuento, ¿qué le gustaría llevarse a la tumba?’. Y dicen que contestó: ‘Los pequeños momentos en que viví con arrojo’. Pero dicen que no es de él, pero si no es de él, hay que atribuírsela.</p>
+<p>―¿Qué le gustaría llevarse a la tumba?</p>
+<p>―Aquellos pequeños momentos ―no siempre― en que viví con arrojo.</p>
+<p>Cuando se vive con pasión, cuando se desafía a la adversidad.</p>
+<p>Ya, si no, no vamos a llegar. Les cuento: es Palenque, Xpujil y dormimos en Chetumal. Mañana Tulum, Cancún, dormimos en Mérida. Y el domingo, Mérida temprano, toda la supervisión a Campeche, Edzná, Escárcega, y al cruzar la laguna de Términos, que es la laguna más grande costera, la de los piratas de antes, y salir por Ciudad El Carmen. Esa es la ruta de tres días.</p>
+<p>Los tres quedan para el lunes. Resisto cualquier motín emocional.</p>
+<p>Nos vemos, hasta luego.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>09.04.19 Versión estenográfica. Lanzamiento del Informe de la Comisión de Alto Nivel: &#8216;Salud Universal en el siglo XXI: 40 años de Alma-Ata&#8217; &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/version-estenografica-lanzamiento-del-informe-de-la-comision-de-alto-nivel-salud-universal-en-el-siglo-xxi-40-anos-de-alma-ata/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=115612' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-lanzamiento-del-informe-de-la-comision-de-alto-nivel-salud-universal-en-el-siglo-xxi-40-anos-de-alma-ata%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-lanzamiento-del-informe-de-la-comision-de-alto-nivel-salud-universal-en-el-siglo-xxi-40-anos-de-alma-ata%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2t6ta-f-41cd46c92-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":26,"ak.ipv":4,"ak.proto":"h2","ak.rid":"2596015","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":25380,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706729382","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==NuQmBDzJuiQySx1gajddhxmjq2H1Mi2ytu6Glh0Ilrj3YzlLsoJ9dIikWD5Tk+ZPbGjbuyqnao4UFskeKiUMlsRkqEXJtD4DEwkxNizW/hkb9E9q/Un0KshgjrRyRwIeOfUkjwRFckO6Bf5HDDNWQ1aexBdJvYO/5RDS0QwwX9RbUEFXpoJAQDpEDjq6TFrKCrqFqAAsW7uz2BsX0hx7EZaKbFxR4VG3Edn1K3n0qPUEw61OypY+0BQYIQtNR/quvwLPl+EtPpAgnwEwEVFyV4mU6tAFX61d8PZCZrMk/PA5kivQrxqbJLkZp+kSPW7N6YU9KGwm7LHF1/ZgbLwTHWTzAN9B+ZmXbYIrCU889/DKW7kMr85XlOj9cPS+JpgvrBsfZepuF1mrDUKJZH1mw8iycrKovTypc5gNVMHIARc=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-115612 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba9e2252422" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>09.04.19 Versión estenográfica. Lanzamiento del Informe de la Comisión de Alto Nivel: &#039;Salud Universal en el siglo XXI: 40 años de Alma-Ata&#039;</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 09.04.19 Versión estenográfica. Lanzamiento del Informe de la Comisión de Alto Nivel: &#8216;Salud Universal en el siglo XXI: 40 años de Alma-Ata&#8217; 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-115612" class="post-115612 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica tag-alta-comisionada-para-los-derechos-humanos tag-amlo tag-amlo-hoy tag-amlo-presidente tag-andres-manuel tag-andres-manuel-lopez-obrador tag-derechos-humanos tag-guardia-nacional tag-lopez-obrador tag-michelle-bachelet tag-obrador tag-onu tag-onu-derechos-humanos tag-salud tag-salud-universal-en-el-siglo-xxi tag-sistema-de-salud-universal">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/04/09-04-2019-FOTO-06-LANZAMIENTO-DEL-INFORME-DE-LA-COMISION-DE-ALTO-NIVEL-SALUD-UNIVERSAL-EN-EL-SIGLO-XXI.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/04/09-04-2019-FOTO-06-LANZAMIENTO-DEL-INFORME-DE-LA-COMISION-DE-ALTO-NIVEL-SALUD-UNIVERSAL-EN-EL-SIGLO-XXI-745x450.jpg" alt="09.04.19 Versión estenográfica. Lanzamiento del Informe de la Comisión de Alto Nivel: &#039;Salud Universal en el siglo XXI: 40 años de Alma-Ata&#039;" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">09.04.19 Versión estenográfica. Lanzamiento del Informe de la Comisión de Alto Nivel: &#8216;Salud Universal en el siglo XXI: 40 años de Alma-Ata&#8217;</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em><span style="font-size: 10pt;">2019, Año del Caudillo del Sur, Emiliano Zapata</span></em></p>
+<p style="text-align: justify;"><strong>MICHELLE BACHELET, ALTA COMISIONADA DE LAS NACIONES UNIDAS PARA LOS DERECHOS HUMANOS:</strong> Señor presidente de la República, Andrés Manuel López Obrador; señor secretario general adjunto de la OEA, embajador Néstor Méndez; señora directora de la Organización Panamericana de la Salud, doctora Carissa Etienne; señor secretario de Relaciones Exteriores de México, licenciado Marcelo Ebrard; señor secretario de Salud de México, doctor Jorge Alcocer Varela.</p>
+<p style="text-align: justify;">Señoras y señores, miembros de este panel, señoras y señores ministros, ministras, viceministros, comisionadas, comisionados, representantes de organismos nacionales e internacionales y, por cierto, a todos los embajadores y embajadores presentes, y miembros de la sociedad civil.</p>
+
+<figure class="wp-block-audio"><audio src="https://lopezobrador.org.mx/wp-content/uploads/2019/04/Lanzamiento-del-Informe-de-la-Comisión-de-Alto-Nivel-Salud-Universal-en-el-s..-.mp3" controls="controls"></audio></figure>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook">
+<div class="wp-block-embed__wrapper">
+<p><div id="fb-root"></div><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2"></script><div class="fb-video" data-href="https://www.facebook.com/lopezobrador.org.mx/videos/318327605544301/" data-width="500"><blockquote cite="https://www.facebook.com/lopezobrador.org.mx/videos/318327605544301/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lopezobrador.org.mx/videos/318327605544301/">Lanzamiento del Informe de la Comisión de Alto Nivel &#039;Salud Universal en el siglo XXI&#039;</a><p>Anunciamos la creación del Instituto Nacional de Salud para el Bienestar, enfocado a la atención de las personas que no cuentan con un seguro médico. Garantizar el derecho a la salud será una hazaña de la Cuarta Transformación.</p>Posted by <a href="https://www.facebook.com/lopezobrador.org.mx/">Andrés Manuel López Obrador</a> on Tuesday, April 9, 2019</blockquote></div></p>
+</div>
+</figure>
+
+<p style="text-align: justify;">Queridas amigas y amigos.</p>
+<p style="text-align: justify;">Yo quiero agradecer esta invitación a reunirnos, hoy día a volver a reunirnos con algunos de ustedes.</p>
+<p style="text-align: justify;">Y nos da la oportunidad de constatar una vez más los puntos de encuentro entre los destinos nacionales y globales, entre los esfuerzos individuales y colectivos cuando es cuestión de asegurar derechos fundamentales.</p>
+<p style="text-align: justify;">Los cimientos, muros y puertas de este Palacio Nacional son testigos silenciosos de siete siglos de historia mexicana, escrita con la esperanza y con frustraciones, con logros que marcaron la marcha social latinoamericana, pero también con persistentes obstáculos. Y lo menciono porque es mucho de eso lo que compartimos nuestros países.</p>
+<p style="text-align: justify;">Y hoy es un deber, estamos llamados a hacer más para consolidar derechos que definen lo que somos como humanidad.</p>
+<p style="text-align: justify;">El problema no es la falta de evidencia o alternativas factibles, lo que se requiere es coraje, compromiso y voluntad política que se traduzcan en la construcción de consensos durables.</p>
+<p style="text-align: justify;">La salud es uno de los derechos de los que debemos aspirar para todos, sin exclusión de ningún tipo. Sin embargo, es uno de los ámbitos donde hay mayor vulneración, como bien sabemos en las Américas, ya sea por la desigualdad, por el desarrollo deficitario de los sistemas de prevención y protección, la falta de cobertura territorial o la discriminación y, por lo tanto, tenemos materias urgentes de norte a sur.</p>
+<p style="text-align: justify;">Los avances son innegables, pero hay brechas que se resisten a desaparecer. Y ya lo decía la titular de la OPS, que sus reportes estiman en un tercio la población excluida de la atención médica principalmente debido a barreras financieras.</p>
+<p style="text-align: justify;">Mientras tanto, el promedio de inversión pública de las Américas aun no llega al seis por ciento del Producto Interno Bruto como se recomienda; y por cierto el porcentaje en América del Norte es el doble, son ocho por ciento, que en América Latina y El Caribe como promedio son un cuatro por ciento.</p>
+<p style="text-align: justify;">Como siempre, las diversas manifestaciones de la desigualdad golpean más al mundo rural, a las mujeres y a los niños, a los grupos indígenas y afrodescendientes, a las personas que viven con VIH, a las personas con necesidades especiales o discapacidades y a los que viven en entornos vulnerables.</p>
+<p style="text-align: justify;">Entonces, uno se pregunta: ¿podemos estar tranquilos como sociedad si dejamos a tantas personas fuera del acceso de la salud, condición esencial para aspirar bienestar si somos incapaces de garantizar ese piso mínimo para un desarrollo pleno de nuestros padres?</p>
+<p style="text-align: justify;">Hace cuatro décadas esa pregunta no solo se oía con fuerza, sino que además daba origen a un conjunto de orientaciones que han marcado hasta hoy las prácticas de la salud.</p>
+<p style="text-align: justify;">Y es en la vigencia de la Declaración de Alma- Ata de 1978, es lo que demuestra su carácter visionario. Sus principios están de pie, pero más que nunca, su vigencia debe quedar reflejada en la posibilidad de llevar a la práctica esos principios.</p>
+<p style="text-align: justify;">Con la creación de la Comisión de Alto Nivel, la directora de OPS, doctora Carissa Etienne nos invitó a dar cuerpo a esa posibilidad de acción.</p>
+<p style="text-align: justify;">Y yo quiero, aunque ya el embajador Méndez lo ha hecho, también agradecer públicamente ese honor, pero también quiero agradecer a cada comisionado, comisionada que puso al servicio una causa común toda su experiencia, su conocimiento y su compromiso, y quiero sin duda agradecer al embajador Néstor Méndez que tomó la posta con la solvencia y la capacidad que le conocemos, pero también, y veo aquí varios rostros, quiero agradecer a los equipos técnicos de OPS y a todos quienes se incorporaron con entusiasmo en esta tarea.</p>
+<p style="text-align: justify;">Este esfuerzo colectivo fue guiado por una orientación clara que nos dio la doctora Etienne. Más que la suma de la opinión de cada miembro de la comisión por más experto y calificado que fuera, había que dar cabida a la diversidad de voces y talentos en un espacio participativo. Y fue algo que se logró.</p>
+<p style="text-align: justify;">Es una valiosa, yo diría lección, que nos llama a reflexión sobre lo que podemos conseguir en las Américas cuando hacemos dialogar respetuosamente las visiones de las políticas públicas de la academia y de los movimientos sociales en torno a un propósito común.</p>
+<p style="text-align: justify;">¿Basta con declarar que la salud es un derecho universal? Por supuesto que no.</p>
+<p style="text-align: justify;">Queremos que sea un derecho para todos y que deje de ser el privilegio de algunos y para ello debemos ofrecer garantías explícitas y verificables.</p>
+<p style="text-align: justify;">En este sentido, la Declaración de Alma-Ata es un marco estratégico para organizar la responsabilidad del Estado y la integración de las comunidades.</p>
+<p style="text-align: justify;">Como alta comisionada de las Naciones Unidas para los Derechos Humanos, sé que los estados pueden hacer más, deben comprometerse con la realización progresiva de mayor equidad y calidad.</p>
+<p style="text-align: justify;">Y el informe propone una alternativa: que se otorgue un rol central a la atención primaria de salud como estrategia efectiva para que Estado y sociedad civil puedan transformar los sistemas de salud e intervenir sobre determinantes sociales y ambientales en la salud de la población.</p>
+<p style="text-align: justify;">¿Por qué es tan importante darle un papel estratégico en la atención primaria de salud?</p>
+<p style="text-align: justify;">Porque justamente en ese espacio de intervención es donde se hace posible la acción integral que nos recomienda la experiencia acumulada por más de 40 años, porque es en lo local que se materializa la promoción y la prevención, la coordinación de políticas públicas intersectoriales, la incorporación de las variables territoriales, la proximidad del personal de salud y las posibilidades concretas de participación comunitaria; en otras palabras, porque es ahí, junto a las personas que se puede asegurar la perspectiva de derechos que deben tener las políticas de salud.</p>
+<p style="text-align: justify;">Daremos soluciones durables a las necesidades de expectativas de salud de nuestra gente, en la medida que demos cabida al aporte de las comunidades en la definición de estrategias e iniciativas, en la medida que construyamos espacios complementarios entre la medicina convencional académica y los saberes ancestrales de salud, y en la medida que explicitemos que los costos deben ser compartidos entre todos si de verdad queremos poner fin a la precariedad de las familias más desposeídas.</p>
+<p style="text-align: justify;">La actualidad de las recomendaciones del informe que hoy día se lanza, no se agota en la superación de los modelos centrados en la enfermedad, sino en relevar la naturaleza política de cualquier transformación.</p>
+<p style="text-align: justify;">El derecho a la salud se concluye dejando atrás las relaciones asimétricas e invirtiendo en la cercanía cotidiana con las personas.</p>
+<p style="text-align: justify;">Amigas y amigos:</p>
+<p style="text-align: justify;">Este informe hace un aporte, tal vez acotado pero muy significativo. Desde hoy queda disponible para su uso crítico, ojalá en dialogo con otras regiones del globo.</p>
+<p style="text-align: justify;">Concluye una etapa y se abre otra; y este grupo hace entrega del testimonio a los que puedan llevar esta reflexión a pasos aún más operativos y aplicados, porque lo central es producir cambio y acciones en el corto plazo.</p>
+<p style="text-align: justify;">Debemos aprovechar los grandes consensos que al fin se están imponiendo, pienso en particular en la Agenda 2030 para el Desarrollo Sostenible, una oportunidad que debemos aprovechar para comprometer voluntades políticas y para empujar respuestas integrales con información desagregada y transparente.</p>
+<p style="text-align: justify;">Es cierto, cualquier cambio requiere de ideas, de valores y de principios, pero de nada sirve si eso queda en el papel; están dadas las condiciones para ser tangible en los territorios, sistemas de salud más eficaces y legítimos que reduzcan las distancias entre la necesidad de salud y la respuesta pública.</p>
+<p style="text-align: justify;">Hay momentos en que hay sombras que parecen oscurecer el horizonte de nuestra democracia y, en consecuencia, las perspectivas de nuestros pueblos; tenemos que renovar la convicción de que podemos hacer cambios pertinentes, justos y a tiempo.</p>
+<p style="text-align: justify;">Es tiempo de actuar, gobierno, sociedad civil, academia, sector privado, todos deben sumar. La bandera por el derecho a la salud está izada, hagámosla flamear junto a los derechos de cada ser humano, para que todas y todos gocen de las mismas posibilidades de respeto, bienestar y dignidad.</p>
+<p style="text-align: justify;">Muchas gracias.</p>
+<p style="text-align: justify;"><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: Amigas y amigos.</p>
+<p style="text-align: justify;">Nos da mucho gusto contar con la presencia de ustedes, distinguidos visitantes del sector salud de países de América Latina y del Caribe.</p>
+<p style="text-align: justify;">Nos da muchísimo gusto contar a la presencia de la alta comisionada de Derechos Humanos de la ONU, la señora Bachelet, también doctora con dimensión social, una mujer extraordinaria, ejemplar.</p>
+<p style="text-align: justify;">Muchas gracias por estar aquí la doctora Carissa Etienne, directora de la Organización Panamericana de la Salud.</p>
+<p style="text-align: justify;">El embajador Néstor Méndez, secretario general adjunto de la Organización de los Estados Americanos.</p>
+<p style="text-align: justify;">Amigas, amigos todos.</p>
+<p style="text-align: justify;">Celebramos este encuentro y llega en un momento importante para la historia de nuestro país cuando se está iniciando un cambio, una transformación real, verdadera.</p>
+<p style="text-align: justify;">En la historia de México ha habido tres grandes transformaciones: la Independencia nacional, la Reforma que llevaron a cabo los liberales encabezados por el mejor presidente que ha habido en la historia de México, un indígena zapoteco, Benito Juárez García; y la Tercera Transformación fue la Revolución de 1910 encabezada por un hombre bueno que es el Apóstol de la Democracia, Francisco I. Madero.</p>
+<p style="text-align: justify;">Tres transformaciones: Independencia, Reforma, Revolución, y ahora nosotros estamos llevando a cabo la Cuarta Transformación de la vida pública del país. Es todo un desafío, pero lo vamos a lograr; y lo vamos a lograr, a diferencia de las tres transformaciones que se han realizado, sin violencia, de manera pacífica; nuestros héroes, mártires, los padres de nuestra patria tuvieron que hacerlo por la vía armada, porque así se presentaron las circunstancias. Ahora nosotros tenemos la dicha de que podemos llevar a cabo estos cambios de manera pacífica, sin violencia; vamos a la transformación por el camino de la concordia con la participación de todas y todos los mexicanos.</p>
+<p style="text-align: justify;">En ese marco, queremos sacar adelante, mejorar el sistema de salud pública, como muchas otras asignaturas, como muchos otros grandes y graves problemas nacionales. Tenemos que garantizar en los hechos, en la realidad, en la práctica, el derecho a la salud que ya está contemplado en la Constitución en el artículo 4º, pero que es letra muerta, porque en realidad no hay ese derecho; al contrario, en los últimos tiempos se retrocedió, porque al igual que en la educación se apostó a poner la salud al mercado, como si fuese una mercancía, para que pudiese acceder a la salud y a la educación el que tuviese posibilidades económicas.</p>
+<p style="text-align: justify;">Se olvidó que la educación y la salud no son un privilegio, son derechos de los ciudadanos, de los seres humanos. Esa concepción que prevaleció llegó en el caso de México a su fin. Hemos proclamado la abolición de esa política económica neoliberal.</p>
+<p style="text-align: justify;">No basta con proclamarla. Hablando de la historia les puedo contar que el cura Miguel Hidalgo, el padre de nuestra patria, proclamó la abolición de la esclavitud en 1810, porque se recuerda mucho a Miguel Hidalgo y a José Morelos como luchadores independentistas, pero eran sobre todo luchadores sociales.</p>
+<p style="text-align: justify;">La Independencia vino acompañada, la lucha de la independencia, por la lucha en pos de la justicia. Hidalgo proclama la abolición de la esclavitud, sin embargo, la esclavitud es abolida en México 100 años después en 1914, hace relativamente poco.</p>
+<p style="text-align: justify;">Pasó mucho tiempo, todo el siglo XIX hubo esclavitud, haciendas con peones encasillados. Digo esto porque una cosa es proclamar el fin del neoliberalismo, o la inauguración, el inicio de una etapa nueva, posneoliberal, y otra cosa es que esto se cumpla, se lleve a la práctica.</p>
+<p style="text-align: justify;">Sin embargo, es muy importante tener esa voluntad, fijar con claridad esa postura, proclamarlo, decir: Ya no queremos más de lo mismo, ya no es el sólo cambio de gobierno, es un cambio de régimen, es una transformación.</p>
+<p style="text-align: justify;">Y por eso vamos a garantizar el derecho a la salud sin hacer caso a la agenda que han impuesto en los últimos tiempos desde el extranjero. Me refiero a las llamadas reformas estructurales, a las recetas que han ordenado aplicar en nuestros países. Ya no vamos a seguir esa agenda de las llamadas reformas estructurales, vamos a tener nuestra propia agenda, nuestro propio programa, modelo de desarrollo a partir de nuestra realidad. No vamos a alejarnos de lo que necesita nuestro pueblo, de lo que necesita nuestra gente.</p>
+<p style="text-align: justify;">Por eso hablamos de una agenda propia, donde ya no está lo de la Reforma Energética o Reforma Fiscal, o Reforma Educativa, o reforma a la seguridad social, que al final de cuentas se resume en privatizar. Y si vemos en el diccionario qué es privatizar, es convertir lo público en privado. Entonces, ya no queremos esa agenda.</p>
+<p style="text-align: justify;">Ahora nuestra agenda es combatir la corrupción, combatir las desigualdades, garantizar a todos el derecho a la educación, el derecho a la salud, garantizar el derecho al trabajo, el derecho a un salario justo. Esa es nuestra agenda.</p>
+<p style="text-align: justify;">En el caso de la salud es todo un desafío porque se esmeraron en destruir el sistema de salud pública de nuestro país; se desintegró en la Secretaría de Salud federal, quedó sólo como una entidad normativa, maneja de manera directa ocho hospitales; toda la infraestructura de salud de primer nivel de salud se pasó a los estados, lo mismo el manejo de los hospitales públicos. Eso, en lo que tiene que ver con la atención a población abierta, a población no asegurada, estamos hablando de la mitad de nuestra población, de alrededor de 60 millones de mexicanos.</p>
+<p style="text-align: justify;">Y por el otro lado están los institutos que atienden a los asegurados, el Instituto Mexicano del Seguro Social, que atiende a trabajadores; y el Issste que atiende a los trabajadores al servicio del Estado. Pero muy desarticulado, en general, el sistema de salud.</p>
+<p style="text-align: justify;">Ahora vamos a buscar integrarlo, vamos a federalizar el sistema de salud, sobre todo en lo que tiene que ver a la atención de la población no asegurada, a la población que no tiene derecho a la seguridad social, que es la población más pobre, estos 60 millones de mexicanos que no tienen seguridad social.</p>
+<p style="text-align: justify;">Se creó para atender a esta población algo que llaman Seguro Popular, que en la práctica, en los hechos, ni es seguro, ni es popular, porque no hay médicos suficientes en las unidades médicas de primer nivel, tenemos alrededor de 15 mil centros de salud, unidades médicas de primer nivel y es muy deficiente la atención, no tenemos médicos en ese primer nivel de atención que, como aquí se ha dicho, es básico, porque esa atención tiene que ver con la medicina preventiva, es lo más cercano a la gente.</p>
+<p style="text-align: justify;">Está muy mal el sistema de salud pública del primer nivel y lo mismo en lo hospitalario.</p>
+<p style="text-align: justify;">En segundo, tercer nivel, tenemos muy buenos hospitales de especialidades, que son ejemplo, no sólo en México, sino en América Latina y en el mundo; los hospitales de nuestro país que tienen fama internacional, trátese de nutrición, de cardiología, cancerología, son de lo mejor; pero tenemos problemas en lo que es el primer nivel de atención médica.</p>
+<p style="text-align: justify;">Vamos por eso a reestructurar todo el sistema de salud, vamos a crear un instituto nacional de salud para el bienestar, que se va a ocupar de la atención de quienes no tienen posibilidades de contar con un seguro, de la población no asegurada, es de los cambios que vamos a llevar a cabo.</p>
+<p style="text-align: justify;">Vamos desde luego a hacerlo con la participación de los gobiernos estatales, que están conscientes de que hace falta mejorar el sistema de salud. Se habló mucho en estos tiempos de la reforma educativa y se abandonó o no se discutió, no se debatió, no se reflexionó sobre el sistema de salud y, si hablamos con la verdad, está peor el sistema de salud que el sistema educativo, nada más que en el caso de la educación se politizó, se polarizó el debate, mientras se dejaba en ruinas todo el sistema de salud del país.</p>
+<p style="text-align: justify;">Mucho del problema tiene que ver con la corrupción; no quiero generalizar, pero hay veces que privatizar es sinónimo de corrupción. Privatización es igual a corrupción.</p>
+<p style="text-align: justify;">Toda esta política neoliberal muchas veces se ha convertido en una política de pillaje, de saqueo. En el caso de salud eso ha afectado mucho.</p>
+<p style="text-align: justify;">Acabamos de dar a conocer que se compran cuatro mil millones de dólares en medicinas en el país, compra el Estado cuatro mil millones de dólares, y tres proveedores abastecieron el 65 por ciento todos los medicamentos que se compraron el año pasado y una, una empresa vendió alrededor de mil 500 millones de dólares de medicinas. Lo peor de todo es que en los centros de salud y en los hospitales no hay medicinas.</p>
+<p style="text-align: justify;">Entonces, sí tenemos que terminar con la corrupción, tenemos que hacer compras consolidadas de medicamentos; para esto hay que unirnos, ponernos de acuerdo, porque son muchos los intereses creados. Ni en los países con mayor desarrollo han podido resolver este asunto por los intereses que existen, pero por encima de esos intereses tiene que prevalecer el interés general, el interés de la gente, el derecho del pueblo a la salud.</p>
+<p style="text-align: justify;">Nosotros tenemos un ideal, un sueño que queremos convertir en realidad y les invitamos a que nos ayuden, nos apoyen y que sean testigos y que participen. Queremos garantizar el derecho a la salud y que el gobierno en el sexenio, al final del gobierno podamos decir que la atención médica en México y los medicamentos se van a entregar, van a ser gratuitos, se va a garantizar en la práctica el derecho a la salud. Eso va a ser una hazaña.</p>
+<p style="text-align: justify;">Eso es parte de la Cuarta Transformación y es un compromiso que hemos hecho con nuestro pueblo y se va a cumplir.</p>
+<p style="text-align: justify;">Ya no queremos marginación, no queremos esta actitud injusta, inhumana de no poder garantizar el derecho a la salud, como desgraciadamente sucede. Queremos que todos los mexicanos tengan garantizado este derecho.</p>
+<p style="text-align: justify;">Hay países que lo han logrado, países con menos recursos económicos que el nuestro, que tienen un buen sistema de salud pública y lo han logrado en Canadá y lo han logrado en los países nórdicos el derecho a la salud y nosotros queremos garantizar, uso coloquialmente una expresión que tiene que ver con la voluntad y con el arrojo; cuando digo esto lo hago acompañar con una frase: Me canso ganso.</p>
+<p style="text-align: justify;">Vamos a garantizar el derecho a la salud. Gracias.</p>
+<p style="text-align: center;">+++++</p>
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

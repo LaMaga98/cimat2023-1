@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>17.12.22 Versión estenográfica. Diálogo con la comunidad de San Francisco de Lajas, desde Durango &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/17-12-22-version-estenografica-dialogo-con-la-comunidad-de-san-francisco-de-lajas-desde-durango/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=157577' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-12-22-version-estenografica-dialogo-con-la-comunidad-de-san-francisco-de-lajas-desde-durango%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-12-22-version-estenografica-dialogo-con-la-comunidad-de-san-francisco-de-lajas-desde-durango%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sw7q-f-22d56e6ac-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1cf977e","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":23610,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726847","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==l+USe4LvIAwEnueEkkAdJllCCOELukFMuQwIZNS9+o8JasWrleKl/+SeFhHv6cpvPk9C32lmD6ypd/CwvwTwYNOhr73VUcM9T0dF127Mmr1VXXHvBM2xXxhnl5COr4hxzALivYqwFMIPv2DJoQUUygjLvboP6+dyWXiWQycTcdj7Dvl6DCYxC61vsNqZQtmXf3S0LQXAfBBPwYX0r7kfdHWi4EZ/3QnWp0wE1nQ560nXqQ16CwdkiNch7h+DXupBHNxAbltGIw6HRrawJ1Qo7Rg+rkkmn5W5klw8pKFcVdJd8edKiWlm6Y+egMCy8bj3+WQR6zxcXrUXCqb3ItRsJR0oc2Wn6eq4Bcm8EQ3C5CIn0cyOOBVKJvWpYURvh++r7U595DejKjdSSJVIYxp+RIis+J5UZqlTcqdTHD/sEz8=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-157577 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba943b58a05" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>17.12.22 Versión estenográfica. Diálogo con la comunidad de San Francisco de Lajas, desde Durango</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 17.12.22 Versión estenográfica. Diálogo con la comunidad de San Francisco de Lajas, desde Durango 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-157577" class="post-157577 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2022/12/17-12-2022-Presidente-AMLO-Dialogo-con-la-comunidad-de-San-Francisco-de-Lajas-Durango-Foto-10.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2022/12/17-12-2022-Presidente-AMLO-Dialogo-con-la-comunidad-de-San-Francisco-de-Lajas-Durango-Foto-10-745x450.jpg" alt="17.12.22 Versión estenográfica. Diálogo con la comunidad de San Francisco de Lajas, desde Durango" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">17.12.22 Versión estenográfica. Diálogo con la comunidad de San Francisco de Lajas, desde Durango</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2022: Año de Ricardo Flores Magón, precursor de la Revolución Mexicana</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>:Amigas, amigos de San Francisco de Lajas, de comunidades, de pueblos, de este municipio de Pueblo Nuevo, Durango.</p>
+<p>Me da mucho gusto estar con ustedes, cumplir el compromiso que hicimos de visitarles y ponernos…</p>
+<p><strong>MARTÍN BAUTISTA ANICETO, CIUDADANO REPRESENTANTE DE SAN FRANCISCO DE LAJAS: </strong>¡Señor presidente, permítame hablarle, por favor!</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> A ver.</p>
+<p><strong>MARTÍN BAUTISTA ANICETO:</strong> Buenas tardes, señor presidente. Es que ahora no estoy nervioso, señor presidente.</p>
+<p>Más que nada agradecerle de corazón por haber tomado aquel día la palabra y escucharme de visitarnos aquí en su humilde casa, San Francisco de Lajas. Nadie creía que usted iba a estar aquí, pero, mire, ahorita aquí lo están viendo todos, lo estamos viendo todos. Aquí está el señor presidente.</p>
+<p>¿Qué nos quiere decir? ¿Qué nos demuestra el señor presidente para todos?</p>
+<p>Que lo que él dice, lo cumple; lo que él promete, lo cumple.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2022/12/Dialogo-comunidad-San-Francisco-de-Lajas_2022-12-17-1.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/G4aoBm789A8?t=4229" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Él nos dijo que había muchas comunidades como nosotros que le pedían que los visitara; él dijo claramente que no podía con todos, pero que iba a hacer la lucha de estar este día u otro día aquí en nuestra comunidad.</p>
+<p>Y qué bueno, señor presidente, que no fueron muchos días ni muchos meses para que esté aquí y visite nuestra comunidad, y para que vea cómo realmente vivimos nosotros aquí los indígenas en las regiones más alejadas.</p>
+<p>Ahorita sabemos que trae su tiempo limitado. Nosotros, todos queríamos aquí que escuchara nuestros dolores, lo que nos duele nuestra comunidad. Nos dieron un informe, qué bueno, de todos los programas que usted nos da, les da, con lo que apoya, pero nosotros quisiéramos más aquí, compañeros, que los escuchara para ver lo que nos hace falta de verdad, de años anteriores, no de décadas atrás.</p>
+<p>Lo primordial, ya lo dijimos y siempre le vamos a estar diciendo, que son las carreteras, pero algo muy importante, por ahí se les pasó también a los compañeros: la minería, señor presidente.</p>
+<p>Aquí nuestro pueblo, nuestra región indígena es rica en minería y por aquí nos las han estado expropiando, son dueños otras personas, no nos dejan trabajar, a nuestra gente que usted ve aquí no la dejan trabajar.</p>
+<p>Por ahí hay lugares que se están trabajando, pero por otras personas, y están en nuestras tierras; o nos hacen creer, bueno, nos hacen creer que no son de nosotros. Es por eso que le pedimos de nuevo que por favor tome cartas en eso, señor presidente, con… Apúntele. No se crea.</p>
+<p>Una cosa muy importante, señor presidente, es que vuelva a usted, o no usted, pero sí alguien de su mano derecha de confianza y venga a revisar estos compromisos que ahorita nos está haciendo nuestro gobernador. No le podemos decir nada al gobernador porque acaba de entrar. Tenemos toda la confianza en usted, esas palabras las tenemos bien grabadas todos. ¿Verdad, compañeros?</p>
+<p><strong>VOCES A CORO: </strong>¡Sí!</p>
+<p><strong>MARTÍN BAUTISTA ANICETO:</strong> Aquí hay un compromiso que sí lo queremos hacer y que esperemos que ya esté, y eso va para nuestro señor presidente municipal.</p>
+<p>Señor presidente municipal:</p>
+<p>Usted hizo un compromiso de una carretera de La Ventana a Maíz Gordo, que iba a empezar de La Ventana a Maíz Gordo. Usted dijo que el presupuesto ya estaba, que nada más que en cuanto ganara iba a entrar en función ese camino, y usted ya lleva seis meses y no ha vuelto a la comunidad.</p>
+<p>Entonces, señor presidente municipal, es por eso que ya no creemos, pero ahorita, señor gobernador, en usted están puestas nuestras miradas, nuestra fe, nuestra confianza. Que este pueblo, señor gobernador, se levante, que crezca, que lo vea el mundo exterior, que nos conozcan, que nuestra lengua en educación, que lengua es au’dam. Por ahí nos dicen o’dam. Somos au’dam, au’dam, por favor, y que seamos reconocidos como au’dam.</p>
+<p>Señor presidente, si ya no regresa, que esto es histórico, esto va a quedar para la historia en San Francisco de Lajas, pero sí, por favor, que dé órdenes y diga: ‘Vayan a ver a San Francisco de Lajas, a ver si es cierto que les están cumpliendo’, pero mande uno de su mano derecha, no mande el de la izquierda.</p>
+<p>Y nosotros aquí, señor presidente, somos dos comunidades indígenas, nada más, San Bernandino de Milpillas y San Francisco de Lajas, somos las únicas de Pueblo Nuevo. Bueno, Taxicaringa agarra, abarca parte de Mezquital, pero no se ofendan, también están aquí.</p>
+<p>Y visítenos otra vez.</p>
+<p><strong>INTERVENCIÓN:</strong> ¡Ya deja hablar al presidente!</p>
+<p><strong>MARTÍN BAUTISTA ANICETO: </strong>Ahorita va a hablar, porque nunca viene.</p>
+<p><strong>INTERVENCIÓN:</strong> Buenas tardes, señor presidente.</p>
+<p>Mire, no le quiero quitar mucho tiempo, pero sí me da mucho gusto que esté aquí con nosotros y esperemos que la próxima sea en San Bernardino de Milpillas, que así sea la visita.</p>
+<p>Y yo confío, señor, en usted, que nos va a visitar y pronto, porque usted está con los pobres, usted está con los indígenas y se ha visto, señor presidente. Muchas gracias.</p>
+<p>No le quito más tiempo.</p>
+<p><strong>INTERVENCIÓN:</strong> Buenas tardes, señor presidente, un presidente tan adorado por todo el pueblo y por los países que hay en el mundo. Agradecemos su visita enormemente a Durango</p>
+<p>Me permito tomar la palabra con todo respeto hacia los presentes para hacerle saber, presidente, que es urgente la creación de una nueva clínica del Issste en el estado de Durango.</p>
+<p>Esta clínica fue construida en 1974 para alrededor de 40 mil derechohabientes, ahorita la cifra está de 340 mil 648. Mi gobernador presente no me dejara mentir que en días pasados cuando hubo lluvias se inundaron los cuneros, las alcantarillas del drenaje están destruidas totalmente, el área de urgencias pasó muchos estragos, hay falta de medicamentos, hay falta de personal médico, de enfermería, no nos damos abasto, señor presidente. A pesar que ya no trabajo en la delegación del Issste, yo me di cuenta de la necesidad de este instituto tan valorado por el sector federal.</p>
+<p>Entonces, sí le pido de corazón que usted tome el tema en sus manos, porque solamente usted puede hacer el cambio en Durango, señor presidente. Y si no es usted ahora, ¿cuándo?, nunca.</p>
+<p>Entonces, yo le entrego esto en sus manos, señor, y sabedora estoy de que lo va a hacer.</p>
+<p>Gracias.</p>
+<p><strong>INTERVENCIÓN:</strong> Muy buenas tardes a todos los integrantes de este honorable presídium.</p>
+<p>Agradecerle, señor presidente de la República, licenciado Andrés Manuel López Obrador. Yo creo que es un honor, un orgullo, tenerlo aquí en esta comunidad vecina de San Bernardino de Milpillas Chico.</p>
+<p>Pues agradecerle una vez más la venida, porque yo creo que pocos presidentes de la República lo han hecho en el transcurso de los 70 años, y yo creo que se le agradece, señor presidente.</p>
+<p>De antemano, aquí somos dos comunidades indígenas hermanas que carecemos de las mismas necesidades. Ya oímos ahorita a nuestro comisariado de aquí de San Francisco de Lajas, consternando por ahí las necesidades que tienen. Yo creo que nosotros como comunidad de San Bernandino también carecemos también de esas mismas necesidades, y yo creo que en Plan de Justicia ya lo tenemos plasmado por el cual participamos nosotros desde el inicio en el proceso de este Plan de Justicia.</p>
+<p>Y yo creo que agradecerles también a los hermanos, a las diferentes etnias de los diferentes estados que estuvieron presentes e hicieron el esfuerzo también por llevar a cabo que este Plan de Justicia se plasmara en un documento y que llegara a estar en conocimiento aquí con nuestro presidente de la República.</p>
+<p>Y le pedimos de favor que vea las necesidades. Una de las necesidades más prioritarias, ya lo mencionaron, y yo pienso que es la que debemos de iniciar, que es el camino. El camino es una necesidad que tenemos prioritaria, así se puede llamar, porque teniendo el camino ya reconstruido se nos facilitan todas las cosas, se nos abaratan todos los insumos que consumimos aquí, todo el enfermo que está aquí, que a veces se nos acaba, se nos acaba por el camino por el movimiento. Sabemos que está pesimamente, completamente destruido.</p>
+<p>Pues gracias al señor gobernador del estado, que a lo mejor, como ya anda ahorita lo mencionaba, que va a poner una ambulancia aérea, pues está bien, se lo agradeceríamos, señor gobernador.</p>
+<p>Pues aquí yo creo que vamos a ser breves, ya no hablar tanto, yo creo que ya se plasmaron todas las necesidades.</p>
+<p>Aquí lo único, señor presidente, pues nada más dos cosas:</p>
+<p>Una, que se iniciara el camino ya cuanto antes entrando el año. Nosotros somos una empresa de San Bernandino que por el cual tenemos una constructora y tenemos parte del equipo también, tenemos nuestros ingenieros civiles por el cual personal que puede intervenir ya en estos trabajos.</p>
+<p>Y otra de las principales necesidades es que la gente de Milpillas también queremos sentirnos orgullosos.</p>
+<p>Hacerle invitación allá para que nos acompañe en el transcurso de su periodo, señor presidente. ¿Sí o no, milpilleros?</p>
+<p><strong>VOCES A CORO</strong>: ¡Sí!</p>
+<p><strong>INTERVENCIÓN:</strong> Lo esperamos allá en nuestra comunidad de San Bernardino.</p>
+<p>Y, pues, muchas gracias, señor presidente. Ojalá, como dijo el compañero, anótelo en su agenda para que no se le olvide.</p>
+<p>Y muchísimas gracias, agradecido y, en nombre de todas las autoridades aquí presentes, pues muchísimas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>:Adelante.</p>
+<p><strong>INTERVENCIÓN:</strong> Muy buenas tardes, compañeros. (Habla en lengua indígena)</p>
+<p>Nada más agradecerle, darle la bienvenida a nuestro presidente, de que sí está muy bien, estamos muy unidos, de acuerdo, quisiéramos que aquí también con el permiso del gobernador de Lajas y también el comisariado, que nos dé chancita de perdida saludarlo, porque como que ya no nos iban a dar chance de platicar, bueno, de perdida saludarlo. Mucho gusto de saludarlo.</p>
+<p>Entonces, sí lo invitamos. Todo lo que ya dijimos ya está plasmado en el Plan de Justicia, carretera, caminos, entonces ya nada más estamos esperando que a ver cuándo.</p>
+<p>Entonces, sí lo invitamos a Milpillas, a ver cuándo, en este periodo, antes de que salga usted lo invitamos.</p>
+<p>Muchas gracias.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong>Bueno, pues me da gusto estar aquí con ustedes. Estamos cumpliendo con el compromiso de visitarles y vamos a cumplir también con el programa de desarrollo social que incluye varias acciones.</p>
+<p>Como ustedes saben, ya se está actuando desde cuatro años, desde que llegamos a la Presidencia comenzaron programas que no se realizaban en los gobiernos anteriores. Por ejemplo, estaba yo viendo que ustedes pertenecen al municipio de Pueblo Nuevo y el municipio de Pueblo Nuevo tiene, de acuerdo al último censo, 51 mil 269 habitantes, tiene 12 mil 62 viviendas, 12 mil 62 familias. Y ya están recibiendo apoyos: de esas 12 mil viviendas, en casi 15 mil.</p>
+<p>Se puede decir: ‘¿Cómo es que son 12 mil viviendas y reciben en 15 mil?’ Porque hay viviendas en donde no sólo se recibe un apoyo, sino dos o tres.</p>
+<p>Entonces, les puedo decir, les puedo garantizar que en casi todos los hogares de Pueblo Nuevo llega cuando menos un programa. Si no es de Jóvenes Construyendo el Futuro son las becas para primaria, para secundaria, para preparatoria, para universitarios.</p>
+<p>Por ejemplo, todos los adultos mayores del municipio tienen pensión, y eso antes no sucedía. Y les tengo buenas noticias porque ya para el 1º de enero del año próximo hay un aumento a la pensión del adulto mayor de 25 por ciento y en enero del 24 otro 25 por ciento, cuando yo termine va a ser cinco veces más de cuando inicie el gobierno el apoyo para los adultos mayores.</p>
+<p>Entonces, también se reciben apoyos para niñas, niños con discapacidad, y también madres solteras reciben apoyos para sus hijos, y lo que era el Procampo ahora es Producción para el Bienestar y se sigue entregando.</p>
+<p>Y también está ya en marcha en Pueblo Nuevo, hay que ver si está aquí en San Francisco el programa de Sembrando Vida. Sí, también se está aplicando aquí.</p>
+<p>Entonces, no estamos comenzando, ya están llegando los beneficios.</p>
+<p>También el programa La Escuela es Nuestra, que consiste en que se les entrega un presupuesto para darle mantenimiento a los planteles educativos, también está llegando a las comunidades del municipio.</p>
+<p>Les doy otra buena noticia, ya para el año próximo se van a entregar fertilizantes gratuitos a todos los productores y aquí en Pueblo Nuevo están en construcción dos sucursales del Banco del Bienestar, seguramente una en la cabecera municipal y otra debe de ubicarse, no sé si ya tengan el terreno, si se esté construyendo en otra comunidad, en anexo de Pueblo Nuevo ya está construida, esa es una, y en El Salto la otra. Entonces, hay que ver si se puede por acá construir, porque está muy lejos, aquí el general Sandoval tiene esa encomienda.</p>
+<p>Faltan algunas sucursales. Ver si es posible, ya sea aquí en San Francisco o en Milpillas, donde esté más céntrico, ya ustedes lo van a decidir, para que todos los apoyos se entreguen de manera directa, con la tarjeta se va al Banco del Bienestar y de ahí se saca el apoyo. Que no se mande con nadie porque se puede quedar en el camino o puede haber moche y no llegue; va a ser con tarjeta, para que cada quien saque lo que por derecho le corresponde.</p>
+<p>Entonces, ya se empezó, pero tienen razón ustedes, es tanto el abandono que hacen faltan muchas cosas todavía. Entonces, vamos a reforzar todas las acciones del gobierno con este plan de desarrollo para esta región, este pueblo au’dam, que pertenece a la cultura de los tepehuanos. En esta región hay coras, hay huicholes, hay tepehuanes, mexicanos, es una región pluricultural de Nayarit, de Durango y Zacatecas, también de Jalisco.</p>
+<p>Entonces, vamos a dar respuesta a sus necesidades. La verdad es que ya está todo el plan de bienestar echado a andar, ya tenemos las obras que se iniciaron y que debemos de terminar para no dejar nada inconcluso.</p>
+<p>Por ejemplo, fuimos, antes de venir aquí, estuvimos en Ruiz, Nayarit, y ahí se había quedado desde hace 10 años una obra llamada Canal Centenario, para riego de Ruiz y de Rosamorada y de Tuxpan y de todos esos municipios de Nayarit, y ya la estamos construyendo, se está avanzando, y vamos a terminar en diciembre del año próximo ya todo el plan, va a ser un distrito de riego que le vamos a poner ‘Alejandro Gascón Mercado’, que era un luchador social de Nayarit, y van a regarse como 40 mil hectáreas. Entonces, ya estamos avanzando en eso.</p>
+<p>También, mañana vamos a visitar la presa de Santa María, en el Rosario, en Sinaloa, y también en diciembre ya se termina.</p>
+<p>Entonces, ya son obras que están en proceso.</p>
+<p>Les puedo hablar allá del sureste, estamos construyendo mil 554 kilómetros de Tren Maya, de ferrocarril de pasajeros, es como ir de aquí a la Ciudad de México, mil 554 kilómetros, y los tenemos que terminar también en diciembre. Entonces, ya tenemos compromisos que vamos a cumplir.</p>
+<p>Vamos a tener, y este es un compromiso, todo el sistema de salud, porque vamos a hacer valer el derecho del pueblo a la salud de calidad, con todos los medicamentos, con médicos, con especialistas y de manera gratuita antes de que yo termine.</p>
+<p>De modo que ya tenemos trabajo, bastante, pero aquí nos plantean otros compromisos y sólo por tratarse de ustedes, porque se los digo de manera sincera, atendemos a todos, escuchamos a todos, pero la preferencia se le da a la gente humilde, por el bien de todos, primero los pobres, por eso vamos a llevar a cabo el Plan de Justicia.</p>
+<p>Vamos a empezar por los caminos y sí hago el compromiso que, en los primeros tres meses, el primer trimestre del año próximo comenzamos a construir los caminos. Aquí nos va a ayudar Esteban,que ya se comprometió.</p>
+<p>Y está aquí el secretario de Comunicaciones y de Obras Públicas del gobierno federal, Jorge Nuño, que ya tomó nota; y está aquí el subsecretario de Hacienda, el que maneja el presupuesto. Y vamos a que se pongan de acuerdo y se inicie ya lo de los caminos.</p>
+<p>Lo mejor es que los hagan ustedes mismos con mano de obra de las comunidades, de mujeres, de hombres, para que el presupuesto quede en la comunidad, en los pueblos, que no sean empresas de otras partes que llegan y hacen hasta mal la obra, sólo una capita de pavimento que con las lluvias se destruye y vuelve a ser el camino de terracería, no, tiene que ser así como esta cancha de concreto, y con buen sistema de drenaje, que aguante las lluvias y eso se puede hacer si hay organización en las comunidades.</p>
+<p>También el coordinador de pueblos indígenas, Adelfo Regino, va a hacerse cargo de coordinar este esfuerzo. Esto lo estamos haciendo en Oaxaca, lo estamos haciendo en los pueblos yaquis y en otras regiones indígenas del país.</p>
+<p>Entonces, vamos a empezar con el camino.</p>
+<p>También me comprometo a hablar con el director de la Comisión Federal de Electricidad para resolver lo del cableado de energía eléctrica. Vamos a hablar con el licenciado Bartlett para que envíe una brigada, se analice la situación del tendido de las líneas, y cómo está este plan que quedó inconcluso para que podamos llevar a cabo la electrificación de las comunidades y de los pueblos. Ese también es un compromiso.</p>
+<p>Vamos a que venga la subsecretaria de Desarrollo Urbano para ver lo de los programas de vivienda que están planteando.</p>
+<p>Me acompaña Zoé Robledo, que es el director el Seguro Social, que está aquí y va a ponerse de acuerdo con el gobernador para que se aplique el programa IMSS-Bienestar aquí en las comunidades; es decir, que haya médicos, que haya especialistas, que haya medicinas, que haya servicio de salud, aquí donde más se requiere.</p>
+<p>También, con Educación se va a ver lo de la universidad, ponerse de acuerdo para la universidad que se quiere crear aquí. Raquel Sosa puede ayudarnos. Vamos a también Adelfo Regino nos ayude, como están hablando con Esteban, y que se pueda dar respuesta a esta necesidad.</p>
+<p>Yo hago el compromiso de que va a haber el internet gratuito, ya estamos trabajando en eso. Cuando empezamos hicimos ese compromiso y pensábamos que era fácil, que era una buena tortilla con chile y frijol, pero no, no, es un asunto complejo desde el punto de vista tecnológico.</p>
+<p>Lo pintaban muy bonito los técnicos, que no iba a haber problema, y no, es bastante complicado. Ahora sí vamos a poder, porque ya estamos instalando como cinco mil antenas en todo el país para garantizar que haya el internet gratuito, y antes de que yo termine tiene que haber internet gratuito en todo el territorio, en todas las comunidades.</p>
+<p>Ya está aquí el subsecretario de Bienestar, el encargado del programa Sembrando Vida, todo lo que se necesite de ampliar el programa. Aquí estaba yo viendo en Pueblo Nuevo, ya están en el programa mil 287 sembradores, pero se puede ampliar para lo que se comentaba de la reforestación para sembrar árboles frutales y maderables.</p>
+<p>Y Esteban hablaba de los servicios ambientales. Es muy importante el que se lleve a cabo la conservación de los bosques. Entonces, el compañero de Bienestar va a estar también aquí con ustedes para atender esta demanda.</p>
+<p>Una pregunta: aquí en San Francisco de Lajas, ¿cuántos sembradores hay?</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ, SUBSECRETARIO DE INCLUSIÓN PRODUCTIVA Y DESARROLLO RURAL DE LA SECRETARÍA DE BIENESTAR:</strong> Cincuenta.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>:Cincuenta.</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ:</strong> Veinte y cinco y 25.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Veinte y cinco ¿en dónde?</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ:</strong> Aquí en San Francisco de Lajas, en dos partes.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> O sea, son 50.</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ:</strong> Es que está dividido, 12 y 12.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Pero ¿cuántos sembradores?</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ: </strong>Veinte y cuatrosembradores.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Veinte y cuatro aquí. Entonces, hay que ampliarlo, y se les va a seguir dando el apoyo.</p>
+<p>No es empleo temporal, es ya un programa que va a continuar hasta que termine nuestro gobierno. Entonces, vamos a que se amplíe el programa.</p>
+<p>A todos se les está entregando un apoyo. ¿Cuánto se les da de…?</p>
+<p><strong>HUGO RAÚL PAULÍN HERNÁNDEZ:</strong> Cinco mil.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Y cuánto va a ser el aumento ahora?</p>
+<p><strong>INTERVENCIÓN: </strong>Seis mil.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Por lo menos seis mil. Bueno, es buena noticia, para enero, muy bien.</p>
+<p>Se autoriza lo de la gasolinera del Bienestar, aquí se lo encargamos a la secretaria de Bienestar para que también se ubique en el lugar más adecuado que tengan ustedes.</p>
+<p>También decirles… Estuve apuntando. Sí me van a esperar, ¿verdad?, a que yo encuentre mi papel.</p>
+<p>El asunto agrario con Adelfo, él va a ayudar, y con la Procuraduría Agraria, también con el gobernador, para la cuestión de los límites.</p>
+<p>Una pregunta al director, coordinador, presidente del comisariado del consejo de vigilancia o de las tierras comunales. ¿Cuántas hectáreas tienen aquí en San Francisco?</p>
+<p><strong>MARCELO CERVANTES NEPOMUCENO:</strong> Tenemos nada más 97 mil de 120 mil.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Noventa y siete mil. ¿Son las tierras comunales?</p>
+<p><strong>MARCELO CERVANTES NEPOMUCENO:</strong> Sí, comunales.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> ¿Y ya se ha hecho un deslinde, un replanteo de todo?</p>
+<p><strong>MARCELO CERVANTES NEPOMUCENO: </strong>No.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR</strong>: ¿Eso es lo que están pidiendo?</p>
+<p><strong>MARCELO CERVANTES NEPOMUCENO:</strong> Sí, que se deslinde.</p>
+<p>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: ¿Y en dónde piensan ustedes que está el resto, hacia dónde?</p>
+<p><strong>MARCELO CERVANTES NEPOMUCENO:</strong> Hacia Nayarit y en Quiviquinta, también de Nayarit.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Está bien.</p>
+<p>Es como lo de los yaquis, parecido, y también como los huicholes, pero aquí con Adelfo, a ver hasta dónde podemos llegar, lo vemos.</p>
+<p>Lo de la minería, nada más informarles que desde que llegamos no hemos dado ninguna concesión minera, porque los gobiernos anteriores se dedicaron a entregar concesiones. Nada más para que tengan una idea, nuestro territorio, México, tiene 200 millones de hectáreas, eso es México, 200 millones de hectáreas.</p>
+<p>Y en el periodo neoliberal, en los últimos 30 años, antes de que llegáramos nosotros entregaron concesiones por 120 millones de hectáreas, el 60 por ciento de todo el territorio nacional fue concesionado. Muchos comuneros, ejidatarios, pequeños propietarios, ni siquiera saben que ya lo que está debajo de sus tierras ya está concesionado. Por eso, ni una concesión más para empresas extranjeras o grandes empresas nacionales.</p>
+<p>Si hace falta, para que haya empleos, tiene que ser como aquí se planteó, en beneficio de nuestro pueblo, de las comunidades, de los pueblos originarios. Ese también es un compromiso que estamos haciendo.</p>
+<p>Y todo lo que tiene que ver con un mineral que es como el oro de antes o como el petróleo, que le llaman el oro blanco, que se llama litio, que seguramente hay en toda esta sierra y es el que se utiliza para la elaboración de las baterías, porque ya todo va a ser eléctrico hacia el futuro y si no hay ese mineral no se va a poder llevar a cabo la transformación de toda la industria automotriz, entonces ya en el gobierno nuestro tomamos la decisión que ese mineral es propiedad de la nación, es propiedad de todos los mexicanos, no se va a entregar a ningún particular, ni nacional ni extranjero, es para beneficio del pueblo de México.</p>
+<p>También decirles que vamos a tomar en cuenta lo que están planteando del Issste, con Esteban, con Zoé. Aunque él es del Seguro Social, él va a recoger esta petición.</p>
+<p>En el caso de la Laguna, por ejemplo, sí se tiene contemplado hacer un hospital nuevo en Torreón, que pertenece a Coahuila, pero también estamos comprometidos con equipar bien y que haya médicos y que haya especialistas en el hospital de Gómez Palacio, que es un hospital muy grande.</p>
+<p>Porque antes lo que hacían era hacer la construcción, construir, porque ahí estaba la transa, el moche, con las empresas constructoras y no les importaba si se equipaba y mucho menos si iban a tener médicos y si iban a tener medicinas, todo era corrupción.</p>
+<p>Entonces, ya eso se termina. En el caso de Durango quedó este hospital, que es enorme, muy grande, que tiene que funcionar muy bien, ponerse de acuerdo.</p>
+<p>Y el otro hospital de Durango capital, que también es nuevo, también lo construyeron ese mecanismo, pero que tiene capacidad para atender a muchos pacientes.</p>
+<p>Y lo mismo, como ya lo dije, hacer una revisión, un diagnóstico de unidades médicas, de centros de salud, de hospitales rurales en el estado de Durango.</p>
+<p>Para terminar, les comento lo siguiente: ya hicimos los compromisos, y los compromisos se cumplen, y para que no quede sólo en palabras —decía el general Múgica: ‘Hechos, no palabras’— hago el compromiso con ustedes de que voy a estar en seis meses de nuevo aquí, en junio estoy aquí con ustedes. Pero pónganse de acuerdo los de San Francisco con Milpillas, pónganse de acuerdo.</p>
+<p><strong>INTERVENCIÓN:</strong> ¡En Milpillas!</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: </strong>Por eso. No me voy a poner aquí a deliberar sobre en dónde, eso es un asunto de ustedes, pónganse de acuerdo. Yo vengo aquí o vengo a Milpillas, pero ustedes me van a decir dónde, ¿de acuerdo?</p>
+<p>Yo creo que, si ya estuve aquí, que yo esté allá, porque… ¿Les parece? Y después no sabemos, pero si me da tiempo de regresar a lo mejor ya regresamos aquí o vamos a otra comunidad, a otro pueblo. ¿De acuerdo?</p>
+<p>Entonces, en seis meses hacemos la evaluación y ya vamos a ir a ver ya la construcción de los caminos, ya de las obras. No vamos a estar de nuevo hablando, sino ya venir a ver cómo va el avance de las obras.</p>
+<p>Bueno, pues me dio mucho gusto estar aquí con ustedes en San Francisco de Lajas.</p>
+<p>Muchas gracias de todo corazón.</p>
+<p>Muchas gracias.</p>
+<p><strong>MODERADOR: </strong>Les solicitamos guardar el debido respeto para entonar nuestro Himno Nacional mexicano interpretado por las niñas y niños en lengua au’dam.</p>
+<p><strong>(HIMNO NACIONAL)</strong></p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>

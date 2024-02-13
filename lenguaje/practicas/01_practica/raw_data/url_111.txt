@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>05.10.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "0b978ae4e5";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "20";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=07eb3880b0e14905a7fb02b733091ec2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1693194648' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://presidente.gob.mx/wp-includes/css/dashicons.min.css?ver=07eb3880b0e14905a7fb02b733091ec2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1693194648' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css'  href='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14'  type='font/woff2' crossorigin />
+<!--n2css--><script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.2.1","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.2.1' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.2.1' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.2.1' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.7' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.2.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/05-10-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=166265' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F05-10-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F05-10-23-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.7 -->
+<script type="text/javascript">
+    var analyticsFileTypes = [];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			.header.type-1 .header-middle {
+    background-color: #602332;
+}
+
+#footer .footer-top {
+    padding: 3.75rem 0;
+    background-color: #602332;
+}
+
+#footer .footer-bottom {
+    background-color: #602332;
+    padding: 2.5rem 0;
+    position: absolute;
+    width: 100%;
+    min-height: 90px;
+    bottom: 0;
+    border-top: 4px solid #602332;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+#footer .footer-bottom .copyright, #footer .footer-bottom .developed {
+    color: #602332;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.75rem;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xpnboaqxh7t5ezn2sr5q-f-a50c6f0a4-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":33,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1bd7772","ak.r":45625,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"187.218.23.0","ak.cport":38991,"ak.gh":"23.62.23.210","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1706726523","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==OBgFUFzkg66gtG7qROrsJIyMY7PYHJI9RUNKPmfcYlZjPNJt/Ue1zGjniW9H5AAQNNXNTcTsuRN4EZ4K8wp5294I6EePYIrfbMFwVbcGoTpNBwl1fVRl6UPf/sbdqO+hG11c+huCgNZTrj4tLjST9ouIMF98+rWTFB6agUohu+zKXDyzWPu1hnr7VPWq+8+sFT18fhU0fpiQsQxjFZnE/ONO9QH1p0Dkr6JRxoaME2m6ffWtpUvSrlpoyLr5khph7y9AXEPCmmprN9ZwZgZjw2LTytAh7yckCcEchNzW+yRqRW9+JNvlitlDS5MoYiRXCagSn0l5yg4rVTjxnNsHdWJygbSkw/TVnuZtVQ0dkn0551oHnOQlLF1cf2eEdogfGfU5SHBLA04YIdOJukLscKRIanrAYzFXyOfkY8IZFnM=","ak.pv":"27","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-166265 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/wordpress/wp-content/themes/diplomat/header-socials.php</b> on line <b>8</b><br />
+
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2023/12/portada-Carrillo-Puerto-2024-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a>
+	<ul class="sub-menu">
+		<li id="menu-item-158543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158543"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/">Fotogalerías. Reuniones estatales del Banco del Bienestar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-165137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165137"><a href="https://presidente.gob.mx/5-informe-de-gobierno/">5° Informe de Gobierno</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-65ba92f7d20f1" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>05.10.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 05.10.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-166265" class="post-166265 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2023/10/2023-10-05-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2023/10/2023-10-05-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05-745x450.jpg" alt="05.10.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">05.10.23 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2023: Año de Francisco Villa, el revolucionario del pueblo</em></p>
+<p>&nbsp;</p>
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/00d1UDosDxSLLlpvqPau8v?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Buenos días.</p>
+<p>Nos da muchísimo gusto que nos acompañan en esta ocasión quienes cuidan las áreas naturales protegidas de nuestro país, que están aquí como invitadas, invitados especiales, son los que cuidan la selva, los bosques, los humedales, manglares, la flora, la fauna de nuestro país. Es una labor importantísima, es apostar por la vida. Por eso, nos da mucho gusto que estén con nosotros.</p>
+<p>Y vamos a informar sobre las áreas naturales protegidas, cómo vamos en esta materia. Se ha avanzado, pero no se ha informado mucho, y es importante, interesante, el que se sepa sobre esta riqueza natural de nuestro país y cómo se está cuidando, cómo se está conservando. Vamos a que María Luisa nos informe.</p>
+<p><strong>MARÍA LUISA ALBORES GONZÁLEZ, SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES:</strong> Gracias, presidente. Buenos días a todas y a todos. Con su permiso, presidente. Saludo con muchísimo gusto a mis compañeras y a mis compañeros. El día de hoy nos acompañan los nueve regionales que se encargan de trabajar directamente con las y los directores de las diferentes áreas naturales protegidas, también con los guardaparques, subdirectores y oficinas centrales, que hacen posible que podamos tener este cuidado que mencionó nuestro presidente.</p>
+<p>Inicio compartiendo, informando las áreas naturales protegidas que se logran y que son decretadas por nuestro presidente, licenciado Andrés Manuel López Obrador.</p>
+<p>La primera lámina, de favor. ¿Y cuál es la importancia de nuestro país? Como ustedes bien saben, tenemos, somos el quinto país más diverso en flora y fauna; esto nos da un compromiso y una responsabilidad.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2023/10/Conferencia-matutina_2023-10-05.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/T0ijouA1nbw?t=859" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>El presidente, el licenciado Andrés Manuel López Obrador, instruye crear áreas naturales protegidas con este objeto de cuidado, conservación, pero que las trabajemos directamente con las comunidades. Estas áreas naturales protegidas han surgido por el interés y por luchas legitimas del pueblo para el cuidado y la defensa del territorio. Compartir y recordar que así surge San Miguelito, así surge lago de Texcoco, donde es una petición directa de quienes son defensoras y defensores directamente a nuestro presidente.</p>
+<p>Los territorios más conservados y con ecosistemas más diversos están justo custodiados por nuestros pueblos originarios. Por primera vez en la historia del país, el presidente determina que tierras federales, como el caso de Fonatur, tuvieran un objeto de cuidado y conservación para el bienestar de las y los mexicanos, y no para hacer negocios. Eso también es histórico.</p>
+<p>La primera, por favor. Compartir al pueblo de México que este es el planteamiento de la Comisión Nacional de Áreas Naturales Protegidas con la Semarnat. El planteamiento es que nuestro presidente no sea el segundo presidente con más áreas naturales protegidas, sino que sea el primer presidente con el mayor número de áreas naturales protegidas decretadas. Aquí podemos ver, el planteamiento es que sean 43 áreas naturales protegidas y que las podamos lograr en diciembre 2023.</p>
+<p>La siguiente. ¿Y cómo vamos? ¿Cómo vamos en este quehacer? Compartirles a todas y a todos los mexicanos que llevamos 21 áreas naturales protegidas de las 43. Vamos sumando de estas 182 que, cuando nosotros llegamos a la administración había y ahora llevamos 203. De estas, llevamos una superficie, entre superficie terrestre y superficie marina, 91 mil 608 327 hectáreas, 91 mil millones.</p>
+<p>La primera, por favor. Hago un recuento muy rápido de cómo iniciamos nosotros este trabajo. Recordar, la primera área natural protegida decretada el 13 de diciembre de 2021 fue el caso Sierra de San Miguelito con 111 mil 160 hectáreas, trabajamos con 36 núcleos agrarios en cuatro municipios. Y tenemos presiones, presiones de desarrollos inmobiliarios, de crecimiento urbano y, en este sentido también, de minería a cielo abierto.</p>
+<p>Esta área natural protegida es muy importante. Recordar que en el sexenio pasado destruyen lo que es Cerro San Pedro, la minera San Javier, y Cerro San Pedro, era un símbolo justo del estado de San Luis Potosí. Entonces, por eso era importante esta área natural protegida, sobre todo por el valor ambiental.</p>
+<p>Contribuye a la provisión de importantes servicios ambientales como la recarga a 15 presas de la región. Es hogar de más de mil especies de flora y fauna, entre ellos 280 endémicos, sólo están en este espacio, y 55 de alguna categoría en riesgo, como el águila real.</p>
+<p>La siguiente, por favor. Otra área natural protegida que viene desde la lucha de los pueblos por más de 20 años, de las compañeras y compañeros del frente en defensa de la tierra, mejor conocidos como Atenco. Esta área de protección de recursos naturales se logra con 14 mil hectáreas, se trabaja ya con 16 núcleos agrarios en cinco municipios del Estado de México y tienen el siguiente valor ambiental: principal vaso regulador hídrico del Valle de México; regula nuevos ríos del oriente y las aguas de la Ciudad de México, la ciudad más grande de nuestro país; es el refugio para aves acuáticas migratorias, más de 200 mil aves. Y esta declaratoria reconoce la lucha de estos pueblos en defensa de su tierra, de su dignidad y de su vida.</p>
+<p>La siguiente, por favor. Área natural protegida Jaguar, de dos mil 249 hectáreas, decretada el 27 de julio del 2022. Esta está ubicada en lo que es Tulum, muy pegada a lo que es Parque Nacional Tulum- Y logramos hacerla cuatro veces más grande que Parque Nacional Tulum, que es de 664 hectáreas. Es muy importante porque tenemos presiones ahí de crecimiento urbano, de desarrollos inmobiliarios, de turismo no sustentable.</p>
+<p>¿Y acá qué cuidamos?</p>
+<p>Cuidamos el hábitat de 565 especies de fauna, 81 de animales bajo alguna categoría de riesgo, y destaca la conservación del jaguar, símbolo sagrado de las culturas mesoamericanas. Es cuatro veces más grande lo que comentaba, y acá tenemos cuatro tipos de manglares, son humedales.</p>
+<p>La siguiente, area de protección de recursos naturales Peña Colorada, es de cuatro mil 843 hectáreas, se declara en mayo de este año, y abarca dos municipios: Querétaro y El Marques.</p>
+<p>¿Qué presiones se tienen ahí?</p>
+<p>Las presiones de crecimiento urbano, de desarrollo inmobiliario. Cuidamos 250 especies vegetales, 170 de fauna, forma parte del corredor que sigue la mariposa monarca.</p>
+<p>Esta declaratoria culmina la lucha de 19 años para proteger este territorio y contribuye a la protección de las zonas de filtración de agua que suministran este vital líquido a más de un millón de habitantes, de queretanas y queretanos de la capital.</p>
+<p>La siguiente, la siguiente. Pues como es conocido, nuestro presidente instruye que podamos en los terrenos que pertenecían a Fonatur crear áreas naturales protegidas. Son 17 mil 918 hectáreas, más de… Ecosistemas protegidos en seis estados de la república, y a partir de ellos creamos seis parques nacionales y siete áreas de protección de flora y fauna. Con ellos nos vamos a 13 áreas naturales protegidas decretadas en 15 de agosto.</p>
+<p>La siguiente, por favor. Este es un mapa, es un mapa donde podemos ver dónde quedan estas áreas naturales protegidas. Voy a iniciar del norte hacia el sur: está en Baja California el Parque Nacional San Quintín, con 86 hectáreas; está en Baja California Sur el Parque Nacional Nopoló; está Parque Nacional Loreto, con seis mil 228 hectáreas; Sinaloa, con el área de protección de flora y fauna ‘Juan M. Banderas’, con dos mil 489 hectáreas; en el estado de Guerrero el Parque Nacional ‘Vicente Guerrero’ de 724 hectáreas, el área de protección de flora y fauna ‘Hermenegildo Galeana’ de 282 hectáreas.</p>
+<p>En el estado de Quintana Roo tenemos cuatro áreas naturales protegidas, y nos gusta resaltar esto porque en el estado de Quintana Roo es parte también de este gran proyecto emblemático Tren Maya: está el área de protección de flora y fauna Playa Delfines, de cinco hectáreas; área de protección de flora y fauna Jacinto Pat; área de protección de flora y fauna San Buenaventura, de 38 hectáreas; área de protección de flora y fauna Cenote Aerolito, único en lo que se encuentra en este cenote en el planeta tierra.</p>
+<p>En Oaxaca, área de protección de flora y fauna Bajos de Coyula, de mil 323 hectáreas; Parque Nacional Huatulco II, de dos mil 238 hectáreas; Parque Nacional ‘Ricardo Flores Magón’, de mil 813 hectáreas.</p>
+<p>La siguiente, por favor. Esto es también parte del quehacer que hacemos dentro de los estados que se trabaja este gran proyecto Tren Maya, esta área natural protegida Wanha’, que fue decretada el 31 de agosto. Tiene 38 mil 255 hectáreas. Se trabaja con 18 núcleos agrarios en dos municipios de Tabasco: Balancán y Tenosique. Esta área natural protegida tiene una conservación de manglares rojo y botoncillos, pero son únicos en el mundo porque estos manglares se dan en aguas saladas cercanas al mar, estas están 120 kilómetros agua adentro y es agua dulce, únicos en el planeta tierra, más de 890 especies de flora y fauna, como el pato real, rana leopardo y una gran diversidad de orquídeas. Con esto, se contribuye a la captura, filtración y la purificación del agua.</p>
+<p>La que sigue. Área de protección de flora y fauna Balam-Kin, que contempla 115 mil 658 hectáreas, siete núcleos agrarios en cuatro municipios de Campeche, Calakmul, Hopelchén, Champotón y Escárcega.</p>
+<p>Y esta área natural protegida protege tres tipos de selva, entre ellas el guayacán, despeinada, mejor conservada en el país; más de 600 especies silvestres, 45 de estas endémicas, 68 en alguna categoría de riesgo, como el caso del jaguar, el tapir, el oro yucateco. Y los cuerpos de agua, que son sitios de descanso, alimentación y reproducción, las famosas aguadas, como lo conocen en Campeche.</p>
+<p>La siguiente. Áreas naturales protegidas, como el caso de Balamkú, de 463 mil 441 hectáreas decretadas también el 31 de agosto, que abarca 20 núcleos agrarios en tres municipios de Campeche: Escárcega, Calakmul y Candelaria.</p>
+<p>Esta área natural protegida protege siete tipos de vegetación, entre los que destacan las selvas y humedales conocidos como aguadas; mil 759 especies de flora y fauna, como el mono aullador, el águila elegante, entre otras especies, la cueva volcán de los murciélagos y dormilones del zopilote rey. Esta cueva de murciélagos es muy importante por las especies que están ahí.</p>
+<p>La siguiente. Hicimos algunas modificaciones del decreto de la reserva de la biósfera Calakmul, pero para aumentar superficie. Esta reserva de la biósfera era de 723 mil hectáreas; cuando se hace una compra de lo que es el ejido Plan de San Luis, parte de esas hectáreas, cinco mil 700 hectáreas, van al régimen de conservación, por lo que aumenta a 728 mil 908 hectáreas.</p>
+<p>¿Por qué su importancia?</p>
+<p>Porque se está cuidando con ello tres mil especies, como el tapir, oso hormiguero, el pavo ocelado, el hocofaisán, el camotillo, la palma chate y el mauché.</p>
+<p>La siguiente. También, en esas modificaciones, compartirle al pueblo de México que con esta modificación se hace la zona núcleo del área natural protegida terrestre más grande del país, llegamos a más de medio millones de hectáreas en zona núcleo. Y esta zona es muy importante porque lo que se permite es la preservación, la conservación, el cuidado y cuestiones de educación ambiental e investigación científica. Con ellos podemos ver lo que se tenía antes y el crecimiento que se tiene ahora.</p>
+<p>La siguiente. Y con esto creamos la región Gran Calakmul, donde hemos compartido que esta región es de 1.5 millones de hectáreas, y con esto nos lleva al área natural protegida terrestre más grande de selva tropical, más grande después de las Amazonas en Brasil. Entonces, es muy, muy, muy importante porque nos lleva a un territorio, para que nos imaginemos, es 10 veces la Ciudad de México en un espacio de conservación y cuidado.</p>
+<p>Es cuanto, presidente. Y le daría espacio al compañero Adán Peña, comisionado, para que él platique de las 23 áreas naturales protegidas que viene y el planteamiento que estos decretos salgan hasta el día diciembre 2023.</p>
+<p><strong>HUMBERTO ADÁN PEÑA FUENTES, TITULAR DE LA COMISIÓN NACIONAL DE ÁREAS NATURALES PROTEGIDAS (CONANP):</strong> Con su permiso, presidente. Muy buen día a todas y a todos.</p>
+<p>Es un gusto para nosotros al interior de la Comisión Nacional de Áreas Naturales Protegidas poder presentar este compromiso que tenemos con el pueblo de México.</p>
+<p>Primeramente, agradecer al señor presidente la oportunidad de que la voz de las compañeras y los compañeros guardaparques, que son los compañeros que están en la protección directa de las selvas, los bosques, los desiertos, los humedales, los ríos, hoy se vean representados aquí en este espacio de diálogo circular.</p>
+<p>La siguiente, por favor. Pues, primero, hacer un pequeño recuento. Las áreas naturales protegidas tienen un pasado en nuestro país, la primera fue decretada por el presidente Venustiano Carranza en 1917, como una influencia de la política de parques nacionales norteamericana.</p>
+<p>Pero fue el general Lázaro Cárdenas, en el año 37, que, desde un enfoque de protección a las comunidades indígenas, la generación y protección de las cuencas de agua y el reconocimiento de propiedad originaria y el disfrute, impulsó una política nacional de parques naturales en 41 decretos que hasta el día de hoy existen, el inicial de esta política fue el Parque Nacional Izta-Popo.</p>
+<p>Y ahora nosotros, en esta etapa, el gobierno de la Cuarta Transformación, tenemos un nuevo compromiso, el compromiso será que seremos la administración que más áreas naturales protejamos, reconociendo desde la lucha de los pueblos y el bienestar de las nuevas generaciones y la conservación de nuestro país megadiverso. Estamos hablando de decretar 43 nuevas áreas naturales protegidas en este periodo de gobierno.</p>
+<p>¿Con quiénes lo vamos a hacer y con quiénes hacemos este compromiso?</p>
+<p>Con integrantes, guardaparques, de la Comisión Nacional de Áreas Naturales protegidas, las cuales somos la institución que impulsa conjuntamente con las mujeres y hombres de las comunidades locales la conservación de la biodiversidad y los ecosistemas y los servicios que a todos nos da estos ecosistemas, esta biodiversidad.</p>
+<p>¿Y para qué?</p>
+<p>Para el desarrollo sostenible y bienestar de las presentes y futuras generaciones a través del cuidado de nuestras áreas naturales protegidas. Nosotros vamos, comprometemos y hacemos este compromiso frente al pueblo de México porque queremos dejar esta herencia para todas y todos.</p>
+<p>¿Y qué protegemos?, porque hablamos de áreas naturales protegidas. Esto es lo que estamos cuidando y salvaguardando:</p>
+<p>Estamos salvaguardando las reservas de agua del país, 17 de las ciudades más importantes son provistas por aguas de áreas naturales protegidas. Ahí se siembra, se cosecha el agua y después baja a los continuos urbanos.</p>
+<p>También, en las áreas naturales protegidas de El Triunfo, El Cañón del Sumidero y la selva El Ocote, se abastece el agua para cuatro represas que dan energía eléctrica al 50 por ciento de la electricidad del sureste, ahí se recarga y después de ahí se genera la energía para poder brindar este servicio; 13 millones de personas viven en el centro del país del agua que capta el Iztaccíhuatl y el Popocatépetl, además del Pico de Orizaba y el Nevado de Toluca. Estamos hablando que estamos defendiendo los grandes reservorios de agua de este país.</p>
+<p>También en nuestra responsabilidad se encuentra proteger las selvas tropicales, los manglares, los bosques, más de cinco millones de hectáreas de selva tropical es nuestra responsabilidad cuidar. Además, el 50 por ciento de los manglares donde se reproducen los peces que después serán producto comercial o pesquería también se reproducen en estos manglares y son la mejor protección ante huracanes, tornados y efectos meteorológicos.</p>
+<p>En nuestros bosques también camina el lobo mexicano, el oso negro y se reproduce la mariposa monarca, que viene desde las tierras del norte y aquí le gusta en tierra mexicana venir a estar y reproducirse. También, protegemos ocho millones de hectáreas de desiertos y pastizales. Y ahí camina el perrito de la pradera; hemos regresado al bisonte, a que camine en esos grandes pastizales; y el águila real, que es nuestro símbolo e identidad, vuela en estos aires.</p>
+<p>También protegemos las islas, mares y arrecifes. La cuarta parte del territorio nacional marino y el 76 por ciento de las islas son nuestra responsabilidad de cuidado. México es el protector del segundo arrecife más grande del planeta y nuestra responsabilidad es su cuidado. Tenemos guardaparques marinos que diariamente salen a la vigilancia y a monitoreo de cómo se encuentra el estado de este arrecife.</p>
+<p>En este nuevo enfoque, y bajo la instrucción de nuestro presidente, nuestra secretaria, nos hemos encaminado la protección de playas públicas para el libre disfrute de las mexicanas y los mexicanos, y no más la privatización del espacio público. Con los decretos de Fonatur, con los exterrenos de Fonatur, estamos asegurando que todas y todos tengamos disfrute a un bien público. Las zonas federales y las playas son de todas y para todos.</p>
+<p>También, el turismo. Después de la emergencia por COVID, hemos regresado a los espacios abiertos, subimos de 1.8 de millones de visitantes a 3.2 millones. Estamos hablando que la gente necesita espacios abiertos, quiere salir a la libertad y las áreas naturales protegidas dan esta oportunidad.</p>
+<p>También, las áreas naturales nos dan los recursos que nos van a permitir alimentarnos. En 146 áreas naturales protegidas se abastecen del agua 57 de los 86 distritos de riego. Ahí es donde se generan todos estos servicios que después van a generar el agua y la polinización para que nos podamos alimentar. Casi 120 mil millones de pesos anualmente se generan en estos distritos y son relacionados a nuestras áreas naturales.</p>
+<p>Y ahora, en este enfoque, estamos participando muy de la mano con los pueblos, diversos pueblos originarios como los wixárikas, o’dam, n’ayeri, mexicanero, maya, rarámuri, para participar en los planes de justicia respetando su cosmovisión y formas de organización. Hacemos con ellos vigilancia, monitoreo, restauración de sus sitios sagrados, y también proyectos productivos para la generación de ingresos y atención a incendios forestales, hacemos la labor con ellos y para ellos.</p>
+<p>En las zonas arqueológicas compartimos territorio en más de 25 zonas y en las que protegemos sus contextos verdes. Y un ejemplo, lo acaba de comentar nuestra secretaria, el caso de Calakmul, esas selvas y bosques están protegidos y permiten la belleza escénica de toda esta gran región, 49 grupos éticos, pueblos indígenas, habitan estas áreas naturales protegidas. Eso es lo que protegemos y lo que cuidamos.</p>
+<p>Y ahora, presidente, secretaria, les informamos cómo hemos avanzado el día de hoy. Antes, cuando llegamos, teníamos 182 áreas naturales protegidas con una superficie de 90 millones 839 mil 522 hectáreas, ahora tenemos 203 áreas naturales con una superficie de 91 millones 608 mil 327.</p>
+<p>Antes teníamos un proceso de que hacían los documentos básicos para las áreas naturales con las consultorías. Eso no nos gusta porque los recursos son del pueblo y para el pueblo, y las capacidades institucionales de especialistas, de gente técnica que está en territorio haciendo estos procesos están en la comisión. Entonces, lo hacemos nosotros, lo elaboramos en casa y hacemos unos productos de alta calidad técnica y científicamente, pero también de la mano de las comunidades.</p>
+<p>Antes sacaban los decretos sin consulta, ahora nosotros estamos yendo a las comunidades a platicar a los ejidos, las comunidades, las rancherías, a todas las zonas habitadas para poder consultarles su opinión y cómo quisieran ellos cuidar su territorio.</p>
+<p>También ahora estamos buscando que cada área natural protegida que decretemos tenga su programa de manejo, que son su instrumento rector. En un año tendríamos que estar publicando los programas de manejo y que no dejemos ninguna de las nuevas áreas son este instrumento. Además, estamos considerando las comunidades, son aliadas para la conservación, mejorando su bienestar y que esto hace un aumento en el compromiso para la conservación.</p>
+<p>Hay una herramienta que se llama ‘Área destinada voluntariamente a la conservación’. Cuando llegamos teníamos 525 mil 904 hectáreas y ahora contamos —y esta información es muy importante para el pueblo de México— con un millón 213 mil hectáreas de superficie de conservación voluntaria por parte de los pueblos y comunidades.</p>
+<p>Y es muy importante mencionar tres ejemplos:</p>
+<p>El primero es, y un reconocimiento a los pueblos de Oaxaca, de la selva zoque de los chimalapas, porque después de un diálogo de 30 años ellos han aceptado y han solicitado que en seis áreas destinadas voluntariamente a la conservación se protejan 436 mil 522 hectáreas, estamos hablando de medio millón de hectáreas de la selva que ellos han resguardado por cientos y casi miles de años se han comprometido a su cuidado.</p>
+<p>En el caso de Guerrero, la parta alta, también las comunidades forestales se están comprometiendo a conservar. Cuando llegamos solamente había cinco mil hectáreas, ahora tenemos 23 mil 108 hectáreas. Toda la zona de Balcón de la Bandera, de Tecpan de Galeana y de Atoyac están comprometiéndose a la conservación, y es corredor comunitario del jaguar, le llamamos.</p>
+<p>Y en Campeche, tenemos, queremos, tenemos un sueño, y queremos conectar la región Gran Calakmul, la zona del área natural protegida Calakmul con Laguna de Términos. Hemos identificado jaguares que van a ver el mar. Entonces, van de la zona arqueológica y van a las costas a ver al mar. Queremos protegerles, queremos cuidar ese sendero y dejarlo de herencia para todas y todos los mexicanos, y las áreas destinadas voluntariamente a la conservación nos han dado esa oportunidad.</p>
+<p>Y el modelo de conservación para la Cuarta Transformación, las diferencias es que ponemos a las personas y a las comunidades al centro de la conservación, haciendo alianzas y priorizando el trabajo del territorio con cuatro elementos:</p>
+<p>Cuidado y protección. Esa la hacemos nosotros con compañeras y compañeros guardaparques, pero con las comunidades, brigadas de monitoreo, de vigilancia, combate al fuego.</p>
+<p>Equilibrio entre el desarrollo económico y la viabilidad ambiental de los ecosistemas, generación de empleos y actividades productivas sustentables.</p>
+<p>También, que te generen ingresos para que puedan tener unas condiciones de vida viables y así mejoren su bienestar.</p>
+<p>Y la cuarta es la comunidad. Para hacer una herramienta de protección y defensa del territorio las áreas naturales, es necesario alianzas con las comunidades y que se asuma como procesos locales.</p>
+<p>Y basamos dos ideas fuerza en esto, que es coman los que nos dan de comer y que beban los que nos dan de beber, si ellos protegen las reservas de agua tienen que tener acceso a también estos beneficios ambientales. Y el compromiso pues es reconocer y retribuirles de forma justa todo lo que nos proporcionan, la vida misma.</p>
+<p>El compromiso que manifestamos hoy en esta conferencia mañanera es las nuevas declaratorias al cierre del año 2023. Estamos hablando de que declararemos 22 áreas naturales protegidas, que suman más de tres millones de hectáreas aproximadamente en 17 estados, con lo que al cierre del 2023 pasaremos de 203 a 225 ANP con una superficie estimada de más de 95 millones de hectáreas. Eso no está pasando en ninguna parte del mundo.</p>
+<p>Nosotros estamos tomando como un gran reto el cumplimiento de las metas internacionales para la protección del medio ambiente, porque de ahí se basa la supervivencia de la vida misma de todas y todos los mexicanos.</p>
+<p>Estamos trabajando en los procesos de declaratoria a través del diálogo social y comunitario, y construyendo acuerdos para nuevas áreas naturales protegidas en los estados de Yucatán, Puebla, Baja California Sur, Chiapas, Tamaulipas y Zacatecas. Es así que en este proceso vamos a declarar algunas áreas naturales protegidas relevantes para todo el país.</p>
+<p>Piaxtla Tayoltita es uno de los bosques mejores conservados del país entre Sinaloa y Durango, con una gente increíble y con la protección de una biodiversidad formidable. Hay algunas referencias de que hay hasta especies que consideramos extintas, que vuelan en esos bosques y las comunidades están comprometidas en su conservación.</p>
+<p>La sierra Vallejo Ameca, un corredor formidable del jaguar y donde fluye el agua que después va a dar a Puerto Vallarta, también lo vamos a proteger en acuerdo y diálogo con las comunidades.</p>
+<p>Canoas, una comunidad que comenzó con cinco mil hectáreas de protección y que ha llegado a 20 mil hectáreas, pero que lo relevante es que la gente la está pidiendo porque lo ven como una herramienta de protección frente a riesgos como la minería.</p>
+<p>Somos el primer país protector de las tortugas. Logramos rescatar una que estaba casi extinta, que es la tortuga lora, solamente había 120 nidos y ahora 45 minutos en una cuatrimoto y no dejamos de ver tortugas.</p>
+<p>También manglares de Puerto Morelos, por su instrucción, presidente, ya no será solamente de 400 hectáreas, sino con acuerdo del gobierno del estado será de más de mil la protección de los manglares de Puerto Morelos. Toda esa zona es muy importante porque previene huracanes, ciclones, todo esto lo previene esta área natural y va a ser para un cuidado de Puerto Morelos.</p>
+<p>Y, por último, quisiera comentar que río y montañas de la Comarca Lagunera, que está ligada el proyecto de agua saludable para la Laguna, estamos dialogando con algunos actores locales porque es la protección para que no tenga mala calidad del agua, pues es proteger al afluente del río.</p>
+<p>En este marco consideramos que podemos, con las 21 áreas naturales protegidas decretadas, las áreas destinadas voluntariamente certificadas y las nuevas áreas naturales podemos llegar a cinco millones de hectáreas y es un compromiso y regalo para México y para el mundo.</p>
+<p>Sí, el gobierno de la Cuarta Transformación sí se compromete con el medio ambiente y esto es parte del compromiso. Y queremos, y eso es parte del sueño, queremos que este sea el sexenio y la etapa de gobierno, las áreas naturales, porque consideramos que la presente administración puede pasar a la historia al ser la que más áreas naturales protegidas decrete y les dé viabilidad, por haber tejido en el territorio las alianzas y alcanzado los acuerdos para lograr estos decretos.</p>
+<p>Además, trabajaremos para que cada área natural protegida cuente con programas de manejo y se haga la conservación de la mano de las comunidades. Estamos llevando la institución de jóvenes, de mujeres, que ponen su empeño, compromiso para poder llegar esta meta, para que sea un orgullo de esta etapa de gobierno, pero una herencia invaluable para el pueblo de México y sea la vida misma.</p>
+<p>Muchas gracias, presidente; muchas gracias a los compañeros guardaparques que nos acompañan el día de hoy. Y si nos permite, quisiéramos compartirles un video.</p>
+<p>Gracias.</p>
+<p><strong>(INICIA VIDEO)</strong></p>
+<p><strong><em>VOZ MUJER:</em></strong><em> La Secretaría de Medio Ambiente y Recursos Naturales, a través de la Comisión Nacional de Áreas Naturales Protegidas cuida desiertos, humedales, playas, arrecifes, bosques y selvas que generan alimentos, agua, aire limpio y son hogar de comunidades de animales y plantas.</em></p>
+<p><em>En 2018, se protegían 90 millones 839 mil 522 hectáreas. Recientemente, llegamos a 203 áreas naturales protegidas que suman 91 mil millones 608 mil 327 en total, gracias al decreto de 21 ANP federales:</em></p>
+<p><em>Área de protección de flora y fauna Sierra de San Miguelito.</em></p>
+<p><em>Área de protección de recursos naturales lago de Texcoco.</em></p>
+<p><em>Área de protección de flora y fauna Jaguar.</em></p>
+<p><em>Área de protección de recursos naturales Peña Colorada.</em></p>
+<p><em>13 declaratorias de áreas naturales protegidas en terrenos que eran propiedad de Fonatur. Se asegura la protección de playas públicas y parques nacionales:</em></p>
+<p><em>Reserva de la biósfera Wanha’.</em></p>
+<p><em>Área de protección de flora y fauna Balam-Kin.</em></p>
+<p><em>Y reserva de la biósfera Balam-Kú, que conforman la región Gran Calakmul.</em></p>
+<p><em>Para salvaguardar los recursos naturales y los servicios ambientales de México, se crearán 22 áreas naturales protegidas más, que serán protegidas por guardaparques de la mano de las comunidades.</em></p>
+<p><em>Reserva de la biósfera Piaxtla-Tayoltita, hogar de la guacamaya verde, cotorra serrana y corredor biológico del jaguar. Un macizo forestal un excelente estado de conservación en donde nacen ríos increíbles.</em></p>
+<p><em>Reserva de la biósfera Sierra de Vallejo río Ameca, selvas donde vuela la guacamaya verde, transita el jaguar y más de mil 600 especies nativas. Además, se recarga agua para Puerto Vallarta.</em></p>
+<p><em>Cinco santuarios tortugueros: playa Cahuitán, Morro Ayuta, Barra de la Cruz-Playa Grande, playa El Verde Camacho y Playa Lechuguillas. En sus playas anidan tortugas marinas como laúd, prieta y golfina, entre otras. Cuentan con vegetación de duna y matorral costero.</em></p>
+<p><em>Área de protección de recursos naturales lago Tláhuac-Xico. Se practica la agricultura de herencia prehispánica y es un remanente de los humedales al sur de cuenca de México, es uno de los últimos reductos de los lagos de México-Tenochtitlán.</em></p>
+<p><em>Área de protección de flora y fauna manglares de Puerto Morelos. Protege los manglares rojo, blanco, negro y botoncillo, y felinos como el jaguar, jaguarundi, tigrillo y ocelote.</em></p>
+<p><em>Santuario Cotorra Serrana. En sus bosques vuela la cotorra serrana, especie emblemática y que sólo se encuentra en esta zona.</em></p>
+<p><em>Área de protección de recursos naturales Ríos y Montañas de la Comarca Lagunera. Aquí fluyen los caudales de los ríos Nazas y Aguanaval.</em></p>
+<p><em>Área de protección de flora y fauna Canoas. En sus selvas y bosques habitan el jaguar y el puma. Es una zona que reconoce la lucha del pueblo al proteger el agua y el bosque de la minería.</em></p>
+<p><em>Cerro Tlachinoltépetl, bosque con helechos arborescentes donde habitan el oso hormiguero.</em></p>
+<p><em>Mantenemos el diálogo social y acuerdos para nuevas áreas naturales protegidas en los estados de Yucatán, Puebla, Baja California Sur, Chiapas, Tamaulipas y Zacatecas.</em></p>
+<p><em>Se protegen ecosistemas marinos y terrestres, biodiversidad, como el perrito de la pradera, el águila real, grandes felinos, entre otros. Asimismo, 25 sitios arqueológicos se encuentran inmersos en áreas naturales protegidas.</em></p>
+<p><em>Acompañamos a los pueblos indígenas para el cuidado de sus sitios sagrados.</em></p>
+<p><em>Con estas acciones, el presidente Andrés Manuel López Obrador será quien declare más áreas a favor del bienestar, el futuro de las personas y el medio ambiente. Lo anterior representará la protección histórica de hectáreas terrestre y marinas, así como playas públicas para el goce de todas y todos los mexicanos.</em></p>
+<p><em>El Gobierno de México fortalece su compromiso con las comunidades, el cuidado de los territorios y la vida en beneficio del país y el mundo.</em></p>
+<p><strong>(FINALIZA VIDEO)</strong></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, pues esto es.</p>
+<p>Vamos a las preguntas. Empezamos ahí.</p>
+<p><strong>PREGUNTA:</strong> Gracias, señor presidente.</p>
+<p>Luis Guillermo Hernández, periodista independiente y colaborador de <em>Sin Censura Televisión y de Radio Educación</em> también.</p>
+<p>Le quería preguntar cuáles son los términos del acuerdo al que llegó el Gobierno de México con la agencia <em>Notimex</em>.</p>
+<p>Dimos a conocer, a través de nuestra alianza con <em>Sin Censura,</em> algunos de los planteamientos que presentó sobre la mesa de negociación el Sindicato Único de Trabajadores de Notimex en la estimación sobre las liquidaciones a los trabajadores de la agencia y también algunas de las peticiones que hizo el sindicato, pero evidentemente eso fue desacreditado por el propio sindicato, me llamaron personero de Sanjuana Martínez, y ya sabe usted esas cosas.</p>
+<p>Y quisiera saber si usted nos podría informar exactamente en qué términos se da este acuerdo de liquidación de la agencia <em>Notimex</em>.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, no conozco los detalles, pero sé que ya se llegó a un acuerdo para atender a todos los trabajadores de conformidad con la ley: tanto a los trabajadores sindicalizados como a los trabajadores de confianza se les va a liquidar. No conozco el monto que va a entregarse a cada trabajador, pero ya está autorizado el presupuesto. Y es un acuerdo entre las partes, se logró después de mucho tiempo un consenso. Hasta ahí tengo información.</p>
+<p>Le voy a pedir a la secretaria de Gobernación y al secretario del Trabajo que informen, si lo pueden hacer, hoy mismo. Ya salió un boletín —¿por qué decimos boletín?—, un comunicado.</p>
+<p><strong>INTERLOCUTOR:</strong> El comunicado básicamente plantea, digamos, los acuerdos de cordialidad para el cierre de la negociación, pero, digamos, los datos pues que necesitamos conocer sobre…</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, ojalá y se puedan dar los datos, toda la información el día de hoy.</p>
+<p><strong>INTERLOCUTOR:</strong> Muchísimas gracias.</p>
+<p>En una segunda pregunta, señor presidente: estamos llevando a cabo un trabajo de largo aliento, una crónica sobre su sexenio. Hemos buscado, a través de entrevistas el testimonio de muchos colaboradores de su gobierno para tratar de tener una visión completa de su sexenio, lo que consideramos una revolución social de la Cuarta Transformación.</p>
+<p>Y entre esos testimonios uno muy importante para mí, que soy el hacedor de esta crónica, pues es el suyo. Supongo que usted no me podrá conceder una entrevista exclusiva para hablar sobe eso, pero le quiero pedir un favor: que me permita durante las próximas semanas, los próximos meses, preguntarle específicamente sobre estos temas que me interesa plantearle —salen del contexto de la coyuntura cotidiana, pero tienen que ver con su sexenio— para poderlo llevar a cabo, para concluir esta crónica, que vamos a publicar de manera independiente en la primavera próxima.</p>
+<p>Si me permite, me gustaría preguntarle: uno de los primeros actos de su gobierno, el primer día de diciembre, el primer día de su gobierno en diciembre de 2018, usted realizó un gesto que se convirtió en un gesto muy simbólico: estaba usted en la plancha del Zócalo y se arrodilló frente a un grupo de indígenas. En ese momento había mucha expectativa sobre su gobierno y ese gesto nos dio la impresión de que algo estaba cambiando en el país.</p>
+<p>¿Exactamente por qué se arrodilló, señor presidente?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Bueno, por respeto a una ceremonia de los pueblos originarios, que es lo más íntimo de nuestro país, las culturas que vienen de lejos, es el México profundo. Creo que es lo más cercano a lo que ha sido nuestro país en toda su historia, el que se conserven a través de los siglos esas ceremonias. Entonces, cómo no arrodillarme ante eso. Es una veneración y es un acto de respeto a las tradiciones, a las costumbres, a las culturas originarias.</p>
+<p>Yo sostengo, y estoy escribiendo sobre eso, de que lo que somos actualmente se lo debemos a la herencia cultural que viene de siglos atrás, mucho antes de la llegada de los europeos, antes de la llegada de los españoles. Es decir, no somos lo que se inició hace 500 años, ni siquiera somos lo que se inició hace 700 años con la fundación de Tenochtitlan, no; esto que estamos viendo, Calakmul, se fundó y floreció como cultura, como gran civilización 300 años antes de la era cristiana, es 23 siglos, no cinco siglos de la llegada de los españoles a la fecha, sino 23 siglos; y la cultura madre, la cultura olmeca lo mismo, dos mil años antes de Cristo.</p>
+<p>Entonces, eso es lo que se ha transmitido de generación en generación, es lo que traemos cargando, lo que traemos prendido en el corazón, lo que traemos a cuesta. Nuestros antepasados nos han venido heredando esas costumbres, esas tradiciones, y México tiene, por eso, una gran reserva de valores culturales, morales, espirituales, y eso es lo que nos ha protegido siempre ante todas las calamidades, y por eso México sale adelante.</p>
+<p>Entonces, el Humanismo Mexicano, que es el modelo que nosotros estamos aplicando como gobierno, se nutre tanto de las raíces profundas del México prehispánico, porque son cosas extraordinarias. Por ejemplo, no había en el México prehispánico esclavitud. Son temas muy polémicos, yo sé que no les va a gustar a algunos, me van a sacar de que en los murales de Bonampak están los presos, los esclavos sometidos; sí, sí en las guerras intestinas se daba eso, pero el pueblo vivía en libertad, no existía la esclavitud, eran libres, vivían en sus comunidades.</p>
+<p>La tierra era comunal, no existía la propiedad privada. Sembraban lo que necesitaban para el sustento de sus familias y un excedente para pagar un tributo, una especie de impuesto a las autoridades superiores, que eran los que se encargaban del comercio. Y con ese tributo, ese excedente, esa plusvalía, se mantenía a la clase gobernante, y a los sacerdotes, y a los artistas, y a los artesanos, a los que crearon estas importantes culturas, el conocimiento de la ciencia, de la astronomía, de la agricultura, de las chinampas, en fin.</p>
+<p>Desde luego, del arte, de la arquitectura.</p>
+<p>Entonces eso nos nutre, eso no ha desaparecido.</p>
+<p>Somos libres. ¿Cuándo llega la esclavitud? Cuando nos invaden, los primeros esclavos, los somete Cortés en Puebla. Eso no existía, el concepto de esclavitud. Entonces, somos libres.</p>
+<p>Otra cosa que no existía era también la avaricia, por eso en el <em>Chilam Balam</em> lo que se escribe sorprende, por la forma en que se ambicionaba el oro, la primera fiebre del oro se da con la llegada de los invasores, pero no existía esa codicia en los pueblos prehispánicos.</p>
+<p>Entonces, son cosas que se mantienen, por eso el mexicano es muy trabajador, es libre, es honesto. La mayor riqueza del México actual es la honestidad de su pueblo.</p>
+<p>¿Quieren ejemplos de eso, de fraternidad, de honestidad, de la grandeza del pueblo de México?</p>
+<p>Ahí están los migrantes, como se van y no se olvidan de sus familiares, y cómo salen adelante donde hay oportunidades porque son muy trabajadores.</p>
+<p>¿De dónde viene el pensamiento con la idea que el mexicano es flojo, indolente?</p>
+<p>Viene del conservadurismo, pero eso no corresponde a la realidad.</p>
+<p>Entonces, nuestro pasado nos ha dado una identidad, una idiosincrasia que nos ayuda mucho. Ya quisieran otros países tener este pasado, esa grandeza cultural.</p>
+<p>Les voy a poner otro ejemplo de la importancia que tienen las culturas prehispánicas: no tenemos nosotros, afortunadamente, adicciones excesivas, o sea, consumo de droga como otros países, y eso es muy bueno.</p>
+<p>Nosotros lamentamos lo que está sucediendo en Estados Unidos, que son nuestros hermanos, pero tienen un consumo de fentanilo que les produce 100 mil muertes al año de jóvenes. Nosotros no tenemos eso, no llega ni a mil los que pierden la vida en México por sobredosis, por consumo de fentanilo. Y por eso también tenemos que evitarlo, porque si eso se fomenta, crece ese consumo en nuestro país, entonces sí sería fatal, tremendo.</p>
+<p>¿Pero por qué somos en esto distintos y en otras cosas?</p>
+<p>Por nuestras culturas.</p>
+<p>Este es un ejemplo del porqué tenemos que mantener nuestras culturas, tenemos que mantener la cohesión en las familias, que eso es también de México, eso también viene de lejos, la unidad familiar, la fraternidad familiar. La familia mexicana, siempre lo digo, es la institución de seguridad social más importante del país, es más importante que el Seguro Social y que cualquier institución de seguridad social, porque somos muy fraternos, le va mal a un miembro de la familia y acuden en su apoyo otros.</p>
+<p>Siempre pongo el ejemplo de cómo —también, con mucho respeto— en Estados Unidos van creciendo los hijos, llegan a la adolescencia y ya tienen que irse de la casa; y acá no, por eso abusan, se quedan más de la cuenta, no queremos que se vayan nunca. Pero son cuestiones que nos dan fortaleza.</p>
+<p>Bueno, pero eso es la parte cultural.</p>
+<p>Y también por eso mismo tenemos una historia política muy fecunda, excepcional, también con todo respeto. ¿Dónde están los Hidalgos? ¿Dónde están los Morelos en otras partes? ¿Dónde están los Juárez? ¿Dónde están los Maderos? ¿Dónde están los Villas? ¿Dónde están los Zapatas? ¿Dónde están los Lázaros Cárdenas?</p>
+<p>Aquí en México, Hidalgo, Morelos, no sólo luchan por la Independencia, lo primero que plantean —y eso nos hace distintos, por estos padres de nuestra patria—, lo primero que proclaman es la abolición de la esclavitud, no sólo la independencia, sino lo social, la justicia.</p>
+<p>En el caso de la Reforma, la separación del poder eclesiástico del poder civil, el cumplimiento de lo que se establece en la <em>Biblia</em>, de que a Dios lo que es Dios y al César lo que es del César. La Reforma de Juárez y de los liberales, eso no se da en ninguna parte del mundo más que en México, el Estado laico.</p>
+<p>Somos un pueblo muy religioso, la mayoría de los mexicanos práctica una religión, es creyente, hay también no creyentes, agnósticos, ateos, libres pensadores, pero la mayoría es creyente; sin embargo, esa mayoría creyente es, al mismo tiempo, partidaria del laicismo, por esa historia de Juárez, de los liberales, del movimiento de la Reforma.</p>
+<p>Y luego, la Revolución mexicana. No hay una revolución social más importante en el mundo. Es la primera revolución social que se lleva a cabo en el mundo. Tenemos la primera Constitución social, la más avanzada de todas en lo social: la que garantiza el derecho de los campesinos a la tierra, la que garantiza la jornada máxima de ocho horas, el salario justo, prestaciones; la que define el dominio, la propiedad de la nación sobre los recursos naturales, incluido el petróleo y otros recursos del subsuelo; la minería, todos esos recursos son de la nación. Bueno, eso está en la primera Constitución de esas dimensiones en el mundo, la Constitución del 17.</p>
+<p>Entonces, ¿qué es el Humanismo Mexicano? Es el México profundo con su grandeza cultural y su fecunda historia política, y eso es lo que somos y por eso nos sentimos muy orgullosos de ser mexicanos.</p>
+<p><strong>INTERLOCUTOR:</strong> Señor presidente, ese gesto iniciático de su gobierno fue muy poderoso, nunca habíamos visto a un presidente arrodillado ante el pueblo. Y muchos pensaron que a partir de esa imagen este iba a ser un gobierno de cambios, pero algunos reclaman que su gobierno, por ejemplo, no logró aterrizar el anhelo de los Acuerdos de San Andrés Larráinzar, algunos hablan de que el gobierno de López Obrador no terminó de darle plenos derechos a los pueblos indígenas. ¿Qué piensa de eso?</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Yo creo que avanzamos bastante en los hechos, porque no todo tiene que ver con las leyes. Si el problema fuese en las leyes, pues no habría problemas, porque no hay ninguna ley que diga que se permite robar, no hay ninguna ley que diga que se permite discriminar o actuar con racismo, con clasismo. No, las leyes a como están podrían servir para hacer justicia, si existe la voluntad de hacerlo.</p>
+<p>Entonces, con ese marco legal, con ese marco jurídico, hemos avanzado y en los hechos se ha logrado hacer justicia a los pueblos originarios. Por ejemplo, lo que hicimos con los pueblos yaquis, ¿cuándo — después de que el general Cárdenas les reconoce sus territorios— cuándo se había visto que se le regresaran tierras que se les habían arrebatado después de la dotación presidencial del general Cárdenas?</p>
+<p>Se les restituyeron como 30 mil hectáreas.</p>
+<p>Se les otorgaron créditos para que todo el ganado que había en esas 30 mil hectáreas pasaran a formar parte de los pueblos yaquis.</p>
+<p>Se está construyendo un distrito de riego en los pueblos yaquis.</p>
+<p>Un acueducto, porque no tenían agua para su consumo los pueblos.</p>
+<p>Muchísimas acciones de desarrollo, de bienestar. Y lo mismo en todas las comunidades.</p>
+<p>Del programa de bienestar, que incluye muchas acciones, son las comunidades indígenas las que tienen prioridad. Si lo vemos en términos generales, los estados que más presupuesto reciben para el bienestar son Chiapas, Oaxaca y Guerrero, los más pobres y los que tienen más población indígena.</p>
+<p>En esos estados, en todas las comunidades indígenas, en todas, las familias, los hogares, reciben cuando menos un apoyo del presupuesto, cuando menos un programa, ya sea porque son adultos mayores… Por ejemplo, antes de que tomáramos la decisión de que se apoyara a los adultos mayores a partir de los 65 años —porque el apoyo era a partir de los 68— ya las comunidades indígenas sí recibían su apoyo a partir de los 65, porque consideramos que no puede haber trato igual entre desiguales, que la justicia es darle más al que tiene menos.</p>
+<p>Y el que no recibe un apoyo porque tiene el derecho a una pensión de adulto mayor, recibe una pensión por discapacidad, o los jóvenes reciben una beca o están en el programa Sembrando Vida, o reciben de manera gratuita sus fertilizantes para sembrar sus tierras.</p>
+<p>Entonces, sí, hemos atendido a las comunidades originarias, ellos lo saben bien, y lo vamos a seguir haciendo.</p>
+<p>Desde luego, es mucha la deuda que se tiene con los pobres de México porque fue mucho el tiempo de abandono, de marginación, de olvido, de opresión, de humillación, y apenas está iniciando la transformación.</p>
+<p>Porque no se atendía al pueblo, sobre todo a partir del periodo neoliberal o neoporfirista en los últimos 36 años, desde 1983 a 2018. Los hijos predilectos del régimen eran los oligarcas, era una minoría, al pueblo no se le atendía, nada más cuando había elecciones iban a las comunidades a repartir despensas, materiales de construcción, a comprar los votos, nada más.</p>
+<p>Por eso yo sostengo que no había democracia, lo que existía, lo que predominaba era una oligarquía, que es el gobierno de una minoría, con fachada de democracia; pero no había una democracia auténtica, porque la democracia es el gobierno del pueblo, para el pueblo, con el pueblo.</p>
+<p>Por eso no se entiende ahora lo que está pasando, algunos están desconcertados, porque se están llevando a cabo cambios. ¡Cómo es de que los altos funcionarios van a ganar sueldos elevadísimos, los expresidentes van a tener pensiones millonarias, el presidente va a tener un Estado Mayor Presidencial, un cuerpo de élite de ocho mil elementos para cuidarlo y va a tener un avión de lujo de 75 metros de largo por 25 de ancho, con alcoba y baños, y salas de junta, y todo eso se veía normal, y al pueblo nada!</p>
+<p>¡Y cómo es de que se hacían jugosos negocios al amparo del poder público! ¡Cómo es que se usaba el presupuesto, que es dinero de todos, sólo para beneficio de unos cuantos! ¡Cómo es que se entregaban las riquezas de México, los bienes de todos los mexicanos a particulares, nacionales y extranjeros!</p>
+<p>El saqueo que hubo en los últimos 36 años del periodo neoliberal no tiene precedente en la historia, ni siquiera se compara con el saqueo que hubo en tres siglos de dominación colonial, por eso se creó una monstruosa desigualdad económica y social.</p>
+<p>Cuando Morelos, en los <em>Sentimientos de la nación</em>, hace más de 200 años —pero no, mucho más— habla de que se modere la indigencia y la opulencia, que haya igualdad. Buscaba resolver este problema de fondo de la desigualdad en México, pero la desigualdad que llegó a ver en el periodo neoliberal fue muchísimo más profunda, más opuesta diametralmente a la que existía en ese entonces, cuando Morelos plantea la moderación de la indigencia y la opulencia.</p>
+<p>México llegó a ser, en el gobierno de Salinas, el cuarto país del mundo con más multimillonarios, o sea, sólo nos ganaba Estados Unidos, Japón y Alemania, y el cuarto era México, pero al mismo tiempo millones de mexicanos en la pobreza.</p>
+<p>Imagínense cómo me siento ahora —además, esto es compartido con todos— el orgullo que me da y que nos debe dar a todos los mexicanos humanistas el que se pudo, a pesar de la pandemia, se pudo reducir en nuestro gobierno la pobreza y se pudo reducir la desigualdad.</p>
+<p><strong>INTERLOCUTOR:</strong> ¿Es posible que al final de su sexenio se alcance el 10 por ciento de la población que deje la pobreza extrema? El 10 por ciento son 12, 13 millones de mexicanos.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sí, sí porque en la última encuesta del Inegi se levantó en el 22, se acaba de dar a conocer; en el 24, el año próximo, se levanta, porque es cada dos años, y se da conocer en el 25. Y del 22 al 24 es cuando mejor nos ha ido, y eso no está medido en la encuesta del Inegi, de la última, entonces es muy probable que en la encuesta que se va a dar a conocer en el 25 se va a demostrar que se redujo aún más la pobreza y aún más la desigualdad.</p>
+<p>Pero ya nos extendimos, ¿eh? Que bien decías que no era de circunstancias.</p>
+<p><strong>INTERLOCUTOR:</strong> Si me da oportunidad, en las próximas semanas le hago más preguntas.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Adelante.</p>
+<p><strong>PREGUNTA: </strong>Buenos días, señor presidente.</p>
+<p>Raúl Hernández, <em>El Barlovento, el concepto integral del comercio exterior</em>. Buenos días, señora secretaria; buenos días, invitados.</p>
+<p>El reciclaje, el reciclaje es una actividad económica importante en el otro extremo del concepto integral del comercio exterior, es la reducción y acopio de materiales al término de un ciclo de vida, de su ciclo de vida en los cuales se puede tener mejor aprovechamiento y evitar pasivos ambientales, cuidar recursos naturales, generar autoempleo.</p>
+<p>Sin embargo, el convertidor catalítico automotriz, instalado en poco más de 35 millones de automóviles de combustión interna en México según cifras del Inegi, que es revisado en cada verificación semestralmente para medir los niveles de emisiones de gases contaminantes, no puede ser reciclado en nuestro país, señor presidente, por considerarse como residuo peligroso —es un mensaje para la señora secretaria— según la fracción III del artículo 31 de la Ley General de Prevención y Gestión Integral de los Residuos del 8 de octubre de 2003.</p>
+<p>El convertidor catalítico automotriz tiene en su interior una carcasa, en el interior de su carcasa una parte cerámica por donde se evitan los humos del motor con tres metales finos, platino, paladio y rodio, los cuales, al entrar en contacto con las partículas que no se quemaron en la combustión interna, las retiene, evitando así la contaminación ambiental.</p>
+<p>Por cada tonelada de esa parte cerámica pueden recuperarse 425 gramos de paladio, 354 gramos de platino, 28 gramos de rodio. Es decir, del 2000 al 2019 no se recuperaron en nuestro país aproximadamente 16 mil 682 kilos de estos tres materiales con un costo de aproximado de 557 mil pesos por kilo, lo que suman una cantidad considerable, nueve mil millones… nueve mil 291 millones de pesos que nuestro país no captó, un ingreso importante para la industria del país, pues en México no existen reservas suficientes de desarrollo tecnológico de esos materiales con los cuales puedan fabricarse nuevos convertidores catalíticos. La mayoría de esos convertidores usados se va a Estados Unidos, a donde sí se reciclan y en donde sí se hace lo que no podemos hacer acá.</p>
+<p>Debo de agregar que el crecimiento del automóvil en nuestro país es mayor al de la población, pues en dos décadas los vehículos aumentaron 248 por ciento y, otro dato, mil 880 por ciento las motocicletas; que, por cierto, las motocicletas no usan convertidor catalítico y cinco motocicletas contaminan lo que contamina un automóvil. Usuarios de motocicletas, mecánicos, así como algunos funcionarios públicos, aseguran que esas motocicletas no les exige el convertidor catalítico porque así no contamina, cosa que no es cierto.</p>
+<p>Según datos del Inegi, en el año 2000 había cerca de 10 millones de autos privados en el país y unas 300 mil motos, ahora tenemos 36 millones de autos y seis millones de motos en las últimas décadas. Un domingo en Reforma, señor presidente, en cada auto alto se paran 60, 70 motocicletas ahí.</p>
+<p>El convertidor catalítico automotriz tiene una vida útil de siete años en promedio y puede prolongar de manera óptima su funcionamiento hasta el alcanzar 100 mil millas, o sea, 160 mil kilómetros, todo dependerá del cuidado y el mantenimiento que el conductor le dé a su automóvil.</p>
+<p>Esta prohibición de reciclaje afecta más de 10 mil acopiadores, de los cuales 400 son integrantes de una asociación, la Asociación Interamericana de Medio Ambiente y Reciclaje A. C., institución que promueve y fomenta el reciclaje en México, y una porque las autoridades competentes se aboquen a la resolución del problema para que dejar de considerar que injustamente estos acopios en todo el país y que los dejen de considerar como delincuentes a los que hacen este trabajo.</p>
+<p>Aimar —aquí tengo un escrito para usted— ha presentado más de 11 análisis, corrosivo, reactivo, explosivo, tóxico, inflamable y biológico infeccioso, emitidos por el Instituto de Estudios Materiales de la UNAM, del Instituto de Física de la Universidad Autónoma de Nuevo León, del Tecnológico de Monterrey, de siete laboratorios autorizados por Semarnat y de un laboratorio de Texas, del estado de Texas, en Estados Unidos, con los cuales se dictamina que esos residuos no son peligrosos por no ser tóxicos ni corrosivos.</p>
+<p>Aimar ya consultó a la Semarnat mediante el oficio DGGIMA710/001351 de fecha 5 de abril de 2021, la cual respondió:</p>
+<p>‘Respecto a la iniciativa, en caso de proceder esta modificación a la ley, obligará a modificar el listado cinco de la NOM 052 Semarnat 2005. Se estima que modificar la ley conforme a la propuesta podría beneficiar la valoración de este tipo de residuos.</p>
+<p>Por lo anterior, Aimar le manda una carta —una carta que tengo yo aquí, si me permite entregársela— solicitando a usted respetuosamente la atención de la titular de Semarnat y que se considere esta importante actividad de reciclaje, convertidor catalítico automotriz, usado como no peligroso en beneficio del desarrollo del país.</p>
+<p>En un segundo término, escolleras en la desembocadura de los ríos Grijalva y Usumacinta. El 12 de marzo de 2021 el canal de YouTube <em>El BarloventoTv</em> publicó una entrevista con el titular de la draga Montebello de la Semar en río Gonzáles, en un afluente del río Grijalva, con la que se dragaban en tres etapas metros cúbicos vastos para dar solución a las inundaciones y daños a los cultivos en las rivieras de los ríos Grijalva y Usumacinta.</p>
+<p>Ahí señalamos, <em>El Barlovento Tv</em> señaló la urgencia de realizar ampliaciones en las escolleras, algo así como, no sé, varios, un kilómetro y cacho creo es; evitar el desazolve de esa desembocadura y liberar la afluencia de las corrientes crecidas, Semarnat no atendió ese llamado.</p>
+<p>Hace tres días el comité de reactivación del Puerto de Frontera, Tabasco, le envía una carta en la que hace historia a las múltiples solicitudes de las construcciones de las escolleras en la desembocadura del Grijalva desde Miguel Alemán, cuyo gobierno dejó inconclusa la obra.</p>
+<p>Luis Cortines la visitó; Frontera, no visitó Frontera; tampoco López Mateos, Díaz Ordaz; hasta Luis Echeverría, quien tomó el tema, pero se quedó en promesa; igual López Portillo, Miguel de la Madrid: Salinas de Gortari, Salinas de Gortari festejó el Día de la Marina en Frontera y sólo hizo un dragado cosmético para la celebración; Zedillo, igual que Fox, Calderón y Peña Nieto, sólo prometieron. A todos ellos se les entregó un proyecto.</p>
+<p>‘Con esta fecha, señor presidente —dice la carta— queremos decirle que este comité sigue vivo. Algunos se siguen quedando en el camino, otros, los que suscribimos, los que estamos radicados en esta geografía olvidada, pensamos con toda firmeza que la construcción de las escolleras vendría a ser la obra cumbre que puede aportar enormes beneficios a Tabasco, pues sería la puerta de salida del enorme caudal que arrastra los ríos Grijalva y Usumacinta y que tanto daño provoca en las zonas bajas de Tabasco, daños a la agricultura, a las tierras, a las zonas habitacionales, a los negocios y, desde luego, causante también de pérdidas humanas.</p>
+<p>‘Con esta obra se drenarían libremente las aguas hacia el golfo de México y, de la misma manera, sería la plataforma de desarrollo de Puerto Frontera’, el más rezagado del país, por cierto.</p>
+<p>Firman el contador público, Miguel Paz Estañol y cinco directivos más.</p>
+<p>En última instancia, señor presidente, el balasto sobre el Tren Maya. Lo digo con honestidad, señor presidente, me dio mucho gusto escuchar, escucharle a usted hace tres semanas afirmar que la única piedra que hay, el único balasto que hay en consistencia necesaria para el Tren Maya está en los Tuxtlas. Entonces, imagínense, llevar a la península el balasto, estamos hablando de millones de metros cúbicos de barcos, barcazas, en vagones, en ferrocarriles, en grandes camiones.</p>
+<p>Sorpresa grata, luego de que el 22 de septiembre del 2022, <em>El Barlovento</em> expuso: ‘Peligra operación del Tren Maya, no soportarán velocidades mayores a 60 kilómetros por hora. Mala calidad del balasto provocará descarrilamientos y pérdidas humanas. Opositores culparán a López Obrador, quien correrá la misma suerte que Lula y que Kirchner’.</p>
+<p><em>El Barlovento </em>también consignó que en la fecha de la nota publicada en el portal de <em>Proceso</em> del 11 de mayo de 2021, que secuestran a la mamá del alcalde de San Andrés Tuxtla, este pide a las autoridades no intervenir.</p>
+<p>Con esa acción ilegal, los integrantes de la Confederación Autónoma de Trabajadores y Empleados de México, Catem, consiguieron autorizaciones, entre comillas, para ingresar a la mina Balzapote, negadas antes por la entonces presidente municipal, Octavio Pérez Garay, para extraer el balastro que reúne las características únicas para el Tren Maya, como ahora usted lo afirma.</p>
+<p>Por esa razón le pregunto respetuosamente, señor presidente: ¿habrá acciones legales contra los invasores de Catem en el banco de Balzapote por todo el material extraído ilícitamente?</p>
+<p>Igual le pregunto: ¿habrá sanciones legales en contra de Leonel Noya Revuelta, Alejandro Pulido Cueto y el hermano de Gilberto Tejeda, para transportar más de tres millones de toneladas de balasto de mala calidad desde los bancos de Mozumboa en Veracruz y llevados a precios elevados, 150 pesos por tonelada, un dineral, y esto en poco más de 450 millones de pesos, esto suman poco más de 450 millones de pesos.</p>
+<p>Al muelle 9 del puerto de Veracruz, dañado severamente, además en maniobra ilegal de cabotaje en barcazas —las barcazas y los barcos eran son extranjeros y no debían de haber hecho una maniobra de cabotaje— hasta la península de Yucatán para hacer utilizados en la construcción del Tren Maya.</p>
+<p>Recordará la pregunta del suscrito el 16 de mayo de 2022 aquí en la conferencia matutina: ¿qué hacía Leonel Noya en la reunión de maniobristas y estibadores con el entonces extitular de Segob el 22 de abril de 2022 en el Museo Naval de Veracruz?</p>
+<p>Y hoy agregamos: ¿por qué una persona acusada legalmente de robo, golpes, despojo agravado, agresiones diversas e instituciones gubernamentales del estado de Veracruz y del gobierno federal, y, lo más grave, poniendo en peligro la vida de usuarios de ese importante proyecto, el Tren Maya —tal y como <em>El</em> <em>Barlovento</em> lo señaló en su oportunidad—, se le sigue calificando como una de las partes del conflicto intersindical de los maniobristas de Veracruz, cuando debería estar en la cárcel?</p>
+<p>Y como prueba, un botón: el 20 de octubre de 2020, Alejandro Pulido Cueto, el autonombrado representante legal del sindicato de maniobristas, presentó ante la Secretaría del Trabajo y Previsión Social un padrón integrado por 287 socios del sindicato, excluyendo a integrantes de la mesa directiva legal, con el objeto de obtener la toma de nota, acreditando a Gilberto Tejeda como secretario general después de una asamblea ilegal.</p>
+<p><em>El Barlovento</em> pudo constatar que, de esos 287 socios, 130 habían fallecido mucho antes de esa elaboración de ese padrón. La elección de esa mesa directiva, <em>El</em> <em>Barlovento</em> ha acumulado algunas actas de defunción de esos 130 socios ya finados, tal es el caso de Valle de la Cruz Melesio, socio 677 del sindicato y con el número 265 del padrón de Pulido Cueto, fallecido a los 88 años de edad del 18 de octubre de 2014, de acuerdo al acta de defunción número 1387105 del Registro Civil del estado de Veracruz.</p>
+<p>Sin embargo, señor presidente, la Secretaría del Trabajo y Previsión Social otorgó la toma de nota, ahora ya caduca ese 20 de octubre de 2020, y acreditó esa mesa directiva ilegal pese a los señalamientos al final de la resolución 211.2.2617 del expediente 10/6420, legajo cinco de las 27 páginas, firmado por el licenciado Lucio Galileo Lastra García, director general del Registro de Asociaciones de la Secretaría del Trabajo y Previsión Social, de la que se puede leer.</p>
+<p>Finalmente, este registrante advierte que la presente se emite en términos del artículo 841 de la Ley Federal de Trabajo y, en caso de que se tenga conocimiento de la presentación de documentos falsos, se procederá en términos del artículo mil seis y mil siete de la ley en comento, sin perjuicio de las demás responsabilidades, sanciones de que dicha actuación se derive, así lo profirió, y firma el Lucio Galileo García, director general de Registro de Asociaciones de la Secretaría del Trabajo y Previsión Social, en fin.</p>
+<p>El año pasado, en las elecciones a mano alzada de la escuela, Pulido Cueto se hace nombrar secretario general del sindicato de maniobristas para presentarse ante diferentes autoridades, Segob, Trabajo y Previsión Social, Hacienda, SAT, IMSS, fiscalía regional de Veracruz, a donde todos ha ido hablando de un supuesto conflicto intersindical con usurpación de funciones, buscando resuelvan las instituciones las injusticias aplicadas por Salinas de Gortari en 1991 a los trabajadores maniobristas veracruzanos y manipulando un tráfico de influencias, despojo agravado, robo, violencia; de esa manera, las denuncias presentadas en contra de él siguen estancadas.</p>
+<p>Asimismo, hace dos semanas el fiscal del 17 distrito regional de Veracruz, licenciada Olan García Elías, quien supuestamente tiene la carpeta principal 8106/19 con los acumulados de otras tres carpetas, comentó que esa carpeta aún la tenía el fiscal de distrito, licenciada Iridia Gabriela Contreras Tun, la carpeta 5255/20, la lleva un nuevo fiscal de nombre Josué López Córdova desde hace tres meses, pero mencionó no cuenta la carpeta mencionada, dan largas al asunto, señor presidente.</p>
+<p>Por otra parte, el 11 de julio de 2023, el maestro Eugenio Hernández Velasco, representante del Indep en Veracruz, dijo a <em>El Barlovento</em> vía telefónica: ‘Es de nuestro conocimiento que el sindicato aportó los bienes a la empresa Seporver, esa figura jurídica es la que debía los impuestos —por eso, les quitaron esos inmuebles—, los bienes les fueron decomisados a la Seporver<strong>.</strong></p>
+<p>El licenciado Santiago Muñoz Márquez, supuestamente abogado externo de Indep —es la persona que fue golpeada por los guaruras de Pulido Cueto fuertemente, fue publicado, del Indep, agredió severamente el pasado 25 de mayo de presente año por golpeadores de Pulido Cueto, agredido por guaruras de Pulido Cueto a las afueras delos juzgados de Boca del Río, dijo a <em>El Barlovento</em>: ‘los funcionarios del Indep no quieren dar información como los que estamos en esto, por miedo’.</p>
+<p>‘El asunto está politizado y desconozco por qué hasta el día de hoy el señor Pulido Cueto sigue en libertad’. Porque ustedes no actúan, no denuncian, se le comentó.</p>
+<p>Y responde: ‘Hacemos lo que podemos con lo que tenemos. Recuerde que soy abogado externo, no empleados de gobierno’.</p>
+<p>Pero, de todos modos, no denuncia las agresiones, ni los abogados externos, no los funcionarios del Indep, no han hecho ninguna actividad en contra de esas agresiones.</p>
+<p>Por todo esto, le pregunto, señor presidente: ¿será sancionadas esas dos personas, Leonel Noya Revueltas y Alejandro Pulido Cueto junto con sus cómplices en las acciones ilícitas denunciadas varias veces por los afectados, principalmente los integrantes de la mesa directiva del sindicato de maniobristas?</p>
+<p>Y lo más grave, señor presidente, que, bueno, se llevaron material, balasto, arriesgando la vida de la gente en el Tren Maya, que afortunadamente, insisto, me alegra saber que usted acude constantemente a supervisar la construcción de esa gran obra, en la cual, la verdad, lo agradezco y tantas vidas que no van a ser sacrificadas ahí.</p>
+<p>Por eso, le pregunto principalmente por el proyecto de la Secretaría, porque el vocero de la Secretaría de Gobernación, Luisa María Alcalde Luján, Carlos Enríquez ya platicó con el suscrito el pasado 7de septiembre, pero no hemos tenido ninguna respuesta, aún no ha fijado fecha para una reunión, tal y como usted lo indico el pasado 18 de agosto.</p>
+<p>Por sus respuestas y comentarios le agradezco, señor presidente.</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Sobre esto último, vamos a continuar insistiendo para que platiques con la secretaria de Gobernación, con Jesús, que te atienda sobre lo que tiene que ver con el sindicato de Veracruz y todas estas anomalías que denuncias, y que ella personalmente te escuche, y se pueda dar respuesta.</p>
+<p>Por lo del reciclaje, pues aquí está María Luisa, a ver si ahora terminando platican, se ponen de acuerdo.</p>
+<p>Y en lo del desazolve de los ríos, del Usumacinta, del Grijalva, del González, estamos trabajando en eso. Desde luego, siempre ha sido una demanda sentida la creación de escolleras, la construcción de escolleras, la modernización del puerto de Frontera y el desazolve, siempre, desde el presidente Francisco I. Madero, que envió la primera draga y luego el presidente Obregón, y así se han ido llevando a cabo acciones de desazolve. No siempre, no todos los sexenios.</p>
+<p>Nosotros ahora sí han estado trabajando como nunca dragas en los tres ríos, en el Usumacinta, ahí en el tapón de la desembocadura del Usumacinta y el Grijalva, en Frontera, y también en el río González se está trabajando en el desazolve. Se ha avanzado bastante para que no se padezca de inundaciones, que no se salgan de su caudal los ríos, que no desborden, y hay que seguir hacia adelante.</p>
+<p>Es de lo que hablábamos hace un momento, hay muchas cosas pendientes, van a quedar muchas cosas pendientes, ya no voy a poder yo hacer todo lo que se requiere.</p>
+<p>Ya hicimos la refinería ahí cerca, en Dos Bocas, ya se está mejorando el Puerto de Dos Bocas y también el puerto de Coatzacoalcos y toda la recuperación del istmo, que fue una acción visionaria porque ahora nuestros hermanos panameños están padeciendo y hay problemas para que pasen los barcos por el canal de Panamá por problemas de falta de agua.</p>
+<p><strong>INTERLOCUTOR:</strong> Solamente la escollera (inaudible)</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Es esa escollera de Salina Cruz que se hizo, que está por terminarse, que es un kilómetro y medio, es lo que se tiene que hacer, porque si no se hacen esas escolleras y sólo se desazolva, con el paso del tiempo vuelve a azolvarse las salidas al mar. Entonces, la escollera ayuda a esto.</p>
+<p>Esta es una escollera y es un rompeolas para darle estabilidad al puerto, al nuevo puerto de Salina Cruz que va a tener un calado, tiene un calado de 24 metros.</p>
+<p>Y se está hablando de que se va a reactivar el istmo como la vía para unir los océanos ante el problema —que yo espero que sea temporal, lo deseo así— de falta de agua para los canales de Panamá. Entonces, es una obra importante esta del istmo y nos está ayudando la Secretaría de Marina.</p>
+<p>Pero, bueno, con María Luisa, con Luisa María.</p>
+<p>Y tomamos en cuenta también lo que mencionas del balasto. Afortunadamente, ya es poco lo que nos falta de balasto. Y sí se llevó todo el balasto de los Tuxtlas hasta la península de Yucatán, porque se debe saber —todos tenemos que ir aprendiendo, todo el tiempo se aprende, como decía el pedagogo, Paulo Freire, es enseñanza-aprendizaje— el balasto, la piedra que se utiliza para los trenes, se ponen los durmientes y luego las vías, pero tiene que llevar piedra y no es cualquier piedra, para trenes de alta velocidad se requiere de una piedra muy dura, como fierro, y esa piedra solo se encuentra en las minas de los Tuxtlas en Veracruz. Entonces, hay que llevarla en barcos, barcazas, en tren, en grandes camiones, hasta la península de Yucatán. Eso ha significado mucho trabajo de transportistas, de obreros. Por eso es una gran obra lo del Tren Maya.</p>
+<p>Afortunadamente ya es poco lo que falta del balasto, ya está tendido todo el balasto del tren, desde Palenque hasta Cancún, ya se llevó toda la piedra, todo el balasto.</p>
+<p>Se llevó, pero siempre hay una prueba que se hace, se certifica el balasto, si no, no se utiliza, por lo que tú mencionas, por los riesgos que pueda implicar.</p>
+<p>Entonces, en Chiapas, en Tabasco, en Campeche, en Yucatán hay cerros, en Tabasco está el cerro famoso antiguo de El Tortuguero, en Chiapas lo mismo, muchos cerros, pero la piedra no es resistente, no es tan dura como la piedra de los Tuxtla.</p>
+<p>Es tan importante ese banco de los Tuxtla —hablando de la cultura— que las cabezas colosales olmeca, la piedra que utilizaron los escultores era piedra, grandes rocas de esa piedra que llevaban en balsas por toda la costa a La Venta por el río Tonalá. Y ahí trabajaban las grandes cabezas colosales olmecas, que son únicas, pero el material para hacer esas esculturas lo llevaban de donde estamos también utilizando hoy día, tres mil años después, el balasto para el Tren Maya. Todo es historia.</p>
+<p>Ya me voy a ir, ¿eh? Ya me voy a ir.</p>
+<p>Miren, viene una comitiva, un grupo de funcionarios de Estados Unidos, encabezado por el secretario de Estado, el señor Blinken, y empezamos a las 9:00, ya ni… Va a ser un café con pan nada más el que voy a… No va a haber desayuno.</p>
+<p>Tenemos una agenda, todo el día van a trabajar servidores públicos del gobierno de Estados Unidos, del Gobierno de México, los temas.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h3 class="widget-title">Redes sociales</h3>
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--round zoom-social-icons-list--align-center zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/lopezobrador.org.mx" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #1877F2; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://twitter.com/lopezobrador_" target="_blank" title="Twitter" >
+									
+						<span class="screen-reader-text">x</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-x" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/lopezobrador/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e4405f; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/@lopezobrador" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #e02a20; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.threads.net/@lopezobrador/" target="_blank" title="" >
+									
+						<span class="screen-reader-text">threads</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-threads" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://open.spotify.com/show/52jMEv2EngPm0tFlsmMAnp?si=3a3a2622de80466f" target="_blank" title="" >
+									
+						<span class="screen-reader-text">spotify</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-spotify" data-hover-rule="background-color" data-hover-color="#1DB954" style="background-color : #1DB954; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/PresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="background-color" data-hover-color="#0088cc" style="background-color : #0088cc; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://bit.ly/TikTokPresidenteAMLO" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="background-color" data-hover-color="#8e0101" style="background-color : #000000; font-size: 18px; padding:8px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		</div><div id="media_image-20" class="widget widget_media_image"><a href="https://presidente.gob.mx/5-informe-de-gobierno/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg" class="image wp-image-165014  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-300x169.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2023/08/banner_quinto_informe-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-15" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg" class="image wp-image-149841  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2022/04/Banner_Bienestar_700x238_3-2-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-14" class="widget widget_media_image"><a href="https://programasparaelbienestar.gob.mx/mapa-banco-del-bienestar-sucursales-retiros/" target="_blank" rel="noopener"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png" class="image wp-image-153137  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238.png 700w, https://presidente.gob.mx/wp-content/uploads/2022/07/Banners_Portal_Presi_Banco_700x238-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				<div id="media_image-19" class="widget widget_media_image"><a href="https://presidente.gob.mx/el-pueblo-es-aliado-de-la-transformacion-afirma-presidente-en-5-aniversario-del-triunfo-electoral/"><img width="1024" height="576" src="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg" class="image wp-image-163993  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1.jpeg 1024w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-300x169.jpeg 300w, https://presidente.gob.mx/wp-content/uploads/2023/07/5-años-de-transformacion-1024x576-1-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="media_image-18" class="widget widget_media_image"><a href="https://presidente.gob.mx/fotogalerias-reuniones-estatales-del-banco-del-bienestar/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg" class="image wp-image-158538  attachment-700x238 size-700x238" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2023/01/ReunionesEstatales.03-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1693194648' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=07eb3880b0e14905a7fb02b733091ec2' id='wp-embed-js'></script>
+
+</body>
+</html>
