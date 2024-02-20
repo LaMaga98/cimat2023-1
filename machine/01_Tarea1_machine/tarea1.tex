@@ -1,0 +1,90 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\define}{\overset{def}{=}}
+
+
+\title{Tarea 1. Métodos de Descenso para Funciones de Base Radial}
+\author{Mariano Rivera}
+\date{Fecha de entrega: 28 February 2024}
+
+\begin{document}
+
+\maketitle
+
+Considere la imagen bidimensional $f$ de dimensioned${N \times N}$, que toma valores en el internamo $[0,1]$ y si $x= [x_1,x_2]^\top$ representas las coordenadas de cada pixel, entonces podemos aproximar la imagen como una suma de funciones base . Esto es:
+\begin{equation}
+f(x) = \sum_{j=1}^J \alpha_j \phi(x; \theta_j) + \eta(x)    
+\label{eq:f}
+\end{equation}
+donde el vector $\alpha = [\alpha_1, \alpha_2, \ldots, \alpha_J ]$ son los coeficientes que pesan la contribución de cada función base, que se distiguen entre ellas por sus parámetros individuales $\theta = [\theta_1, \theta_2, \ldots, \theta_J ]$, y $\eta$ es un residual. Luego definimos $\phi_j \define \phi(x, \theta_j)$ y
+\begin{equation}
+    \label{eq_phi}
+    \Phi_\theta \define \begin{bmatrix}
+        \phi_1 \\
+        \phi_2 \\
+        \vdots \\
+        \phi_J
+    \end{bmatrix}
+\end{equation}
+Luego ecuación \eqref{eq:f} la podemos escribir en forma matricial como
+$$
+f = \Phi_{\theta} \alpha + \eta
+$$
+Para ajustar los parámetros y coeficientes de las funciones base resolvemos el problema no lineal:
+\begin{equation}
+    \underset{\theta, \alpha}{\arg\min} \| f - \Phi_{\theta} \alpha \|_2^2
+\end{equation}
+Esta optimización se realiza en dos pasos para lo que se requiere unos parámetros iniciales $\theta$:
+
+{\bf Paso I}. Paso lineal, asumiendo ficjos los parámetros $\theta$, resolver el problema de mínimos cuadrados lineales (por ejemplo, usando la psuedoinversa de Moore-Penrose):
+\begin{equation}
+    \underset{\alpha}{\arg\min} \| f - \Phi_{\theta} \alpha \|_2^2
+\end{equation}
+para los coeficientes.
+
+{\bf Paso II}. Paso no-lineal, asumiendo fijos los coeficientes $\alpha$, dar una actualización de descenso de gradiente en el problema de mínimos cuadrados no-lineales:
+\begin{equation}
+    \underset{\theta}{\arg\min} \| f - \Phi_{\theta} \alpha \|_2^2
+\end{equation}
+para los parámetros $\theta$.
+
+Entre las funciones radiales mas populares están la multiquádrica:
+\begin{equation}
+    \label{eq:MQ}
+    \phi_j = \sqrt{r^2  + \kappa }
+\end{equation}
+y la Gaussiana
+\begin{equation}
+    \label{eq:MQ}
+    \phi_j = \exp{(-\kappa r^2)}
+\end{equation}
+donde $r = (\theta_{j} - x).$ Note que los parámetros de la función radial son las coordenadas $\theta_j$; centro de la función radial. $\kappa$ es un parámetro de escala que se da.
+
+Resolver el problema de ajuste de RBFs para:
+
+\begin{itemize}
+    \item Usar una imagen momocromática (tonos de gris) de 256x256 pixeles.
+
+    \item Usar entre 100 a 500 funciones radiales. Encuentre el compromiso que le parezca adecuado entre buena reconstrucción y rapidez en la reconstrucción, esto es a su criterio.
+
+    \item Los centros $\theta$ de las funciones radiales se inicializan aleatoriamente en el intervalo [1,N]
+
+
+    \item Busque un valor de $\kappa$ adecuado para la imagen de prueba que seleccione.
+     
+    \item Ajustar el modelo usando la multiquádrica y compara con la la Gaussiana
+
+    \item Usar los métodos de descenso de gradiente: GD, Nesterov y Adam. Puede, si le parece conveniente, implementar la versión estocástica.
+
+    \item Incluir una penalización (regularización) en las $x$\'s: Esto es añadir a la función objetivo le término $\lambda \|x\|^2$, donde $\lambda$ es un parámetro que controla cuantas $\alpha$ se expresan.    
+
+\end{itemize}
+
+
+{\bf} La tareas se entregan en un "notebook" mediante classroom. Incluya la url de su imagen de prueba (leala de una dirección de internet).
+
+\end{document}
