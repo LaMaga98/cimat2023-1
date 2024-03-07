@@ -1,0 +1,191 @@
+\documentclass[12pt]{book}   
+\usepackage{graphics}
+\usepackage{spaccent}  
+\usepackage{amsfonts}
+\usepackage[spanish]{babel} 
+\usepackage{fancybox, calc}
+\newcommand {\?}{?`}  
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\A}{\mathbb{A}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\U}{\mathbb{U}}
+\newcommand{\M}{\mathbb{M}}
+\newcommand{\J}{\mathbb{J}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\X}{\mathbb{X}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\G}{\mathbb{G}}
+\begin{document}
+\specialaccent \mbox{} 
+\begin{center}
+{\Large \bf Tarea 3 Reconocimiento de Patrones} \\ Fecha de entrega: domingo  10 de marzo, 22PM \mbox{} \vspace{0.5cm} \\
+
+
+\end{center}
+
+
+Un colab con c\'odigo Python para agrupamiento y la contraparte en {\cal R}  est\'a en el material de la clase de 28 de febrero.\\
+
+En \verb|https://www.r-graph-gallery.com/340-custom-your-dendrogram-with-dendextend.html| se pueden encontrar algunas herramientas para trabajar con dendogramas. En particular \verb|tanglegram| para comparar dos dendogramas es de vez en cuando util. No he encontrado su contraparte en Python.\\
+Por ejemplo \verb|https://www.python-graph-gallery.com/dendrogram/ | no contiene tanto.   \\
+
+
+
+Ejercicios: 
+
+\begin{enumerate}
+\item
+Verifica la igualdad que vimos en la clase:
+\begin{equation}
+ \frac{1}{2} \sum_{k=1}^K  \sum_{i: g(i)=k}  \sum_{j: g(j)=k}   ||x_i - x_j||^2  = 
+ \sum_{k=1}^K N_k  \sum_{i: g(i)=k}   ||x_i - \mu_k||^2 \mbox{ con } \mu_k= promedio \{x_i: g(i)=k\}
+\end{equation} \mbox{} \\
+donde $N_k$ es el n\'umero de elementos en cluster $k$. 
+
+Puedes limitarte al caso cuando $x\in {\cal R}$. 
+
+
+\item
+Sea la f\'ormula  de \textbf{average linkage} que se usa para un \textbf{Algoritmo Jerarquico Aglomerativo}
+\begin{eqnarray*}
+d(\mathcal{C}_i, \mathcal{C}_j) &=&  {\displaystyle {\frac {1}{|\mathcal{C}_i|\cdot |\mathcal{C}_j|}}\sum _{\mathbf{x}\in \mathcal{C}_i}\sum _{\mathbf{y}\in \mathcal{C}_j}d(\mathbf{x},\mathbf{y}).}
+\end{eqnarray*}
+donde $|\mathcal{C}_i|$ y  $|\mathcal{C}_j|$ representan la cardinalidad de los clusters $\mathcal{C}_i$ y $\mathcal{C}_j$ respectivamente, y $d(\mathbf{x},\mathbf{y})$ una medida de distancia entre $\mathbf{x}$ y $\mathbf{y}$. 
+
+En cada paso, los clusters mas cercanos $\mathcal{C}_i$ y $\mathcal{C}_j$ se combinan   en un nuevo cluster $\mathcal{C}_i\cup \mathcal{C}_j$.
+Muestra que la distancia del  cluster $\mathcal{C}_i\cup \mathcal{C}_j$ a otro cluster $\mathcal{C}_k$ se puede calcular mediante la f\'ormula recursiva:
+\begin{eqnarray*}
+d(\mathcal{C}_i\cup \mathcal{C}_j,\mathcal{C}_k) &=&{\frac {|\mathcal{C}_i|\cdot d({\mathcal{C}_i},\mathcal{C}_k)+|{\mathcal{C}_j}|\cdot d(\mathcal{C}_j,\mathcal{C}_k)}{|{\mathcal{C}_i}|+|\mathcal{C}_j|}}
+\end{eqnarray*}
+
+\item 
+Un plot de diagn\'ostico para evaluar un agrupamiento es un {\tt stripes plot}. \\
+\resizebox{8cm}{!}{\includegraphics{stripes.png}} \\
+Se visualiza por cluster la distancia de las observaciones al centroide del cluster, por cluster. En {\cal R} se puede usar la funci\'on \verb|stripes| de la libraria \verb|flexclust|. En Python no lo he encontrado.
+
+Escribe tu propia funci\'on en Python o en {\cal R} siguiendo la misma idea pero puedes proponer tu variante propia. 
+Ilustra su funcionamiento para algunos conjuntos de prueba generadas a partir de gausianas.
+
+\item
+Usa los m\'etodos de agrupamiento vistos en clase para buscar (y evaluar y discutir) grupos en los datos  del heptatl\'on.
+
+ 
+Para construir un {\tt elbow plot}, puedes calcular para diferentes valores de $k$
+\verb|kmeans(data, k)$tot.withinss|  en {\cal R} o en Python: 
+\begin{verbatim}
+km = KMeans(n_clusters=k)
+km.fit(data)
+km.inertia_
+\end{verbatim}
+Aprovecha tambi\'en el stripes plot del inciso anterior. 
+
+Una posible visualizaci\'on de los resultados es proyectar los datos y los representantes sobre los primeros dos componentes principal del conjunto (completo) de los datos (aunque tiene sus restricciones por supuesto).
+
+\end{enumerate}  
+
+
+
+
+\item
+
+
+
+\end{document}
+
+
+
+
+
+\item
+Sea X una v.a. multidimensional con matriz de covarianza $Cov(X)$. Viende $X$ como un vector (parada)  de longitud $d$,
+\begin{enumerate}
+\item verifica que $Cov(X)=E(X-EX)(X-EX)^t$
+\item usa lo anterior 
+Si $l_i$ es el $i$-esimo vector propio de $Cov(X)$  y $Y_i=\langle l_i, X \rangle$ muestra que:
+\[Cov(Y_i,Y_j)=0, i \neq j\]
+
+Hint: Usa el hecgo 
+
+\item (no entregar nada)
+\?C\'omo explicar a tu abuelito lo que hacemos en clase?
+En un momento perdido echa un ojo al siguiente video de divulgaci\'on:
+\verb|https://www.youtube.com/watch?v=K-aAUwAFZlQ&ab_channel=TED-Ed|
+
+\item
+Completa el paso faltante de la demostraci\'on de la clase de que $\K=-\frac{1}{2}\C\D^2\C$. Ver video de la clase 01/2, momento 1:12:20.
+
+
+\item 
+Revisa el video sobre la maximizaci\'on del cociente de Rayleigh: \\
+\verb|https://youtu.be/8TBpSUXcDww| \\
+Haz unos peque\~nos cambios necesarios para demostrar que el segundo vector propio de $Cov(X)$ es la soluci\'on del problema de maximizar el cociente bajo la restricci\'on adicional de ser ortogonalal primer vector propio.  
+
+
+
+
+
+\item
+En el archivo heptatl´on se pueden consultar los tiempos y el puntaje
+final (score) de 25 atletas que participaron en el heptatl´on durante
+los juegos ol´ımpicos de Seoul.
+
+\begin{enumerate} 
+\item
+ Busca visualizaciones informativas de estos datos multivariados. 
+\item
+Haz un an\'alisis de
+componentes principales con los tiempos (sin score). Hay una relaci\'on
+entre el score y las proyecciones sobre el primer CP? Puedes leer los
+datos con:
+d<-read.table("hepatlon")
+Una liga que quiz\'as es de su inter\'es:
+http://theaftermatter.blogspot.mx/2012/06/maths-of-heptathlon-why-scoring-system.html
+\end{enumerate}
+
+El c\'odigo en Python de lo que vimos en clase en R: \\ 
+\verb|https://colab.research.google.com/drive/1u68t9noFEJyRIiGyQ6ToMxZyZmgVVJNm|
+
+\item (no entregar)
+Considera los datos {\it oef2.data}. Se trata de los promedios mensuales de la temperatura (en Celsius) en 35 estaciones canadienses de monitoreo. El inter'es es
+comparar las estaciones entre s'i en base de sus curvas de temperatura.
+
+Considerando las 12 mediciones por estaci'on como un vector $X$, aplica un an'alisis
+de componentes principales. Como $X$ representa (un muestreo de) una curva, este
+tipo de datos se llama datos funcionales. Interpreta y dibuja (como curva) los
+primeros dos componentes, $p1,p2$ es decir grafica $\{(i,p1_i)\}$ y $\{(i,p2_i)\}$.  Agrupa e interpreta las estaciones en el biplot (ten en mente un mapa de Canada).
+
+Para leer los datos:
+\begin{verbatim}
+temp <- matrix(scan("oef2.data"), 35, 12, byrow=T)
+
+nombresestaciones <-   c("St. John_s",    "Charlottetown", "Halifax" ,
+                  "Sydney",        "Yarmouth",      "Fredericton",
+                  "Arvida",        "Montreal",      "Quebec City",
+                  "Schefferville", "Sherbrooke",    "Kapuskasing",
+                  "London",        "Ottawa",        "Thunder Bay",
+                  "Toronto",       "Churchill",     "The Pas",
+                  "Winnipeg",      "Prince Albert", "Regina",
+                  "Beaverlodge",   "Calgary",       "Edmonton",
+                  "Kamloops",      "Prince George", "Prince Rupert",
+                  "Vancouver",     "Victoria",      "Dawson",
+                  "Whitehorse",    "Frobisher Bay", "Inuvik",
+                  "Resolute",      "Yellowknife")
+
+rownames(temp)<-nombresestaciones
+
+\end{verbatim} \mbox{} \\
+
+
+
+\item (opcional)  Reconocimiento de Patrones estilo menonita consiste en resolver problemas de reconocimiento de patrones sin usar tecnologia; es decir solamente con su red neuronal natural. \\
+Ubicar en Guanajuato d'onde se tomaron las siguientes
+fotos\\
+\resizebox{4cm}{!}{\includegraphics{anillo.png}} 
+\resizebox{7cm}{!}{\includegraphics{gto.png}} \resizebox{4cm}{!}{\includegraphics{perro.png}}
+
+\end{enumerate}
+
+
+\end{document}
