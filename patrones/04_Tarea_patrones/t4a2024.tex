@@ -1,0 +1,62 @@
+\documentclass[12pt]{book}   
+\usepackage{graphics}
+\usepackage{spaccent}  
+\usepackage{amsfonts}
+\usepackage[spanish]{babel} 
+\usepackage{fancybox, calc}
+\newcommand {\?}{?`}  
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\M}{\mathbb{M}}
+\newcommand{\J}{\mathbb{J}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\X}{\mathbb{X}}
+\begin{document}
+\specialaccent \mbox{} 
+\begin{center}
+{\Large \bf Tarea 4 (parte 1)} \mbox{} \vspace{0.5cm} \\
+Entregar a m\'as tardar el martes 8PM
+\end{center}
+
+
+\begin{enumerate}
+\item 
+Supongamos que para un problema de clasificaci\'{o}n binaria, se construye un clasificador donde se permite, 
+adem\'{a}s de regresar como predici\'{o}n $0$ y $1$,  tambi\'{e}n abstenerse.
+
+El costo de predecir $1$ si la verdadera categoria es $0$, es 1 peso.   El costo de predecir $0$ si la verdadera categoria es $1$, tambi\'{e}n es 1 peso. El costo de abstenerse es $\theta$, una constante dada de antemano: $0 < \theta  < \frac{1}{2}$.
+
+Calcula el clasificador Bayesiano \'{o}ptimo en funci\'{o}n de $\theta$ y $P(Y=1|X=x)$.   
+
+\item
+Considera un problema de clasificaci\'{o}n binaria con predictores X.  Supongamos
+que $P(Y = 1) = P(Y = 0)$ y que $P(X|Y = i)$ sigue una distribuci\'{o}n
+Poisson con par\'{a}metro $\lambda_i$.
+
+Derive el clasificador Bayesiano  \'{o}ptimo si el costo de un falso positivo
+es dos veces el costo de un falso negativo.
+
+
+\item
+Supongamos que $X,Y$ sean v.a. discretas:
+
+\begin{tabular}{c|ccc}
+ & X=0 & X=1 & X=2  \\ \hline
+Y=0 & 0.1 & 0.3 & 0.25\\
+Y=1  & 0.25 & 0.05 & 0.05\\
+\end{tabular}
+
+Si $L(0,1)=L(1,0)$, calcula el clasificador Bayesiano \'optimo de $Y$ usando $X$.\\
+Si $L(0,1)=2L(1,0)$ calcula el clasificador Bayesiano \'optimo y su error (promedio) correspondiente. \\
+
+
+\item (no entregar)
+Calcula el clasificador Bayesiano \'optimo para una funci\'on de costo sim\'etrico, $Y|X=x \sim {\cal N}(\mu, \sigma^2_y), y\in \{0,1\}$ y $P(Y=1)=P(Y=0)$.
+
+
+\item  (no entregar)
+Para un problema de clasificaci\'on binaria y $x\in {\cal R}^2$, dibuja un conjunto de datos con tres observaciones donde el clasificador 1-NN tiene un error emp\'{i}rica (sobre el conjunto de entrenamiento) que no sea cero.
+
+
+\end{enumerate}
+
+\end{document}

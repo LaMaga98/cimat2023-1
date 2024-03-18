@@ -1,0 +1,549 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% PAQUETES QUE UTILIZO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letter, 11pt, twoside]{report}
+\usepackage{amsthm}
+\usepackage[many]{tcolorbox}
+\usepackage{thmtools}
+\usepackage{amssymb,bm,amsfonts,amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[export]{adjustbox}
+\usepackage{hyperref}
+\usepackage{enumerate}
+\usepackage{makeidx}
+\usepackage{float}
+\usepackage{graphicx, import}
+\usepackage{subfig}
+\usepackage{upgreek}
+\usepackage{float}
+\usepackage[all]{xy}
+\usepackage{thmtools}
+\usepackage{titlesec}
+\usepackage{mathrsfs}
+\usepackage{multicol}
+\usepackage{tikz-cd}
+\usetikzlibrary{patterns}
+\usetikzlibrary{plotmarks}
+\usepackage{wrapfig}
+\usepackage{stmaryrd}
+\usepackage{subfloat}
+\usepackage{svg}
+\usepackage{yfonts}
+\usepackage{fancyhdr}
+\usepackage{pifont}
+\usepackage{pdfpages}
+\usepackage{ marvosym }
+\usepackage{hyperref}
+\usepackage{pdflscape}
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{bm}
+\usepackage{epigraph}
+\usepackage{quotchap}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage[customcolors]{hf-tikz}
+\usetikzlibrary{babel}
+% PARA VER LAS REFERENCIAS LABELS
+% \usepackage[notcite,color]{showkeys}
+% CHECA http://www.tug.dk/FontCatalogue/iwonalightcondensed/
+\usepackage[light,math]{iwona}
+\usepackage[T1]{fontenc}
+\usepackage{MnSymbol}
+\usepackage{varwidth} % CAJA DE EJERCICIOS Y \SOMBREADO
+\tcbuselibrary{vignette,many}
+\tcbuselibrary{skins}
+\usepackage{pgfplots}
+\usepgfplotslibrary{fillbetween}
+\pgfplotsset{compat=1.16}
+\usepackage{xcolor}
+% PARA ESCRIBIS CÓDIGO Y PSEUDOCÓDIGO
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{listings}
+\usepackage{color, xcolor}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% MEMO PYTHON Y C %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%CÓMO QUEDERÁ EL COLOREADO Y HIGHLIGHT DEL CÓDIGO
+\definecolor{dkgreen}{rgb}{0.9,0.6,0.8}
+\definecolor{blue}{rgb}{0.0,0.49,0.4}
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{gray97},
+    commentstyle=\color{cyan!75!black},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines= true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    language=bash,   %% PHP, C, Java, etc... bash is the standard
+    extendedchars=true,
+    inputencoding=latin1
+}
+
+\lstset{style=mystyle, literate =
+                        {í}{{\'i}}1
+                        {á}{{\'a}}1
+                        {é}{{\'e}}1
+                        {ó}{{\'o}}1
+                        {ú}{{\'u}}1
+                        {ñ}{{\~n}}1
+                        {ü}{{\"u}}1
+                            }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% COLORES DEL PAQUETE SHOWKEYS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{refkey}{rgb}{255,0,0}
+\definecolor{labelkey}{rgb}{255,0,0}
+\definecolor{mirosa}{HTML}{FF007F}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% MARGENES, VIENE EN EL MANUAL DE LATEX %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% FORMATO ME LO PASO RO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\parskip=5pt
+\hoffset = 0pt
+\headsep = 1.5 cm % estaba en 1.5 cm, lo cambie para el header de la imagen
+\oddsidemargin = .5cm
+\evensidemargin = .5cm
+\textheight = 657pt
+\textwidth = 15.6cm
+\topmargin = -2 cm
+\parindent=0mm
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%% CREACIÓN DE EJERCICIO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% MODIFICACIÓN PROOF Y QED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\qedsymbol}{\tiny{$\blacksquare$}}
+
+\newenvironment{solucion}{\begin{proof}[\textcolor{magenta}{Solución}]}{\end{proof}}
+
+\newtcolorbox[auto counter]{ejercicio}[1][]{
+% ESTO ES PARA LA CAJA GENERAL
+breakable, % por si cambias de pagina
+enhanced, % estilo general
+% TITULO MODIFICACIONES
+coltitle= black,
+colbacktitle= white,
+titlerule= 0mm,
+colframe = magenta,
+fonttitle=\bfseries,
+title= Ejercicio~\thetcbcounter,
+% CAJA LINEA MODIFICACIONES
+boxed title style={
+  sharp corners,
+  rounded corners=northwest,
+  rounded corners=northeast,
+  % outer arc=0pt,
+  % arc=0pt,
+  },
+% CONTENIDO MODIFICACIONES
+colback = white,
+fontupper = \itshape,
+coltext =  black,
+% MARCO MODIFICACIONES
+rightrule=0mm,
+toprule=0pt,
+bottomrule= 0pt,
+leftrule = 4pt
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% CREE COMANDOS PARA FACILITAR ESCRITURA %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\I}[4]{\displaystyle\int\limits_#1^#2 #3 \,\text{d}#4}
+\newcommand{\III}[2]{\displaystyle\int#1 \,\text{d}#2}
+\newcommand{\II}[1]{\displaystyle\int#1 \,\text{d$x$}}
+\newcommand{\fun}[3]{$#1:#2 \longrightarrow #3$}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% MODIFIQUE ALGUNOS COMANDOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% EL INTERLINEADO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\baselinestretch}{1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% COLUMNAS ES AMBIENTE MULTICOLS %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\columnseprule}{1pt}
+\def\columnseprulecolor{\color{darktangerine}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% ESPACIO ENTRE RENGLONES,COLUMNAS MATRIX  Y THICK DE \FCOLORBOX %%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\arraystretch}{1.2} % for the vertical padding (space)
+\setlength{\tabcolsep}{0.2 cm} % for the horizontal padding  (space)
+\setlength{\fboxrule}{3pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% ESTILO DE LA PÁGINAS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE, RO]{}
+\fancyhead[LE, LO]{}
+\fancyfoot[CE,CO]{\thepage}
+\fancyfoot[RE,RO]{\small{\textsc{Y. Sarahi García González}}}
+\fancyfoot[LE,LO]{\small{\textsc{Reconocimiento estadístico de patrones}}}
+\chead{\includegraphics[scale=.3]{/Users/ely/Documents/Plantilla/Figures/waves.pdf}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CAPÍTULOS MISMA PÁGINA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EMPEZAMOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\synctex=1 % PARA SINCRONIZAR PDF AL PRESIONAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{savequote}[45mm]
+% ---Frase---
+% \qauthor{Guillermo Gachuz Atitlán}
+% \end{savequote}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{\begin{tabular}{p{12cm}  c}
+   \begin{flushright}
+    Tarea IV\\\small{Y. Sarahi García González}
+   \end{flushright} & \includegraphics[scale=0.3, raise =-2cm]{/Users/ely/Documents/Plantilla/Figures/cimat.png} \\
+  \end{tabular} }
+\vspace{-2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+{\color{mirosa}\section*{Problema 1}}
+Supongamos que para un problema de clasificaci\'{o}n binaria, se construye un clasificador donde se permite, 
+adem\'{a}s de regresar como predici\'{o}n $0$ y $1$,  tambi\'{e}n abstenerse.
+
+El costo de predecir $1$ si la verdadera categoria es $0$, es 1 peso.   El costo de predecir $0$ si la verdadera categoria es $1$, tambi\'{e}n es 1 peso. El costo de abstenerse es $\theta$, una constante dada de antemano: $0 < \theta  < \frac{1}{2}$.
+
+Calcula el clasificador Bayesiano \'{o}ptimo en funci\'{o}n de $\theta$ y $P(Y=1|X=x)$.   
+
+
+{\color{mirosa}Sol.}
+
+Definimos la función de costo, donde \textbf{\textit{abstenerse}} lo denotaremos con la etiqueta 2:
+
+\begin{equation}
+    L( Y=y,\hat{Y}= \hat{y}) =\begin{cases}0\quad \hat{y}=y, y\in\{0,1\} \\
+        1 \quad \hat{y}\neq y, y\in\{0,1\}\\
+        \theta \quad \hat{y}=2, y\in\{0,1\}\end{cases}
+        \label{costo}
+\end{equation}
+
+Buscamos resolver:
+
+\begin{equation*}
+    \min _{\hat{Y}(x) }\left\{ E_{Y|X=x}L\left( Y,\hat{Y}(x) \right)\right\} 
+\end{equation*}
+
+Como nuestro caso es discreto, lo anterior es:
+
+\begin{equation*}
+    \min _{\hat{Y}(x) }\left\{ \sum_{y}L\left[Y,\hat{Y}(x)\right]  p\left(Y=y|X=x\right)\right\} 
+\end{equation*}
+
+A continuación, vamos a concentrarmos únicamente el la suma, a la que denotareos S.
+
+\begin{equation*}
+    S=L\left[Y=0,\hat{Y}(x)\right]  p\left(Y=0|X=x\right) + L\left[Y=1,\hat{Y}(x)\right]  p\left(Y=1|X=x\right)
+\end{equation*}
+
+Ahora, según tomemos $\hat{Y}$ \textbf{fijo}, el valor de esta suma cambia, 
+
+\begin{itemize}
+    \item $\hat{y}(x)=0\implies S=L[Y=1,\hat{Y}=0]*P(Y=1|X=x)$
+    \item $\hat{y}(x)=1\implies S=L[Y=0,\hat{Y}=1]*P(Y=0|X=x)$
+    \item $\hat{y}(x)=2\implies S=L[Y=0,\hat{Y}=2]*P(Y=0|X=x)+L[Y=1,\hat{Y}=2]*P(Y=1|X=x)$
+\end{itemize}
+
+Donde en cada caso tomando en cuenta de la función de costo (\ref{costo}) que $L\left[Y,\hat{Y}(x)\right]=0$ cuando $\hat{y}=y$.
+Ahora, sustituyedo los demás valores de L:
+
+
+\begin{itemize}
+    \item $\hat{y}(x)=0\implies S=P(Y=1|X=x)$
+    \item $\hat{y}(x)=1\implies S=P(Y=0|X=x)$
+    \item $\hat{y}(x)=2\implies S=\theta*P(Y=0|X=x)+\theta*P(Y=1|X=x)$
+\end{itemize}
+
+Y usando la propiedad de probabilidad conjunta $P(A|B)=1-P(A^c|B)$
+
+
+\begin{itemize}
+    \item $\hat{y}(x)=0\implies S=P(Y=1|X=x)\equiv P$
+    \item $\hat{y}(x)=1\implies S=1-P(Y=1|X=x)\equiv 1-P$
+    \item $\hat{y}(x)=2\implies S=\theta$
+\end{itemize}
+
+Finalmente, veamos que las dos primeras posibilidades están directamente relacionadas, que sólo nos abstenemos si $\theta$ es menor
+que el mínimo de $P$ y $P^c$, y que $P\in [0,1]$ y $\theta\in (0,\frac{1}{2})$, de manera que el  clasicador Bayesiano 
+optimo en términos de $theta$ y de $P(Y=1|X=x)\equiv P$ es:
+
+
+ \begin{equation}
+   \hat{Y}(x) =
+        \begin{cases}
+        0 \quad P<0.5 , P<\theta\\
+        1 \quad P>0.5 , P>\theta\\
+        2 \quad \theta < min \{P,1-P\}
+        \end{cases}
+        \label{prediccion}
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{\color{mirosa}\section*{Problema 2}}
+Considera un problema de clasificaci\'{o}n binaria con predictores X.  Supongamos
+que $P(Y = 1) = P(Y = 0)$ y que $P(X|Y = i)$ sigue una distribuci\'{o}n
+Poisson con par\'{a}metro $\lambda_i$.
+
+Derive el clasificador Bayesiano  \'{o}ptimo si el costo de un falso positivo
+es dos veces el costo de un falso negativo.
+
+
+
+{\color{mirosa}Sol.}
+
+Si el costo de un falso positivo es dos veces el costo de un falso negativo, la matriz de confusión es:
+
+\begin{tabular}{c|ccc}
+    & $\hat{Y}=1$ & $\hat{Y}=0 $  \\ \hline
+   Y=0 & 0 & $L_{FN}$ \\
+   Y=1  & $2L_{FN}$ & 0 \\
+\end{tabular}
+
+Y el clasificdor Bayesiano en el caso binario está dado por: 
+
+\begin{equation}
+    \hat{Y}(x)=I\left[\frac{P(X=x|Y=1)}{P(X=x|Y=0)}>\frac{L(0,1)P(Y=0)}{L(1,0)P(Y=1)}\right]
+\end{equation}
+ 
+
+Pero sabemos que $$P(X=x|Y=i)=\frac{\lambda_{i}^x exp(\lambda_i)}{x!}$$
+
+Además $P(Y=1)=P(Y=0)$ y $L(0,1)=2L(1,0)$, por lo que el clasificador Bayesiano óptimo binario es: 
+
+
+\begin{equation}
+    \hat{Y}=I\left[\frac{\lambda_{1}^x exp(\lambda_1)}{\lambda_{0}^x exp(\lambda_0)}>2\right]
+\end{equation}
+
+
+{\color{mirosa}\section*{Problema 3}}
+
+Supongamos que $X,Y$ sean v.a. discretas:
+
+\begin{tabular}{c|ccc}
+ & X=0 & X=1 & X=2  \\ \hline
+Y=0 & 0.1 & 0.3 & 0.25\\
+Y=1  & 0.25 & 0.05 & 0.05\\
+\end{tabular}
+
+\begin{enumerate}
+    \item Si $L(0,1)=L(1,0)$, calcula el clasificador Bayesiano \'optimo de $Y$ usando $X$.
+    \item Si $L(0,1)=2L(1,0)$ calcula el clasificador Bayesiano \'optimo y su error (promedio) correspondiente.
+\end{enumerate} 
+
+{\color{mirosa}Sol.}
+
+Buscamos:
+
+\begin{equation}
+    \hat{Y}(x)=I\left[\frac{P(X=x|Y=1)}{P(X=x|Y=0)}>\frac{L(0,1)P(Y=0)}{L(1,0)P(Y=1)}\right]
+\end{equation}
+
+Por lo que necesitamos las probabilidades mariginales y conjuntas de X y Y.
+Primero, a partir de la tabla, obtenemos la distribución marginal de $X$, $P(X)=\sum_{y}P(Y=y,X=x)$, 
+
+
+    $$
+    P[X=x]=\left\{\begin{array}{cc}
+    0.35 & \text { si } X=0 \\
+    0.35 & \text { si } X=1 \\
+    0.3 & \text { si } X=2
+    \end{array}\right.
+    $$
+
+Y lo mismo para la distribución marginal de $Y$
+
+    $$
+    P[Y=y]=\left\{\begin{array}{cc}
+    0.65 & \text { si }Y=0 \\
+    0.35 & \text { si }Y=1 \\
+    \end{array}\right.
+    $$
+
+Usando el Teorema de Bayes \ref{bayes} para la probabilidad condicional $Y \mid X$:
+    
+    \begin{equation}
+        P(Y=y \mid X=x)=\frac{P(Y=y) P(X=x \mid Y=y)}{P(X=x)}=\frac{P(X=x, Y=x)}{P(X=x)}
+        \label{bayes}
+    \end{equation}
+    
+
+    \begin{tabular}{c| c c}
+     & $Y=0$ & $Y=1$ \\
+    \hline$Y \mid X=0$ & $\frac{2}{7}$ & $\frac{5}{7}$ \\
+    \hline$Y \mid X=1$ & $\frac{6}{7}$ & $\frac{1}{7}$ \\
+    \hline$Y \mid X=2$ & $\frac{5}{6}$ & $\frac{1}{6}$ \\
+    \end{tabular}
+
+    {\color{mirosa} $L(0,1)=L(1,0)$}
+    
+    El estimador está dado por:
+
+    \begin{equation}
+        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>\frac{12}{7}\right) 
+    \end{equation}
+
+    Usando la tabla de probabilidades conjuntas:
+    
+    $$
+    \begin{gathered}
+    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}> \frac{12}{7}\\
+    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}< \frac{12}{7}\\
+    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}< \frac{12}{7}
+    \end{gathered}
+    $$
+
+    Por lo que el clsificador Bayesiano optimo es:
+
+    \begin{equation}
+        \hat{Y}(x) =
+             \begin{cases}
+             1 \quad x=0\\
+             0 \quad x\in\{1,2\}\\
+             \end{cases}
+     \end{equation}
+
+    
+     
+    {\color{mirosa} $L(0,1)=2L(1,0)$}
+
+
+    En este caso el estimador está dado por:
+
+    \begin{equation}
+        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>\frac{24}{7}\right) 
+    \end{equation}
+
+    Usando la tabla de probabilidades conjuntas:
+    
+    $$
+    \begin{gathered}
+    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}<\frac{24}{7} \\
+    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}<\frac{24}{7} \\
+    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}<\frac{24}{7} 
+    \end{gathered}
+    $$
+
+    Por lo que el clsificador Bayesiano optimo es:
+
+    \begin{equation}
+        \hat{Y}(x) = 0
+     \end{equation}
+
+
+
+    
+
+
+    
+     Ahora calculemos el error
+     $$
+     \begin{aligned}
+     E[L(Y, \widehat{Y}(x))]& =  \sum_{y}L\left[Y,\hat{Y}(x)\right]  p\left(Y=y|X=x\right)\\
+     & = L(0,1) P(Y=1 \mid X=1)P(X=1)+L(0,1) P(Y=1 \mid X=2)P(X=2)\\
+     & =\frac{2}{7} 0.35 L(1,0)+\frac{1}{7} 0.35 L(0,1)+\frac{1}{6} 0.3 L(0,1) \\
+     & =L(1,0) \frac{1}{10}+L(0,1) \frac{1}{10}=0.3 L(1,0)
+     \end{aligned}
+     $$
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
