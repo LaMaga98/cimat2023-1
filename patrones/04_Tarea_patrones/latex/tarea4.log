@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  18 MAR 2024 01:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  18 MAR 2024 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1442,7 +1442,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: /Users/ely/Documents/Plantilla/Figures/waves.pdf Graphic file (type pdf)
 <use /Users/ely/Documents/Plantilla/Figures/waves.pdf>
-Package pdftex.def Info: /Users/ely/Documents/Plantilla/Figures/waves.pdf  used on input line 539.
+Package pdftex.def Info: /Users/ely/Documents/Plantilla/Figures/waves.pdf  used on input line 552.
 (pdftex.def)             Requested size: 302.52802pt x 36.1644pt.
 
 
@@ -1455,7 +1455,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 File: /Users/ely/Documents/Plantilla/Figures/waves.pdf Graphic file (type pdf)
 <use /Users/ely/Documents/Plantilla/Figures/waves.pdf>
-Package pdftex.def Info: /Users/ely/Documents/Plantilla/Figures/waves.pdf  used on input line 549.
+Package pdftex.def Info: /Users/ely/Documents/Plantilla/Figures/waves.pdf  used on input line 560.
 (pdftex.def)             Requested size: 302.52802pt x 36.1644pt.
 
 
@@ -1475,16 +1475,16 @@ Package rerunfilecheck Info: File `tarea4.out' has not changed.
 Here is how much of TeX's memory you used:
  53023 strings out of 476025
  1169183 string characters out of 5790016
- 1869425 words of memory out of 5000000
+ 1869426 words of memory out of 5000000
  72432 multiletter control sequences out of 15000+600000
  590964 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,16n,133p,3330b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonal.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonali.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonam.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonami.pfb>
-Output written on tarea4.pdf (5 pages, 187997 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonal.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonali.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonam.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/nowacki/iwona/iwonami.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on tarea4.pdf (5 pages, 191170 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  19 named destinations out of 1000 (max. 500000)
  167 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -428,7 +428,7 @@ Y=1  & 0.25 & 0.05 & 0.05\\
 Buscamos:
 
 \begin{equation}
-    \hat{Y}(x)=I\left[\frac{P(X=x|Y=1)}{P(X=x|Y=0)}>\frac{L(0,1)P(Y=0)}{L(1,0)P(Y=1)}\right]
+    \hat{Y}(x)=I\left[\frac{P(Y=1|X=x)}{P(Y=0|X=x)}>\frac{L(0,1)}{L(1,0)}\right]
 \end{equation}
 
 Por lo que necesitamos las probabilidades mariginales y conjuntas de X y Y.
@@ -472,16 +472,16 @@ Usando el Teorema de Bayes \ref{bayes} para la probabilidad condicional $Y \mid 
     El estimador está dado por:
 
     \begin{equation}
-        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>\frac{12}{7}\right) 
+        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>1\right) 
     \end{equation}
 
     Usando la tabla de probabilidades conjuntas:
     
     $$
     \begin{gathered}
-    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}> \frac{12}{7}\\
-    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}< \frac{12}{7}\\
-    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}< \frac{12}{7}
+    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}> 1\\
+    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}< 1\\
+    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}< 1
     \end{gathered}
     $$
 
@@ -503,23 +503,27 @@ Usando el Teorema de Bayes \ref{bayes} para la probabilidad condicional $Y \mid 
     En este caso el estimador está dado por:
 
     \begin{equation}
-        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>\frac{24}{7}\right) 
+        \widehat{Y}(x)=I\left(\frac{P(Y=1 \mid X=x)}{P(Y=0 \mid X=x)}>2\right) 
     \end{equation}
 
     Usando la tabla de probabilidades conjuntas:
     
     $$
     \begin{gathered}
-    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}<\frac{24}{7} \\
-    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}<\frac{24}{7} \\
-    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}<\frac{24}{7} 
+    \frac{P(Y=1 \mid X=0)}{P(Y=0 \mid X=0)}=\frac{5 / 7}{2 / 7}=\frac{5}{2}>2\\
+    \frac{P(Y=1 \mid X=1)}{P(Y=0 \mid X=1)}=\frac{1 / 7}{6 / 7}=\frac{1}{6}<2\\
+    \frac{P(Y=1 \mid X=2)}{P(Y=0 \mid X=2)}=\frac{1 / 6}{5 / 6}=\frac{1}{5}<2
     \end{gathered}
     $$
 
     Por lo que el clsificador Bayesiano optimo es:
 
     \begin{equation}
-        \hat{Y}(x) = 0
+        \hat{Y}(x) =
+             \begin{cases}
+             1 \quad x=0\\
+             0 \quad x\in\{1,2\}\\
+             \end{cases}
      \end{equation}
 
 
@@ -528,17 +532,24 @@ Usando el Teorema de Bayes \ref{bayes} para la probabilidad condicional $Y \mid 
 
 
     
-     Ahora calculemos el error
-     $$
-     \begin{aligned}
-     E[L(Y, \widehat{Y}(x))]& =  \sum_{y}L\left[Y,\hat{Y}(x)\right]  p\left(Y=y|X=x\right)\\
-     & = L(0,1) P(Y=1 \mid X=1)P(X=1)+L(0,1) P(Y=1 \mid X=2)P(X=2)\\
-     & =\frac{2}{7} 0.35 L(1,0)+\frac{1}{7} 0.35 L(0,1)+\frac{1}{6} 0.3 L(0,1) \\
-     & =L(1,0) \frac{1}{10}+L(0,1) \frac{1}{10}=0.3 L(1,0)
-     \end{aligned}
-     $$
+     Ahora el error, la suma de todos los casos donde no se asigna la etiqueta correcta:
 
 
+\begin{equation*}
+\begin{split}
+    \mathbb{E}[L(Y, \widehat{Y}(x))] & =L(1,0) P(Y=0 \mid X=0) P(X=0) \\
+    &+L(0,1) P(Y=1 \mid X=1) P(X=1)\\
+    &+L(0,1) P(Y=1 \mid X=2) P(X=2) \\
+\end{split}
+\end{equation*}
+
+\begin{equation*}
+    \begin{split}
+        \implies \mathbb{E}[L(Y, \widehat{Y}(x))] &=\frac{2}{7} 0.35 L(1,0)+\frac{1}{7} 0.35 L(0,1)+\frac{1}{6} 0.3 L(0,1) \\
+        &=L(1,0) \frac{1}{10}+L(1,0) \frac{1}{10}\\
+        &=\frac{3}{10} L(1,0)
+    \end{split}
+\end{equation*}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
