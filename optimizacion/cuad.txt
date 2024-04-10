@@ -1,0 +1,12 @@
+def funcion_cuadratica(A, b, x):
+    """
+    Evalúa la función f(x) = 0.5 * x^T * A * x - b^T * x.
+
+    Parámetros: Matriz A, vectores b y x (numpy.ndarray)
+
+    Return: Valor de la función evaluada en x.
+    """
+    return 0.5 * np.dot(x.T, np.dot(A, x)) - np.dot(b.T, x)
+
+
+    
