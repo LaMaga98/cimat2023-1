@@ -7508,7 +7508,7 @@ $$\textit{Y. Sarahi García Gozález}$$</p>
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="kn">import</span> <span class="nn">functions</span> <span class="c1">#libreria con las funciones Himmelblau,Beale,Rosenbrock,Hartman</span>
+<span class="kn">import</span> <span class="nn">functions</span> <span class="k">as</span> <span class="nn">fn</span> <span class="c1">#libreria con las funciones Himmelblau,Beale,Rosenbrock,Hartman</span>
 <span class="kn">from</span> <span class="nn">math</span> <span class="kn">import</span> <span class="n">exp</span>
 </pre></div>
 </div>
@@ -7698,6 +7698,48 @@ Numpy version 1.26.3
 </div>
 </div>
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">imprime_2</span><span class="p">(</span><span class="n">f</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">metodo</span><span class="p">,</span><span class="n">metodo_args</span><span class="p">):</span>
+
+<span class="w">    </span><span class="sd">'''</span>
+<span class="sd">    Esta función imprime:</span>
+<span class="sd">    - el último punto  $x_k$,</span>
+<span class="sd">    - el gradiente evaluado en el último punto  $x_k$,</span>
+<span class="sd">    - el  número $k$ de iteraciones realizadas,</span>
+<span class="sd">    - número de veces que se aplica el reinicio</span>
+<span class="sd">    - la variable $bres$ para saber si el algoritmo puedo converger.</span>
+
+<span class="sd">    '''</span>
+
+    <span class="n">xk</span><span class="p">,</span><span class="n">gk</span><span class="p">,</span><span class="n">k</span><span class="p">,</span><span class="n">br</span><span class="p">,</span><span class="n">indicador</span><span class="o">=</span> <span class="n">metodo</span><span class="p">(</span><span class="o">*</span><span class="n">metodo_args</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Dimensión de x0, n = '</span><span class="p">,</span><span class="n">n</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'f(x_0) = '</span><span class="p">,</span><span class="n">f</span><span class="p">(</span><span class="n">x0</span><span class="p">))</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Número de iteraciones = '</span><span class="p">,</span> <span class="n">k</span> <span class="p">)</span> 
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'f(x_k)= '</span><span class="p">,</span> <span class="n">f</span><span class="p">(</span><span class="n">xk</span><span class="p">))</span>
+    <span class="k">if</span> <span class="n">n</span><span class="o">==</span><span class="mi">2</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'x_k= '</span><span class="p">,</span> <span class="n">xk</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'Primeras cuatro entradas de x_k= '</span><span class="p">,</span> <span class="n">xk</span><span class="p">[:</span><span class="mi">4</span><span class="p">])</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">'Últimas cuatro entradas de x_k= '</span><span class="p">,</span> <span class="n">xk</span><span class="p">[</span><span class="o">-</span><span class="mi">4</span><span class="p">:])</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Norma del gradiente en x_k= '</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">gk</span><span class="p">)</span> <span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Contador br = '</span><span class="p">,</span> <span class="n">br</span><span class="p">)</span>
+
+
+    <span class="k">if</span><span class="p">(</span><span class="n">indicador</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Sí se cumplio el criterio de convergencia"</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
@@ -7718,7 +7760,7 @@ Numpy version 1.26.3
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">gradiente_conjugado_lineal</span><span class="p">(</span><span class="n">x_0</span><span class="p">,</span><span class="n">A</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">max_iter</span><span class="p">,</span><span class="n">tol</span><span class="p">):</span>
-    <span class="n">n</span><span class="o">=</span><span class="mi">10</span>
+    <span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">A</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
     <span class="n">bres</span><span class="o">=</span><span class="kc">False</span>
     <span class="n">r_k</span><span class="o">=</span><span class="p">(</span><span class="n">A</span><span class="nd">@x_0</span><span class="p">)</span><span class="o">-</span><span class="n">b</span>
     <span class="n">p_k</span><span class="o">=-</span><span class="n">r_k</span>
@@ -7876,7 +7918,7 @@ Sí se cumplio el criterio de convergencia
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Dimensión de A =  10
+<pre>Dimensión de A =  100
 Número de iteraciones =  1
 Primeras cuatro entradas de x_k=  [0.005 0.005 0.005 0.005]
 Últimas cuatro entradas de x_k=  [0.005 0.005 0.005 0.005]
@@ -7925,7 +7967,7 @@ Sí se cumplio el criterio de convergencia
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Dimensión de A =  10
+<pre>Dimensión de A =  1000
 Número de iteraciones =  1
 Primeras cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
 Últimas cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
@@ -8061,7 +8103,7 @@ Sí se cumplio el criterio de convergencia
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Dimensión de A =  10
+<pre>Dimensión de A =  100
 Número de iteraciones =  99
 Primeras cuatro entradas de x_k=  [ 1.44627188 -1.41632661  2.11046439 -1.42498422]
 Últimas cuatro entradas de x_k=  [-1.42498188  2.11044446 -1.41633544  1.44629683]
@@ -8109,7 +8151,7 @@ Norma residual ||rk||   =  8.691499885210018e-05
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Dimensión de A =  10
+<pre>Dimensión de A =  1000
 Número de iteraciones =  262
 Primeras cuatro entradas de x_k=  [ 1.44628824 -1.41635954  2.1105181  -1.42507231]
 Últimas cuatro entradas de x_k=  [-1.42507231  2.1105181  -1.41635954  1.44628824]
@@ -8131,6 +8173,632 @@ Sí se cumplio el criterio de convergencia
 </div>
 </div>
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">backtracking</span><span class="p">(</span><span class="n">x_k</span><span class="p">,</span> <span class="n">f</span><span class="p">,</span> <span class="n">df</span><span class="p">,</span> <span class="n">p_k</span><span class="p">,</span> <span class="n">rho</span><span class="o">=</span><span class="mf">0.5</span><span class="p">,</span> <span class="n">iter_max</span><span class="o">=</span><span class="mi">500</span><span class="p">,</span> <span class="n">c1</span><span class="o">=</span><span class="mf">0.001</span><span class="p">,</span> <span class="n">c2</span><span class="o">=</span><span class="mf">0.01</span><span class="p">,</span><span class="n">alpha_ini</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+
+    <span class="n">alpha</span> <span class="o">=</span> <span class="n">alpha_ini</span>
+    
+
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">iter_max</span><span class="p">):</span>
+        <span class="n">x_kp</span> <span class="o">=</span> <span class="n">x_k</span> <span class="o">+</span> <span class="n">alpha</span> <span class="o">*</span> <span class="n">p_k</span>
+        <span class="n">gp</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">df</span><span class="p">(</span><span class="n">x_k</span><span class="p">),</span> <span class="n">p_k</span><span class="p">)</span>
+
+        <span class="c1"># Condiciones de Wolfe</span>
+        <span class="k">if</span> <span class="n">f</span><span class="p">(</span><span class="n">x_kp</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="n">f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span> <span class="o">+</span> <span class="n">c1</span> <span class="o">*</span> <span class="n">alpha</span> <span class="o">*</span> <span class="n">gp</span> <span class="ow">and</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">df</span><span class="p">(</span><span class="n">x_kp</span><span class="p">),</span> <span class="n">p_k</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="o">-</span><span class="n">c2</span> <span class="o">*</span> <span class="n">gp</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">alpha</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="kc">True</span>
+        
+
+        <span class="n">alpha</span> <span class="o">=</span> <span class="n">alpha</span> <span class="o">*</span> <span class="n">rho</span>
+
+    <span class="k">return</span> <span class="n">alpha</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="kc">False</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">gradiente_conjugado_no_lineal</span><span class="p">(</span><span class="n">x_0</span><span class="p">,</span><span class="n">f</span><span class="p">,</span><span class="n">D_f</span><span class="p">,</span><span class="n">max_iter</span><span class="p">,</span><span class="n">tol</span><span class="p">):</span>
+    <span class="n">reinicios</span><span class="o">=</span><span class="mi">0</span>
+    <span class="n">bres</span><span class="o">=</span><span class="kc">False</span>
+    <span class="n">x_k</span><span class="o">=</span><span class="n">x_0</span>
+    <span class="n">f_k</span><span class="o">=</span><span class="n">f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+    <span class="n">g_k</span><span class="o">=</span><span class="n">D_f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+    <span class="n">d_k</span><span class="o">=-</span><span class="n">g_k</span>
+
+    <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">max_iter</span><span class="p">):</span>
+        <span class="n">g</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">g_k</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">g</span><span class="o">&lt;</span><span class="n">tol</span><span class="p">:</span>
+            <span class="n">bres</span><span class="o">=</span><span class="kc">True</span>
+            <span class="k">return</span> <span class="n">x_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">,</span><span class="n">k</span><span class="p">,</span><span class="n">reinicios</span><span class="p">,</span><span class="n">bres</span>
+   
+        <span class="n">alpha_k</span><span class="p">,</span><span class="n">_</span><span class="p">,</span><span class="n">_</span><span class="o">=</span><span class="n">backtracking</span><span class="p">(</span><span class="n">x_k</span><span class="p">,</span><span class="n">f</span><span class="p">,</span><span class="n">D_f</span><span class="p">,</span><span class="n">d_k</span><span class="p">)</span>
+        <span class="n">x_k</span><span class="o">=</span><span class="n">x_k</span><span class="o">+</span><span class="n">alpha_k</span><span class="o">*</span><span class="n">d_k</span>
+        <span class="n">g_old</span><span class="o">=</span><span class="n">g_k</span>
+        <span class="n">g_k</span><span class="o">=</span><span class="n">D_f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+
+        <span class="k">if</span> <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">g_k</span><span class="p">,</span><span class="n">g_old</span><span class="p">))</span><span class="o">&lt;</span><span class="mf">0.2</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">g_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">):</span>
+            <span class="n">beta_k</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">g_k</span><span class="p">)</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">g_old</span><span class="p">)</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span> 
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">beta_k</span><span class="o">=</span><span class="mi">0</span>
+            <span class="n">reinicios</span><span class="o">=</span><span class="n">reinicios</span><span class="o">+</span><span class="mi">1</span>
+            
+        <span class="n">d_k</span><span class="o">=-</span><span class="n">g_k</span><span class="o">+</span><span class="n">beta_k</span><span class="o">*</span><span class="n">d_k</span>
+
+    <span class="k">return</span> <span class="n">x_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">,</span><span class="n">k</span><span class="p">,</span><span class="n">reinicios</span><span class="p">,</span><span class="n">bres</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función cuadrática con A1</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=10$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">10</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  10
+f(x_0) =  0.0
+Número de iteraciones =  13
+f(x_k)=  -0.24999999999789743
+Primeras cuatro entradas de x_k=  [0.04999985 0.04999985 0.04999985 0.04999985]
+Últimas cuatro entradas de x_k=  [0.04999985 0.04999985 0.04999985 0.04999985]
+Norma del gradiente en x_k=  9.17078433484245e-06
+Contador br =  13
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=100$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">100</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  100
+f(x_0) =  0.0
+Número de iteraciones =  8
+f(x_k)=  -0.24999999999312786
+Primeras cuatro entradas de x_k=  [0.00499997 0.00499997 0.00499997 0.00499997]
+Últimas cuatro entradas de x_k=  [0.00499997 0.00499997 0.00499997 0.00499997]
+Norma del gradiente en x_k=  5.2430559662752785e-05
+Contador br =  8
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=1000$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">1000</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  1000
+f(x_0) =  0.0
+Número de iteraciones =  4
+f(x_k)=  -0.24999999999997527
+Primeras cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
+Últimas cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
+Norma del gradiente en x_k=  9.542125853659165e-06
+Contador br =  4
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función cuadrática con A2</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">10</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  10
+f(x_0) =  0.0
+Número de iteraciones =  656
+f(x_k)=  -1.79342078383908
+Primeras cuatro entradas de x_k=  [ 1.36883518 -1.16571247  1.60818359 -0.61261601]
+Últimas cuatro entradas de x_k=  [-0.61261601  1.60818359 -1.16571247  1.36883518]
+Norma del gradiente en x_k=  1.9081736803415713e-05
+Contador br =  478
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">100</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  100
+f(x_0) =  0.0
+Número de iteraciones =  4999
+f(x_k)=  -14.494326547188079
+Primeras cuatro entradas de x_k=  [ 1.44518005 -1.41288126  2.10384349 -1.41483562]
+Últimas cuatro entradas de x_k=  [-1.41483562  2.10384349 -1.41288125  1.44518005]
+Norma del gradiente en x_k=  7.262791714504865e-05
+Contador br =  3917
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">1000</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  1000
+f(x_0) =  0.0
+Número de iteraciones =  3416
+f(x_k)=  -141.43695685424564
+Primeras cuatro entradas de x_k=  [ 1.44287243 -1.40569481  2.09014145 -1.39405493]
+Últimas cuatro entradas de x_k=  [-1.39405493  2.09014145 -1.40569481  1.44287243]
+Norma del gradiente en x_k=  0.00019133642012863605
+Contador br =  2664
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Beale</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Beale</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Beale</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Beale</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  2
+f(x_0) =  3347.203125
+Número de iteraciones =  50
+f(x_k)=  6.0010502635901e-11
+x_k=  [2.99998068 0.4999951 ]
+Norma del gradiente en x_k=  7.033545029879855e-06
+Contador br =  38
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Himmelblau</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">4</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Himmelblau</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Himmelblau</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Himmelblau</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  2
+f(x_0) =  130
+Número de iteraciones =  24
+f(x_k)=  8.869121880997688e-14
+x_k=  [ 3.58442835 -1.84812646]
+Norma del gradiente en x_k=  2.8453157735627747e-06
+Contador br =  20
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Rosenbrock</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (2,)
+f(x_0) =  24.199999999999996
+Número de iteraciones =  77
+f(x_k)=  4.0522579708831516e-12
+Primeras cuatro entradas de x_k=  [1.00000201 1.00000403]
+Últimas cuatro entradas de x_k=  [1.00000201 1.00000403]
+Norma del gradiente en x_k=  1.999152260463426e-06
+Contador br =  55
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (20,)
+f(x_0) =  4597.999999999999
+Número de iteraciones =  694
+f(x_k)=  4.612333027811992e-10
+Primeras cuatro entradas de x_k=  [1.         1.         0.99999999 0.99999999]
+Últimas cuatro entradas de x_k=  [0.99999537 0.99999073 0.99998141 0.99996273]
+Norma del gradiente en x_k=  2.3941228825155865e-05
+Contador br =  413
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (40,)
+f(x_0) =  9680.0
+Número de iteraciones =  1058
+f(x_k)=  9.665203846222312e-10
+Primeras cuatro entradas de x_k=  [1. 1. 1. 1.]
+Últimas cuatro entradas de x_k=  [0.9999933  0.99998658 0.99997309 0.99994605]
+Norma del gradiente en x_k=  3.6157029207687395e-05
+Contador br =  624
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
@@ -8139,6 +8807,657 @@ Sí se cumplio el criterio de convergencia
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>$\color{purple}{Ejercicio \space 3}$ <br/></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">gradiente_conjugado_no_lineal_HS</span><span class="p">(</span><span class="n">x_0</span><span class="p">,</span><span class="n">f</span><span class="p">,</span><span class="n">D_f</span><span class="p">,</span><span class="n">max_iter</span><span class="p">,</span><span class="n">tol</span><span class="p">):</span>
+    <span class="n">reinicios</span><span class="o">=</span><span class="mi">0</span>
+    <span class="n">bres</span><span class="o">=</span><span class="kc">False</span>
+    <span class="n">x_k</span><span class="o">=</span><span class="n">x_0</span>
+    <span class="n">f_k</span><span class="o">=</span><span class="n">f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+    <span class="n">g_k</span><span class="o">=</span><span class="n">D_f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+    <span class="n">d_k</span><span class="o">=-</span><span class="n">g_k</span>
+
+    <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">max_iter</span><span class="p">):</span>
+        <span class="n">g</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">g_k</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">g</span><span class="o">&lt;</span><span class="n">tol</span><span class="p">:</span>
+            <span class="n">bres</span><span class="o">=</span><span class="kc">True</span>
+            <span class="k">return</span> <span class="n">x_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">,</span><span class="n">k</span><span class="p">,</span><span class="n">reinicios</span><span class="p">,</span><span class="n">bres</span>
+   
+        <span class="n">alpha_k</span><span class="p">,</span><span class="n">_</span><span class="p">,</span><span class="n">_</span><span class="o">=</span><span class="n">backtracking</span><span class="p">(</span><span class="n">x_k</span><span class="p">,</span><span class="n">f</span><span class="p">,</span><span class="n">D_f</span><span class="p">,</span><span class="n">d_k</span><span class="p">)</span>
+        <span class="n">x_k</span><span class="o">=</span><span class="n">x_k</span><span class="o">+</span><span class="n">alpha_k</span><span class="o">*</span><span class="n">d_k</span>
+        <span class="n">g_old</span><span class="o">=</span><span class="n">g_k</span>
+        <span class="n">g_k</span><span class="o">=</span><span class="n">D_f</span><span class="p">(</span><span class="n">x_k</span><span class="p">)</span>
+        <span class="n">y_k</span><span class="o">=</span><span class="n">g_k</span><span class="o">-</span><span class="n">g_old</span>
+
+        <span class="k">if</span> <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">g_k</span><span class="p">,</span><span class="n">g_old</span><span class="p">))</span><span class="o">&lt;</span><span class="mf">0.2</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">g_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">):</span>
+            <span class="n">beta_k</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">g_k</span><span class="p">,</span><span class="n">y_k</span><span class="p">))</span><span class="o">/</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">d_k</span><span class="p">,</span><span class="n">y_k</span><span class="p">))</span> 
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">beta_k</span><span class="o">=</span><span class="mi">0</span>
+            <span class="n">reinicios</span><span class="o">=</span><span class="n">reinicios</span><span class="o">+</span><span class="mi">1</span>
+            
+        <span class="n">d_k</span><span class="o">=-</span><span class="n">g_k</span><span class="o">+</span><span class="n">beta_k</span><span class="o">*</span><span class="n">d_k</span>
+
+    <span class="k">return</span> <span class="n">x_k</span><span class="p">,</span><span class="n">g_k</span><span class="p">,</span><span class="n">k</span><span class="p">,</span><span class="n">reinicios</span><span class="p">,</span><span class="n">bres</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Funciones cuadráticas con A1</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=10$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">10</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  10
+f(x_0) =  0.0
+Número de iteraciones =  13
+f(x_k)=  -0.24999999999789743
+Primeras cuatro entradas de x_k=  [0.04999985 0.04999985 0.04999985 0.04999985]
+Últimas cuatro entradas de x_k=  [0.04999985 0.04999985 0.04999985 0.04999985]
+Norma del gradiente en x_k=  9.17078433484245e-06
+Contador br =  13
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=100$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">100</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  100
+f(x_0) =  0.0
+Número de iteraciones =  8
+f(x_k)=  -0.24999999999312786
+Primeras cuatro entradas de x_k=  [0.00499997 0.00499997 0.00499997 0.00499997]
+Últimas cuatro entradas de x_k=  [0.00499997 0.00499997 0.00499997 0.00499997]
+Norma del gradiente en x_k=  5.2430559662752785e-05
+Contador br =  8
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$n=1000$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">1000</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A1</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  1000
+f(x_0) =  0.0
+Número de iteraciones =  4
+f(x_k)=  -0.24999999999997527
+Primeras cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
+Últimas cuatro entradas de x_k=  [0.0005 0.0005 0.0005 0.0005]
+Norma del gradiente en x_k=  9.542125853659165e-06
+Contador br =  4
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Funciones cuadráticas con A2</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">10</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  10
+f(x_0) =  0.0
+Número de iteraciones =  754
+f(x_k)=  -1.7934207876762953
+Primeras cuatro entradas de x_k=  [ 1.36886346 -1.16578522  1.60828044 -0.61270105]
+Últimas cuatro entradas de x_k=  [-0.61270105  1.60828044 -1.16578522  1.36886346]
+Norma del gradiente en x_k=  1.7196073436070605e-05
+Contador br =  584
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">100</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  100
+f(x_0) =  0.0
+Número de iteraciones =  4999
+f(x_k)=  -14.494326214738267
+Primeras cuatro entradas de x_k=  [ 1.44513466 -1.41273989  2.10357233 -1.41442268]
+Últimas cuatro entradas de x_k=  [-1.41442268  2.10357233 -1.41273989  1.44513466]
+Norma del gradiente en x_k=  7.578182799782151e-05
+Contador br =  3769
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">n</span><span class="o">=</span><span class="mi">1000</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">A</span><span class="o">=</span><span class="n">genera_A2</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">b</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="n">x0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">#definimos la funcion cuadratica y su gradiente como inline functions</span>
+<span class="n">cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">b</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span>
+<span class="n">D_cuadratica</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="o">.</span><span class="n">T</span><span class="p">,</span> <span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">b</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">D_cuadratica</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">cuadratica</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  1000
+f(x_0) =  0.0
+Número de iteraciones =  3463
+f(x_k)=  -141.4369563585438
+Primeras cuatro entradas de x_k=  [ 1.44284074 -1.40558695  2.089946   -1.39375064]
+Últimas cuatro entradas de x_k=  [-1.39375064  2.089946   -1.40558695  1.44284074]
+Norma del gradiente en x_k=  0.00019135949030101222
+Contador br =  2618
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Beale</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Beale</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Beale</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Beale</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  2
+f(x_0) =  3347.203125
+Número de iteraciones =  25
+f(x_k)=  7.076693020301564e-11
+x_k=  [2.99997901 0.49999469]
+Norma del gradiente en x_k=  7.385377876071349e-06
+Contador br =  18
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Himmelblau</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">4</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Himmelblau</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Himmelblau</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Himmelblau</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  2
+f(x_0) =  130
+Número de iteraciones =  22
+f(x_k)=  7.317880926980324e-13
+x_k=  [ 3.5844283  -1.84812631]
+Norma del gradiente en x_k=  6.824300082945526e-06
+Contador br =  19
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Función de Rosenbrock</strong></p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (2,)
+f(x_0) =  24.199999999999996
+Número de iteraciones =  50
+f(x_k)=  1.655294559448486e-11
+Primeras cuatro entradas de x_k=  [1.00000407 1.00000815]
+Últimas cuatro entradas de x_k=  [1.00000407 1.00000815]
+Norma del gradiente en x_k=  3.6497301985052404e-06
+Contador br =  38
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (20,)
+f(x_0) =  4597.999999999999
+Número de iteraciones =  390
+f(x_k)=  2.159244904522652e-10
+Primeras cuatro entradas de x_k=  [1.00000001 1.00000001 1.         1.        ]
+Últimas cuatro entradas de x_k=  [0.99999686 0.99999367 0.9999873  0.99997451]
+Norma del gradiente en x_k=  2.3651325537511567e-05
+Contador br =  238
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">x0</span><span class="o">=</span><span class="p">(</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">,</span><span class="o">-</span><span class="mf">1.2</span><span class="p">,</span><span class="mf">1.0</span><span class="p">)</span>
+<span class="n">n</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">shape</span><span class="p">(</span><span class="n">x0</span><span class="p">)</span>
+<span class="n">tau</span><span class="o">=</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">n</span><span class="p">))</span><span class="o">*</span><span class="p">((</span><span class="n">epsilon</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span><span class="p">))</span>
+<span class="n">N</span><span class="o">=</span><span class="mi">5000</span>
+<span class="n">argumentos_GCNL</span><span class="o">=</span><span class="p">[</span><span class="n">x0</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">fn</span><span class="o">.</span><span class="n">D_Rosenbrock</span><span class="p">,</span><span class="n">N</span><span class="p">,</span><span class="n">tau</span><span class="p">]</span>
+<span class="n">imprime_2</span><span class="p">(</span><span class="n">fn</span><span class="o">.</span><span class="n">Rosenbrock</span><span class="p">,</span><span class="n">n</span><span class="p">,</span><span class="n">x0</span><span class="p">,</span><span class="n">gradiente_conjugado_no_lineal_HS</span><span class="p">,</span><span class="n">argumentos_GCNL</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Dimensión de x0, n =  (40,)
+f(x_0) =  9680.0
+Número de iteraciones =  742
+f(x_k)=  1.0815875655240946e-10
+Primeras cuatro entradas de x_k=  [1.         1.00000001 1.00000001 1.00000001]
+Últimas cuatro entradas de x_k=  [0.99999779 0.99999556 0.99999108 0.99998212]
+Norma del gradiente en x_k=  3.179932713897736e-05
+Contador br =  451
+Sí se cumplio el criterio de convergencia
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Resumen comparativo entre gradiente conjugado no lineal usando FR y HS</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<pre><code>Respecto a las iteraciones:</code></pre>
+<ul>
+<li>B necesitó la mitad de iteraciones usando Hestenes-Stiefel en lugar de Fletcher-Reeves.</li>
+<li>H necesitó dos iteraciones usando Hestenes-Stiefel en lugar de Fletcher-Reeves.</li>
+<li>R necesitó un tercio menos para dos dim y al rededor la mitad de iteraciones para 20 Y 40 dim usando Hestenes-Stiefel en lugar de Fletcher-Reeves.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<pre><code>Respecto a los reinicios:</code></pre>
+<ul>
+<li>B necesitó 10 reinicios usando Hestenes-Stiefel en lugar de Fletcher-Reeves.</li>
+<li>H necesitó 1 reinicios usando Hestenes-Stiefel en lugar de</li>
+<li>R necesitó 15 reinicios menos para dos dim y al rededor de 200 reinicios para 20 Y 40 dim usando Hestenes-Stiefel en lugar de Fletcher-Reeves.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Sí hay una difencia en la cantidad de iteraciones (y de reinicios) que se obtienen usando la fórmula de HS respecto a usar FR. En general HS ahorra hasta la mitad de iteraciones en casi todos los casos. También se requieren unos pocos menos reinicios.</p>
 </div>
 </div>
 </div>
