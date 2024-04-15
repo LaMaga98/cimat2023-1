@@ -1,0 +1,226 @@
+\documentclass[12pt]{book}   
+\usepackage{graphics}
+\usepackage{spaccent}  
+\usepackage{amsfonts}
+\usepackage[spanish]{babel} 
+\usepackage{fancybox, calc}
+\newcommand {\?}{?`}  
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\A}{\mathbb{A}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\U}{\mathbb{U}}
+\newcommand{\M}{\mathbb{M}}
+\newcommand{\J}{\mathbb{J}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\X}{\mathbb{X}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\G}{\mathbb{G}}
+\begin{document}
+\specialaccent \mbox{} 
+\begin{center}
+{\Large \bf Tarea 2 Reconocimiento de Patrones} \\ Fecha de entrega: domingo  25 de feb, 22PM \mbox{} \vspace{0.5cm} \\
+
+
+\end{center}
+
+Comentarios generales: 
+\begin{enumerate}
+\item Si quieren hacer PCA en Python,  una opci\'on alternativa es  \\
+\verb|https://erdogant.github.io/pca/pages/html/index.html| \\
+No es libreria oficial; hay que instalarlo a mano con \verb|pip install pca|
+\item 
+Como se coment\'o en clase, un m\'etodo que hoy es bastante popular y que surgi\'o  junto con T-SNE es UMAP. Contrario a T-SNE tiene una teoria matem\'atica extensa detr\'as pero es fuera del alcance de la clase (usa muchos conceptos de topologia). No es dificil entender la idea general. Ver por ejemplo: 
+\verb|https://pair-code.github.io/understanding-umap/ | \\ Tiene dos par\'ametros: uno asociado al espacio original y otro  al espacion nuevo. Los invita leer y jugar con esta p\'agina.
+\end{enumerate} \\
+
+
+Ejercicios: 
+
+\begin{enumerate}
+\item
+Mencionamos en clase la divergencia de Kullback Leibler $d_{KL}(P,Q)$ entre dos distribuciones:\\
+
+Caso discreto: $\sum_k P_k \log{P_k/Q_k}$\\
+Caso continuo:   $\int_x f_P(x) \log{ f_P(x)/ f_Q(x) dx}$\hspace{1cm} con $f()$ la densidad.  \\
+
+Calcula $d_{KL}(P,Q)$ para el caso discreto con $P \sim Bern(\theta_1)$ y  $Q \sim Bern(\theta_2)$. Muestra con una gr\'afica como cambia $d_{KL}(P,Q)$  si $\theta_2$ se alega de $\theta_1$.
+
+Misma pregunta para el caso continuo con $P\sim {\cal N}(\mu_1,\sigma^2)$ y  $Q\sim {\cal N}(\mu_2,1)$. Haz uso del hecho que 
+$\int_x f_P(x) \log{ f_P(x)/ f_Q(x)}dx = E_P\log f_P(X) - E_P\log f_Q(X)$. \\
+
+
+Se puede motivar la forma de la divergencia de muchas maneras. Adem\'as de lo que se coment\'o en clase, un camino alternativo es tomar como punto de partida la  distancia de $Pearson \; \chi^2$ que es muy intuitvo:
+\[ \chi^2(P,Q):= \sum_k \frac{(P_k - Q_k)^2}{Q_k} \]
+Verifica que lo anterior es igual a:
+\[  \sum_k P_k (\frac{P_k }{Q_k} - 1). \]
+
+Se puede generalizarlo introduciendo un par\'ametro $\lambda$:
+
+\[ \frac{2}{\lambda(\lambda+1)} \sum_k P_k ((\frac{P_k }{Q_k})^\lambda - 1). \]
+
+
+Se puede demostrar que si $\lambda \rightarrow 0$ eso converge a $d_{KL}(P,Q)$ (poner $\lambda=0$ conduce  a $0/0$, as\'i se debe hacer unos pasos m\'as).
+
+
+Observa la siguiente conexi\'on con el estimador de m\'axima verosimilitud: si $Q$ es una distribuci\'on discreta $P_\theta$ con $\theta$ un par\'ametro por estimar y $\hat{P}$ es la distribuci\'on empirica de una muestra $\{x_i\}$, entonces  buscar $\theta$ que maximiza la verosimilitud de la muestra bajo $P_\theta$ es equivalente a buscar $\theta$ que minimiza la distancia de Kullback-Leibler entre $P_\theta$ y la emp\'irica de la muestra $\hat{P}$. \\
+Verifica eso (hint: la distribucion empirica de una muestra se define como $\hat{P_k}=n(k)/n$ con $n(k)$ el n\'umero de veces que  $k$ ocurre en la muestra $\{x_i\}$; la funci\'on de log verosimilitud se puede escribir como $\sum_k log (P_\theta)_k^{n(k)}$). \\
+
+Finalmente, solamente como comentario para aquellos familiarizados con la entropia (los del posgrado): no es dificil mostrar que la divergencia entre una distribuci\'on bivariada $P$ y el producto de sus marginales $P^{1}P^{1}$ (lo que se espera baja independencia), $d_{KL}(P,  P^{1} P^{2}  )$, es igual a la informaci\'on mutua entre $P$ y $ P^{1} P^{2}$, asi se puede usar tambi\'en como una  medida de (in)dependencia.
+
+\item
+Vimos que en  {\it Local linear embedding} se resuelvan dos problemas;\\
+El primer paso es un problema de regresi\'on con restricciones para encontrar $\{w_{i,j}\}$ que minimiza:
+\[\sum_i ||x_i - \sum_{j\in vec(i)} w_{i,j} x_j||^2   \mbox{ con } \sum_j w_{i,j}=1 \]
+y despu\'es, dadas $\{w_{i,j}\}$, se buscan las $\{ x_i^* \}$ que minimizan:
+\[\sum_i ||x_i^* - \sum_{j\in vec(i)} w_{i,j} x_j^*||^2 \]
+
+Verifica que $\sum_j w_{i,j}=1$ garantiza que la soluci\'on no cambia al hacer una translaci\'on de los datos originales  
+$\{x_i\}$, es decir,  $\{x_i + a\}$ para algun vector $a$ tiene la misma soluci\'on que $\{x_i\}$.
+
+Nos enfocamos ahora al segundo paso. Para simplificarlo, vamos a suponer que $x_i^* \in {\cal R}$, asi se convierte en:
+\[\sum_i (x_i^* - \sum_{j\in vec(i)} w_{i,j} x_j^*)^2 \]
+
+Verifica que lo anterior se puede escribir como
+\[ (X^*)^t X^* -   (X^*)^t (W X^*) -  (W X^*)^t (X^*) + (WX^*)^t (WX^*) 
+ \] donde $W$ es la matriz $[w_{i,j}]$ donde $w_{i,j}=0$ si $j \notin vec(i)$, y $X^*$ el vector $[x_i^*]$.
+Verifica que se puede escribir lo anterior como
+\begin{equation}  
+\label{qw} (X^*)^tM (X^*) \mbox{ con } M=(I-W)^t(I-W)  \mbox{ y $I$ la matriz id\'entica } \end{equation}
+
+Minimizar la forma cuadr\'atica (\ref{qw}) con la restricci\'on $|| X^*  ||^2=1$, conduce a un cociente de Rayleigh como lo vimos con PCA. 
+
+Verifica que el vector con unos $1$  es un vector propio con valor propio 0 de $M$ (hint: calcula $(I-W)1$ ).
+
+Como estamos minimizando (y no maximizando como pasa en PCA) se puede mostrar que la soluci\'on es el vector propio con valor propio m\'as chiquito. Eso es $0$ y es claramente no util. Por eso uno se queda con el segundo vector propio m\'as chico de $M$.
+
+\item (no entregar)
+Vimos el Teorema de Rao en clase: \\
+{\it Si $\F$ es una matriz sim\'etrica de rango $d$ y con SVD:
+\[\F=\sum_1^d \lambda_i v_i v_i^t  \]
+La matriz sim\'etrica de rango $p<d$ que minimiza $||\F-\G||_F$ es:
+\[\G=\sum_1^p \lambda_i v_i v_i^t  \]}
+
+Muestra que para esta elecci\'on,  el error $||\F-\G||_F^2$ es igual a $\sum_{i=p+1}^d \lambda_i^2$. \\
+(hint: usa las propiedades de $v_i$ y recuerda que $||\A||^2_F=traza(\A^t\A)$).
+
+
+
+\item
+
+La base de datos Animales con Atributos (Animals with Attributes) contiene informaci\'on
+sobre 50 animales. Para cada uno, se tienen 85 caracter\'isticas de valor real que capturan varias
+propiedades del animal: d\'onde vive, qu\'e come, etc. 
+
+Usa ISOMAP, LLE, T-SNE y SOM’s para encontrar visualizaciones informativas de los datos  y encontrar grupos.
+
+Se usan 3 archivos: \\ {\tt classes.txt} los nombres de cada animal \\
+{\tt predicates.txt} los nombres de las caracteristicas (columnas) \\
+{\tt predicate-matrix-continuous.txt} la matriz de datos 
+
+\item
+(despu\'es de la clase de mi\'ercoles)\\
+Toma de la base {\tt https://faces.mpdl.mpg.de/imeji/}   las caras de una mismas persona. Implementa  KernelPCA con kernel lineal para aproximar las caras con matrices de menor rango. Visualizalos. Solamente se puede usar una funci\'on que calcula la SVD, no las funciones de (kernel)PCA. No olvides de centrar los datos.
+
+\end{enumerate}  
+
+
+
+\end{document}
+
+
+
+
+
+\item
+Sea X una v.a. multidimensional con matriz de covarianza $Cov(X)$. Viende $X$ como un vector (parada)  de longitud $d$,
+\begin{enumerate}
+\item verifica que $Cov(X)=E(X-EX)(X-EX)^t$
+\item usa lo anterior 
+Si $l_i$ es el $i$-esimo vector propio de $Cov(X)$  y $Y_i=\langle l_i, X \rangle$ muestra que:
+\[Cov(Y_i,Y_j)=0, i \neq j\]
+
+Hint: Usa el hecgo 
+
+\item (no entregar nada)
+\?C\'omo explicar a tu abuelito lo que hacemos en clase?
+En un momento perdido echa un ojo al siguiente video de divulgaci\'on:
+\verb|https://www.youtube.com/watch?v=K-aAUwAFZlQ&ab_channel=TED-Ed|
+
+\item
+Completa el paso faltante de la demostraci\'on de la clase de que $\K=-\frac{1}{2}\C\D^2\C$. Ver video de la clase 01/2, momento 1:12:20.
+
+
+\item 
+Revisa el video sobre la maximizaci\'on del cociente de Rayleigh: \\
+\verb|https://youtu.be/8TBpSUXcDww| \\
+Haz unos peque\~nos cambios necesarios para demostrar que el segundo vector propio de $Cov(X)$ es la soluci\'on del problema de maximizar el cociente bajo la restricci\'on adicional de ser ortogonalal primer vector propio.  
+
+
+
+
+
+\item
+En el archivo heptatl´on se pueden consultar los tiempos y el puntaje
+final (score) de 25 atletas que participaron en el heptatl´on durante
+los juegos ol´ımpicos de Seoul.
+
+\begin{enumerate} 
+\item
+ Busca visualizaciones informativas de estos datos multivariados. 
+\item
+Haz un an\'alisis de
+componentes principales con los tiempos (sin score). Hay una relaci\'on
+entre el score y las proyecciones sobre el primer CP? Puedes leer los
+datos con:
+d<-read.table("hepatlon")
+Una liga que quiz\'as es de su inter\'es:
+http://theaftermatter.blogspot.mx/2012/06/maths-of-heptathlon-why-scoring-system.html
+\end{enumerate}
+
+El c\'odigo en Python de lo que vimos en clase en R: \\ 
+\verb|https://colab.research.google.com/drive/1u68t9noFEJyRIiGyQ6ToMxZyZmgVVJNm|
+
+\item (no entregar)
+Considera los datos {\it oef2.data}. Se trata de los promedios mensuales de la temperatura (en Celsius) en 35 estaciones canadienses de monitoreo. El inter'es es
+comparar las estaciones entre s'i en base de sus curvas de temperatura.
+
+Considerando las 12 mediciones por estaci'on como un vector $X$, aplica un an'alisis
+de componentes principales. Como $X$ representa (un muestreo de) una curva, este
+tipo de datos se llama datos funcionales. Interpreta y dibuja (como curva) los
+primeros dos componentes, $p1,p2$ es decir grafica $\{(i,p1_i)\}$ y $\{(i,p2_i)\}$.  Agrupa e interpreta las estaciones en el biplot (ten en mente un mapa de Canada).
+
+Para leer los datos:
+\begin{verbatim}
+temp <- matrix(scan("oef2.data"), 35, 12, byrow=T)
+
+nombresestaciones <-   c("St. John_s",    "Charlottetown", "Halifax" ,
+                  "Sydney",        "Yarmouth",      "Fredericton",
+                  "Arvida",        "Montreal",      "Quebec City",
+                  "Schefferville", "Sherbrooke",    "Kapuskasing",
+                  "London",        "Ottawa",        "Thunder Bay",
+                  "Toronto",       "Churchill",     "The Pas",
+                  "Winnipeg",      "Prince Albert", "Regina",
+                  "Beaverlodge",   "Calgary",       "Edmonton",
+                  "Kamloops",      "Prince George", "Prince Rupert",
+                  "Vancouver",     "Victoria",      "Dawson",
+                  "Whitehorse",    "Frobisher Bay", "Inuvik",
+                  "Resolute",      "Yellowknife")
+
+rownames(temp)<-nombresestaciones
+
+\end{verbatim} \mbox{} \\
+
+
+
+\item (opcional)  Reconocimiento de Patrones estilo menonita consiste en resolver problemas de reconocimiento de patrones sin usar tecnologia; es decir solamente con su red neuronal natural. \\
+Ubicar en Guanajuato d'onde se tomaron las siguientes
+fotos\\
+\resizebox{4cm}{!}{\includegraphics{anillo.png}} 
+\resizebox{7cm}{!}{\includegraphics{gto.png}} \resizebox{4cm}{!}{\includegraphics{perro.png}}
+
+\end{enumerate}
+
+
+\end{document}
