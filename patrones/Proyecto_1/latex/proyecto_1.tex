@@ -153,6 +153,7 @@ leftrule = 4pt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 \begin{document}
 
 \preprint{Reconocimiento estadístico de patrones}
@@ -171,9 +172,12 @@ leftrule = 4pt
 
 \begin{abstract}
 \begin{center}
-\small{11 de Diciembre de 2023}
+\small{15 de Abril de 2024}
 \end{center}
 \vspace{0.6cm}
+
+
+En este trabajo, realizamos visualización y análisis de datos multidimensionales de los precios de algunos productos que proporciona una las herramientas del INPC del INEGI. Generamos una pequeña base datos con productos específicos, incluyendo limón, leche, camarón, tortillas, electricidad, alquiler, frijol y pollo, en el perido Agosto-2018 a Febrero-2024. Aplicamos análisis de componentes principales (PCA) para reducir la dimensionalidad de los datos y proyectarlos en un espacio tridimensional. Luego, empleamos el algoritmo K-means para agrupar los datos en un número predeterminado de clusters. Posteriormente, generamos histogramas para cada variable en función de los clusters obtenidos, lo que permite explorar la distribución de los datos dentro de cada cluster. Pudimos observar una cierta estructura en los datos relacionada con el año y el tipo de ciudad al que pertenecen.
 
 
 \end{abstract}
@@ -186,250 +190,324 @@ leftrule = 4pt
 
 
 
-\section{Preguntas de interes}
-
-\begin{itemize}
-\item ¿Cómo se relaciona la frecuencia de viajes de un usuario con su edad?
-\item ¿El género tiene un efecto significativo en la duración y/o frecuencia de los viajes?
-\end{itemize}
-
 \section{Introducción}
 
 
 
-El Índice Nacional de Precios al Consumidor (INPC) es un indicador de la evaluación y comprensión de la dinámica económica des país. Esta diseñado para estimar la evolución de los precios de los bienes y servicios consumidos por las familias de México.
+El Índice Nacional de Precios al Consumidor (INPC) es un indicador de la evaluación y comprensión de la dinámica económica del país. Esta diseñado para estimar la evolución de los precios de los bienes y servicios consumidos por las familias de México.
 
-Existe complejidad inherente a la medición de las variaciones de precios pues, entre otros factores, existe una amplia gama de artículos y servicios de consumo así como una constante fluctuación en los precios. Además, la asincronía en los cambios de precios y sus variaciones de velocidad agregan un nivel adicional de complejidad al análisis.
+Existe una complejidad inherente a la medición de las variaciones de precios pues, entre otros factores, existe una amplia gama de artículos y servicios de consumo así como una constante fluctuación en los precios. Además, la asincronía en los cambios de precios y sus variaciones de velocidad agregan un nivel adicional de complejidad al análisis.
 
-En este contexto, el presente se enfoca en analizar los precios de una amplia gama de productos en diversas ciudades de México. Utilizando datos muestrales, exploramos las fluctuaciones en los precios de nueve productos a lo largo del tiempo y en diferentes ubicaciones geográficas del país. Empleamos técnicas de análisis estadístico y visualización de datos, incluyendo dendrogramas y heatmaps, para identificar patrones y relaciones significativas en los datos.
+En este contexto, el presente se enfoca en analizar los precios de una amplia gama de productos en diversas ciudades de México. Utilizando datos muestrales, exploramos las fluctuaciones en los precios de nueve productos a lo largo del tiempo y en diferentes ubicaciones geográficas del país. Empleamos técnicas de análisis estadístico y visualización de datos para identificar patrones y relaciones significativas en los datos.
 
 La información recopilada para este análisis proviene de la base de datos proporcionada por una de las herramientas de del INPC del INEGI: \textbf{Consulta precios promedio}, que contiene registros de precios de distintas marcas y/o proovedores de una serie de productos y servicios en 55 ciudades que se consumen en todo el país. Las cotizaciones de los productos en esta base de datos son principalmente mensuales y se encuentran desde el mes de Agosto del año 2018.
 
-Debido a la extensa cantidad de productos y servicios nos centraremos exclusivamente en los siguientes productos mostrados en \ref{base}, desde el mes de agosto de 2018 hasta el mes de marzo de 2024 de las 55 ciudades. Para un mejor manejo y representación visual de los datos se modificaron, y/o quitaron
+Hay una extensa cantidad de productos y servicios disponibles en la página del INEGI, pero nosotros nos centraremos exclusivamente en los siguientes productos mostrados en \ref{res}, desde el mes de agosto de 2018 hasta el mes de marzo de 2024 de las 55 ciudades. Para un mejor manejo y representación visual de los datos se modificaron, y/o quitaron
 algunas de las filas, de modo que para cada producto/servicio tenemos un único proveedor/marca. 
+
+El procedimiento de cómo llegamos a esta única tabla de datos se encuentra en el notebook \texttt{preprocesamiento.ipynb}, en \ref{res} se encuentra una pequeña tabla con la info de las variables que utilizaremos.
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.38]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/resumen.png}
+		\caption{DataFrame Info}
+		\label{res} 
+   \end{center} 
+\end{figure}
+
+
+\section{Análisis Exploratorio }
+
+\subsection*{Productos}
+
+Sobre las variables continuas y cuantitativas (los precios de cada producto), algunas de las características que nos interesan son su promedio, media, máximo, mínimo, etc, que se muestra en la tabla \ref{sts}. 
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/sts.png}
+		\caption{DataFrame Info}
+		\label{sts} 
+   \end{center} 
+\end{figure}
+
+Estas estadísticas son sobre el total de datos, es decir, toma en cuenta todas las ciudades, y todos los meses de los 4 años. Más adelante veremos unos gráficos para ciertas ciudades y/o a lo largo del tiempo.
+
+El limón, el frijol, la leche, el alquiler siguen una distribución unimodal y presentan una asimetría hacia la derecha. A continuación se muestran el histograma y boxplot del limon \ref{limon} y el alquiler \ref{alquiler}.
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/hblimon.png}
+		\caption{Histograna y Boxplot de precios del Limón }
+		\label{limon} 
+   \end{center} 
+\end{figure}
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/hbalquiler.png}
+		\caption{Histograna y Boxplot de precios del alquiler }
+		\label{alquiler} 
+   \end{center} 
+\end{figure}
+
+
+El camarón presenta una distribución bimodal \ref{camaron} y los demás productos (electricidad tortillas pollo) presentan distribuciones con una gran varianza (veáse tabla \ref{sts}), por ejemplo, en el caso de las tortillas \ref{tortillas}, el precio mínimo es de 9.94, el máximo es 30 y su desviación es 4.37, aproximadamente de un quinto del rango.
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/hbcamaron.png}
+		\caption{Histograna y Boxplot de precios del camaron }
+		\label{camaron} 
+   \end{center} 
+\end{figure}
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/hbtortillas.png}
+		\caption{Histograna y Boxplot de precios del tortillas }
+		\label{tortillas} 
+   \end{center} 
+\end{figure}
+
+Los demás histogramas y boxplots pueden consultarse en el notebook \texttt{analisis$\_$exploratorio.ipynb}.
+
+\subsection*{Precios en el tiempo}
+
+
+Otra caracteristica interesante sobre los precios de los distintos productos es su evolución en el tiempo. Los siguientes cuatro gráficos muestran esto para cada ciudad. 
+En general, el rango de los precios en función de las ciudades (para un punto fijo en el tiempo) es grande a excepción del limón y la electricidad.
+
+En estas dos imágenes podemos apreciar que todas las gráficas (cada una asociada a una cd. distinta) siguen un patrón bastante definido.
+
+
+El precio del limón \ref{stlimon} tiene un máximo y un mínimo globales bien definidos por año y sólo unas cuantas ciudades no se apegan a este comportamiento. 
+
+Mientras que el precio de la electriccidad \ref{stelectricidad} alcanza un mínimo y luego un máximo de manera periódica, además en estos precios se mantiene por tiempo para volver a subir o bajar después. 
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/stlimon.png}
+		\caption{Grafico de la variación de precios del limon para cada ciudad en el periodo agosto de 2018 a fenrero de 2024}
+		\label{stlimon} 
+   \end{center} 
+\end{figure}
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/stelectricidad.png}
+		\caption{Grafico de la variación de precios del electricidad para cada ciudad en el periodo agosto de 2018 a fenrero de 2024}
+		\label{stelectricidad} 
+   \end{center} 
+\end{figure}
+
+Un caso especial es el del alquiler donde también se muestra una tendencia similar en todas las ciudades, pareciera que los precios suben de manera msomenos lineal y las gráficas parecen no decrecientes. Sin embargo, a diferencia del limón y la electricidad, a medida que avanza el tiempo el rango de precios (en función de las ciudades y a tiempo fijo) es más grande. 
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.24]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/stalquiler.png}
+		\caption{Grafico de la variación de precios del alquiler para cada ciudad en el periodo agosto de 2018 a fenrero de 2024}
+		\label{stalquiler} 
+   \end{center} 
+\end{figure}
+
+Como mencioamos antes, el rango de precios en ls distintas ciudades de los demás productos es bastante amplio en todo momento y su evolución no parece seguir ningún patrón en conjunto. Como ejemplo de estos casos, se muestra el gráfico de las tortillas \ref{sttortillas}.
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.27]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/sttortillas.png}
+		\caption{Grafico de la variación de precios del tortillas para cada ciudad en el periodo agosto de 2018 a fenrero de 2024}
+		\label{sttortillas} 
+   \end{center} 
+\end{figure} 
+
+Las demás series (pollo, camarón, leche y frijol) de tiempo tienen un comportamiento anpalogo al de las tortilla y pueden consultarse en el notebook \texttt{analisis$\_$exploratorio.ipynb}.
+
+\subsection*{Ciudades}
+
+Con los datos disponibles se realizó un resumen obteniendo el promedio de los precios de cada producto agrupando por ciudad (es decir, tomando en cuenta todos los meses de los 4 años para cada ciudad) y sumando estos valores se categorizó a cada ciudad en Caro, Medio o Barato. Se determino si una ciudad pertenecía o no a una categoría usando como referencia los cuantiles de la suma antes mencionada. 
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.18]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/ciudades.png}
+		\caption{Grafico de la variación de precios del ciudades para cada ciudad en el periodo agosto de 2018 a fenrero de 2024}
+		\label{ciudades} 
+   \end{center} 
+\end{figure} 
+
+Podemos ver que entre las ciudades más costosas se encuentran algunas como la Ciudad de México, Guadalajara, Monterrey, entre otras ciudades grandes y entre las ciudades más baratas tenemos ciudades más pequeñas como Huatabampo, La Paz, Campeche, Colima, etc. Las categorías asignadas coinciden con las que se podrían esperar dadas las naturalezas de las respectivas ciudades y sus estilos de vida.
+
+Esta clasificación se agregó como variable categórica a nuestra base de datos para realizar algunas pruebas de clustering más adelante. 
+
+\section{Resultados}
+
+Buscamos alguna clasificación de los datos que pueda ayudarnos a discernir alguna estructura en estos por lo que comenzamos definiendo un vector aleatorio con los precios de los 8 productos y 4 variables aleatorias discretas, una por cada etiqueta disponible en nuestra base de datos: Año, Estación, Mes y Categoria. (Categoria se refiere a la clasificación de la ciudad \ref{ciudades})
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.32]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/va.png}
+		\caption{Variables aleatorias para realizar PCA y k-means}
+		\label{va} 
+   \end{center} 
+\end{figure} 
+
+Aplicamos PCA al vector aleatorio X y graficamos los datos proyectados en las primeras tres componentes principales, coloreando los datos de acuerdo al año \ref{pcaanio}, al mes \ref{pcames}, a la categoria \ref{pcacategoria} y a la estación del año \ref{pcaseason}.
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/pcaanio.png}
+		\caption{Primeras tres componentes principales coloreadas por año.}
+		\label{pcaanio} 
+   \end{center} 
+\end{figure} 
+
+En la gráfica de PCA año se aprecia un gradiente de color donde cada color representa un año, es decir, tenemos cierta estructura de acuerdo al año.
 
 
 
 \begin{figure} [H]
 	\begin{center}
-		\includegraphics[scale=0.28]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/base.png}
-		\caption{Datos utilizados para este trabajo}
-		\label{base} 
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/pcames.png}
+		\caption{Primeras tres componentes principales coloreadas por mes.}
+		\label{pcames} 
    \end{center} 
-\end{figure}
+\end{figure} 
 
 
 
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/pcaseason.png}
+		\caption{Primeras tres componentes principales coloreadas por estación.}
+		\label{pcaseason} 
+   \end{center} 
+\end{figure} 
 
-\section{Análisis Exploratorio }
 
+En los dos gráficos anteriores no se observa a simle vista ningún patrón bien definido como en el caso del año.
 
-\subsection*{Usuarios}
-A continuación se presentan algunas de las carterísticas de los usurios de MiBici del conjunto de datos mencionado
-hay \textbf{17282 distintos usuarios} que utlizaron, de los cuales 11668 son hombres y 5384 son mujeres {cantidadgenero}. 
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/pcacategoria.png}
+		\caption{Primeras tres componentes principales coloreadas por categoria (caro, barato, medio).}
+		\label{pcacategoria} 
+   \end{center} 
+\end{figure} 
 
+Finalmente, al colorear con las etiquetas de la variable categoría parece haber algo de agrupamiento, aunque desde el ángulo en que está la imagen no se aprecia adecuadamente.
 
-Se puede apreciar en {edad} que la mayoría de los usuarios son adultos entre 25 y 40 años. La edad mínima
-registrada es de 20 años y ls máxima de 106. 
+En el notebook \texttt{pca$\_$clustering.ipynb} se encuentran además los gráficos de en 2D de las primeras dos componentes principales y otros gráficos 3D interactivos donde pueden apreciarse más detalladamente los datos y los colores de acuerdo al hue. 
 
 
 
-Por otro lado, si hacemos la distinción de edades por género, como muestran los siguientes boxplots {edadygen}
-podemos observar que en el género masculino el rando intercuantil abarca desde 30 hasta más de 40 años mientras que 
-el de las mujeres inicia casi igual pero no alcanza los 40 años.
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.3]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/elbow.png}
+		\caption{Método del codo para aproximar el número de clusters.}
+		\label{elbow} 
+   \end{center} 
+\end{figure} 
 
 
 
+Para ayudarnos a determinar si los datos tienen o no una estructura o se agrupan unos con otros, utilizaremos el algoritmo de k-means sobre los los datos proyectados en las tres pirmeras componentes principales. Para ello, primero nos apoyamos en el método del codo para tener una idea de donde comenzar el número de clusters.
 
-\subsection*{Viajes}
-Algunas características que podemos obtener sobre los viajes a partir de los datos son los horarios y días de la semana 
-más concurridos, la duración de los viajes y las estaciones más y menos utilizadas. A continuación daremos un panorama
-general sobre los viajes que se realizan con MiBici.
 
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.35]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans4.png}
+		\caption{kmeans con 4 clusters sobre los datos reducidos a tres dimensiones}
+		\label{kmeans4} 
+   \end{center} 
+\end{figure} 
 
+Con base en la gráfica obtenida \ref{elbow}  con este método, decidimos comenzar con 4 clusters. En la figura \ref{kmeans4} se muestran los datos en tres dimensiones coloreados según el cluster determinado con el algoritmo k-means. 
 
-De las gráficas {dia}, {hora} y {duracion} podemos observar que la cantidad de viajes disminuye significativaente
-los fines de semana, la hora en que los usuarios más utilizan Mibici es las 18:00 y desde esa hora donde se alcanza el máximo,
-el número de viajes decrece hasta su mínimo a las 23:00. Además la mayoría dura entre 6 y 14 minutos, en promedio, duran 11.
 
+Para saber si la clasificación del algoritmo se hizo en función de alguna de las variables categoricas que tenemos disponibles, realizamos gráficos de frecuencia para cada etiqueta del cluster y para cada variable categórica.
 
+En la figura \ref{kmeans4anio} se encuentra el histograma de la variable año para cada uno de los cuatro clusters.
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans4anio.png}
+		\caption{Frecuencias de cada año en por cluster. }
+		\label{kmeans4anio} 
+   \end{center} 
+\end{figure} 
 
 
+En la figura \ref{kmeans4mes} se encuentra el histograma de la variable mes para cada uno de los cuatro clusters.
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans4mes.png}
+		\caption{Frecuencias de cada mes en por cluster. }
+		\label{kmeans4mes} 
+   \end{center} 
+\end{figure} 
 
-En la figura {dia}, la diferencia más relevante se aprecia entre el fin de semana y el resto de los dias, aunque sí se observa un crecimiento
-de lunes a viernes.
+En la figura \ref{kmeans4vat} se encuentra el histograma de la variable categoria para cada uno de los cuatro clusters.
 
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans4vat.png}
+		\caption{Frecuencias de cada categoria en por cluster. }
+		\label{kmeans4vat} 
+   \end{center} 
+\end{figure} 
 
+En la figura \ref{kmeans4season} se encuentra el histograma de la variable estación para cada uno de los cuatro clusters.
 
-Los máximos más relevantes de la figura {hora},se encuentran a las 8:00 y a las 18:00 y por la noche, después de las 20:00 se tiene concurrencia. No 
-hay datos desde las 12:00 hasta ls 6:00.
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans4season.png}
+		\caption{Frecuencias de cada estacion en por cluster. }
+		\label{kmeans4season} 
+   \end{center} 
+\end{figure} 
 
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/viajes/duracion.png}
-% 		\caption{Histograma de viajes por duración}
-% 		\label{duracion} 
-%    \end{center} 
-%\end{figure}
 
-En la primer gráfica de la figura {duracion}, se aprecia la distribución de duración de los viajes, sin embargo, debido a que hay algunos datos
-que indican viajes de hasta 500 minutos, no se puede apreciar el lugar donde se encuentra la mayor concentración de datos,
-por esta razón en la gráfica de abajo se realizó un zoom al intervalo [0,40], de esta manera puede observarse
-mejor el histograma.
-Hay un pico significante al inicio, lo que indica que una alta cantidad de viajes dura menos de uno o dos minutos. 
 
+Las dos variables categóricas más discriminantes son año y categoria. Mientras que mes y estación no nos dicen mucho. En los cuatro clusters hay cantidades altas de más de una etiqueta.
 
-Podemos extraer un poco más de información si formamos un nuevo DataFrame donde
-agruprmos los datos por usuario y agregamos una columna
-que cuente el número de viajes de cada usuario que haya utilizado MiBici en Enero de 2019 y otra que indique 
-el grupo de edad al que pertenece cada usuario (rangos=[20,25, 30,35, 40,45, 50,55, 60,65, 70,75, 80]).
+Tomando en cuenta el método del codo y los histogramas anteriores se probó el algoritmo k-means para tres clusters sin embargo los histogramas son parecidos a los anteriores, y no se discierne ninguna variable discriminante.
 
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/viajes/tabla.png}
-% 		\caption{Conjunto de datos}
-% 		\label{tabla} 
-%    \end{center} 
-%\end{figure}
-
-De esta manera podemos entender mejor el comportamiento general por usuario, por ejemplo, la figura {cantidad} 
-nos muestra que la mayoría de los usuarios sólo realizó un viaje en el mes elejido. De hecho, observamos que la frecuencia de cantidad de viajes
-vs disminuyendo.  
-Aplicamos la función describe()
-al DataFrame anterior y obtuvimos, además, que que el promedio de viajes de un usuario
-fue de 20 y cerca de la mitad de los usuarios realizaron entre 5 y 29 viajes.
-
-
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/viajes/cantidad.png}
-% 		\caption{Histograma del número de viajes en el mes de Enero 2019}
-% 		\label{cantidad} 
-%    \end{center} 
-%\end{figure}
-
-También podemos saber cómo se distribuye el número de viajes por usuario que se realizan en un mes de acuerdo 
-con el grupo de edad o del género de éste:
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/viajes/viajesporgenero.png}
-% 		\caption{Histograma del número de viajes en el mes de Enero 2019}
-% 		\label{porgenero} 
-%    \end{center} 
-%\end{figure}
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/viajes/viajesporgrupo.png}
-% 		\caption{Histograma del número de viajes en el mes de Enero 2019}
-% 		\label{porgrupo} 
-%    \end{center} 
-%\end{figure}
-
-La Figura {porgenero} es interesante, pues en contraste con la cantidad de usuarios por género {cantidadgenero} (donde 
-hay una gran diferencia entre la cantidad de hombre y mujeres registrados), ladistribucion de cantidad de viajes que se realizan por usuario 
-no parece ser significativamente distint entre hombres y mujeres.
-
-
-
-Finalmente, graficamos un pairplot para darnos una idea de como se relacionan las variables 
-y si es que hay correlación entre algunas de ellas.
-
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.2]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/analisis_exploratorio/pairplot.png}
-% 		\caption{pairplot variables de Enero 2019}
-% 		\label{pairplot} 
-%    \end{center} 
-%\end{figure}
-
-Como puede observarse no se aprecia ninguna relación clara entre ningun par de variables y
-tampoco parece haber agrupamientos por género.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#2METODOLOGÍA%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#3RESULTADOS%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Resultados}
-
-Se busca responder si hay alguna relación entre  la frecuencia y/o duración de viajes con la edad y/o el género, por lo
-que a continuación probaremos con una regresión lineal.
-
-Primero veamos un scatterplot de estas variables:
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.44]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/modelos/relacionedad.png}
-% 		\caption{Cantidad y duración de viajes según la edad del usuario}
-% 		\label{eddadvs} 
-%    \end{center} 
-%\end{figure}
-
-Ninguno de los dos gráficos parece mostrar una relación entre las variables, sin embargo, probaremos una regresión
-lineal utilizando dos distintos enfoques para determinar qué sucede.
-
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.35]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/modelos/tablaregresion1.png}
-% 		\caption{Resumen regresion lineal Numero de Viajes$\sim$ Edad}
-% 		\label{tablaregres} 
-%    \end{center} 
-%\end{figure}
-
-Resalta que $R^2=0$, lo que los idica que nuestro modelo no explica la variabilidad de nuestros datos, 
-de hecho, da lo mismo hacer la regresión que simplemente tomar la media de nuestros datos,
-cosa que se aprecia en el siguiente gráfico:
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.39]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/modelos/regresion1.png}
-% 		\caption{Grafico de regresion lineal Numero de Viajes$\sim$ Edad}
-% 		\label{grafregres} 
-%    \end{center} 
-%\end{figure}
-
-
-Se intentó una segunda manera de probar si existe alguna relación entre la edad y la duración de los viajes. 
-En lugar de utilizar todas las edades, éstas se agruparon en 5 categorias (las utilizadas en Fig {porgrupo}) 
-y utilizando la clasificacion onehot {t2} se realizó nuevamente la regresión lineal.
-
-%\begin{figure} [H]
-%	\begin{center}
-%		\includegraphics[scale=0.39]{/Users/sara/Documents/Maestria/primer_semestre/analisis/proyecto/modelos/tabla2.png}
-% 		\caption{Grafico de regresion lineal Numero de Viajes$\sim$ Edad}
-% 		\label{t2} 
-%    \end{center} 
-%\end{figure}
-
-A continuación se muestra el resumen de esta regresión. Si bien $R^2$ ya no es cero sigue siendo un valor muy bajo,
-por lo que el modelo no es adecuado para la distribución de nuestros datos.
-
-
-
-
-Las dos anteriores maneras de encontrar una relación con la edad se utilizaron también para la duración de los viajes, 
-aunque los resultados son análogos a los ya presentados.
+Finalmente, como caso especial debido al aparente agrupamiento que se observa desde el gráfico de pca, se probaron 7 clusters y de igual manera se realizó el gráfico en tres dimensiones.
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.35]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/kmeans7.png}
+		\caption{kmeans con 7 clusters sobre los datos reducidos a tres dimensiones}
+		\label{kmeans7} 
+   \end{center} 
+\end{figure} 
+
+Tal como en \ref{kmeans4} también se aprecian grupos definidos, es dificil decir si hay más traslape en uno que otro con este par de gráficos. Sin embargo en los interactivos del notebook \texttt{pca$\_$clustering.ipynb} se pueden ver desde distintas perspectivas y parecen clusters más definidos com $k=4$
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_1/imgenes/anio7.png}
+		\caption{Frecuencias de cada año en por cluster.}
+		\label{anio7} 
+   \end{center} 
+\end{figure} 
+
+
+
+\onecolumngrid
+\section{Conclusiones}
+Aplicando una reducción de dimensión a nuestros datos, se puede apreciar una cierta estructura relacionada con el año de los datos. El algoritmo de agrupamiento k-means sugiere además que si una característica importante es \textit{el tipo de ciudad}. Un problema de esta clasificación es que  que engloba y resume (de manera muy sencilla) demasiados momentos en el tiempo, sería interesante hacer una clasificación de las ciudades que rescate mejor la información del tiempo.
 
 \onecolumngrid
 
-\section{Colclusiones}
-Con un modelo lineal no puede establecerse si hay o no
-una relación entre la edad y la frecuencia y/o duración de los viajes. En cuanto al género, desde el análisis exploratorio
-pudimos apreciar que no parece un factor realmente importante para esta dos variables, a pesar de que haya menos mujeres
-registradas, la distibucion de los tiempos y cantidad de viajes es similar a la de los hombres.
+\section*{Referencias}
 
-\onecolumngrid
-
-
+\begin{enumerate}
+    \item Instituto Nacional de Estadística y Geografía (INEGI). (s/f). Precios promedio. Recuperado de \url{https://www.inegi.org.mx/app/preciospromedio/?bs=18}
+    
+    \item Banco de México. (s/f). Recuadros del Informe Trimestral. Recuperado de \url{https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/recuadros/%7B1433DE85-D1A1-672C-CAF2-17E95DBA5BC0%7D.pdf}
+\end{enumerate}
 
 
 
