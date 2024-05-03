@@ -1,0 +1,370 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% PAQUETES QUE UTILIZO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letter, 11pt, twoside]{report}
+\usepackage{amsthm}
+\usepackage[many]{tcolorbox}
+\usepackage{thmtools}
+\usepackage{amssymb,bm,amsfonts,amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[export]{adjustbox}
+\usepackage{hyperref}
+\usepackage{enumerate}
+\usepackage{makeidx}
+\usepackage{float}
+\usepackage{graphicx, import}
+\usepackage{subfig}
+\usepackage{upgreek}
+\usepackage{float}
+\usepackage[all]{xy}
+\usepackage{thmtools}
+\usepackage{titlesec}
+\usepackage{mathrsfs}
+\usepackage{multicol}
+\usepackage{tikz-cd}
+\usetikzlibrary{patterns}
+\usetikzlibrary{plotmarks}
+\usepackage{wrapfig}
+\usepackage{stmaryrd}
+\usepackage{subfloat}
+\usepackage{svg}
+\usepackage{yfonts}
+\usepackage{fancyhdr}
+\usepackage{pifont}
+\usepackage{pdfpages}
+\usepackage{ marvosym }
+\usepackage{hyperref}
+\usepackage{pdflscape}
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{bm}
+\usepackage{epigraph}
+\usepackage{quotchap}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage[customcolors]{hf-tikz}
+\usetikzlibrary{babel}
+% PARA VER LAS REFERENCIAS LABELS
+% \usepackage[notcite,color]{showkeys}
+% CHECA http://www.tug.dk/FontCatalogue/iwonalightcondensed/
+\usepackage[light,math]{iwona}
+\usepackage[T1]{fontenc}
+\usepackage{MnSymbol}
+\usepackage{varwidth} % CAJA DE EJERCICIOS Y \SOMBREADO
+\tcbuselibrary{vignette,many}
+\tcbuselibrary{skins}
+\usepackage{pgfplots}
+\usepgfplotslibrary{fillbetween}
+\pgfplotsset{compat=1.16}
+\usepackage{xcolor}
+% PARA ESCRIBIS CÓDIGO Y PSEUDOCÓDIGO
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{listings}
+\usepackage{color, xcolor}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% MEMO PYTHON Y C %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%CÓMO QUEDERÁ EL COLOREADO Y HIGHLIGHT DEL CÓDIGO
+\definecolor{dkgreen}{rgb}{0.9,0.6,0.8}
+\definecolor{blue}{rgb}{0.0,0.49,0.4}
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{gray97},
+    commentstyle=\color{cyan!75!black},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines= true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    language=bash,   %% PHP, C, Java, etc... bash is the standard
+    extendedchars=true,
+    inputencoding=latin1
+}
+
+\lstset{style=mystyle, literate =
+                        {í}{{\'i}}1
+                        {á}{{\'a}}1
+                        {é}{{\'e}}1
+                        {ó}{{\'o}}1
+                        {ú}{{\'u}}1
+                        {ñ}{{\~n}}1
+                        {ü}{{\"u}}1
+                            }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% COLORES DEL PAQUETE SHOWKEYS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{refkey}{rgb}{255,0,0}
+\definecolor{labelkey}{rgb}{255,0,0}
+\definecolor{mirosa}{HTML}{FF007F}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% MARGENES, VIENE EN EL MANUAL DE LATEX %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% FORMATO ME LO PASO RO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\parskip=5pt
+\hoffset = 0pt
+\headsep = 1.5 cm % estaba en 1.5 cm, lo cambie para el header de la imagen
+\oddsidemargin = .5cm
+\evensidemargin = .5cm
+\textheight = 657pt
+\textwidth = 15.6cm
+\topmargin = -2 cm
+\parindent=0mm
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%% CREACIÓN DE EJERCICIO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% MODIFICACIÓN PROOF Y QED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\qedsymbol}{\tiny{$\blacksquare$}}
+
+\newenvironment{solucion}{\begin{proof}[\textcolor{magenta}{Solución}]}{\end{proof}}
+
+\newtcolorbox[auto counter]{ejercicio}[1][]{
+% ESTO ES PARA LA CAJA GENERAL
+breakable, % por si cambias de pagina
+enhanced, % estilo general
+% TITULO MODIFICACIONES
+coltitle= black,
+colbacktitle= white,
+titlerule= 0mm,
+colframe = magenta,
+fonttitle=\bfseries,
+title= Ejercicio~\thetcbcounter,
+% CAJA LINEA MODIFICACIONES
+boxed title style={
+  sharp corners,
+  rounded corners=northwest,
+  rounded corners=northeast,
+  % outer arc=0pt,
+  % arc=0pt,
+  },
+% CONTENIDO MODIFICACIONES
+colback = white,
+fontupper = \itshape,
+coltext =  black,
+% MARCO MODIFICACIONES
+rightrule=0mm,
+toprule=0pt,
+bottomrule= 0pt,
+leftrule = 4pt
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% CREE COMANDOS PARA FACILITAR ESCRITURA %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\I}[4]{\displaystyle\int\limits_#1^#2 #3 \,\text{d}#4}
+\newcommand{\III}[2]{\displaystyle\int#1 \,\text{d}#2}
+\newcommand{\II}[1]{\displaystyle\int#1 \,\text{d$x$}}
+\newcommand{\fun}[3]{$#1:#2 \longrightarrow #3$}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% MODIFIQUE ALGUNOS COMANDOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% EL INTERLINEADO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\baselinestretch}{1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% COLUMNAS ES AMBIENTE MULTICOLS %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\columnseprule}{1pt}
+\def\columnseprulecolor{\color{darktangerine}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% ESPACIO ENTRE RENGLONES,COLUMNAS MATRIX  Y THICK DE \FCOLORBOX %%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\arraystretch}{1.2} % for the vertical padding (space)
+\setlength{\tabcolsep}{0.2 cm} % for the horizontal padding  (space)
+\setlength{\fboxrule}{3pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% ESTILO DE LA PÁGINAS %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE, RO]{}
+\fancyhead[LE, LO]{}
+\fancyfoot[CE,CO]{\thepage}
+\fancyfoot[RE,RO]{\small{\textsc{Y. Sarahi García González}}}
+\fancyfoot[LE,LO]{\small{\textsc{Procesamiento de Lenguaje Natural}}}
+\chead{\includegraphics[scale=.3]{/Users/ely/Documents/Plantilla/Figures/waves.pdf}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CAPÍTULOS MISMA PÁGINA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EMPEZAMOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\synctex=1 % PARA SINCRONIZAR PDF AL PRESIONAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{savequote}[45mm]
+% ---Frase---
+% \qauthor{Guillermo Gachuz Atitlán}
+% \end{savequote}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{\begin{tabular}{p{12cm}  c}
+   \begin{flushright}
+    Segundo Examen Parcial\\\small{Y. Sarahi Grcía González}
+   \end{flushright} & \includegraphics[scale=0.3, raise =-2cm]{/Users/ely/Documents/Plantilla/Figures/cimat.png} \\
+  \end{tabular} }
+\vspace{-2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Instricciones
+Para CADA presentación/material deberás elaborar lo siguiente:
+
+Un mini resumen en PDF con la siguiente estructura para cada presentación/sesión/clase/podcast:
+\begin{itemize}
+    \item MOTIVATION: al menos 40 palabras explicando la motivación y lo que se presenta en la sesión.
+    \item HOW IT WORKS: al menos 70 palabras de como se abordó y en que consistió la presentación, práctica/experimentación y/o casos de estudio.
+    \item RESULTS:
+    al menos 70 palabras de los resultados. Funciona? no funciona? funciona
+    más o menos? con cuanta diferencia? vale la pena? etc? o bien principales conclusiones.
+    \item WHY IT MATTERS?: al menos 40 palabras de porque deberíamos estar interesados en el tema?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?: al menos 50 palabras... 
+\end{itemize}
+
+
+\section*{Sesgo Algorítmico \color{mirosa}\url{https://youtu.be/8insq1Si98I}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+
+\section*{Transformer Implementation: \color{mirosa}\url{https://youtu.be/pgR-5oRKAag }}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+
+\section*{BERT y GMU: \color{mirosa}\url{https://www.youtube.com/watch?v=q8rI21Y3pyU}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+\section*{Music Generation \color{mirosa}\url{https://youtu.be/oPmOgWDG1BU}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+\section*{UDA \color{mirosa}\url{https://youtu.be/_CfFm6fyn3s}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+\section*{José Cañete \color{mirosa}\url{https://open.spotify.com/episode/54TMM8W01fjjL404MybEtV?si=5b5894ae823a48e2}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+\section*{Juan Manuel Pérez  \color{mirosa}\url{https://open.spotify.com/episode/65akBnfQXJ2AamgKHbXmJx?si=a7ba984bddb145b0}}
+\begin{itemize}
+    \item MOTIVATION:
+    \item HOW IT WORKS
+    \item RESULTS
+    \item WHY IT MATTERS?
+    \item TAKE AWAYS AND WHAT WE ARE THINKING?
+\end{itemize}
+
+  
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
