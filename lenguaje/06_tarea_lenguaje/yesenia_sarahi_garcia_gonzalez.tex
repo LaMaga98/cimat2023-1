@@ -286,7 +286,23 @@ leftrule = 4pt
 \section*{Word2Vec}
 \begin{itemize}
     \item Explique la estrategia de selección de paralabras dentro de la ventana de contexto en w2v, ¿Por qué se hace así y cuál es la intuición?
+    
     \item ¿Qué estrategia se usa para construir frases de palabras y construir un solo vector para conceptos basados en más de un token?
+    Para aprender la representación de un sólo vector para una frase se siguen varios pasos, primero:
+    \begin{enumerate}
+      \item Se encuentran las palabras que frecuentemente aparecen juntas como una frase.
+      \item Se define un score \ref{score} y un cierto umbral, de modo que todos los bigramas por encima de ese umbral se considerarán un único token.
+      \begin{equation}
+        score(w_i,w_j)=\frac{count(w_i,w_j)-\delta}{count(w_i)*count(w_j)}
+        \label{score}
+      \end{equation}
+      \item Estas frases se reemplazan por un único token (en lugar los $n$ que conformn la frase) en el dataset de entrenamiento. 
+    \end{enumerate}
+
+
+    Notemos que sólo las paralabras que aparecen juntas en uno (o unos pocos) cotexto específico serán tomadas en cuenta como un token, de modo que \textit{Estado de México} sería uno de éstos ejemplos, pero \textit{esto es} no lo sería. Pues las pabras \textit{esto} y \textit{es} podrían aparecer juntas en cualquier texto del español, mientras que, a menos que estemos hablando del estado específico, \textit{estado}, \textit{de} y \textit{México} no co-ocurren. 
+
+  
     \item Según el autor de w2v ¡cuáles podrían ser las ventajas/desventajas de CBOW y Skipgram?
     \item ¿Cuáles son las diferencias entre usar Hierarchical Softmax, Negative Sampling y NCE? ¿Cuál recomienda el autor y por qué?
     \item ¿Cuál diría usted que es la principal conclusión y aportación del paper de w2v? ¿Qué crítica hría usted a estos papers de w2v?
