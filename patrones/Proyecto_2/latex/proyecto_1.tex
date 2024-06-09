@@ -1,0 +1,471 @@
+\documentclass[letterpaper,spanish,reprint,nofootinbib,showkeys,aps]{revtex4-2}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAQUETES USUALES
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel} 
+\usepackage{calc}
+\usepackage{amsmath,bm,amssymb}
+\usepackage{fancyhdr}
+\usepackage{pythonhighlight}
+\usepackage{graphicx}
+\usepackage{float}\usepackage{xcolor}
+%para escribir código%%%%%%%%%%%%%%
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{listings}
+\usepackage{color, xcolor}
+%%%Algunos comandos útiles para el PDF generado%%%
+\usepackage[unicode=true,pdfusetitle, bookmarks=true,bookmarksnumbered=false,bookmarksopen=false, breaklinks=false,pdfborder={0 0 1},backref=false,colorlinks=true] {hyperref}
+\hypersetup{
+ citecolor=dkgreen,linkcolor=blue,urlcolor=blue}
+%%% PARA TEOREMAS NUEVOS
+\usepackage{amsthm}
+\renewcommand{\qedsymbol}{\tiny{$\blacksquare$}}
+\newenvironment{solucion}{\begin{proof}[\textcolor{magenta}{Solución}]}{\end{proof}}
+\usepackage{mdframed}
+\usepackage[many]{tcolorbox}
+\usepackage{thmtools}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% MARGENES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\parskip=5pt
+\hoffset = 0pt
+\headsep = 0.8 cm % estaba en 1.5 cm, lo cambie para el header de la imagen
+\setlength{\parindent}{0cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% EJERRCICIOS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newtcolorbox[auto counter,number within=section]{ejercicio}[1][]{
+% ESTO ES PARA LA CAJA GENERAL
+breakable, % por si cambias de pagina
+enhanced, % estilo general
+% TITULO MODIFICACIONES
+coltitle= black,
+colbacktitle= white,
+titlerule= 0mm,
+colframe = magenta,
+fonttitle=\bfseries,
+title= Ejercicio~\thetcbcounter,
+% CAJA LINEA MODIFICACIONES
+boxed title style={
+  sharp corners,
+  rounded corners=northwest,
+  rounded corners=northeast,
+  % outer arc=0pt,
+  % arc=0pt,
+  },
+% CONTENIDO MODIFICACIONES
+colback = white,
+fontupper = \itshape,
+coltext =  black,
+% MARCO MODIFICACIONES
+rightrule=0mm,
+toprule=0pt,
+bottomrule= 0pt,
+leftrule = 4pt
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% MEMO PYTHON Y C %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\definecolor{dkgreen}{rgb}{0.9,0.6,0.8}
+\definecolor{blue}{rgb}{0.0,0.49,0.4}
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{gray97},
+    commentstyle=\color{cyan!75!black},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines= true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    language=bash,   %% PHP, C, Java, etc... bash is the standard
+    extendedchars=true,
+    inputencoding=latin1
+}
+
+\lstset{style=mystyle, literate =
+                        {í}{{\'i}}1
+                        {á}{{\'a}}1
+                        {é}{{\'e}}1
+                        {ó}{{\'o}}1
+                        {ú}{{\'u}}1
+                        {ñ}{{\~n}}1
+                        {ü}{{\"u}}1
+                            }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% ##ENCABEZADOS Y NUMERACION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{\thepage}
+\fancyfoot[R]{\small{\textsc{Y. Sarahi García González}}}
+\fancyfoot[L]{\small{\textsc{Reconocimiento estadístico de patrones}}}
+\chead{\includegraphics[scale=.27]{/Users/ely/Documents/Plantilla/Figures/waves.pdf}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%Declaración de operadores%%%
+\DeclareMathOperator{\sech}{sech}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\preprint{Reconocimiento estadístico de patrones}
+\title{\Large{\textbf{Clasificación sobre dataset}}}
+%\thanks{A footnote to the article title}
+\author{Y. Sarahi García González}
+\email{yesenia.garcia@cimat.mx}
+\affiliation{\vspace{0.15cm}Centro de Investigación en Matemáticas CIMAT}
+\thanks{REP, a  cargo de Dr. Johan Van horebeek}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#0Abstract%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{abstract}
+\begin{center}
+\small{07 de Junio de 2024}
+\end{center}
+\vspace{0.6cm}
+En este proyecto, se exploró el potencial de varios métodos de clasificación multiclase sobre el conjunto de datos Dry Bean, el cual consta de 13,611 instancias de siete tipos diferentes de frijoles secos, caracterizados por 16 extraídas de imágenes de alta resolución. Las características incluyen 12 dimensiones y 4 descriptores de forma (área, perímetro, longitud del eje mayor y redondez). Se utilizaron los clasificadores Random Forest, Support Vector Machine (SVM) y Regresión Logística. Además, a través de Grid Search con Cross-Validation se realizó un ajuste de hiperparámetros y se hizo Análisis de Componentes Principales (PCA) para la reducción de dimensionalidad. Se incluyen métricas de rendimiento y herramientas de visualización que evaluan evaluar la efectividad de cada modelo. En los resultados se destacan las fortalezas y limitaciones de cada enfoque.
+\end{abstract}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#1INTRODUCION%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section{Introducción}
+
+
+
+El conjunto de datos Dry Bean es una colección de imágenes de alta resolución de frijoles secos, diseñada para facilitar el desarrollo de modelos avanzados de clasificación. El conjunto de datos incluye imágenes de 13,611 frijoles de siete variedades registradas: Seker, Barbunya, Bombay, Cali, Dermason, Horoz y Sira. Cada imagen de frijol fue procesada para extraer 16 características distintivas. 
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.38]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/dfinfo.png}
+		\caption{DryBean consta de 13311 muestras etiquetadas. Hay siete clases distintas. Todas las caracteríticas son números enteros o flotantes.}
+		\label{res} 
+   \end{center} 
+\end{figure}
+
+Estas características capturan aspectos críticos de la forma del frijol por lo que es recurso valioso para tareas de clasificación.
+
+En este contexto, en el presente proyecto se emplean varias técnicas, procurando optimizar el rendimiento y precisión mediante el ajuste de hiperparámetros y selección de características.
+
+La evaluación del rendimiento se realizó a través de métricas como precisión, recall y F1-score, junto con matrices de confusión para visualizar los errores de clasificación. 
+
+
+
+
+
+\section{Análisis Exploratorio }
+
+En la Figura \ref{hist} se muestra la distribución de lasdistintas características del conjunto de datos Dry Bean. 
+
+Algunas características, como Área, Perímetro, Longitud del Eje Mayor, Longitud del Eje Menor y Área Convexa, presentan distribuciones sesgadas a la derecha, indicando que la mayoría de los frijoles tienen valores menores para estas características. El Diámetro Equivalente y la Redondez también muestran una ligera asimetría a la derecha. 
+
+En contraste, la Relación de Aspecto y la Excentricidad presentan distribuciones más equilibradas, sugiriendo una variabilidad más uniforme en estas características entre los diferentes tipos de frijoles. 
+De manera similar, los Factores de Forma 1 y 2 tienen distribuciones relativamente simétricas. Por otro lado, la Solidez y el Factor de Forma 4 tienen valores altamente concentrados en un rango estrecho, indicando poca variabilidad entre los frijoles para estas características. 
+
+Las distribuciones sesgadas sugieren la posible necesidad de normalizar el conjunto para mejorar el rendimiento del modelo.
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.2]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/hist.png}
+		\caption{Histogramas de cada una de las 16 características del conjunto de datos Dry Bean}
+		\label{hist} 
+   \end{center} 
+\end{figure}
+
+
+El rendimiento de los modelos podría verse afectado dado que hay varías características con distribuciones sesgadas, lo que sugiere la posible necesidad de estandarizar los datos para así reducir el sesgo. 
+Por otro lado, las características con poca variabilidad (Solidez y Factor de Forma 4) podrían ser menos útiles para la clasificación.
+
+A continuación en la Figura \ref{corr} se encuentra la gráfica de correlación de todas las variables. 
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.26]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/correlation.png}
+		\caption{Correlación de pearson entre las variables del dataset DryBean}
+		\label{corr} 
+   \end{center} 
+\end{figure}
+
+Las fuertes correlaciones positivas entre características (como el Área, el Perímetro y la Longitud del Eje Mayor) sugieren redundancia en la información aportada por ellas. 
+Por lo que técnicas de reducción de dimensionalidad (como PCA) pueden ser útiles para simplificar el modelo y eliminar esa redundancia.
+
+
+
+En cuanto a las etiquetas, se muestra Figura \ref{clases}, una la gráfica de barras de las siete clases del dataset, en orden decreciente: 
+DERMASON,   SIRA    ,   SEKER   ,   HOROZ   ,   CALI    ,   BARBUNYA y   BOMBAY. 
+
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.25]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/clases.png}
+		\caption{Gráfica de barras de las 6 clases}
+		\label{clases} 
+   \end{center} 
+\end{figure}
+
+La distribución revela un claorr desbalance entre las clases. La clase Seker es la más prevalente (3546 instancias). Las variedades Barbunya, Cali y Horoz presentan frecuencias similares (entre 1928 y 2027). La clase Bombay es la menos representada con solo 522 instancias. 
+
+
+Debido al desbalance será importante considerar métricas de evaluación sensibles al desbalance, como el recall, la precisión y el F1-score, además de la precisión general. 
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Resultados}
+
+
+Debido a la fuerte correlación observada entre varias variables en \ref{corr}, se aplicó PCA a los datos. Los resultados de la varianza explicada acumulada se pueden observar a continuación:
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.36]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/varianza.png}
+		\caption{Tabla de la varianza explicada acumulada de cada una de las 16 compoentes. }
+		\label{var} 
+   \end{center} 
+\end{figure}
+
+Se tomó un umbral del 98$\%$, de manera que los siguientes modelos se ajustaron tomando en cuenta sólo 6 caracte
+
+Para realizar el ajuste de hiperparámetros de cada modelo se dividió en dataset en tres conjuntos de Train, Val y Test. El procedimiento general fue:
+\begin{enumerate}
+    \item \textbf{Definición de la Grid}: Posibles combinaciones de valores para cada modelo basado en las características de éste y en las del dataset.
+    \item \textbf{Configuración de GridSearch}: Se configuró \textit{GridSearchCV} de sklearn python y Cross-Validation de 5 pliegues para evaluar cada combinación de hiperparámetros.
+    \item \textbf{Entrenamiento y Evaluación}: Se entrenó cada modelo con las distintas las combinaciones de hiperparámetros en el conjunto de Validación.
+    \item \textbf{Selección de Mejores Hiperparámetros}: La combinación de hiperparámetros que proporcionó el mejor rendimiento, según la métrica de exactitud, se seleccionó para el modelo final que se entreno en el conjunto Train.
+\end{enumerate}
+
+
+
+
+\subsection*{Random Forest}
+
+
+El clasificador Random Forest, con una exactitud global del 92$\%$, demuestra ser particularmente efectivo en la mayoría de las clases. Las clases 1  y 4 alcanzan una precisión y recall perfectos. Sin embargo, la clase 6 presenta un desempeño ligeramente inferior con un F1-score de 0.87.
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.26]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/rf.png}
+		\caption{Matriz de Confusión para el método Random Forest }
+		\label{RF} 
+   \end{center} 
+\end{figure}
+
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}{lcccc}
+	\hline
+	\textbf{Clase} & \textbf{Precisión} & \textbf{Recall} & \textbf{F1-score} & \textbf{Soporte} \\
+	\hline
+	0 & 0.94 & 0.90 & 0.92 & 261 \\
+	1 & 1.00 & 1.00 & 1.00 & 117 \\
+	2 & 0.92 & 0.96 & 0.94 & 317 \\
+	3 & 0.91 & 0.92 & 0.91 & 671 \\
+	4 & 0.97 & 0.95 & 0.96 & 408 \\
+	5 & 0.97 & 0.95 & 0.96 & 413 \\
+	6 & 0.86 & 0.87 & 0.87 & 536 \\
+	\hline
+	\textbf{Accuracy} & \multicolumn{4}{c}{0.92} \\
+	\hline
+	\end{tabular}
+	\caption{Resultados del Random Forest con los mejores parámetros}
+	\label{tab:random_forest_results}
+	\end{table}
+
+
+\subsection*{SVM}
+
+El clasificador SVM, con una exactitud global del 93$\%$, también muestra un alto rendimiento excelente. Similar al Random Forest, las clases 1  y 4 alcanzan valores perfectos de precisión y recall. La  muestra un F1-score de 0.89, lo que es una ligera mejora sobre el rendimiento del Random Forest.
+
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.26]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/svm.png}
+		\caption{Matriz de Confusión para el método SVM}
+		\label{svm} 
+   \end{center} 
+\end{figure}
+
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}{lcccc}
+	\hline
+	\textbf{Clase} & \textbf{Precisión} & \textbf{Recall} & \textbf{F1-score} & \textbf{Soporte} \\
+	\hline
+	0 & 0.93 & 0.93 & 0.93 & 261 \\
+	1 & 1.00 & 1.00 & 1.00 & 117 \\
+	2 & 0.94 & 0.95 & 0.94 & 317 \\
+	3 & 0.91 & 0.93 & 0.92 & 671 \\
+	4 & 0.97 & 0.94 & 0.96 & 408 \\
+	5 & 0.97 & 0.95 & 0.96 & 413 \\
+	6 & 0.88 & 0.89 & 0.89 & 536 \\
+	\hline
+	\textbf{Accuracy} & \multicolumn{4}{c}{0.93} \\
+	\hline
+	\end{tabular}
+	\caption{Resultados del SVM con los mejores parámetros}
+	\label{tab:svm_results}
+	\end{table}
+
+\subsection*{Regresión Logística}
+
+
+El clasificador de Regresión Logística muestra un desempeño comparable con una exactitud global del 92$\%$. Las clases 1 y 4  nuevamente alcanzan altos valores de precisión y recall. La clase 0 y la clase 2 también presentan altos F1-scores de 0.91 y 0.94. Sin embargo, la clase 6 vuelve a tener un F1-score bajo de 0.87.
+
+
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.26]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/rl.png}
+		\caption{Matriz de Confusión para el método de Regresión Logística}
+		\label{rl} 
+   \end{center} 
+\end{figure}
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}{lcccc}
+	\hline
+	\textbf{Clase} & \textbf{Precisión} & \textbf{Recall} & \textbf{F1-score} & \textbf{Soporte} \\
+	\hline
+	0 & 0.93 & 0.90 & 0.91 & 261 \\
+	1 & 1.00 & 1.00 & 1.00 & 117 \\
+	2 & 0.95 & 0.94 & 0.94 & 317 \\
+	3 & 0.92 & 0.90 & 0.91 & 671 \\
+	4 & 0.97 & 0.96 & 0.97 & 408 \\
+	5 & 0.96 & 0.94 & 0.95 & 413 \\
+	6 & 0.84 & 0.90 & 0.87 & 536 \\
+	\hline
+	\textbf{Exactitud} & \multicolumn{4}{c}{0.92} \\
+	\hline
+	\end{tabular}
+	\caption{Resultados de la Regresión Logística con los mejores parámetros}
+	\label{tab:logistic_regression_results}
+	\end{table}
+
+
+	Finalmente, la figura \ref{front} muestra una idea de como es la frontera de desición de cada método. Para generar las gráficas se ajustaron los modelos (con los mejores hiperparámetros) sobre el conjunto train restringido a dos features. 
+\begin{figure} [H]
+	\begin{center}
+		\includegraphics[scale=0.45]{/Users/ely/Documents/Maestria/segundo_semestre/cimat2023-1/patrones/Proyecto_2/imagenes/frontera.png}
+		\caption{Frontera de desición en 2D}
+		\label{front} 
+   \end{center} 
+\end{figure}
+
+	Podemos apreciar que a pesar de toda la información que no se muestra y que no se utilizó para ajustar los modelos, se capturan bien casi todas las clases.
+\onecolumngrid
+
+\section{Conclusiones}
+
+
+En resumen, los clasificadores evaluados:Random Forest, SVM y Logistic Regression: muestran un alto rendimiento en la tarea de clasificación multiclase del conjunto de datos Dry Bean.
+El SVM fue ligeramente superior en términos de precisión global.
+
+
+Por otro lado, como era de esperar la menor precisión se alcanzo en el la clase 6 (BOMBAY) que es la menos reprsentada, por lo que deben considrarse mejoras al ajustar los modelos, por ejemplo, técnicas de balanceo tales como el sobremuestreo de las clases minoritarias o el submuestreo de las clases mayoritarias.
+
+\onecolumngrid
+
+\section*{Referencias}
+
+\begin{enumerate}
+	\item Machine Learning Repository: Dry Bean Dataset \url{https://archive.ics.uci.edu/dataset/602/dry+bean+dataset}
+	
+    \item Multinomial Logistic Regression.Recuperado de \url{https://rpubs.com/fhernanb/mlr}
+    
+    \item Random Forest with python. Recuperado de \url{https://cienciadedatos.net/documentos/py08_random_forest_python}
+    
+\end{enumerate}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#5EJEMPLOS%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#6BIBLIOGRAFÍA%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}
