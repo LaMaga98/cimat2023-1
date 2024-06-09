@@ -1,0 +1,532 @@
+como una continuación del tema del transformer de la vez
+pasada ahora les voy a va a poner una pequeña instrucción sobre el verde
+elbert pues es una representación del lenguaje bidireccional
+que solamente es un el poder probé el proveniente de la estructura de
+los transformers bidireccional sólo se refiere a que la
+atención puede ser este hacia atrás hacia adelante en la
+secuencia de palabras y que sólo es encoger pues sólo va a ser
+la parte del transformar encoder pero no la del de poder
+y [Música] aquiles es una liga al pay pero original
+de el mercado islas continuamos con los cursos del perito
+al igual que el transformer pérez fue publicado con por amigos del fútbol
+[Música] alrededor de 30.000 citas
+entrenamiento fue alrededor de 4 días pero pues tiene unas
+poderosas tipos [Música] el modelo de bert fue entrenado en dos
+grandes conjuntos de datos que se llamaba corpus y el múltiple en inglés
+en general pues el verde consta de dos grandes modelos el verduras y el very
+large el ver las pcs obviamente más grande el
+base es es con el que empiezas pues a hacer tus primeros experimentos
+con para ver qué tan bien en paz con los modelos del lenguaje etcétera
+consta de 12 capas de en línea les recordamos que en el
+transformer original tenemos seis sobres el doble
+la dimensión oculta del campo contaba 8 transforma original en contraste son 512
+y recordamos que este número debe ser divisible entre las cabezas presentan
+seres se proponen 12 cabezas [Música]
+el total de parámetro centro sobre el peso 110 millones que tenemos recuerdo es
+[Música] 60 millones para el tanto número original y la secuencia máxima sigue
+siendo de tocas
+bueno y por qué verde es tan especial porque tiene tantas citas por qué
+porque se usa tanto en los modelos de lenguaje es lo que vamos a ver a
+continuación primero que nada podéis pedirte está basado en él
+en dos etapas una de entrenamiento y una de fighting
+el entrenamiento pues es lo que hicieron los los cuates de google para
+hace robusto el modelo y fine túneles lo que ya podemos descargar nosotros para
+el modelo pre entrenado para nosotros este tunearlo
+por así decirlo a nuestra tarea específica y utilizarlo
+luego en diversas tareas en la etapa de entrenamiento fue en dos
+etapas entonces queremos perdón uno se llama
+el lenguaje enmascarado y más que nada aquí lo voy a explicar más adelante pero
+es enmascarar palabras o predecir palabras ocultas
+y se combinó este esquema con la d predecir la siguiente oración
+para tareas también de preguntas y respuestas
+ok los mba dyn son del modelo del lenguaje sean relacionados entre cada oración
+2 un modelo de
+perth y notamos que tiene los pros posicionales
+en vez de deposición que también contiene transformar estos ya habíamos
+mencionado que pues son aprendidos los los signos sol y dales
+se agrega también un mbe dyn de segmento para las tareas extras que les comenté
+[Música] y predecir la siguiente oración de preguntas y respuestas
+es también más que nada va a y servir para identificar una oración
+por ejemplo mi perro estaba bonito
+sino también todos estos en berlín son de a los ves es la integración
+algo importante en el modelo de verso es que se agrega un toque sls que va a
+hacer frente ordenador exclusivamente para la clasificación es decir
+al utilizar el modelo con solo el token se lee se va a contener toda la información que tiene
+por delante de él de toda la información de los e-mails y lo podemos usar para la clasificación
+también se agregan los toques de separación para
+as distintas oraciones si notan aquí donde está el set ya cambia de oración
+y también se para el fin de oración estos tokens especiales se tienen que
+meter a mano pero pues hay ya herramientas que lo hacen automática es decir nada más tú le
+llamas le pones tú mi perro si está bonito le gusta jugar
+ese es el totalizador de everton y yates
+es corresponder al esquema de entrenamiento
+que se utilizaba para él para enmascarar para modelar el lenguaje
+de manera que más queremos unas palabras por ejemplo x más caro la palabra
+improvisación y se agregan toque es más que para
+para predecir qué palabra era la que ocultamos
+esto puede ser el objetivo es que los empresa en berlin se aprendan
+cómo se relacionan las palabras entre ellas [Música]
+se seleccionó el 13 por ciento de los tokens con máscara pero también
+se mezclaba con tareas de cambiar una palabra por otra por ejemplo por ejemplo
+stick en vez de en vez de poner una máscara de
+improvisación podemos cambiar stick por ejemplo let's stick to stick to text the
+skin y dices qué entonces también se predecía
+prender en avance túnel modelo para para predecir las palabras que deberían
+de ir en dónde no no están
+[Música] también se se juntaba con
+con palabras que existan
+predecía que tan que tan correcta esta ley en este lugar
+y bueno este es el objetivo de utilizar el enmascaramiento para modelar
+el lenguaje solo encontrar patrones entre las
+entre las palabras que están a su alrededor
+[Música] bueno en este siguiente esquema de
+entrenamiento lo que se busca es se tiene una oración y se quiere
+encontrar relación si tienen una relación con la
+siguiente devaluación o no en este ejemplo
+y el hombre va a la tienda y pues no tiene relación con
+no pueden volar y la manera en que se pre entrena esto
+sería pasar esta oración albert y aquí puedes tener una etiqueta al
+fondo que diga no pues estas dos operaciones [Música]
+pero por ejemplo si tenemos el hombre buena tienda y cambiamos esta versión x
+y se compra algo entonces aquí la etiqueta la cambiamos
+y decimos que si tienen relación así los en vez de bert van a ser
+entrenados para encontrar relaciones entre las dos oraciones que se le dan
+todo pues se espera que sí guardé en el intento que acs
+y bueno ya para la etapa de find running hay 22 maneras clásicas de utilizarlo
+una vez solamente pues tienes tu oración de
+entrada lo pasa a través del verde y el token saliese para rescatar la información
+necesaria para clasificar esto ya lo puedes utilizar el token cls
+con una forma o lo que tú quieras de arquitectura para utilizarlo y predecir
+una especificación que tomó meses el otro esquema de dos oraciones
+y utilizar el token cls podría ser cuando por ejemplo el ejemplo que les di de
+tener dos oraciones y ver si están relacionadas entre ellas con el toque en
+celeste podemos saber si esperamos que clasifique si tienen
+relación o no estas dos oraciones y este ejemplo es el de preguntas y
+respuestas pero aquí se tiene la primera versión como siempre una
+pregunta por ejemplo con estos cumpleaños y en la
+segunda relación se espera que sea un un párrafo donde la información o la
+respuesta de la pregunta esté contenida
+qué hace al principio al final y pues queremos albert observer para
+y encontrar dónde está la respuesta exacta para esto esta tarea se agregan los
+tokens especiales que se inició fin de a de la cadena
+lo que se hace es para obtener la última capa de entrenamiento
+de verde y multiplicar estos tokens en la segunda secuencia para
+para obtener la mayor probabilidad de ella los dos que tengan la mayor
+probabilidad [Música] y así se entrenada
+en este caso finalmente son los resultados del verte
+en inglés no es como un benchmark de
+de varias tareas de lp entonces se evalúa el modelo del
+lenguaje que utiliza [Música] pues una propuesta para varias tareas y
+ver qué tal le va en diferentes tareas y aquí pues las
+se nota una gran diferencia entre entre por ejemplo esta que utilizan el
+steam con un amor y más atención está mucho
+más diez puntos arriba que es increíble
+en esta tarea en promedio pues sí es bastante
+y bueno a continuación vamos a ver sobre es un ejemplo de verdad de cómo lo
+podemos entrenar [Música] para este caso de verdad
+2 un conjunto de datos que se llama y m
+que se clasifican en películas en este conjunto de datos contener menos
+bueno tenemos el texto que es la sinopsis de cada película y adjunto un
+texto a un póster y queremos clasificarnos
+los géneros de la película para este ejemplo utilizamos la
+herramienta de transformers pues el 66 así yo lo he escuchado pero
+supongo que sí es muy conocido esto esta herramienta ya nos va a
+facilitar todas las cosas ya nos pasaremos de la univer entrenado el organizador
+y esto lo vamos a encontrar pues aquí ya solo sólo es cuestión de importar el
+sintonizador de werth y el modelo para ver qué
+y más adelante lo vamos a mostrar y aquí pues descargamos los datos de
+esta liga [Música] y la clase del vocabulario no se hace
+aquí en el vocabulario se s si se pone una mano los tocas
+para desconocido el token cls de separación
+el de más que el de más como lo usamos en esta tarea pero pues sólo se definen
+aquí puedes cargamos los datos y hacemos el
+el espacio donde vamos a tener los argumentos
+aquí cargamos pues los los datos las las etiquetas
+como aquí visualizamos que etiquetas tenemos y en este conjunto de datos de
+mv tiene 23 géneros
+y bueno aquí es el paso para cargar el entrenador seleccionamos el
+el base porque pues para probar nuestros modelos
+porque vamos el arco t y
+a veces es que queremos el modelo de todo en minúsculas
+pues aquí cargamos todos los el vocabulario él
+la clase de vocabulario de que es especial el localizador lo cargamos número clases
+23 son estas bueno esta esta clase para él
+para cargar el conjunto de datos ponemos manual el toque
+de comienzo aquí los definimos pero para para
+ya procesar el texto primero aquí lo
+agregamos el token cls y luego con k tenemos la secuencia
+[Música] y bueno después de la de la oración pues ya viene el segmento
+así este viene el segmento
+que en nuestro caso pues como por ejemplo vamos tener procesos y luego ya
+lo comentamos un tensor luego la cargamos las etiquetas y finalmente como
+es un modelo bimodal también tenemos el puede ser que hagamos
+el póster y lo transformamos luego pues es una función con ley para
+para procesar el bach aquí tenemos pues la máscara del pensador ya hecha en cero también
+su texto 0 0 la imagen y las
+etiquetas aquí pues bueno cargamos esta función sirve para
+cargar los otros salvajes [Música] la secuencia es que todos al máximo
+venimos ahorita [Música] 64
+[Música] posee 12 cabezas y a continuación nada
+más es las funciones para procesar los
+entrenamientos realización
+aquí pues él
+y utilizar el modelo de verde de los transformers
+que importamos con la clase la función de ese
+presionado queremos descargar que va a descargar
+en el forward solo vamos a utilizar bueno el que el ver que definimos les
+vamos a pasar el segmento y la máscara si nosotros queremos especificar y
+éste ver tú lo que regresa es por unas horas
+la secuencia de tokens la última capa pero de la secuencia
+[Música] este es el toque ls
+nuestro efecto de clasificación vamos vamos a utilizarlo vamos a regresar y bueno aquí nada más
+es para codificar la la imagen
+aquí es las instrucciones solo codificar la imagen del póster a dimensión 2048
+y bueno ya la la clase de la clasificación de junto en conjunto con
+texto y póster definimos aquí pues el elenco del
+anterior la imagen en cuadro anterior y una capa lineal y es clasificador
+en el forward pues tenemos el texto este el texto en conecta el texto de
+peces el verde pasamos la secuencia para buscar el segmento y
+el posicional pues notamos que no está
+pero esto ya lo sé automático la la herramienta de transformers de verón
+conectamos la imagen y pues aquí lo que tenemos acá tenemos
+nuevos features de estudio de imagen simplemente y pues
+lo pasamos por la clasificación es una capa
+y ya tenemos la salida solo este modelo siempre vamos a probar
+pues algunos parámetros que ya definimos anteriormente el modelo
+[Música] frecuencias
+más las etiquetas para para los pesos y pues estos pesos
+se los vamos a pasar a nuestro criterio
+vamos a utilizar él con los bits
+para utilizar el optimizador hada pesos
+el parámetro para el aprendizaje es que es importante lo vamos a utilizar
+en modo máximo vamos a pasar por ese lado
+la paciencia y el factor de reducción [Música]
+buenos alumnos datos para
+a guardar los parámetros que ya venimos
+la evaluación del modelo que empecé tsja ya lo que desconocen
+ustedes vamos a definir
+evaluar pues el score que vamos teniendo con dos métricas que es el score f1
+por macri
+guardamos ya el procedente del ambiente
+el habitual vamos a turnar por micro f1
+y bueno aquí ya se corre en las
+corremos este 20 épocas 21 épocas previas no paramos
+este esto es lo que reporta el paper de gmail en micro
+este 63 punto 6 y pues ya con esto sólo
+utilizando no hay les tiempo y ya sólo
+utilizando los servicios server en verín este verde pues ya ha alcanzado un score
+más o menos parecido en la paralización no es en el test pero
+pero pues ya se ve la gran diferencia hay perdón en el micro 65 ya está
+sobrepasando y bueno aquí le dejamos por el ejemplo
+de verde y vamos a continuar con el gm
+ejemplo de gm [Música] el gm pues aquí les dejo el paper es un
+son unos módulos funcionan para
+fusionar de manera dinámica distinta información
+proveniente de de varias modalidades
+en este después
+cargamos primero las librerías les
+las importantes que acabamos de mencionar son las de alberto que no hay
+es el verbo lo vamos a utilizar y vamos a
+a definir lo que ya habíamos definido anteriormente la 'popular' yo
+el conjunto de datos las veces los conjunto de datos aquí vamos a agregar
+una parte que es la sinopsis [Música]
+de la película pero pues es similar a la anterior en este ejemplo que les preparamos es
+con otro conjunto de datos que no es el mdb en este tenemos también es de
+películas se llama movies code content contiene
+el texto también contiene el vídeo el audio que se dice en los trailers y
+algunas películas entonces pues aquí aparte de cargar el texto cargamos las
+etiquetas las etiquetas las imágenes
+el vídeo los fichos visuales y el audio te lo vamos a cargar
+estos son los modelos que vamos a probar de los 600 gemelos
+pero más adelante luego lo mencionó la función con light que ya mencionamos
+en el mv para procesar el patch
+bueno cargamos los datos ya que les comenté en los the movie scoop
+tenemos aquí ligas en realidad este disco contiene
+alrededor de 5 mil películas pero en estas ligas este descargamos este 500
+a ser sobre el ejemplo como menos pesado aparte el de cinco mil peligros no cabe quien en cola
+esté aquí además creamos carpetas aquí en cola
+y pues vamos a agregar 200 200 casos de ejemplo
+50 de validación para un 50 de jubilación y siendo text
+solo por este ejemplo por aquí así debe quedar en nuestras
+carpetas pues están
+en color sólo eliminamos para que no
+nos gaste el disco y pues la davis la distribución de la de los géneros que
+que contiene estado el conjunto de datos de un disco son
+tres géneros un misterio thriller con mediación con tenemos
+bueno aquí les puse un programa de estas 200 500 películas que descargamos
+bueno de las 350 que vamos a usar
+esta es la distribución un problema aquí de
+que hay más de drama y hay poquitas de animación por ejemplo
+esto se cumple en el grande también la distribución es es mala
+por eso se usa el optimizador y él
+pesado el criterio está empezando y bueno aquí cargamos el modelo prender
+audebert como no especificamos el base
+en vocales perdonen en minúsculas
+creemos los los cargadores de datos el de
+entrenamiento validación tex tex y bueno aquí ya los modelos
+vamos a a utilizar como un manera ejemplo también albert
+este es el mismo que acaba de presentar en imdb
+vamos a utilizar también un poder para el audio aquí y pues lo vamos a dejar en
+dimensión 202 los features pero todo va
+a ser trasladado después a perdón estos 200 la secuencia de de
+tokens este tokens de audio
+audio y los fichos van a ser es de 168 igual que en verde
+el vídeo pues ya tenemos para este ejemplo los pre procesos por la vejez
+en este ejemplo cargamos de la vez pasada
+los poderes del transformer porque vamos a hacer experimentos con
+un pequeño transforme cargamos del incoder
+este después ya lo explicamos el posicional en verín es exactamente el mismo código
+con el dim el transformer encoding encoder perdón
+pues se hacen los que escuelas y barrios que la vieron
+y bueno lo que importa en estas sesiones los gemelos
+la manera de usar el sus gemelos y bueno un clasificador
+a prueba para contrastar que sirven mejor
+elbert solo o agregando las modalidades pues vamos a utilizar un ver simple
+donde vamos a codificar convert vamos a utilizar su
+su toque sls y más una capa de salida
+para este ejemplo preparamos tres tipos de gm
+el primer tipo de gm buque es el gm original
+propuesto por arévalo el que pusimos al inicio del paper este como ya habíamos
+mencionado consta de dos compuertas una compuerta
+este es el un vector son ficheros de vídeo y
+features de texto dimensión 1 por los filtros de texto es
+decir si tenemos 768 features sólo es uno por 768 y aquí
+1 35 que son los ficheros de
+el vídeo entonces se van a pasar a través de la compuerta
+de tangente o sea un aprendiz bleu y luego una
+tarjeta para obtener el h estos dos se concatenan por
+features es decir
+si éste tiene 30 y este 768 se va a concatenar todo
+electroshock de 3 791 y se van a rescatar con sigma
+este los as de los fichos que se desean
+la vez pasada pues ya mostramos las ecuaciones se activa un lado y uno menos el otro se
+activa el otro lado y esto se multiplica y se sumando al
+final y bueno para la adaptación para multimodal
+y también propuesta por arévalo se es más que nada en vez de tener una
+sede a un lado se va a activar con signo de y el otro menos esa probabilidad aquí pues
+la cava modalidad se va a concatenar en un
+vector shot en gigantesco y se van a rescatar solo
+en cada sede es decir si tenemos 10 features 10
+fisher 10 features y solo se concatenan mientras tenemos 30 bichos y sólo
+queremos obtener 10 pues este seguimos ya sólo va a transformar estos 30
+reuters en 10 y sacar una activación igual está igual está
+entonces la desventaja de aquí que tiene esta modalidad de activación es que no
+son complementarios bueno aquí
+liz les mostraba la vez pasada
+e implementación del caso bien modal tenemos aquí las dos activaciones y la
+compuerta que va a ser las de entradas las sumadas la suma de ambos dimensiones
+de los features y una salida en común
+sí se aprende y se activa con un tangente que es esto
+este paso la modalidad se concatena por la dimensión de los
+features se activa y al final se multiplica cada compuerta
+por su probabilidad que es complementaria
+para el caso 3 después lo adaptamos
+es este caso tenemos
+tenemos aquí 233 compuertas entonces definimos nuestras tres lineales y tres compuertas
+el primer paso pues activamos la la primera modalidad la
+pasamos por la tangente con k tengamos aunque tengamos por la dimensión de los
+features y la activamos con cada compuerta al final la probabilidad que
+regresamos es la probabilidad de cada
+compuesta por la activación tangente
+y bueno esa es la propuesta que dio el balón lo jerárquico lo que es propuesto
+pues por nosotros pero lo que busca es mitigar el él
+el inconveniente que tiene este modelo de que no son complementarias las
+activaciones dedicada modal y pues nosotros queremos que sea
+al igual complementaria que ésta para que la importancia de cada modalidad sea
+normalizada y no sea así que nos sumen nominados
+proponemos este método que es es más que nada
+activar cada modalidad y qué y buscar que sea complementaria
+es la activación de estamos la activación de estos de activación de estas 1
+en este ejemplo pues si tenemos tres modalidades bueno 4
+los vamos a concatenar aquí está rayita y va para hasta acá
+también con carne igual de manera por features los
+778 de cada uno por cuatro por ejemplo en este ejemplo y se rescatan en cada
+activación son los 768
+siguiendo el ejemplo que puse anteriormente si tenía 10 fisher 10 10 10 features se concatenan son 40
+features y está solo aprendemos a rescatar solamente 10 y activamos
+conseguimos de estas seguimos los vamos a hacer si tenemos cuatro solo tres que
+tenemos acá sólo acá - un activaciones pues la última activación ya vamos ya va
+a estar definida y vamos a ver ahorita con unas unas ecuaciones comunes que se definen
+en regla en realidad la idea es que la primera modalidad se active con
+probabilidad p y todo lo demás se va a activar con 1 p
+luego la activación 2 ya va a tener multiplicado el 1 pero supongamos que
+ese activo con el cubo y entonces está esta segunda modalidad
+se va a activar con probabilidad x 1 - p y así sucesivamente como como si
+fuera jerárquico y pues al final ya predice se sumó todo y predice
+este lo que acabo de explicar pues es más que nada esto
+esta es la manera formal pero desarrollando para que sea mejor entendible es el estado oculto uno se
+activa concept a uno qué es una probabilidad entre 0 y 1 todo lo demás
+se va a activar con 1 - hasta 111 todos los demás estados ocultos y cada estado
+además se va a activar con su propia activación excepto el último que
+ya va a quedar definido como 1 - z 1 hasta 1 destaca menos 1
+esto también se puede ver de la siguiente forma para que sea más fácil el primer estado oculto se activa con
+probabilidad se está 1 que es que es el de los y muy bien y todo lo demás
+1 - está uno va a activarse entre los corchetes y entre los corchetes tenemos al segundo
+estado oculto que se va a activar con el senado su probabilidad y todo lo
+demás que viene compruebe un número sentados y bueno ya con esto aseguramos
+que suman 1
+las probabilidades pues
+y bueno esté aquí ya es una adaptación
+para el caso 3 vamos a tener nuestros estados ocultos y como somos 3
+como son 3 este modalidad eso lo vamos a definir los compuertas
+similares al caso anterior entonces pues activamos y de igual manera las primeras
+tres modalidades con acá tenemos todas y sólo obtenemos dos
+2 features antes eran 32 probabilidades antes eran 32 entrenamos 2 sigmoides y
+pues las prueba las activaciones van a estar dadas por z 1 el primer estado oculto
+1 - esta 1 publicitados el segundo está oculto y el tercer oculto que el tercer
+está oculto que ha definido por el producto de las 22 a este probabilidades anteriores
+y bueno es la tercera modalidad de el gm propuesta es una
+propuesta por uno este un compañero también un alumno de
+del doctor pastor que se llama piel
+y bueno es más que nada también buscar que las 2 fischer sumen uno en cada
+activación entonces lo solucionó con a través de un
+software de igual manera suponiendo que tenemos
+tres aquí en modalidades con features 10
+10 10 con acá tenemos pero por la dimensión 0
+esto es de esta manera por ejemplo tenemos todos los ficheros de lenguaje
+supongamos que es la modelar 1 modelados de vídeo y audio
+los concatenados no no pegados hacia acá como anteriormente sino en la otra
+dimensión y bueno aquí aquí ya noto que necesita
+una una proyección previa pues estos ficheros
+no son de la del mismo tamaño entonces los tenemos que convertir todos a
+la dimensión y luego estas activaciones las pasamos a
+otra sesión soft max pero por la dimensión cero es decir
+ese es el software cascada cada entrada a cada toque en cada bit el
+perdón de cada modalidad base sumado va a ser 1
+por columnas suman 1 pues y pues este esto va a ser definido como
+[Música] la probabilidad o la activación 1
+el amo de alguna la activación del amor a 2 y la activación de la modalidad 3
+entonces aquí es el cb del shock max la
+activación 1 la activación 2 la activación que y bueno esto es muy muy
+rápido ganamos mucha memoria en este método y
+[Música] y bueno esta es una demostración
+del código tenemos nuestros
+nuestros estados ocultos y la compuerta solo va a haber una completa en este
+caso definimos las transformaciones y en caso de que no sean
+del mismo tamaño las tangentes las entrenamos
+transformamos y si no son del mismo tamaño con acá tenemos por aquí le le le
+agregue una dimensión en caso de que por ejemplo a veces yo
+yo utilizo no sólo un feature sino una secuencia de para el lenguaje una
+secuencia de vídeo unas secuencias de audio entonces yo es el mejor le agrega una dimensión
+extra y ya iago el soft aquí pues ya con acá tenemos y estamos
+el software en esta dimensión y
+la activación pues va a ser en esa dimensión extra pues la primera
+secuencia de features y la segunda es la tercera
+bueno esto ya es el los gemelos y vamos a definir a nuestro clasificador
+como utilizando el gmail
+tenemos este voy a primero explicarles el
+bimodal en general de estos son por sí pero
+parámetros para el transformer el ver encoder
+en el abismo del sol o vamos a utilizar texto y vídeo este
+la dimensión va a ser 768 el número de clases
+unas temporales que vamos a usar un transformé para el vídeo pero ahorita no
+lo no lo usamos sólo lo definí por sí por si el experimento simple no
+funcionaba pero si funcionó y definimos aquí nuestro gmail
+vamos a utilizar el gmail bimodal el de arévalo originalmente
+que eso lo vamos a combinar el texto con vídeo entonces de nuestro forward sólo vamos a
+hacer el verde encoder nos regresa a la secuencia de tokens y
+el cls que es el que vamos a usar este esto lo hice nada más para el
+transformer pero pero aquí lo comenté mejor si lo quieren usar pues ya ahí les
+comentan el vídeo
+transformamos a la dimensión 768 ambos ambos features
+y cambiamos el orden porque me parece que
+está para ti en secuencia y features entonces nada
+más los cambios de orden para que en medio quedes bach hasta hasta acá la
+secuencia de fitur la secuencia y en esta última dimensión los features
+nuestro token de predicción va a ser el cls que ya tenemos
+y para para el vídeo nada más vamos a promediar toda la secuencia de vídeo
+esto vamos a decidir dinámicamente que
+es mejor para nuestra clasificación si solo solamente usar el
+el tokens ls o el vídeo y pues esto lo
+comenté para que sea más simple [Música] y un día una capa de salida que esto es
+de 768 features y la capitalidad lo da 13
+13 que son los géneros y en el caso de
+este es mi modal en el caso trimodal pues lo que hacemos es si utilizar el
+transformer no no sé que ustedes también el min
+este es similar entonces quería usar un transformador para
+para rescatar información relevante del audio y del vídeo pero
+ya se se hizo pesado entonces ya mejore el sol o el promedio de toda la
+secuencia de features y ya a ver que si le ayuda a uno entonces lo que lo único
+que cambia aquí es agregamos un 5 del país
+un encuadre de audio que ya lo definimos anteriormente y
+dónde está si esté aquí el audio también le pasamos
+a reformar el audio lo transformamos y también va a ser el promedio de la
+secuencia de toques del audio y con el gmail vamos a decidir qué
+que es mejor para nuestra clasificación también tenemos una capa de salida y el
+gm pues lo podemos definir como original
+el propuesto por arévalo el jerárquico para comparar y el soft más también para
+comparar este y bueno ya estas son nuestras clases para entrenamiento los definimos
+las clases modelos si queremos el gm original pues va a ser este modelo
+también este modelo y en caso debemos dar va a ser el clasificador bio modal
+caso de ver para contrastar sólo va a ser éste el verde
+definimos pues funciones de ayuda
+evaluación del modelo vamos a utilizar las métricas micro
+el tuning micro abras precisión
+y bueno esto lo hice nada más para para visualizar las activaciones del
+gmail este bueno el fútbol
+pues ya lo que franzén del training
+el schedule el máximo y y factor
+bueno si esto ya lo conocen
+[Música] entonces ya la comparación rápido
+con el verde lo corrimos todo lo hice con los mismos parámetros este
+con el 5 a las 5 y 30 y pocas con la
+paciencia de 2 y factor del punto 5
+va a ser el verte para todos va a ser el best ver envase
+[Música] y bueno como un como una más es una modalidad no voy a
+visualizar las compuertas entonces pues ya entrenamos
+y ya está éste se paró porque no mejoró y los
+grandes 40 84
+bueno ahora comparamos con un modelo que usa el ver también pero él junto con el
+vídeo iba a ser el caso bio modal que usa arévalo
+este los mismos parámetros [Música]
+y aquí especificamos debemos especificar este modelo vamos a usar
+en el caso anterior el verde y también el gmail que vamos a usar
+y aquí sí la vi las gates para visualizar la activación del gmail la
+ponemos true este estos híper parámetros son del
+transformer que si lo corre pero ya era mejor así porque tuvimos y le
+ganaba entonces después lo corrí esto sí duró un poco de más épocas
+porque pues si mejoraba que en cada paso y
+y llega a uno de 50 a un micro de 50 más
+de 10 puntos más arriba que el otro me parece que albert sólo
+sólo mezclando le este los los ficheros de vídeo y pues éstas son
+las activaciones del gmail cada cada vela son son géneros de
+películas entonces notamos que el modelo
+sólo trata de predecir la el general de la película con el vídeo
+casi no se activa este el texto
+esto pues me parece raro porque siempre es muy útil de utilizar el texto pero
+pues supongo que por la la cantidad baja de de datos que tenemos
+pues les sirvió más el vídeo en este caso
+esto quiere decir que el 10% alrededor
+esto es decir varía un poco pero el 10% de los features de los 768 features se
+se activaron con más de punto 5 en features de texto y esto quiere decir
+la vela naranja qué el 95 el 90 por ciento de los 768 features de vídeo se
+activaron con con 1.5 o más
+bueno ahora entrenamos el el mv multimodal
+original pero ya con 3 es este
+modalidades utilizando lo mismo
+sólo que aquí ya especificamos el el jeme cual queremos
+modelo y no queremos también las compuertas
+y bueno ya corremos este este y con audio pues si logra mejorar
+un poco dos puntos el score micro a 52
+y estas son las activaciones vemos que es él
+este recordamos que en el original pues no asuman uno entonces
+este alrededor de el 30 por ciento de todos de los 67 168
+features de texto se activan este esto suma como
+como 90 igual el 90 de de los ficheros de vídeo se activan y
+120 s como 40% de los ficheros de audio se
+activan para la clasificación
+este notar que es medio homogéneo en la
+en los géneros pero sin esto no puede no debe pasar
+supongo que es por la misma cantidad baja d elementos y bueno
+esto esto ya es el mismo
+este aquí ya la corrida del jerárquico
+ya quien sabe que todo lo que no me deja este entonces
+no pude este no pude
+hacer las gráficas pero la corrida pues sí si se vio y quedó bajo en 40 igual casi
+en igual que solo usar bert y en el soft
+max también lo corrimos y éste quedó en 47
+este es ilegal al sólo verte pero queda un poco abajo
+del original entonces pues
+/ modal sigue siendo mejor él
+el que propuso arévalo aunque no asume no sume uno
+y pues ya sería todo gracias

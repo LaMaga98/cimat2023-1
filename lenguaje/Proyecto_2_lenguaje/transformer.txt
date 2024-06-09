@@ -1,0 +1,363 @@
+s vamos a revisar rápidamente el
+transformer original este es un código sacado de
+de la página oficial está en línea en lo pueden encontrar
+bueno a alto nivel o muy alto nivel el transformer como recordarán fue fue
+propuesto para traducción máquina y constará en sí de un cuaderno de
+correr más a detalle pero sigue siendo de
+alto nivel pues va a tomar tokens de un idioma por ejemplo del francés
+él va a procesar por un encuadre y varias capas de este mismo
+para al final la última capa del incoder va a ser utilizada en todos los de
+corderos para así predecir o proponer la la la
+traducción hacia otro idioma
+alto nivel nosotros el transformer solo
+utiliza pues lo que es elenco de un decoder
+transformación o en berlin de del texto de entrada y del texto de salida y un
+generador lo que a alto nivel va a ser es éste se transforma él
+el texto de entrada se utiliza una máscara para
+para ver qué tokens son los que estamos utilizando por ejemplo y tenemos una
+secuencia de tokens de 10 y sólo utilizamos hola mundo pues van a
+faltar tanques tokens que no son usados entonces vamos a enmascarar estos para sólo sólo utilizar las que contienen
+información para el decoder vamos a utilizar el mbe
+link de de la del texto de
+predicción y la memoria qué es la última capa del elenco del y
+lo mismo de las máscaras de stores y de bird aquí las redefinimos lo que
+anteriormente tenemos bueno la clase del generador es
+solamente una lineal y una forma que es va a ser utilizada acá arriba para para
+dar nuestra respuesta ya la conocen la es la famosísima
+arquitectura de transformers pues
+en general tiene los
+y se pasa a través de este este bloque de encoder n veces en el caso del paper me parece
+que en es igual a 6 se hace seis veces y la última capa se pasa a las seis
+capas del recoder en una fase intermedia con una atención
+aquí en medio que mezcla información de lo actual con por ejemplo del idioma
+inglés con base en la información del francés
+pero el código esta función de clonar
+pues como notarán aquí hay varios pasos similares por ejemplo
+tenemos una media de entrada a la cabeza de atención
+y esto mismo es una conexión residual y se normaliza que estoy similar que él
+en vez de la de la atención multi cabeza precisa una forma pero pero es similar
+la estructura que se te pasa otra vez como residual y se normaliza entonces
+esto nos va a servir para no escribir tanto y multiplicarlas
+las capas bueno en el incoder pues consta de de
+clonar nuestras capas que son 6 y en la normalización el forward nada más va a
+ser éste la capa de nuestro de nuestro texto de entrada la máscara y una
+normalización [Música]
+la normalización está aquí es descrita
+pero pues en zip aitor ya tienes la función definida entonces vamos lo ponen para
+para que veamos cómo se hace este bien pero pues es la literalmente la the
+fighter bueno vamos a describir un poco más a
+detalle la cómo se hace esta esta conexión residual porque ahorita
+nada más hicimos este bloque en conjunto y seis veces
+entonces notamos que es similar
+lo que mencioné hace rato fue de que tenemos serpa tensión y luego un up y
+normal ice aquí una fútbol guardian normales entonces
+podemos es muy bueno este paso se describe aquí en
+su player de conexión que recibe pues el tamaño de la
+normalización la la dimensión de los pitchers y un drop out entonces lo que
+lo que simplemente hace es hacerlas o player que esté su player lo podemos
+sustituir por una selva tensión por una fit for work un drop out y luego le agregamos los
+sambenitos originales y lo normalizamos entonces esto tu player connection sólo
+describe pues la esta parte y pues lo vamos a realizar dos veces
+por ejemplo en el elenco there se realiza dos veces y en el ecuador se realiza tres veces
+pero ahorita lo describimos más a detalle
+vamos aquí bueno ya está como queda blanco del ayer
+va a hacer vamos a clonar dos veces como mencionamos en
+estas conexiones y pues en la primera etapa vamos a hacer unas
+el fa tensión de no sé si se acuerdan que la self atención utilizar aquí
+queries 15 y varios de de la de la representación del texto
+una máscara y en la segunda parte pues vamos a hacer la misma su player pero con sustituyendo
+el feedforward aplicado a lo que salga de de aquí
+pues esto ya nos describe este esta parte
+y acabamos de comentar ahora sigue la parte del decoder
+este pues similar a la anterior sin embargo vamos a agregar el último estado
+oculto alguna a todas las capas a todas las capas del
+decoder en el transformer son seis además vamos
+dos vemos dos pero se agregan en una fase intermedia
+este estafas es como se agrega esto peces sólo sólo utilizando una atención encoder de
+cuadro que consta de si se acuerdan de sólo sustituir queries
+keys y varios sustituir los cuales kiss y varios de en
+esta grande de la misma envidian pero por ejemplo del incoder eran de todas de
+francés y en él en esta de incoder de cólera tensión los
+cuales van a ser de el inglés y vamos a tratar de predecir con base en lo que ya
+vimos en el francés entonces los cuales van a ser de inglés y keys y values de
+francés y bueno esto se hace y similar al en
+cuaderno otra vez definimos una
+una de ccoo de léger qué van a hacer ahora en este caso tres
+niveles este es el 3 1 + 3 nuestra primera su player va a ser
+nuestra self atención aplicado a nosotros mismos estoy asentar jet
+entonces para guiarnos es en inglés le mandamos los inventos de inglés con
+la marca de inglés la self atención de inglés y luego
+aquí vamos a utilizar la memoria que viene del francés y entonces vamos a
+utilizar los cuadros de del inglés mezclado con easy values del francés
+para encontrar patrones del francés en el idioma inglés y con la
+máscara de el francés luego la última capa pues ya es la feef forward
+y ya tenemos aquí nuestro disco der leyen esto que a todos de hacer nada más
+es esta parte y pues como recordamos ya tenemos que hacer seis veces
+entonces falta de escribir la atención
+que pues ya realizaron en el paper que se realiza de la manera siguiente de
+multiplicar los cuadros la matriz de cuadros por la matriz de x
+transpuesta dividido entre una dimensión en común a raíz de una dimensión en común
+comúnmente más chica y multiplicado por los válidos y todo eso es bueno soft max
+y logró multiplicó por los vales esta función pues nos describe lo que acabamos de mencionar en las ecuaciones
+este la dimensión aquí se hace es la multiplicación del query pobre la
+traspuesta del que se divide entre la raíz cuadrada de la dimensión
+la máscara aquí se rellena para los próximos que no son
+que son 0 es decir que no corresponden a la secuencia se rellenan con un número muy negativo porque pues al hacer el
+soft max esto es 0 entonces pues no se le va a prestar atención eso bueno casi cero
+luego ya del soft max en la última dimensión este drop bout y multiplicamos por
+por los barrios esto es una visualización para la
+predicción de la máscara para la proyección
+notamos que pues debe ser de esta forma triangular una matriz triangular por qué
+por ejemplo queremos puede decir bueno tenemos el toque inicial
+y queremos predecir lo siguiente entonces no tiene mucho sentido que
+desenmascaremos esto porque no queremos utilizar información del futuro entonces si tenemos el toque
+inicial o la enmascara mos lo demás para poder predecir el cómo está su etcétera
+entonces pues la el target más debe ser de esta forma
+muy tenso [Música] de lo anterior de escrito pues solo es
+para una cabeza pero ya ven que en el transforma el original
+pues se propone para varias cabezas para optimizar los procesos entonces sí
+a grandes rasgos y tenemos el toque en correspondiente a hola
+si eso es presentado en una dimensión por ejemplo 10 a la ventaja al tener
+varias cabezas les deja este ejemplo ponemos dos cabezas entonces la vamos a
+separar la dimensión del token de ola en dimensión 5 y dimensión
+5 y cada cabeza va a tender a a 5 y 5 features y la otra pasada 5
+fechas de la representación entonces aquí es una imagen de lo
+que acabamos de describir bueno el mencionar que en el transformador
+original pues se propone una dimensión de 512 y el número hay
+el número de cabezas que propone como 8 entonces y entonces entre 8 pues la
+la década de reducción de dimensión va a ser 64
+entonces aquí es una imagen de más o menos las operaciones que se describen
+tenemos los envíos de texto los originales los separamos el quiz que
+dice luis y sibelius los multiplicamos por la por la matriz
+de pesos la lineal para reducir nuestra dimensión este
+esto ya es su proyección y dimensión a 64 luego esto es para cada cabeza este
+cero si bien 0 1 hasta 78 cabezas y al final se concatenan las 8 salidas y otra
+este se multiplica por otra matriz de pesos w pero para producirle este la
+capa de predicción esto se describe
+cómo y esto pues primero primero verificamos
+que nuestra dimensión sea divisible entre el número de cabezas para poder hacer nuestra
+nuestra división y en varias cabezas entonces la dimensión en común va a ser
+nuestra dimensión original entre el número de cabezas definimos en una cabeza dropout las lineales utilizamos
+cuatro pues son estas de whisky disipa helios más la
+de la de pesos cero en conjunto
+y pues atención este el forward recibe los whiskies y
+valiosos este y pues ya sólo utilizan
+y le mandamos este es el número de
+d de cabezas y la dimensión para aplicar la lineal con las crisis y valió la
+atención para este ya definimos la atención al más atrás y
+después ya la última de aprendizaje la última lineal que es
+todo con cate lado del tamaño de número de cabezas por la dimensión y pues se
+aplica la línea bueno esto ya este paso descrito en la
+imagen y bueno aplicaciones hasta que alguien tiene alguna duda
+[Música] algo que hayan visto medio raro
+que lo explicando muy bien pastor vamos siguientes bien éxito
+aplicaciones bueno este me parece que es un truco que ellos hacen
+verdad que nada es convertir la dimensión
+el de 512 la convierte en más arriba
+2048 aplicando una capa lineal de aprendizaje a un
+arreglo un drop out y luego lo vuelven a bajar de dimensión supongo que para
+para encontrar patrones en otra dimensión más alta este
+en verín xinzo max es la envidia entonces también de pay torch
+y aquí vemos que también tiene como una etapa de d
+de normalización pero más que nada es como para
+que para ayudar al desvanecimiento del gradiente que hacen extreme dyn
+luego nos falta por definir el posicional encoding que
+y éste si bien en el paper pero si se acuerdan es es que las posiciones en par
+los tokens en posición par pues se va a aplicar la función seno pues de esto
+de posición impar pues la de coseno dependiendo de la dimensión del modelo
+y bueno aquí pues va más es la función de este posición el encuadre
+y aquí vamos demostrando unas imágenes de cómo se ven las
+los senos y cosenos dependiendo de la dimensión este entonces sí
+más bien a grandes rasgos esto en general para cada token de la secuencia
+le va a dar un un mbe dyn que va a corresponder a este es el primer toque este es el segundo
+también como si fuera una tabla de verdad pero la ventaja que es es continuo entonces y esta es la de ese no
+la de la exposición y parís va a ser la de coss en lo que es
+es contraria y pues finalmente él
+el modelo completo pues va
+a tener la atención multi cabeza
+la capa lineal de el final
+este exposición el elenco dyn de
+aproximadamente inicial y el modelo que que estamos de escribir que pues es el
+incoder el decoder y pues los hombres
+y el generador al final para poner este precio nuestra este secuencia
+pues ya sería todo en este en este en este ejemplo de este netbook
+ahora prosigo con lo de
+como fusionar la información de distintas modalidades antes de eso no sé si también quiera
+preguntar algo la idea es que tengan este notebook que lo revisen también un
+poco con sus casas y que puedan ver si buenos lo necesitan de nuevo el vídeo y
+entender cómo a grandes rasgos al menos es lo que está haciendo cada parte vale
+entonces la siguiente en la siguiente clase haríamos un pequeño pues sobre este
+código y la parte de transformers que es justa la que es la que nos faltan en el
+material a revisar entonces ustedes ya ya tiene la vida de la escuela ya tienen ahí
+indicado también en donde inicia la parte del transformer entonces sería de
+eso y unas dos o tres preguntas generales de este notebook no igual van a poder consultar información y todo
+pero la idea si es que a grandes rasgos se entienda al menos dónde están los
+componentes es un modelo muy grande y bueno si no lo has visto
+de manera alterio pues si puede ser como muy muy grande pero
+[Música] al final de cuentas la idea es que se lleven como esa intuición de que es qué
+es lo que hace cada una de las partes y cómo funciona de manera general entonces no sé de que diego explicó lo
+que preguntar a alguien a del código o por ejemplo si se acuerdan de lo que vi de lo que
+vemos en la escuela o de lo que comenté en la escuela alguien quisiera ver dónde está
+alguna parte particular no sé por ejemplo bueno nos posicionan en media y ahorita
+los puso pero no sé si quieran saber más detalles de eso o de la atención
+o algo una pregunta que tengan
+una y nada no tanto del código sino más bien me
+preguntaba diego si en su investigación ha utilizado alguna otra función para
+los posicional encoding que va a relacionada con la pregunta que varios teníamos en
+la clase pasada
+bueno la deposición y colin me parece que no
+es tan osada pero un ejemplo el que yo utilizo el modelo de verde
+la investigación entonces en verde lo que se hace es verde
+si aquí en ver lo que se hace es tener un en berlín este que se entrena por sí
+solo ya se está ajustando cada vez que el gradiente cede
+se ajusta pues entonces
+y presenta ventajas entrenar el posicional en beijing con respecto a
+ponerlo fijo los están notado alguna como mejora
+3 si por qué se ajusta solo a
+algo que
+[Música] desventaja inmenso en que está fijo y no
+que tal sino no utilizada eso por ejemplo en
+en caso que fusionamos texto con
+si presenta ventaja en aprender este en el posicional
+porque pues éste a veces le este el token de la
+palabra hola pues se mezcla un poco con con el audio
+de hola y no nos corresponde exactamente ahí
+pero así una de una desventaja y ventaja muy grande este no es tenido por tema de
+observarlo casi tal cual pero me imagino que sí sí hay ventaja
+porque este verde es un ya es un modelo muy usado y pues es lo que utiliza y le
+presenta como mejoría del translating digo de él transforma y regional
+entonces solamente por lógica no por que yo haya experimentado con ese supongo
+que si es mejor este en berlín aprendible que también ustedes lo que dispongas el verbo
+como invierno se emociona no te escuché el último así que ella
+mejor no me adelantó y dejo que exponga diego el el ver a sí sí sí pero fíjate
+que respecto a lo que a lo que preguntas siento que también bueno a final de cuentas todo es ahorita muy experimental
+y también no hay muchas respuestas y si no tenemos las respuestas a varias
+cosas cuando salgo no cuando usar otro pero un poco también la intuición que yo
+tendría es que bueno en el paper the attention y soy un hit que es pero
+también se los voy a compartir ahí para que lo puedan revisar para el siguiente quiz
+bueno es un problema de traducción máquina definido y más o menos ellos
+conocen también la longitud por ejemplo de los ejemplos d
+qué vas a traducir de cuánto me dio una oración del idioma fuente al idioma y la
+del idioma objetivo y en función de todo eso y esto es experimentación ellos también entiendo que de forma
+experimental aunque en el paper no no se comenta todo pero ya lo han dicho en
+otras conferencias pues exploraron exploraron un poquito el tamaño de sem
+berlín para empezar el posicional en venir y
+el tipo de función que querían usar y también incluso
+probaron que fueran aprendidas de forma automática como se hace en el verde y lo
+que ellos comentan creo que ya lo había dicho es que no veía una diferencia
+fuerte entre tener en vez de aprendidos de forma automática
+o posicional es a través de funciones fijas pero bueno justamente si no ves una
+diferencia y y te costó trabajo ver qué funciones
+seguirán las que más usar y el tamaño del vector pues entonces si te representa una ventaja tener lo
+aprendido de forma automática porque otras funciones pues me hubieran funcionado a lo mejor para logran
+funciona igual de bien y otros tamaños de denver ins para ese problema en particular de traducción máquina
+entonces en un problema de clasificación distinto o bueno ya uno de clasificación
+no de traducción puede ser también que suceda mucho lo que dice diego en en cuanto a que es más
+ventajoso tener un posicional en vez en que se aprendió de forma automática simplemente por qué y bueno la longitud
+y la naturaleza de los datos y de cada modalidad por ejemplo no es no no es
+igual no es igual que el problema de traducción máquina y no es igual entre ellas sino que es muy desproporcionado a
+veces bueno por ejemplo tan sólo si tuvieras esta modalidad de imagen pues es un token o sea no hay posición ahí
+nada más es un toque en el texto pues iván tienes varias varias varios toques
+ahora si tuvieras por ejemplo vídeo y alguna forma también tienes que es criticar vamos a decir 200 frames o 100
+frames representados con alguna convolución al pero al final de cuentas es una es una longitud también distinta
+a otras modalidades y distinta a la que tenía el modelo de traducción original
+entonces bueno eso implicaría que para cada una de las modalidades más o menos determine cuáles son las funciones en mi
+coche no otras y el tamaño del vector del inta apropiado pues para esa parece
+problema tenerlo de forma automática pues un poco puede ser que sea más costoso en computacionalmente pero te
+ahorra esa parte es como nada más un poco la intuición y yo podría tener respecto a si tiene alguna ventaja no
+creo que si tiene esa ventaja nada más
+sin el grupo con el que comentaba pastor si ya tenemos modelos muy
+muy pesados muy grandes pues si también convendría utilizar el posición
+vaya a reducir y es que no hay gran diferencia
+bueno si quieres entonces haber continuado en ese guía que seguía no
+pues si quiere me salto allá al destacar que m
+dívar el músico de transformers o de fusión médica en este que seguía y seguía el ejemplo
+con este verdad y sería aplicar el ptc aunque no esté yo
+creo que ahorita en la parte de transformar aquí aquí aquí le dejamos y este yo creo que sí pásate a la parte de
+comentar el del gmail
+del gmail pero eres quien esté y no puse imágenes
+es el que iba a presentar el miércoles entonces de verdad
+en aquel que quisiera nada más que comentar así es como se están usando las
+compuertas en este modelo de fusión para mezclar la información un poco nada
+más en la parte de código en y éste les compartimos el notebook con algunas
+ilustraciones más adelante y abrirte el paper el de aja el de arévalo no nada
+más como para mostrar lo que está lo que está capturando
+bueno sigue como comentó pastor un problema actual que se está atacando
+y es como fusionar la información que ya tenemos de
+el texto de una modalidad con la información que ya tenemos de otra
+modalidad que ésta podría ser bien la imagen
+también podría ser el vídeo de de lo que se dice y el audio de lo que
+se dice también en este paper lo que
+utilizan leds y una descripción de una película
+y su póster y la tarea es predecir qué género
+es la película o qué géneros están en la película
+está fusión propuesta es
+es de esta manera
+en el cazo bimodal es el de este lado
+tenemos los envíos del texto bueno aquí v es vídeo los envíos del
+póster y los del texto cada uno va a ser aprendido va va a ser
+pesado por una
+y pasado por una tangente que tangente hiperbárica que los valores van a
+oscilar entre menos uno y uno este lo mismo para la otra modalidad
+esto es en vez de texto pesos de texto conveniente vídeos pesos de vídeo
+y luego se concatenan ambos en venice de texto y
+así concatenados por la dimensión de los features este se pasa por una lineal y
+una sigmoide que va a decidir qué tanto se activa una parte correspondiente al texto o que
+tanto se activa una parte correspondiente del vídeo con estas y después los valores oscilan
+entre 0 y 1 entonces una modalidad va a ser activada
+con probabilidad bueno con la activación este p entre 0 y 1 y la otra uno p entre
+0 y 1 y son complementarios entonces ésta está este módulo de compuertas va a
+decidir qué tanta información fluye de una modalidad que también formación fluida el otro modalidad modalidad y al
+final se fusionan los
+el embrión resultante pues de la manera que se multiplica está zeta es la activación
+del signo y de este zeta por la la oculta de tangente hiperbólica y un
+amanecer está por la oculta de la otra tarjeta y pues ya se producieron la suma está en
+el caso bimodal en el caso trimodal o en el modal anoca
+modal perdón lo que ellos proponen es
+es una idea similar que
+la pasan por una tangente una lineal una tangente y todo esto es concatenado
+aquí el hd7 h bla bla hasta acá
+ahí esté acá aprendí cada chica a las
+capas lineales aprendidas que cada capa lineal va a
+obtener features de de la dimensión
+hay que poner un ejemplo si cada este medinés de dimensión 10 se concatenan
+entonces tenemos vamos a suponer que es un 3 tenemos 30
+entonces cada capa lineal va de esos 30 va a rescatar 10 importantes está
+también 10 importantes 10 importantes y cada una va a ser una activación entre 0 y 1 a quien adaptamos que no son
+complementarios es decir cada modalidad pues va a ser este es un número entre
+esta activación va a ser esta activación base entre 0 y 1 está también también casa contra arriba de ésta que era
+complementaria pero es si sumamos estas pues van a sumar más de uno
+y bueno lo que comentábamos
+bueno les voy a mostrar el código que éste era un notebook que estaba haciendo se supone que para hoy pero
+pensé que era después este
+en este ejemplo les iba a poner este que detesto y vamos a poner un verde se pone
+aquí ya deberíamos ver pero bueno los toques de texto los de audio por una
+convencional y y los de vídeo por una pre procesas por
+una virgen entonces ya teniendo todo esto este tenemos
+distintas versiones del gmail el mv
+original bimodal que les mostré en la imagen pues se programa
+de esta manera sencilla las ocultas que son las lineales que le
+metemos una dimensión original y la queremos en común
+original en común de para la otra y sólo una compuerta que va a recibir features
+concatenados de estas dos y bar va a soltar sólo una dimensión en común
+reducida el forward press
+corresponde a lo que vimos en la imagen la línea el tejido de la tangente el
+realce de la tangente con acá tenemos las dos por dimensión de los pitchers
+y la compuerta de todo concatenado pasado por la cig muy bien entonces nada más vamos a
+regresar esta activación se está 1 x 1 - está una x la otra activación este es el
+caso de modal trimodal
+como la extensión que se propuso en el paper pues es lo mismo definimos las las
+tres primeras lineales y tres capas de rescatar ficheros le digo rescatar porque pues es todo
+concatenado y sólo quiero nuestra dimensión entonces pues se hace similar te pasa
+por la lineal
+este luego por la tangente para cada modalidad está cada equis corresponde a
+una modalidad modalidad 1 modelo de 2 modalidad 3 luego se concatenan todas xk de nuestro
+concatenación y cada cada compuerta lineal va a rescatar features
+de todos hacia solo sólo nuestro out que
+nos interesa y todo esto activado por las y muy bien que nos suma 1 si recordamos
+y bueno al final pues ya la solución para combinar nuestros ficheros se hace
+de esta manera se multiplica la compartamos no por la activación
+12 por la 2 las redes por la 3
+y pues sería el ejemplo de cómo se programan la gm
+pastor aquí si continúo yo creo que yo creo que ahorita ahorita vamos a poner
+hasta ahí y déjame terminar esto

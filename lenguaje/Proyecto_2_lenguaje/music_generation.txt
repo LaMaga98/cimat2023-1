@@ -1,0 +1,330 @@
+y si bien soy estudiante de la muestra en computación soy un cuarto semestre y trabajo en mi
+tesis con el doctor pastor entonces bueno aquí les voy a mostrar un
+pequeño ejemplo de un código para usar capas recurrentes con
+con un data set que bueno es propio de música ahorita vamos a ver un poco los detalles por encima
+y bueno está este notebook lo estoy basando en una tarea que dice el semestre pasado con el
+doctor héctor o común y sánchez que es de la unidad de monterrey del cimat
+entonces bueno antes de empezar un display mira y chiquito no yo no sé propiamente como
+nada sobre teoría musical no sé nada nada de de notas ni de acordes cetera
+etcétera entonces lleguen aquí que se pongan winter rompiera en cualquier momento para para por aportar algo más o
+corregirme también es válido y bueno entonces digamos de forma muy general pues el
+sonido se describe propiamente por ondas no andan sino sociales
+que eso tiene que ver más con la parte de física pero las partes básicas que nosotros vamos a ocupar serían las que
+están relacionadas con el pitch o lo que propiamente es la nota eso está asociado
+con la frecuencia la frecuencia de la onda y la duración
+y la fuerza que en este caso que se denomina como la uned pero pues
+básicamente es como la amplitud no es así se puede de mapear a la amplitud de la onda que tan
+qué tan fuerte está sonando entonces
+cada frecuencia se puede asociar a una letra de manera muy arbitraria
+y esto va a representar una nota diferente y comúnmente las que se usan para
+representar las como en un formato digamos estándar serían las primeras las primeras letras del alfabeto que van
+desde la a hasta la g entonces y las convenciones que están ordenadas de menor a mayor frecuencia
+entonces la va a ser más y digamos más en temas basado a la
+derecha se hacen más graves las notas en un vocabulario más coloquial no más
+de lo que todos conocemos que nadie es muy especializado en música entonces
+bueno aquí también les puse como un poquito de
+notación eso sí los blogs que en un libro con tal cual como de notación musical porque aunque existen estas
+notas que van desde la a hasta la g hoy en día hay hay más notas no hay hay
+un total de 12 notas y las notas extras están relacionadas como con
+estas teclas negras que vemos aquí en el ejemplo como del piano oyen pienso
+podrías compartir el notebook al grupo te pasó a la lista aquí en el chat
+así que nada más corta y pega si quieres haya arreglado dice compartir como
+visores si quieres para que ellos lo puedan replicar o copiar después si quieran sí sí sí gracias
+bueno igual ahorita al término de la clase les les pasa link para que lo puedan no puedan correr sin ningún
+problema entonces bueno de manera muy muy general y estas estas teclas negras
+o estas notas negras están relacionadas como con semitonos se les dice que
+que básicamente un semitono lo que hace es como subir una nota a la siguiente o bajarla
+a la anterior entonces bueno y anotación pues digamos él
+el char que es el que lo aumenta se denota como por un signo de gato el flag
+se denota con con otro simbolito que es más como un
+asterisco etcétera etcétera entonces bueno esto solo es como por por completo digamos de lo que nos podemos encontrar
+después cuando pasemos a texto perfecto igual si alguien sabe de esto
+nos puede corregir en cualquier momento y bueno por convención
+en notación musical te dice que las notas empiezan como en mi dulce y se
+representa como un c4 y y qué es esto de medel si es básicamente
+que como podemos ver en la imagen después de cierto tiempo o sea después de ocho de ocho notas digamos completas
+de la alhaja lage se vuelven a repetir y eso ya va más más asociado también con
+aunque las mismas notas pueden sonar más más graves no o más
+más finas y dependiendo de donde las toquemos ir igual y eso tiene que ver como
+con que son periódicas las frecuencias aquí y bueno eso es como muy muy breve y
+muy escueto sobre su actuación musical nosotros como lo vamos a trabajar lo
+vamos a trabajar con una librería que se llama music tony wang aquí está el link si se le pican al halo solito
+y un insecto en igual desarrollo de haití y es una librería que básicamente trata de homologar
+a lo que es el proceso y la creación de
+archivos de música que sigan esta convención de las notas digamos estándar
+y bueno de manera muy sencilla lo más básico para trabajar con un insecto anyone es una nota y un stream entonces
+un stream es el análogo a una lista pero año exacto en igual como como tan un
+objeto de una lista de notas la ventaja de usar el stream es que el
+string ya nos deja procesar de manera muy fácil lo que sería la duración de la
+nota en qué en qué parte como de todas las notas musicales está el lunes etcétera
+etcétera no todas las propiedades ya las maneja más automáticamente si usamos me
+sitúen igual y bueno lo que le seguiría la nota en complejidad sería un acorde
+en un acordé básicamente es tocar varias notas al mismo tiempo entonces ahorita
+vamos a ver más o menos cómo se representan
+y para finalizar los archivos que vamos a estar usando son unos chivos mid y que esta es como otra otra convención
+muy aparte de insecto en igual no estoy es se usa con como tal cual en grabaciones también y el archivo midi lo
+que hace es que en vez de estar guardando la información de la onda como tal del sonido
+se guardan simplemente palabras nuevos a palabras que van relacionadas con qué instrumento se está tocando la nota que
+se tocó cuánto duró etcétera etcétera no entonces este esta convención de archivos midi pues está más pensada como
+además de ser más compacta pues se pueden hacer algo muchísimo más complejo en un archivo midi que simplemente
+guardar la grabación de la música no con tal
+cual porque aquí ya puedes decir cuántos instrumentos hay si están emparejados como temporalmente
+o no etcétera etcétera entonces bueno aquí bueno creo que se
+puso muy largo porque en la imagen
+ok entonces bueno lo primero que tenemos que hacer es propiamente cargar los
+datos los datos están en este link que está público para todos está en mi carpeta de
+cola entonces no hay problema con que lo corran y simplemente pues es un archivo zip y
+cada archivo hay muchos muchos archivos mismo
+y estas etapas en digamos está hecho con
+con récord con grabaciones digamos como muy muy clásicas como de
+y clásicas en el sentido de que son muy muy básicas no no no tenemos como la de
+debajo de chupa net cétera etcétera simplemente son algunas grabaciones de notas y esto es igual me las proporciona
+al doctor víctor las veces que vamos a usar pues son muy básicas son explicó nunca soy con el
+sector igual aquí un display para después poner un para poder escuchar las grabaciones 5 la
+y lo demás es también muy estándar no me mandas de más y bueno pay torch para
+hacer los modelos básicos entonces bueno aquí está este de aquí me
+lo encontré en un foro también que es básicamente la librería que nos deja
+poner dentro de cola y el reproductor de música para los archivos midi
+y las funciones que son para extraer las notas y demás también están basadas en lateral del perú víctor
+si se fijan es bastante simple en el sentido de que primero para sacar las notas simplemente
+le damos al directorio y les decimos dónde vamos a guardar las notas resultantes no ya como texto
+entonces lo único que hace es aquí pues dentro del midi si tenemos
+y tenemos más de un instrumento partimos todo por instrumentos y nos quedamos con el primero nada más como por convención
+si es que tenemos más de un instrumento en el en el archivo midi y si no simplemente si tenemos un solo
+instrumento pues hacemos un flat en de todas las notas
+y después para pasarlas propiamente a strings lo único que se hace es agarrar
+el pitch que sería como la nota correspondiente que puede ser a 4 a 5 g5
+gatito etcétera etcétera etcétera ahorita vamos a ver que nosotros hay
+y si es un acordé pues los acordes en esta convención están están todos seguidos por puntos entonces nos vamos a
+a poner seguidos no para decir que ahí va un acorde
+y este de pace secuencias pues básicamente simplemente es hacer como el teacher for sing para una recurrente en
+donde una vez que tenemos todas las notas que podamos tener hacemos un diccionario muy básico que va
+de una nota a una a un número entero y lo que le vamos a dar a la
+al modelo de entrada pues va a ser justamente una secuencia de notas
+y lo que tiene que producir es lo que tiene que clasificar es la siguiente nota lo que le sigue y esto se hace
+básicamente a recorriendo el índice no de una vez que tenemos todas las notas
+que tenemos 100 notas y vamos a partir en tamaño 10 pues vamos a agarrar las primeras nueve
+para entrenar y la décima parada para predecir esa sería nuestra etiqueta
+que tenemos que predecir y luego vamos recorriendo el índice nada más
+y bueno después ya nada más aquí se hacen unos cuantos shape para tenerlos
+en él
+en lo que sería como tamaño de muestras tamaño de secuencia y luego el 1 pues es
+dominó porque todos son enteros y después van a pasarse a otra dimensión
+bueno aquí los las funciones básicas para entrenar y demás las pueden secar no es nada complicado simplemente pues
+es pasarle pasarle propiamente un dato set
+y ya he hecho como data loader de peters seguir evaluando
+las notas de entrada y guardar la salida guardar la función de costo en este caso
+si no me equivoco le puse contra opinado más muy sencillo
+entonces bueno por ejemplo aquí podemos ver a las evaluaciones
+entonces la primera función lo que nos devuelve
+son las notas ya pegadas todas las notas que encontró en todos los archivos midi pegadas en un solo string a gigante que
+sería como nuestro corpus y aquí podemos verlo tenemos 57 mil y pico de notas y aquí hay varios
+ejemplos de las notas que hay no entonces por ejemplo las que tienen beyond son propiamente estas que son
+como semi semitonos y el f1 pues ya el 1 el 1 nos dice que tanto nos recorremos a
+la izquierda oa la derecha para que suene más grave o más agudo
+y si vemos el vocabulario pues no es tan grande no nada más tenemos 358 en otras diferentes
+y aquí abajito después de muestra un diccionario no como si se fijan como los acordes
+son los que van con puntos pues son los que aparecen primero entonces aquí cada cada entero del
+acorde nos dice cómo está relacionado con con la fuerza con la que va a sonar cada
+cada nota de las de las subsecuentes entonces hay hay varios acordes todos
+esos cortes bien como ya dependen mucho de que usamos para entrenar podría haber
+acordes más complicados o más fáciles y acá podemos ver como todas las notas que
+aparecieron lo tenemos desde lo más agudo hasta el 6
+luego tenemos visión de normal con otro semitono se normal la de
+etcétera etcétera etcétera y bueno aquí nada más para hacer él
+en data loader usamos un tensor de otro set que es de los más sencillos de usar
+en python y listo le ponemos le ponemos el sofá
+para que ya después con cada época que desee pueda cambiar el orden en el que ve las muestras
+y aquí podemos ver como un ejemplo de lo que le va a dar nuestro data loader al modelo serían
+128 selvas 30 sería del tamaño de secuencia que nosotros vivimos ya fijo y
+el 1 porque hasta este punto son enteros no simplemente ellas y están mapeados como el diccionario
+después los modelos que vamos a entrenar pues el modelo más fácil que podemos poner es una capa group
+y aquí no puedes no pueden hacer más más difícil no por ejemplo le pueden poner que sea bidimensional bidireccional
+perdón o hacer un stack de más capas recurrentes
+y vamos a hacer también una capa de mbe links para pasar de de
+enteros tal cual de todos los enteros que nos pueden dar como notas a una
+dimensión arbitraria eso eso también lo pueden cambiar sin ningún problema vamos
+a hacer base normalizase jon y después simplemente la capa de salida novo que en la capa de salida vamos a usar a la
+dimensión oculta de la group íbamos a sacar tantas tantas
+predicciones como notas hay en nuestro nuestro diccionario entonces es bastante bastante sencillo
+y bueno para ir un poco rápido esto lo igual lo pueden volver a evaluar y va a correr
+entonces aquí si usted monitoreando la función de pérdida pueden poner también
+las piedras y en tren si si desean pero más o menos vemos que al menos por
+intuición debería irle un poco bien no ya llegó un poco abajo de cero puntual
+en el segundo modelo lo que lo que se hizo fue poner un un vector de contexto que se va a ir
+aprendiendo eso sería muy parecido a lo que es atención global no en
+en general vamos a tener un vector de contexto que depende de la entrada que se le dé
+este vector de contexto se va a ir aprendiendo y después hacemos un soft max de todo de
+toda la secuencia de entrada para producir un solo sector ya consumo
+a pesar de de lo que vio la recurrente en todos los
+instantes de tiempo y después igual entrenamos ahorita abajo
+tengo ejemplos de que salió con cada modelo y
+el tercer modelo aquí es algo muy sencillo en el sentido de qué es
+vamos a cambiar la capa recurrente de la grúa por
+una capa de encoger del transformer del transformer original de que se
+propuso en atención y soy unit el transformer original lo pueden lo pueden hacer desde
+desde la librería de transformers como tal y trae implementaciones para pay
+tertsch y para que eras o para tensar floor y yo estoy utilizando
+la implementación que ya está en la librería como tal oficial de paterson que también
+es muy parecida a lo que te van a encontrar en la de transformers
+y lo que se tiene que hacer para usar esta de transforma después le tenemos que decir cuántas cabezas vamos a ocupar el número de la dimensión oculta
+y después cuántas capas vamos a usar de d de cada multi que la tensión si ya
+vieron un poco de transformers y no igual no es muy complicado hacer esto y
+después el transformer lo que hace es que te saca
+a la salida el mismo tamaño de secuencia y el mismo tamaño de dimensión que le metimos al inicio
+entonces lo que hice fue usar otra vez un global attention para que dé todo lo que lo que puede
+encontrar con cada cabeza y después con k tener o hacer una suma pesada al final otra vez entonces esto es igual igual
+que el anterior con un shock max a lo largo de la secuencia
+y bueno de manera general el transformer no es tan bueno o sea tiene una función
+de pérdida mucho más grande en épocas también y después para generar las secuencias
+pues no no hay nada del otro mundo simplemente hay que sacar las probabilidades con un soft max
+de la salida del modelo y ver cuál fue la que tuvo una probabilidad mayor
+entonces esto es lo que se hace acá y le podemos poner
+le puse que se pueda poner notas al azar de todo el de todo el vocabulario o
+agarrar como semilla una secuencia de las que usamos para
+entrenar y bueno después se va a crear el mid y
+esto también es directo a la tarea del doctor víctor para que todos los que son
+acordes se pasen a notas y todas por defaul van a ser de piano no siempre son
+de bien entonces bueno por ejemplo
+aquí tenemos algo generado con una semilla del tren y la capa con una sola capa gro
+bueno creo que aquí directo no se escucha tan fuerte
+igual si no se escucha muy fuerte me avisan para bueno derecho no se escucha ya que sí
+esto que seguramente porque son la videollamada ok bueno pero le pusiste también cancelar
+el sonido ah sí sí sí estoy asustado estaba jugando con ese para ver si mejor es que
+yo lo escucho muy muy bajito o sea aquí en el pero a lo mejor no se escucha porque como sea
+la videollamada le da prioridad al micrófono en versión speaks
+de hecho eso pasa cuando en beijing en la aplicación hace que todo el sonido se escuche menos
+sólo la llamada es fuerte pero si no es así
+aunque yo creo que ok bueno igual pues va a pasar el link y
+pueden pueden checar lo que se genera pero de manera muy general lo que yo les quiero comentar es que una capa de webs
+es bastante digamos no genera nada nada muy extraordinario en el sentido de
+que pues no es no son músicas muy complejas no son secuencias complejas pero pues para alguien que no sabe nada
+de música como yo no podría generar lo que genera la tribuna o sea no ni de
+broma no no no sé qué tocar para que suene así entonces se os va a pasar el notebook con acceso para que puedan
+reproducirlo igual les voy a pasarlos los modelos con los pesos salvados a por
+si los quieren mover o los quiere entrenar más de etcétera etcétera pero de manera general lo que se vio es
+bueno lo que yo vi en estas en estas [Música] en estas generaciones aleatorias es que
+aunque la capa grupo en la atención es más compleja y también después con una cabeza de transformer la que es más
+sencilla general como notas un poquito más coherentes en el sentido de que la
+que tiene atención y la que tiene la capa de transformers reciclan bastante no reciclan bastante en una de las notas
+igual lo pueden escuchar para que les pase el notebook
+creo que yo lo podría reproducir si lo hago desde mi compu
+saber
+ahorita ya están generados los audios verdad sí exacto crisis
+al ver a iván
+a ver el primero es el d
+ok el que dice bajar ese que dice índice semilla en 52
+mil 691 no no
+unos minutos
+escuchen
+escucho pero no
+nos escuchó creo que no nada tampoco
+ok este sporting está
+ok bueno
+[Música] como hizo que le tienes que dar compartir pero creo que es un bien algo
+como que compartes con todo y audio igual con brooklyn sea igual
+[Música]
+bueno precise como con clip yo creo que me va
+para pedir otras cosas tal vez pero ahí tengo que instalar una cosita
+no seas malo comparte el es el notebook este hábitat ya y que le pongan reproducir porque yo se
+lo puede escuchar lo puede abrir sin problemas ok
+para que lo abran y ahorita nos muestras el vino mientras lo vas abriendo
+entonces que es poder compartir copia la lista que te pase
+lo acabo de escuchar y creo que yo tampoco podría reproducir eso en limpiados
+entonces nada más déjenme copiarla
+déjenme copiarlos los correos evitan los espasmos tipos - con este y en compartir y pegar
+y hierro
+[Música] ya se escuchó algo
+es así se ha escuchado si se me hace que era porque ariel estaba tal vez
+compartiendo pantalla pero ese es el primero a verlo con él
+de verdad ah
+se llama no sé por qué está muy raro
+el acceso a medicinas y nos pueden abrir a ver tele clic al primero entonces
+y a los demás también ahora si vas a comentar algo final sobre
+la búsqueda sí sí sí entonces igual
+para que vean más o menos cómo se escucha pero en general lo que se puede ver es que
+una capa brush sencilla es digamos bastante decente en el sentido de que
+genera cosas cosas coherentes y yo lo podría generar
+y en general todos con semillas aleatoria empeorando como que ese ciclo no simplemente no tiene no tiene mucho
+sentido lo que se escuchan los pueden escuchar ahorita que los que los pongan
+entonces también igual con la capa de atención de cicla más pero todavía es
+como un poco lo logra logra cambiar de nota de conforme va avanzando la
+secuencia pero se cicla más cuando tiene atención y el que puse con
+con la capa encima del incoder del transformer ese tiro se recicla feo
+recicla bastante feo a que eso también puede estar de la mano con qué
+el tamaño de secuencia es pequeño nuevo son 30 entonces pues también yo esperaba que una grupo fuera
+para capaz de generar algo corriente porque la mera secuencia no es muy grande en cambio si si juegan y le ponen
+un tamaño de secuencia más grande es muy posible que entonces elenco there del transformer empieza a ganar fuerza
+porque está pensado o se pensó originalmente para secuencias bastante largas de 512 si no me equivoco es el
+es como él el que salió del paper
+y bueno aquí muy rápido pues lo que estamos haciendo para generar las
+secuencias es tomar la nota con mayor probabilidad siempre que se hace con este plus
+siempre que se recorre toda la secuencia para generar una nueva entonces una técnica para poder generar
+un poco más de variedad es el vil search en el cual tenemos
+en vez de en vez de regresar una sola secuencia podemos generar o regresar acá
+secuencias las k secuencias más probables conforme a lo que lo que se
+fue generando entonces por ejemplo aquí hay un ejemplo con letras en donde tenemos el start y vamos a usar cada
+igualados no entonces siempre queremos generar dos secuencias aquí lo que sería a bs de e
+pues sería como la probabilidad que les va a dar a todas las notas en nuestro vocabulario
+entonces en nuestro caso serían una lista de trescientos cincuenta y tantos 358 y lo que se hace es tomar las dos
+más altas las dos probabilidades más altas
+y en general lo que se hace también es sacarle el logaritmo para que en vez de tener cuando hagamos la verosimilitud en
+vez de tener multiplicadas muchas cantidades que son entre 0 y 1 tener sumas
+y logaritmos en vez de tener el producto soy recapitulando tenemos la secuencia
+original hacemos la predicción y nos quedamos con la probabilidad más grande
+hasta la can o en este caso acá es igual a 2 entonces tomamos a ese entonces ahí vamos a tener 22 ramas en donde ahora la
+secuencia de entrada es estar a tarde y volvemos otra vez a generar todas las
+las salidas posibles que aquí lo ponen como a ave pero en realidad pues aquí si
+se fijan la nota que le sigue siempre es siempre la misma no a bs de acá también a abc de hasta el final porque ésta es
+del tamaño del del vocabulario y entonces aquí otra vez
+ahora con las que nos salieron en ambas ramas te vuelven a arrancar y nos
+quedamos con las dos más las dos más altas ya como de su la probabilidad que va acumulada no que se va acumulando
+cada cara cada paso entonces puede te puede dar el caso en
+donde sea más probable seguir una sola rama no como en este caso una vez primero se genera a ese pero en la
+tercera iteración la secuencia que viene siendo más probable de es seguir por la rama a no
+entonces como quien dice matamos la rama 6 ya no lo vamos a considerar
+y seguimos con ahora sería estar ave está o no que está representado acá en
+la tercera la tercera iteración y así nos vamos pues hasta que acabemos no
+hasta que acabemos todos los todos los pasos entonces bueno aquí les puse un código
+bastante simple en este caso del bean search en donde aquí en out project yo voy a
+estar guardando en la primera lista las notas que se generaron como string
+y además la luz probabilidad que se le va a asignar
+y entonces también hay que tener como una lista del mismo tamaño pero ahora
+que sea la secuencia de entrada porque la secuencia entrada va a ir cambiando con un respecto a cada nota que
+generamos en los pasos y bueno aquí pues básicamente lo que se
+hace es esto no sea la primera iteración pues todas las
+todas las ramas van a partir de una sola entonces solo tenemos que calcular una vez el auto y las probabilidades
+después acá las ponemos a las ordenamos con los probabilidad
+y aquí voy guardando el índice porque recuerden que el modelo como tal regresa enteros no regresa
+yo regrese a texto entonces este índice nos va a servir con el diccionario para
+saber cuál nota le corresponde como a 5 a 3 etcétera etcétera
+y bueno lo que se va haciendo pues simplemente es actualizarlo y en este caso pues aquí damos el paso aquí damos
+el paso de ahora ignore a él
+el primero y ponle el que acabamos de generar hasta hasta la derecha para
+volver a hacer otro otro paso y la única diferencia entre el paso 0 y
+un paso arbitrario después de cero pues es que ahora sí tenemos que generar
+la salida del modelo pero para cada para cada una de las ramas que tenemos activas para cada uno
+de los de la secuencia de entrada que puede ir cambiando en cada paso
+entonces lo que hacemos es eso simplemente volver a repetir lo mismo ponerles una
+probabilidad como la ma
+con esto hacemos la acumulada justamente tenía como en la probabilidad de
+esta salida más lo que ya teníamos guardado en nuestro en nuestra lista global que se va a
+regresar igual el índice de la nota para poner el string y en este caso estoy
+guardando también un y que nos va a decir como de qué rama vino no porque
+puede ser que todas se vayan por una sola rama como en este ejemplo de arriba y después se vuelvan a separar después
+se vuelvan a unir etcétera etcétera entonces hay que guardar como la rama
+para que entonces en la secuencia de entrada podamos
+podemos darle la secuencia de entrada que le toca a la siguiente iteración de manera correcta
+y bueno eso igual lo pueden ver y cuando hice las [Música]
+cuando hice las secuencias demasiada variación en el sentido de que
+aquí está como las probabilidades de los primeros 3 como el top 3 de los más
+probables que puede generar pero igual no es muy complicado ver que toda la secuencia se va vaciando casi
+siempre es la misma en la misma secuencia y lo que va cambiando es al final como las las últimas
+las últimas notas entonces esto quiere decir que pues es como que como que siempre quiere seguir
+la misma rama aunque aunque hagamos las demás al momento de medir la probabilidad como
+que ya es muy es muy probable que se quede en la rama que venía antes y eso
+me pasó para los tres igual pueden pueden ver como no es muy
+necesario que escuchen las tres porque como las tres secuencias son demasiado parecidas
+sólo al final cambian pues no
+no es muy fácil o bueno para mí no es muy fácil o muy evidente ver las variaciones en realidad son muy
+parecidos los 3 porque muchas gracias me parece que si

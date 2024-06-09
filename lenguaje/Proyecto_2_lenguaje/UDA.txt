@@ -1,0 +1,338 @@
+mi nombre es iván montero y yo estoy trabajando mi tesis con el doctor adrián
+pastor con el doctor fernando sánchez y el tema como ya les mencionó el doctor
+es usar el esquema deuda es un supervise digitalmente sión para clasificación
+multimodal en este caso en este caso usamos texto de imagen
+y bueno la principal motivación para trabajar en clasificación multimodal es
+que en los últimos años ha habido un crecimiento del volumen de información
+multimodal que puede ser texto imagen audio vídeo y nosotros nos enfocamos en
+texto de imagen y también que la combinación de múltiples fuentes es de
+gran interés en la industria por ejemplo para coches de autónomos visión con drones o servicios de streaming y
+vigilancia y también que ha habido un avance reciente en el diseño de modelos
+multimodales es una área que pues está muy activa en este ahora está
+muy activa y uno de los ejemplos de servicios de streaming es con netflix
+si ustedes han visto a una misma película te muestra
+distintos pósters de película y eso lo hace pues dependiendo de la historia del
+usuario por ejemplo si tú has visto películas del género de romance y tiene
+una película quiere sugerirte entonces el póster que lo que
+va a usar va a ser una imagen que esté relacionada con el género romance y si tú has visto películas
+relacionadas al género de comedia sobre la misma película te va a mostrar una
+una imagen que está relacionada con este género
+y bueno al trabajar con los modelos multimodales pues hay varias dificultades y una de las más
+importantes es que son más propensos al sobre ajuste porque tienen el doble de
+parámetros y también que se necesita una mayor capacidad de cómputo cuando estás
+trabajando con más de una modalidad pues necesitas más memoria y el entrenamiento
+es más lento y otro de los inconvenientes también es
+que la tasa de sobre ajuste y generalización es distinta entre modalidades por ejemplo si yo me fijo en
+un entrenamiento sobre texto con ver esta línea punteada negra indica la
+época en la que el sobre ajuste está haciendo mayor que la generalización que
+tiene que tiene el modelo entonces para texto eso ocurre en la época 6 y si me fijo en
+un modelo de imagen es es con el mismo data set s sobre ajuste cuando sobre
+ajuste sobrepasa la generalización ocurre en la época 4 entonces cuando los
+pones a entrenar juntos cómo ver tiene un menor sobre ajuste y
+también tiene un entrenamiento más rápido supera la imagen entonces los
+pesos se van en una dirección que beneficia a ver y ya no le da chance la imagen
+de ayudarnos en en la tarea de clasificación entonces una de las técnicas para
+para reducir ese sobre ajuste que tienen los modelos es el entrenamiento de
+consistencia qué consiste en agregar un término de regularización a la función de pérdida y
+lo que queremos es revisar el modelo con respecto a las entradas que quiere decir
+que tienes tu entrada y le haces una pequeña modificación la salida no debe
+de estar la salida del original que la salida del dato perturbado de bienestar
+deben ser similares entonces para eso ellos diseñan la pérdida de consistencia
+lo que hace es calcular una distancia entre la distribución del dato original
+y la distribución de un dato perturbado y aquí este x gorro es una perturbación
+de la entrada original x y esa perturbación originalmente como la
+obtenían era evaluando dos veces como cuando tú haces tu entrenamiento como tienes un drop
+para la evaluación es aleatoria cuando entra x no conoces la primera
+evaluación te va a dar un resultado cuando haces una segunda evaluación por el drop out
+te va a dar un valor distinto entonces al inicio esa era la perturbación que se
+hacía al andar en realidad era una perturbación del modelo no del dato
+original y después lo que se hizo fue agregar al dato original en el espacio
+de emergenc agregarle una pequeña perturbación que podría ser un vector
+con una distribución gauss ya y aquí te estás son los parámetros del modelo
+y de es una medida de divergencia entre la distribución del dato original y del
+dato perturbado podría hacer las diferencias al cuadrado
+o la divergencia de curva creíble o cross en tropea esas son las que se han probado
+y la función objetivo final es una perdida supervisada que es el con la que
+siempre han estado trabajando donde usan las etiquetas más blanda a veces la
+pérdida de consistencia nicky landa es el parámetro de regularización que nos dice que tanto va que tanto tomemos en
+cuenta la consistencia durante el entrenamiento
+entonces ud es un caso particular del entrenamiento de consistencia
+entonces lo que ellos hicieron para perturbar la entrada original x es hacer
+un aumento de datos lo hicieron para texto y para imagen entonces
+para texto lo que hicieron fue back translation que consiste en tomar el
+texto original traducirlo a un idioma intermedio por ejemplo si el texto
+original está en inglés lo cual lo traducen al francés y luego de regreso y
+eso cambia algunas palabras pero mantiene la sintaxis de del texto
+original y también probaron nuda para imagen y para imagen lo que hicieron fue
+un ámbito que se llama run aumento que consiste en trasladar cortadas
+y bueno son son varias transformaciones entre las que les mencioné y ellos lo
+probaron independientes para cada realidad se lo probaban para una tarea de texto y para una tarea de imagen y la
+métrica de divergencia que van a la métrica que usaron fue la divergencia de
+curva creíble que es esta que está aquí y otro aspecto importante también es que
+lo usaron para tareas semi supervisadas donde tienes un conjunto de datos etiquetados es aquí la ive el data que
+es sobre el que vas a calcular la pérdida supervisada y luego tienes un
+conjunto del mismo dominio pero del que no conoces las etiquetas y de ese
+ejemplo que no conoce su etiqueta generas un aumento
+y calcular la divergencia entre las distribuciones aquí cuando tienes cuando calculas la
+distribución del dato original tiene los parámetros theta este trago rito
+porque sobre este no se va a propagar el gradiente porque lo que quieres es que
+la distribución del aumentado te parezca a la distribución del original entonces
+éste se queda fijo como una constante y solo modificamos los pesos
+en torno a este valor
+y cuál es la función del parámetro de regularización lambda cuando tenemos un
+valor de regularización muy grande y esta línea azul es
+la métrica al que estamos la que queremos mejorar en entrenamiento y la
+línea roja es en el conjunto de validación entonces cuando tenemos un valor muy grande validación y
+entrenamiento se quedan a un mismo nivel pero hay un
+sub ajuste porque no se llegó a un valor alto ni en entrenamiento ni en
+validación y cuando el valor de lambda es muy pequeño se tiene un sobreajuste
+en entrenamiento que gaste un valor muy alto casi alta arriba del 90 por ciento
+pero en validación te quedas abajo entonces lo ideal sería tener un
+equilibrio entre la generalización que tenemos aquí y la
+especialización que hay acá entonces eso lo podemos obtener
+modificando el valor de lambda de manera dinámica y en donde queremos un equilibrio entre
+la generalización y la especialización y cómo modificar ese parámetro es lo que
+hemos estado trabajando en la tesis aquí están como las ecuaciones que
+hemos utilizado pero eso ya no se lo voy a contar y estas son las preferencias
+y en alguna duda
+entendió lo que lo que es en el entrenamiento duda alguna pregunta
+comentario tenga
+[Música] en el antiguo
+y ahora les voy a mostrar el notebook con la implementación de buda
+entonces [Música] es la primera parte se configura el
+entorno de ejecución y lo que hay aquí son la instalación de las librerías que vamos a utilizar
+y las librerías donde importamos las librerías estas son
+todas las que vamos a utilizar
+y bueno y como ya les comenté este es el esquema
+de buda y la métrica de divergencia que vamos a usar es la de curva de ley beta
+que la defino aquí y aquí está esta métrica reciben los logs de el original
+y de la aumentada entonces los convierte a probabilidad ap y calcula la
+la probabilidad de p y de ccoo y después ya aplica la fórmula
+entonces este esquema aguda lo vamos a usar en el data se de moriscos que es un
+data sede de películas y la tarea que vamos a hacer es clasificación de género
+de películas entonces aquí está él el artículo donde propusieron modis com
+y donde pueden descargar el dato hacer entonces este data se detiene tres de
+géneros de películas que está esta es una actriz de concurrencia y esta es la
+distribución de los géneros y se pueden ver pues es un data sé que no está balanceada de drama se tienen muchos
+ejemplos y de animación y biografías se tienen muy pocos
+entonces para los experimentos sólo considere el 30 por ciento de este data
+set y este esto éste está en mí en mi drive
+pero está público entonces ustedes lo pueden descargar también
+y bueno ya esos bueno ya que lo descarguen les van a aparecer aquí
+es esta muestra tiene mil tres ejemplos en el conjunto de entrenamiento
+el texto se ve así por ejemplo para el dato 15 tomo la sinopsis de la película
+es una película del hombre araña y luego también el mismo dato si quiero
+el texto aumentado esta es la llave para obtener ese texto y bueno como ya les
+dije este lo obtuve haciendo va que tras lesión que fue lo
+pasé a otro idioma y fue el francés y luego de regreso al inglés entonces esos
+ejemplos ya los tienen los datos todo el data ser ya tienen los ejemplos
+aumentados y luego para la imagen
+para generar el aumento serrano aumento que son un conjunto de 14
+transformaciones como cortar a trasladar reflejado contrasta y tiene un rango
+entre 0 a 10 que es qué una transformación más fuerte pues pones
+un rango 10 y en el mismo dato se está tiene una
+idea cada elemento tiene una idea qué es el número de la imagen entonces este
+ejemplo tiene el 16 si yo quiero ver la imagen va a estar en el folder de
+hachette póster sample y es el número 6 punto jpg
+y el aumento va a estar en el folder de póster anam en shampoo igual con el
+mismo aire este es el póster original y el póster ha aumentado issste even tiene
+una pequeña traslación a la izquierda y tiene un parchecito aquí
+entonces ahora para procesar el lata se crea una clase data se para en el
+esquema de buda voy a usar tres modelos y están aquí voy a usar ver es un modelo
+para texto una recién 152 es una red convolución 'la para imagen y voy a usar
+un modelo multimodal que se llama mvt
+entonces esta misma clase la voy a usar para los tres modelos
+y esta clase recibe la ruta donde está el archivo jason punto l que contiene el texto y el
+identificador de la imagen es lo que les mostraba aquí aquí le leí este archivo
+3 ambos puntos jason y ahí tiene la sinopsis tiene el texto aumentado y
+tiene el divide la imagen entonces eso es lo que voy a leer aquí
+luego para utilizar el texto voy a usar el optimizador de bert que lo descargo
+aquí al gs son los híper parámetros el modelo
+no son la tasa de aprendizaje y el tamaño de valls luego tengo el número de clases que para
+este caso son 13 y el tamaño máximo de la secuencia de
+texto que es 512 para el modelo verde luego el modelo multimodal
+y los voy a explicar un poco más adelante como le agrego las imágenes a
+los tokens de al número máximo de tokens de texto le voy a restar los tokens de
+las imágenes y aquí estas transformaciones son las
+transformaciones que se le aplican a la imagen porque cada poste tiene un tamaño
+distinto entonces hay que hacer un rezáis hay que normalizar
+y otras transformaciones que se le hacen a la imagen entonces para obtener cada elemento de
+la sed es esta función yet ítem entonces para texto debe tener una
+ascendencia bueno los tokens de la sentencia debe tener el segmento y la máscara de
+atención y para la imagen solamente es el póster
+y los tengan que tener también en la parte aumentada estos son los
+originales y estos son los aumentados entonces voy a cargar el texto cuando
+sea el modelo ver o el modelo multimodal y aquí voy a tener los dos los ied y los
+tokens el segmento y la máscara de tensión y voy a cargar el texto
+aumentado y activo el esquema de buda y si la partición es la de entrenamiento
+porque no quiero los ejemplos aumentados en la partición de validación o de test
+y lo mismo va para cargar el poste voy a cargar el poster cuando el modelo sea el
+multimodal o el modelo que sólo recibe la imagen
+y el poste aumentado lo voy a cargar cuando está activado el esquema de buda la partición sea la de entrenamiento y
+estemos en un modelo que requiera la imagen todo lo que para el modelo multimodal
+no voy a aumentar la imagen no me voy a quedar con la imagen original aquí el póster ha aumentado es la imagen
+original está aquí sólo voy a aumentar texto en la parte en
+último dar bueno ya estas estas funciones son para
+obtener las etiquetas y frecuencias de la casete y aquí le dio como recolectar
+los datos para pasarlos a un tensor estas son las transformaciones que se le
+aplican a la imagen que es un resta es de 256 por 256 se pasa a un tensor y se
+normaliza con esta media y esta desviación estándar
+entonces voy a trabajar con tres atrás es el de entrenamiento el de validación
+y el de test y aquí le indico en dónde
+en donde están ubicados cuando descarguen el data se les va a aparecer aquí
+entonces para la configuración del entrenamiento
+con duda lo que hacemos primero pues es esta
+función que es para la reproducción de resultados para dar una semilla específica
+y luego la función de foward que va a recibir el número de época el modelo los
+híper parámetros la función de pérdida y el bache donde vienen los datos entonces
+este bache como ya les dije en la parte del data hace de la clase data se va a
+tener el texto qué son los ibis luego de tener qué tipo
+de segmento es la máscara de atención el poste y los aumentos de cada una
+cuando el modelo sea el de imagen todos estos van a ser moon pero va a
+tener un valor la imagen y la etiqueta y cuando sea el modelo sea texto
+esto sí va a tener un valor este va a ser nada y es también va a ser más
+entonces primero se te amos la pérdida de consistencia o no supervisada en cero
+y si tenemos el modelo de texto que es verde la salida para la pérdida supervisada es
+la salida del modelo con el texto original y luego si tenemos activado el esquema
+de buda y estamos en la partición de entrenamiento
+vamos a calcular la distrital distribución la probabilidad para el ejemplo aumentado y tenemos el texto
+aumentado la marca de atención aumentada y el segmento aumentado como ya les
+había dicho en el dibujo del esquema de buda
+es este de aquí cuando hacemos este cálculo no pagamos el gradiente
+este 30 gorrito significa que no se va a propagar el gradiente
+entonces para indicar eso usamos esto with torch lograr significa que sobre lo
+que hay aquí adentro no se va a propagar el gradiente que es sobre la distribución del dato original y
+calculamos la pérdida de la métrica de divergencia del del dato la distribución
+del dato original con la distribución del dato aumentado y lo mismo se va a
+hacer para el modelo de imagen y para el modelo multimodal
+y después tenemos la función de evaluación que la utilizamos cuando ya se terminó el entrenamiento de una época
+para evaluar los resultados de invalidación luego obtenemos una función para guardar
+el estado actual del modelo y luego la función de entrenamiento
+entonces esta primera parte sólo es para cargar el modelo si es que ya existía
+previamente y bueno aquí es donde empieza el
+entrenamiento hasta un número máximo de épocas
+cuando se hace un entrenamiento para cada bache cuando se termina se hace una
+evaluación del modelo este moda legal desactiva el drop out
+y se obtienen las métricas para el datos de validación
+y la métrica que nos interesa en esto en este dato es la verá su precisión que es
+aquí esté su llave y entonces para que salimos de una época
+puede ser que es el nuevo entrenamiento haya hecho que se tenga una mejora
+invalidación entonces si tuvimos una mejora en validación cuando se guarde el
+chepo en actual este estos nuevos pesos se van a guardar como si fueran el mejor modelo
+para eso nos sirve esta variable de que pregunta si hubo una mejora o no
+y cuando estamos trabajando con el esquema de vida ya esta misma está en una función la uso para entrenar el
+modelo normal y para entrenar el modelo con luz entonces si estoy entrenando al
+modelo con duda y ya no tuve una mejora después de un cierto número de épocas
+que es la paciencia entonces desactivo duda y hago un
+entrenamiento normal hasta que otra vez ya no haya una mejora o ya hayan pasado
+en un número máximo de épocas y al final se carga el mejor modelo que
+se obtuvo para el conjunto de validación
+hasta aquí hay alguna duda
+no y ya el modelo que les haya comentado que vamos a usar para texto sbert
+y aquí está el clasificador que es muy sencillo solo cargamos el modelo ver pre
+entrenado vamos a tener una capa de drop out y la
+capa final que es de clasificación que tiene como entrada el tamaño de los
+embriones de ver qué es [Música]
+738 no lo recuerdo y como salida en la mano de clases es 13
+entonces va a recibir en los tokens del texto la máscara de atención y el tipo
+de segmento que es eso se lo pasamos al haber al incoder y
+nos regresa el texto ya ya en codificado le pasamos
+una capa de drop out y el clasificador entonces para hacer el entrenamiento
+base sin el esquema deuda solo ver tenemos estos hiper parámetros aquí se
+tiene la semilla a uno para que cada vez que haga la ejecución tengan los mismos
+resultados entonces aquí le digo que el modelo es ver el tamaño de bach es 4 y el tamaño
+máximo de la secuencia va a ser de 512 aquí está el tamaño del espacio latente
+de merck es decir 768 te doy un máximo de épocas de 50 una
+paciencia de 5 que es cuántas épocas va a seguir con el entrenamiento si no hay
+una mejora esta es la tasa de aprendizaje la paciencia para la tasa de aprendizaje
+y aquí este valor que dice wood a 0 significa que no voy a usar el esquema
+deuda que es un entrenamiento normal entonces aquí cargo los data sets el de
+entrenamiento validación y test después de final modelo verde con los
+híper parámetros que te dije aquí arriba el criterio es la función de pérdida que
+es una prosa entropía binaria el optimizador y el sketch que va que éste
+nos sirve para ir reduciendo la tasa de aprendizaje durante el entrenamiento
+entonces aquí a la función de entrenamiento le paso los híper
+parámetros y le pasó el modelo verde y ya después de hacer el entrenamiento
+llegó a un a ver precisión
+macro de 71 y micro de 72
+y después hago lo mismo para el modelo ver pero ahora con el esquema de buda
+todo esto es lo mismo solo le digo que duda va a ser una creo que si usted el
+esquema de buda este coeficiente es el lambda de la presentación y le digo que va a ser 1
+entonces hago lo mismo y cuando termina el entrenamiento que es más lento cuando uso duda es un
+entrenamiento más lento que si es el entrenamiento normal
+entonces lo que obtengo aquí es 70 d
+macro y 73 de micro que es un poco más alto que usar usar solo el modelo normal
+y aquí usted solo el texto entonces ahora pruebo con un modelo que de imagen
+que es una red convolución al la red de 152 y tiene 152 capas convolución al es
+de cómodas en una pila y aquí es donde descargo ese modelo con
+esta instrucción descargo el modelo ya pre entrenado y luego ese modelo me va a regresar solo
+me quedo con la penúltima capa la anti pendiente una capa estas dos no las voy
+a ocupar y después como quiero tener en venice
+para el margen cierto número como igual con los toques de texto entonces aquí de
+aquí le digo a este parámetro de aquí es cuántos en venice quiero para la imagen
+que puede ser de 1 astaná y entonces yo puedo decirle al incoder que quiero que
+la imagen la modifique en tres vectores o en cuatro
+vectores o hasta nueve vectores y este tequila es clasificado que es lo
+mismo tiene al incoder de la imagen y tiene una capa de clasificación
+entonces otra vez algo el entrenamiento base aquí les digo que el modelo es el
+de la imagen y no voy a usar duda
+y que el alma en la dimensión de la imagen es de 2048
+y nuevamente hago el entrenamiento y obtengo 43 de macro y 51 de micro el
+modelo de imagen está por debajo del modelo de texto
+y cuando hago lo mismo ahora sí usando duda
+y obtengo 44 de macro y 53 de micro
+qué es una mejora más grande en el modelo de imagen se tiene una
+mejora más grande usando buda que en el modelo de texto
+y ya por último para el modelo multimodal que es un es un modelo ver
+mismo acuérdense que me recibe los tokens de texto sólo que le estoy añadiendo unos
+toques de imagen y los toques de imagen los obtengo con la res net tengo la
+imagen la paso por la res net de ahí y obtengo unos envidias de los pegó a los
+envíos de texto y los pasos por verte entonces para obtenerlos en verín de la
+imagen es esta clase que tenemos aquí
+entonces en esta clase hay que aprender también hay que aprender las posiciones los
+envites de posición y los envíos de token type igual que en texto entonces
+esto de aquí es la capa que tiene verde en verín es lo mismo pero adaptada para
+imagen entonces ya tenemos ahora el incoder
+multimodal que va a consistir de los emb eddings de
+ver vamos a tomarlos en vez de ver y se los vamos a pasar a los en vez de imagen
+para que los tomen como base y luego elenco there de la imagen es el
+mismo poder de la red de 152 y este es el incoder para texto que es el incoder
+de bert luego en la función de puzle es el pool er de ver que lo único que hace
+es tomar el token cls de la última capa del encore
+y tenemos una capa de clasificación entonces la función software lo que va a
+recibir va a ser los toques del texto la máscara atención el segmento
+y la imagen entonces cómo le vamos a pasar todo junto a ver esta máscara de
+atención era sólo del texto entonces hay que extenderla para agregar la imagen
+pues aquí tenemos la máscara de temps de atención extendida
+luego se codifica la imagen
+y se obtienen sus envíos para añadirlos al texto
+se obtienen los mba link del texto y se concatenan los en venice de la imagen y
+los embellece el texto una vez que ya están concatenados se pasan al incoder de werth
+y esta función de pulir me da el token cls que es el que se utiliza para
+clasificación y aquí está ya definida el clasificador
+solo es el incoder que ya definía que arriba y un cabezal de clasificación
+y bueno otra vez hacemos el entrenamiento del modelo base sin duda
+y obtenemos 71.5 de macro y 74.1 de micro si bien no hay una
+diferencia muy grande entre lo que tienen multimodal y lo que obtiene ver solo
+entonces y también hacemos lo mismo para ahora con duda
+y aquí tenemos 72.3 de macro y 74 puntos 9 de micro
+y ya bueno aquí está la tabla con los resultados si bien cuando usamos vert
+el modelo base es este y este es ahora usando duda
+y hay una mejora pequeña en el micro y es esta la métrica que nos interesa es
+esta la micro porque el láser que tenemos está muy desbalanceado
+entonces esta métrica toma en cuenta la frecuencia de cada clase entonces esta
+es la que nos interesa mejorar y si hubo una mejora del base al esquema aguda
+pero fue muy pequeña y cuando te hacemos con la imagen vemos que si hay una
+mejora más grande entre el modelo base y usar uda y luego en el modelo multimodal
+vemos también que hay una mejora de punto 8 al usar duda
+es es más grande de la que se tenía usando solo texto
+en el modelo multimodal nos ayuda un poco más usar una que usarla en ver pero
+fue mejor usando usándolo en la imagen solo en la imagen
+y así es con esta gráfica de aquí es como se ve el entrenamiento de bert la
+parte roja es en el ataque de entrenamiento y la parte azul es en el
+de validación entonces cuando no usamos el esquema de buda hay un gap muy grande
+entre entrenamiento y validación hay un sobreajuste está se especializó en el
+datarse de entrenamiento pero no generalizo bien para el data said de
+validación y cuando usamos duda pues vemos que el gap se hace más pequeña hay
+una mejor generalización
+y eso sería todo tienen alguna duda
